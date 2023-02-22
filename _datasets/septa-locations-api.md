@@ -1,0 +1,27 @@
+---
+category:
+- Transportation
+extras:
+  Area of Interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery,
+    Philadelphia counties)
+  Maintainer Link: http://www.septa.org/cs/comment/
+  Maintainer Phone: 215-580-7800
+  Usage: Public Use; Free
+license: License Not Specified
+maintainer: null
+maintainer_email: MZaleski@septa.org
+notes: "The SEPTA Locations API provides data related to SEPTA locations (bus stops,\
+  \ rail stations, SEPTA pass perks locations, trolley stops, and sales locations)\
+  \ within a certain radius of a latitude and longitude point. The API is JSONP or\
+  \ JSON compatible.\r\n<br></br>\r\nThe API takes in four parameters: latitude, longitude,\
+  \ type, and radius. A full sample is available at http://www3.septa.com/hackathon/. "
+organization: SEPTA
+resources:
+- description: ''
+  format: HTML
+  name: SEPTA Locations API Info
+  url: http://www3.septa.org/hackathon/
+schema: default
+tags: []
+title: SEPTA Locations API
+---
