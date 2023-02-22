@@ -1,0 +1,11 @@
+# python
+bin
+lib/
+lib64/
+lib64
+
+# generated files
+working_files/
+_datasets
+_organizations
+img

@@ -1,0 +1,39 @@
+---
+category:
+- Boundaries
+- Economy
+- Environment
+- Food
+- Planning / Zoning
+extras: {}
+license: Other (City of Philadelphia)
+maintainer: ligisteam@phila.gov
+maintainer_email: ligisteam@phila.gov
+notes: "Areas where vending is prohibited in the city of Philadelphia.\r\n\r\n"
+organization: City of Philadelphia
+resources:
+- description: ''
+  format: CSV
+  name: Vending Prohbitied Areas (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/ce24c5700c7b4c70bead03181934c573_0/downloads/data?format=csv&spatialRefId=4326
+- description: ''
+  format: SHP
+  name: Vending Prohibited Areas (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/ce24c5700c7b4c70bead03181934c573_0/downloads/data?format=shp&spatialRefId=4326
+- description: ''
+  format: GeoJSON
+  name: Vending Prohibited Areas (GeoJSON)
+  url: https://opendata.arcgis.com/datasets/ce24c5700c7b4c70bead03181934c573_0.geojson
+- description: ''
+  format: api
+  name: Vending Prohibited Areas (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Vending_Prohibited_Areas/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: Vending Prohibited Areas (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/55e757cb0cabb1575717e44b/representationdetails/55e7584b62595a08636c4b28/
+schema: default
+tags:
+- Department of Licenses and Inspections
+title: Vending Prohibited Areas
+---
