@@ -20,9 +20,9 @@
   "license": "MIT",
   "private": true,
   "bugs": {
-    "url": "https://github.com/timwis/jkan/issues"
+    "url": "https://github.com/azavea/opendataphilly-jkan/issues"
   },
-  "homepage": "https://github.com/timwis/jkan",
+  "homepage": "https://github.com/azavea/opendataphilly-jkan/",
   "devDependencies": {
     "core-js": "^3.29.0",
     "parcel": "^2.8.3",
