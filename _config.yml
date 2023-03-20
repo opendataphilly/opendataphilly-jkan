@@ -17,6 +17,10 @@ navigation:
     url: /organizations/
   - title: Categories
     url: /categories/
+  - title: About
+    url: /about/
+  - title: FAQ
+    url: /FAQ/
 
 # Collections
 collections:
