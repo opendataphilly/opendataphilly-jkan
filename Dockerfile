@@ -21,4 +21,5 @@ RUN bundle install
 # Add so gh-pages can detect git remotes
 RUN git config --global --add safe.directory /srv/jekyll
 
+
 CMD ["/bin/bash"]
