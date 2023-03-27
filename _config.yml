@@ -2,6 +2,7 @@ title: OpenDataPhilly
 greeting: Welcome to OpenDataPhilly
 description: An open data portal for Philadelphia, powered by JKAN.
 logo: /img/jkan.png
+hero_image: /img/homepage-hero.jpg
 
 # Site theme
 jkan_theme: Default
