@@ -13,4 +13,5 @@ that allows a small, resource-strapped government agency to stand-up an open dat
 * [Upgrading](docs/upgrading.md)
 * [Schema customization](docs/schema-customization.md)
 * [Running locally](docs/running-locally.md)
+* [Adding and editing content](docs/content.md)
 * [Architecture](docs/architecture.md)
