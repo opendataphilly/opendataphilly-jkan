@@ -29,7 +29,7 @@ layout: default
                           </h3>
                             </div>
                             <div class="card-body">
-                          {{ organization.description }}
+                          {{ organization.description | markdownify }}
                         </div>
                         <div class="view-code-link">
                           <a href="{% github_edit_link %}"  target="_blank"><i class="fa fa-code"></i> Open in GitHub</a>
