@@ -62,8 +62,7 @@ kramdown:
 
 # Google Analytics
 google_analytics:
-  enabled: false
-  code: "UA-XXXXXX-1"
+  enabled: true
 
 # US Digital Analytics Program - https://analytics.usa.gov
 digital_analytics_program:
