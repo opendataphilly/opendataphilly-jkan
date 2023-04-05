@@ -6,9 +6,7 @@ extras:
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Locations of red light cameras maintained by the Philadelphia Parking Authority.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Locations of red light cameras maintained by the Philadelphia Parking Authority."
 organization: City of Philadelphia
 resources:
 - description: ''

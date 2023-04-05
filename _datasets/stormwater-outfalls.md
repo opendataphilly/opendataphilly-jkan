@@ -8,9 +8,7 @@ maintainer_email: raymond.pierdomenico@phila.gov
 notes: "This point layer contains all the stormwater outfalls. The Purpose of this\
   \ data is to describe the asset both locationally and via its attributes which are\
   \ extensive for a GIS dataset and which are maintained. This data will serve as\
-  \ a platform for planning, analysis and research at PWD. \r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)\r\n"
+  \ a platform for planning, analysis and research at PWD.\r\n"
 organization: City of Philadelphia
 resources:
 - description: ''

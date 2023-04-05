@@ -12,9 +12,7 @@ notes: "This dataset includes the number of newly identified (incident) children
   \ the percent of children screened with BLLs \u22655 \xB5g/dL. The ZIP code data\
   \ is for 2015 and the census tract data is for 2013-2015.\r\n\r\nCell counts with\
   \ missing values are those with less than six observations, which was truncated\
-  \ to ensure confidentiality. Cells with values of zero were included.\r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ to ensure confidentiality. Cells with values of zero were included."
 organization: City of Philadelphia
 resources:
 - description: ''

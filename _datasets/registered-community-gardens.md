@@ -9,9 +9,7 @@ license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 notes: "Locations of community gardens throughout the City of Philadelphia that are\
-  \ registered with the Philadelphia Parks and Recreation's Urban Agriculture Team.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ registered with the Philadelphia Parks and Recreation's Urban Agriculture Team."
 organization: City of Philadelphia
 resources:
 - description: ''

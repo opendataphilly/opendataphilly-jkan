@@ -10,8 +10,7 @@ maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 notes: "Point location features for all PPR Program site locations. This dataset includes\
   \ recreation centers, playgrounds, older adult centers, swimming pools, and environmental\
-  \ education centers.\r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ education centers."
 organization: City of Philadelphia
 resources:
 - description: ''

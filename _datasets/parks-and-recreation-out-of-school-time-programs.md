@@ -7,9 +7,7 @@ extras:
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Philadelphia Parks and Recreation out-of-school time afterschool programs.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Philadelphia Parks and Recreation out-of-school time afterschool programs."
 organization: City of Philadelphia
 resources:
 - description: ''

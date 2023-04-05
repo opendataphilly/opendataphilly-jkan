@@ -11,8 +11,7 @@ maintainer_email: LIGISTEAM@phila.gov
 notes: "Inventory of building demolitions occurring within the City of Philadelphia.\
   \ This includes both demolitions performed by private owners/contractors and by\
   \ the Department of Licenses and Inspections due to dangerous building conditions.\
-  \ \r\n\r\nUpdated daily. \r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ \r\n\r\nUpdated daily. "
 organization: City of Philadelphia
 resources:
 - description: ''

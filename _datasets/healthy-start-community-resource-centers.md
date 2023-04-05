@@ -8,8 +8,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "Street location, hours and contact information of PDPH-affiliated HealthyStart\
-  \ Community Resource Centers.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Community Resource Centers."
 organization: City of Philadelphia
 resources:
 - description: ''

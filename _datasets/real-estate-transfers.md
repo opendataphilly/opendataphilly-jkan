@@ -22,9 +22,7 @@ notes: "The Department of Records (DOR) published data for all documents recorde
   \ We provide the CSV of All Years mostly for developers to use when coding.\r\n\
   If you are comfortable with APIs, you could also use the API links to access this\
   \ data. You can learn more about how to use the API at [Carto\u2019s SQL API site](https://carto.com/developers/sql-api/)\
-  \  and in the [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \  and in the [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
 organization: City of Philadelphia
 resources:
 - description: ''

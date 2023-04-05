@@ -6,9 +6,7 @@ extras:
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Data is from 2015 and does not currently receive any updates. \r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Data is from 2015 and does not currently receive any updates. "
 organization: City of Philadelphia
 resources:
 - description: ''

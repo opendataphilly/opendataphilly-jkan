@@ -11,9 +11,7 @@ notes: "OHCD has long supported neighborhood-based and citywide organizations of
   \ housing counseling services to low- and moderate-income people. OHCD-funded services\
   \ provided by these agencies include mortgage counseling, default and delinquency\
   \ counseling, tenant support and housing consumer education. Through these services\
-  \ prospective homeowners can avoid predatory loans, a significant cause of foreclosure.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ prospective homeowners can avoid predatory loans, a significant cause of foreclosure."
 organization: City of Philadelphia
 resources:
 - description: ''

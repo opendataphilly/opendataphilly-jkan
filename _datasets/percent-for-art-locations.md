@@ -9,8 +9,7 @@ license: Other (City of Philadelphia)
 maintainer: Dan Whaland
 maintainer_email: daniel.whaland@phila.gov
 notes: "Locations and basic information on public art that is part of the Percent\
-  \ for Art program. Updated as needed. \r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ for Art program. Updated as needed. "
 organization: City of Philadelphia
 resources:
 - description: ''

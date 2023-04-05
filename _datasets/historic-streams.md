@@ -6,8 +6,7 @@ license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 notes: "Philadelphia streams as mapped by Charles Ellet in 1842 and Previous study\
-  \ of historic streams conducted by PWD.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ of historic streams conducted by PWD."
 organization: City of Philadelphia
 resources:
 - description: ''

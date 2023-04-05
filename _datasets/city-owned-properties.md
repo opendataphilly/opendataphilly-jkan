@@ -7,8 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: PHDC
 maintainer_email: ''
 notes: "Web application displaying properties owned by the City, PHDC/RDA or other\
-  \ public entities.\r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ public entities."
 organization: City of Philadelphia
 resources:
 - description: A map of all properties in public ownership that are available. It

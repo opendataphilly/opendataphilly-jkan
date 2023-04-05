@@ -8,9 +8,7 @@ extras: {}
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
-notes: "To map streets with no through trucks in the City of Philadelphia. \r\n\r\n\
-  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "To map streets with no through trucks in the City of Philadelphia. "
 organization: City of Philadelphia
 resources:
 - description: ''

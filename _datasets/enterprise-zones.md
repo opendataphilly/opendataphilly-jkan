@@ -17,9 +17,7 @@ notes: "Please note that the enterprise zones expired in the early 2000s, theref
   \ areas with specific federal enterprise zone designation meant to attract and support\
   \ businesses in blighted areas. Blighted areas are defined as meeting one of seven\
   \ city mandated criteria, including unsafe, unsanitary and inadequate conditions;\
-  \ economically or socially undesirable land use; and faulty street and lot layout.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ economically or socially undesirable land use; and faulty street and lot layout."
 organization: City of Philadelphia
 resources:
 - description: ''

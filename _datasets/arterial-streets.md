@@ -6,8 +6,7 @@ maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
 notes: "The Arterial layer was developed to aid various city agencies with planning,\
   \ organizing, and maintaining the streets of the City of Philadelphia.  These agencies\
-  \ include PWD, PCPC, Police, BRT, Health, etc. \r\n\r\nTrouble downloading or have\
-  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ include PWD, PCPC, Police, BRT, Health, etc. "
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

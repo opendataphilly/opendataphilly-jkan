@@ -9,9 +9,7 @@ maintainer: Mike Isard
 maintainer_email: mike.isard@phila.gov
 notes: "This is a dataset that shows the Philadelphia properties with tax delinquencies,\
   \ including those that are in payment agreements. An account is delinquent when\
-  \ Real Estate Tax is still unpaid on January 1 the following year the tax was due.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Real Estate Tax is still unpaid on January 1 the following year the tax was due."
 organization: City of Philadelphia
 resources:
 - description: Updated monthly

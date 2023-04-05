@@ -13,9 +13,7 @@ maintainer_email: seth.bluestein@phila.gov
 notes: "The locations of polling places in Philadelphia, along with parking code and\
   \ building accessibility code attribute markers. Data is originally provided by\
   \ the Philadelphia City Commissioners and is continuously updated in correspondence\
-  \ with the City Commissioners website, www.philadelphiavotes.com.\r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ with the City Commissioners website, www.philadelphiavotes.com."
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -7,9 +7,7 @@ extras: {}
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
-notes: "The location of spraygrounds in Philadelphia run by Parks and Recreation.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "The location of spraygrounds in Philadelphia run by Parks and Recreation."
 organization: City of Philadelphia
 resources:
 - description: ''

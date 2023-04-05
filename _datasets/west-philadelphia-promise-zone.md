@@ -11,9 +11,7 @@ license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 notes: "Area designated by the U.S. Department of Housing and Urban Development deeming\
-  \ West Philadelphia as a Promise Zone. Click here to learn more about promise zones.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ West Philadelphia as a Promise Zone. Click here to learn more about promise zones."
 organization: City of Philadelphia
 resources:
 - description: ''

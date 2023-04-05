@@ -10,8 +10,7 @@ license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 notes: "To illustrate the outlines of the 18 Districts for Philadelphia2035 District\
-  \ Plans.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
-  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Plans."
 organization: City of Philadelphia
 resources:
 - description: ''

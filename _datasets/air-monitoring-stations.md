@@ -8,8 +8,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "Street location and types of pollutants sampled at each PDPH air monitoring\
-  \ station.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ station."
 organization: City of Philadelphia
 resources:
 - description: "Update frequency: Yearly\r\n"

@@ -7,8 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: Seth Bluestein
 maintainer_email: seth.bluestein@phila.gov
 notes: "This data reflects which Election Board Officials worked on Election Day and\
-  \ received payment for their services.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ received payment for their services."
 organization: City of Philadelphia
 resources:
 - description: ''

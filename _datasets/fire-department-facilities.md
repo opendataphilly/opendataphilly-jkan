@@ -10,8 +10,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "Locations of Philadelphia Fire Department stations. Data originates from the\
-  \ City of Philadelphia Fire Department.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ City of Philadelphia Fire Department."
 organization: City of Philadelphia
 resources:
 - description: "Update Frequency:  as needed\r\n"

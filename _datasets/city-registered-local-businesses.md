@@ -9,9 +9,7 @@ maintainer_email: ''
 notes: "The City of Philadelphia gives preference to certified local businesses through\
   \ its Local Business Entity program. This dataset provides a list of currently certified\
   \ local businesses registered with the City of Philadelphia.\r\n\r\nFor more information,\
-  \ visit:\r\nhttps://www.phila.gov/departments/procurement-department/local-preference/\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ visit:\r\nhttps://www.phila.gov/departments/procurement-department/local-preference/"
 organization: City of Philadelphia
 resources:
 - description: ''

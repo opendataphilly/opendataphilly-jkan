@@ -14,9 +14,7 @@ notes: "This represents all service and information requests since December 8th,
   \ the data.**\r\n\r\nIf you are comfortable with APIs, you can also use the API\
   \ links to access this data. You can learn more about how to use the API at [Carto\u2019\
   s SQL API site](https://carto.com/developers/sql-api/)  and in the [Carto guide\
-  \ in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
 organization: City of Philadelphia
 resources:
 - description: ''

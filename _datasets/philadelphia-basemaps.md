@@ -9,8 +9,7 @@ license: Other (City of Philadelphia)
 maintainer: maps@phila.gov
 maintainer_email: maps@phila.gov
 notes: "Basemaps of the Philadelphia area, including from the Department of Records.\
-  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
-  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  "
 organization: City of Philadelphia
 resources:
 - description: ''

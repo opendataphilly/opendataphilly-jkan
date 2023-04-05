@@ -14,9 +14,7 @@ notes: "Boundaries of wards (political units) in the City of Philadelphia. Data 
   \ developed by Philadelphia City Planning Commission. Each ward contains no fewer\
   \ than 10 and no more than 50 divisions. Ward leaders are elected by their party's\
   \ committeepeople. Learn more about Democratic Ward Leaders and Committeepeople\
-  \ : http://www.seventy.org/Resources_Ward_Leaders_and_Committeepeople.aspx\r\n\r\
-  \nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ : http://www.seventy.org/Resources_Ward_Leaders_and_Committeepeople.aspx"
 organization: City of Philadelphia
 resources:
 - description: ''

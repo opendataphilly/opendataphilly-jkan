@@ -5,9 +5,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: LIGISTEAM@phila.gov
 notes: "Locational and relevant attribute data pertaining to billboard and outdoor\
-  \ advertising locations throughout the City of Philadelphia.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ advertising locations throughout the City of Philadelphia."
 organization: City of Philadelphia
 resources:
 - description: ''

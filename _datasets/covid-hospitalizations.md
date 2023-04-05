@@ -8,8 +8,7 @@ maintainer: PublicHealthInfo@phila.gov
 maintainer_email: PublicHealthInfo@phila.gov
 notes: "***As of May 2022, these datasets moved from daily updates to weekly updates\
   \ every Monday.***\r\n\r\nA break down by census categories of the hospitalizations\
-  \ to date within the city limits.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ to date within the city limits."
 organization: City of Philadelphia
 resources:
 - description: ''

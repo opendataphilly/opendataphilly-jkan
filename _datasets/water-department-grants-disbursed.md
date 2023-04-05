@@ -20,8 +20,7 @@ notes: "Collection Process:  This data set reflects the recipients, award amount
   \ assistance to reduce their stormwater bill.\r\nIntended Audience:  It can also\
   \ be useful to community organizations interested in serving as stewards of green\
   \ infrastructure located in their area. And it can be useful to businesses impacted\
-  \ by PWD projects.\r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ by PWD projects."
 organization: City of Philadelphia
 resources:
 - description: ''

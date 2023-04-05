@@ -8,9 +8,7 @@ notes: "This layer highlights the authorized vehicle routes for the 2015 World M
   \ of Families. The routes will be held for public safety vehicles, emergency operations,\
   \ and other mission critical traffic. Regular traffic will not be permitted on the\
   \ routes. Check for updates frequently as information is subject to change. For\
-  \ a more detailed description of the event and operations: http://www.phila.gov/informationcenters/pope/.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ a more detailed description of the event and operations: http://www.phila.gov/informationcenters/pope/."
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -10,8 +10,7 @@ maintainer_email: max.steinbrenner@phila.gov
 notes: "Street lane closures for general public use. This is the master layer depicting\
   \ the Lane Closures due to permitted road work. This layer shows the type and purpose\
   \ of working being done, the effective dates of the permits issued, as well the\
-  \ status of the work.\r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ status of the work."
 organization: City of Philadelphia
 resources:
 - description: ''

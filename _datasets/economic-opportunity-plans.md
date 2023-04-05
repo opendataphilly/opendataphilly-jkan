@@ -5,8 +5,7 @@ extras:
 license: Other (City of Philadelphia)
 maintainer: Nicholas Jann
 maintainer_email: nicholas.jann@phila.gov
-notes: "Economic Opportunity Plans (EOP)\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Economic Opportunity Plans (EOP)"
 organization: City of Philadelphia
 resources:
 - description: ''

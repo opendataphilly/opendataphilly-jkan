@@ -11,9 +11,7 @@ notes: "This dataset is derived from the Neighborhood Food Retail in Philadelphi
   \ report. The [report, and accompanying online resource gallery](http://foodfitphilly.org/NeighborhoodFoodRetail/),\
   \ looks at neighborhood availability of \"high-produce supply stores\u201D (e.g.,\
   \ supermarkets, produce stores, farmers\u2019 markets) in relation to \u201Clow-produce\
-  \ supply stores\u201D (like dollar stores, pharmacies, and convenience stores).\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ supply stores\u201D (like dollar stores, pharmacies, and convenience stores)."
 organization: City of Philadelphia
 resources:
 - description: ''

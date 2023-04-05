@@ -7,8 +7,7 @@ maintainer_email: michael.matela@phila.gov
 notes: "The subsection layer was developed to aid the Highway Division in the planning,\
   \ organizing, and maintaining of the streets within each of the fifty-six sections.\
   \  Examples include: paving, snow removal, concrete maintenance, and the monitoring/repairing\
-  \ of ditches and potholes. \r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ of ditches and potholes. "
 organization: City of Philadelphia
 resources:
 - description: ''

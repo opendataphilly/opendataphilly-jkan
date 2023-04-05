@@ -6,8 +6,7 @@ license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 notes: "Point and line geometric features representing planned and completed Green\
-  \ Stormwater Infrastructure (GSI).\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Stormwater Infrastructure (GSI)."
 organization: City of Philadelphia
 resources:
 - description: ''

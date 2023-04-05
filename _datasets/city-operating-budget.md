@@ -10,9 +10,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "Proposed, adopted, and estimated operating budgets for City of Philadelphia\
-  \ government. The City's Fiscal Year begins July 1st and ends June 30th.\r\n\r\n\
-  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ government. The City's Fiscal Year begins July 1st and ends June 30th."
 organization: City of Philadelphia
 resources:
 - description: ''

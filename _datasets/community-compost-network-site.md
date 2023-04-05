@@ -6,9 +6,7 @@ extras: {}
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
-notes: "Community compost network sites located throughout the City of Philadelphia.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Community compost network sites located throughout the City of Philadelphia."
 organization: City of Philadelphia
 resources:
 - description: ''

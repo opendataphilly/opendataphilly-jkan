@@ -11,8 +11,7 @@ maintainer_email: benchmarkinghelp@phila.gov
 notes: "This dataset contains annual building and performance data for those properties\
   \ required to report. Property data is pulled from the Office of Property Assessment.\
   \ Energy and water data is self-reported by building owners using the EPA Portfolio\
-  \ Manager tool. This data will be updated annually.\r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Manager tool. This data will be updated annually."
 organization: City of Philadelphia
 resources:
 - description: Mapping and visualization application developed by the Mayor's Office

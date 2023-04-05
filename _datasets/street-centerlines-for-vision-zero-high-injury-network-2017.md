@@ -9,9 +9,7 @@ maintainer_email: ''
 notes: "This dataset contains a modified version of street centerlines used for spatial\
   \ analysis to derive the High Injury Network (HIN). This version has been arrived\
   \ at, using steps described in the methodology for High Injury Network. See the\
-  \ Metadata link for an attached PDF describing the methodology.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ Metadata link for an attached PDF describing the methodology."
 organization: City of Philadelphia
 resources:
 - description: ''

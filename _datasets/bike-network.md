@@ -14,9 +14,7 @@ license: Other (City of Philadelphia)
 maintainer: Streets Department
 maintainer_email: ''
 notes: "Line data includes the network of both streets with bike lanes and streets\
-  \ considered bicycle-friendly. Also known as the bicycle network. \r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ considered bicycle-friendly. Also known as the bicycle network. "
 organization: City of Philadelphia
 resources:
 - description: ''

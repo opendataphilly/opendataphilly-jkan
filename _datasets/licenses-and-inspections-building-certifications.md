@@ -18,9 +18,7 @@ notes: "Certain buildings in the City of Philadelphia require periodic inspectio
   \ issues or system deficiencies identified during the corresponding inspection.\
   \ This dataset contains records related to these building certifications.\r\n\r\n\
   You can find out more information about [fire protection certifications](https://www.phila.gov/departments/department-of-licenses-and-inspections/inspections/fire-protection-certifications/)\
-  \ and [maintenance inspections](https://www.phila.gov/departments/department-of-licenses-and-inspections/inspections/maintenance-inspections/).\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ and [maintenance inspections](https://www.phila.gov/departments/department-of-licenses-and-inspections/inspections/maintenance-inspections/)."
 organization: City of Philadelphia
 resources:
 - description: ''

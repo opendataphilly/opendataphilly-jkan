@@ -10,9 +10,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "This data contains the High Injury Network. It is derived using spatial data\
-  \ analysis of crash data for years 2012-2016 from Pennsylvania Department of Transportation.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ analysis of crash data for years 2012-2016 from Pennsylvania Department of Transportation."
 organization: City of Philadelphia
 resources:
 - description: Visualization and methodology for the 2020 High Injury Network.

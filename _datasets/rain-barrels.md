@@ -7,8 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 notes: "Rain Barrels installed under PWD's Rain Barrel Workshop and Installation program,\
-  \ which ran from 2006 to 2014.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ which ran from 2006 to 2014."
 organization: City of Philadelphia
 resources:
 - description: ''

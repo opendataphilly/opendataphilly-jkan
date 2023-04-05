@@ -8,9 +8,7 @@ extras: {}
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
-notes: "A listing of \"places\" and their corresponding addresses to be used for geocoding.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "A listing of \"places\" and their corresponding addresses to be used for geocoding."
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

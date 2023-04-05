@@ -6,8 +6,7 @@ license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 notes: "Rain Check is a Philadelphia Water Department program that helps residents\
-  \ manage stormwater and beautify their homes. \r\n\r\nTrouble downloading or have\
-  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ manage stormwater and beautify their homes. "
 organization: City of Philadelphia
 resources:
 - description: ''

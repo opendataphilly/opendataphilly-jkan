@@ -6,8 +6,7 @@ maintainer: ''
 maintainer_email: tim.haynes@phila.gov
 notes: "The location of properties across Philadelphia that are likely to be a vacant\
   \ lot or vacant building based on an assessment of City of Philadelphia administrative\
-  \ datasets.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ datasets."
 organization: City of Philadelphia
 resources:
 - description: ''

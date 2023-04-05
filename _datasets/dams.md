@@ -5,8 +5,7 @@ license: Other (City of Philadelphia)
 maintainer: Larry Szarek
 maintainer_email: larry.szarek@phila.gov
 notes: "This layer shows point representation of all the dams in Philadelphia with\
-  \ latitude and longitude coordinates.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ latitude and longitude coordinates."
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

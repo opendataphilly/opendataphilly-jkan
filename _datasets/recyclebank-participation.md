@@ -7,9 +7,7 @@ extras:
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Count of residents participating in the RecycleBank program by street segment.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Count of residents participating in the RecycleBank program by street segment."
 organization: City of Philadelphia
 resources:
 - description: ''

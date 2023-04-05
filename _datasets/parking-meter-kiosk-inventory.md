@@ -5,8 +5,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "Raw data dump from the PPA including meter/kiosk manufacturer and model, as\
-  \ well as status.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ well as status."
 organization: City of Philadelphia
 resources:
 - description: ''

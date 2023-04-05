@@ -5,8 +5,7 @@ license: Other (City of Philadelphia)
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 notes: "Address, date of abatement, and more for properties that have been cleaned\
-  \ and sealed by the L&I Clean & Seal Unit.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
+  \ and sealed by the L&I Clean & Seal Unit.\r\
   \n"
 organization: City of Philadelphia
 resources:

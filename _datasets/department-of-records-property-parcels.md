@@ -10,8 +10,7 @@ license: Other (City of Philadelphia)
 maintainer: Tracy Dandridge
 maintainer_email: tracy.dandridge@phila.gov
 notes: "Department of Records (DOR) Boundaries of real estate property parcels derived\
-  \ from legal recorded deed documents. \r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ from legal recorded deed documents. "
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Weekly'

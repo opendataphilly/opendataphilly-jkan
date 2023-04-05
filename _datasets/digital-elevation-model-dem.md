@@ -5,9 +5,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "A digital elevation model (DEM) is a digital model or 3D representation of\
-  \ a terrain's surface, created from terrain elevation data.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ a terrain's surface, created from terrain elevation data."
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -8,8 +8,7 @@ license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 notes: "Footprints of buildings and structures located on Philadelphia Parks and Recreation\
-  \ (PPR) properties or utilized directly by PPR.\t\r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ (PPR) properties or utilized directly by PPR.\t"
 organization: City of Philadelphia
 resources:
 - description: ''

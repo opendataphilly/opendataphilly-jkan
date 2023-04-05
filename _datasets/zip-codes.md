@@ -12,8 +12,7 @@ maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 notes: "The purpose of this dataset is to represent the Zip Code areas for the City\
   \ of Philadelphia.  The edges of Zip Codes are slightly modified for logical and\
-  \ cartographic purposes.\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ cartographic purposes."
 organization: City of Philadelphia
 resources:
 - description: ''

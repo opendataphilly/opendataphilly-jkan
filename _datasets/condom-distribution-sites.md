@@ -8,8 +8,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "Street location and hours of stores and organizations that distribute PDPH\
-  \ Freedom Condom-branded condoms.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Freedom Condom-branded condoms."
 organization: City of Philadelphia
 resources:
 - description: "Update frequency: Biannually\r\n\r\n"

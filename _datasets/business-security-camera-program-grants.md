@@ -9,8 +9,7 @@ maintainer: ''
 maintainer_email: ''
 notes: "Information regarding the number of recipients of grant monies for the Business\
   \ Security Camera Program. Used for tracking completed projects, by zip code and\
-  \ census tract and dollar value of reimbursement.\r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ census tract and dollar value of reimbursement."
 organization: City of Philadelphia
 resources:
 - description: ''
