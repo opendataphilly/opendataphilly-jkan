@@ -6,8 +6,7 @@ license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 notes: "City Council Districts (1990),\r\nCity Council Districts (2000), and\r\nCity\
-  \ Council Districts (2016)\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Council Districts (2016)"
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed '

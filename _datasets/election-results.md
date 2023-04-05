@@ -7,8 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "Data for both primary and general elections, 2002 - present.  Includes separate\
-  \ files for initial results and certified results.\r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ files for initial results and certified results."
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

@@ -6,9 +6,7 @@ license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 notes: "This layer identifies the point locations of the city owned bridges that are\
-  \ maintained by the Bridge Division of the City of Philadelphia Streets Department.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ maintained by the Bridge Division of the City of Philadelphia Streets Department."
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

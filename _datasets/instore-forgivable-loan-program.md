@@ -7,9 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "Contains information about the applicant, business, project, and costs. Used\
-  \ for tracking completed projects; including tracking amounts paid.\r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ for tracking completed projects; including tracking amounts paid."
 organization: City of Philadelphia
 resources:
 - description: ''

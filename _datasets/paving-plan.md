@@ -7,9 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
 notes: "City of Philadelphia paving plan for 2015 that displays paving project funding,\
-  \ City - Local Funding, City - Federal Funding, and State Funding.\r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)\r\n\r\n"
+  \ City - Local Funding, City - Federal Funding, and State Funding.\r\n\r\n"
 organization: City of Philadelphia
 resources:
 - description: ''

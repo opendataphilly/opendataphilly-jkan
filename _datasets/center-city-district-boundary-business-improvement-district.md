@@ -9,8 +9,7 @@ maintainer_email: publicsafetygis@phila.gov
 notes: "Center City District encompasses 120 blocks and more than 4500 individual\
   \ properties. The mission is to keep Center City clean, safe, and fun.  CCD also\
   \ makes phyiscal improvements to center city by installing and maintain lighting,\
-  \ signs, banners trees and landscape.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ signs, banners trees and landscape."
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

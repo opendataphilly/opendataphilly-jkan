@@ -11,9 +11,7 @@ maintainer: Department of Licenses and Inspections
 maintainer_email: LIGISTEAM@phila.gov
 notes: "District Boundaries for the Department of Licenses & Inspections are pre 2014.\r\
   \nDistricts Broad refers to the five districts which contain their own district\
-  \ offices and are a method the department uses to assign and analyze work.\r\n\r\
-  \nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ offices and are a method the department uses to assign and analyze work."
 organization: City of Philadelphia
 resources:
 - description: ''

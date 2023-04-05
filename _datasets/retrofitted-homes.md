@@ -6,8 +6,7 @@ extras:
 license: Other (City of Philadelphia)
 maintainer: mos@phila.gov
 maintainer_email: http://metadata.phila.gov/#home/datasetdetails/55f6dd9fb22cc14e01e7ec68/representationdetails/55f8574226c3115b5533017c/
-notes: Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly
-  Discussion Group](http://www.phila.gov/data/discuss/)
+notes: 
 organization: City of Philadelphia
 resources:
 - description: ''

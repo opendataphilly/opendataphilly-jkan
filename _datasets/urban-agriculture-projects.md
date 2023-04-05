@@ -8,8 +8,7 @@ license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 notes: "Urban agriculture projects located within Philadelphia Parks and Recreation\
-  \ sites.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
-  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ sites."
 organization: City of Philadelphia
 resources:
 - description: ''

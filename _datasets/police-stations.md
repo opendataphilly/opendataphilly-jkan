@@ -7,8 +7,7 @@ extras:
 license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
-notes: "Locations of Police Stations.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Locations of Police Stations."
 organization: City of Philadelphia
 resources:
 - description: ''

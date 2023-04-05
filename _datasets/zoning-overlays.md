@@ -6,8 +6,7 @@ license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 notes: "Boundaries of the City of Philadelphia Zoning Overlay Districts enacted December\
-  \ 15, 2011 and made effective August 22, 2012.\r\n\r\nTrouble downloading or have\
-  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ 15, 2011 and made effective August 22, 2012."
 organization: City of Philadelphia
 resources:
 - description: ''

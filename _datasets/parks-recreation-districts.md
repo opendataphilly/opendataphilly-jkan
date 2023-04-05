@@ -11,8 +11,7 @@ maintainer_email: ''
 notes: "Polygon boundaries of Philadelphia Parks and Recreation (PPR) operational\
   \ districts as established by PPR's GIS staff and reviewed, revised, and approved\
   \ by PPR's executive staff. These boundaries were revised from boundaries that were\
-  \ in place in prior years.\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ in place in prior years."
 organization: City of Philadelphia
 resources:
 - description: ''

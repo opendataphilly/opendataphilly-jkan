@@ -18,8 +18,7 @@ notes: "The Department of Licenses & Inspections reviews construction plans and 
   \ for all years.** \r\n\r\n**If you are comfortable with APIs, you can also use\
   \ the API links to access this data. You can learn more about how to use the API\
   \ at Carto\u2019s SQL API site and in the Carto guide in the section on making calls\
-  \ to the API.**\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ to the API.**"
 organization: City of Philadelphia
 resources:
 - description: ''

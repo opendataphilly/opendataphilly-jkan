@@ -10,8 +10,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "Raw text and other formats available of the City of Philadelphia Municipal\
-  \ Code and City Charter.\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Code and City Charter."
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -8,8 +8,7 @@ maintainer_email: dominick.cassise@phila.gov
 notes: "This layer was developed to aid the Traffic Division in planning, organizing,\
   \ and maintaining traffic flow within the City of Philadelphia.  Examples include:\
   \  the maintenance and placing of stop signs and signals and monitoring street travel\
-  \ direction. \r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ direction. "
 organization: City of Philadelphia
 resources:
 - description: ''

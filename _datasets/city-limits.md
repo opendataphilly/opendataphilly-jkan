@@ -12,8 +12,7 @@ maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 notes: "To provide a base for very generalized maps or used as an outline in conjunction\
   \ with other data layers.  Establishes City Limits for City's Standard Boundary\
-  \ Format. This layer was updated on July 22, 2012.\r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Format. This layer was updated on July 22, 2012."
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

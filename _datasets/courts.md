@@ -8,9 +8,7 @@ maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 notes: "Point data of all First Judicial District of PA courts. Aside from the courts\
   \ and locations, a main telephone number was added for each court. All information\
-  \ was provided by http://www.courts.phila.gov/locations.asp\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ was provided by http://www.courts.phila.gov/locations.asp"
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

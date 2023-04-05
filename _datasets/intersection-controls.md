@@ -5,9 +5,7 @@ license: Other (City of Philadelphia)
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
 notes: "This layer identifies the active intersection controls for the Street Lighting\
-  \ and Traffic Engineering Divisions of the City of Philadelphia Streets Department.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ and Traffic Engineering Divisions of the City of Philadelphia Streets Department."
 organization: City of Philadelphia
 resources:
 - description: ''

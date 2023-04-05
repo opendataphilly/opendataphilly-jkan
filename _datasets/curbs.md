@@ -11,8 +11,7 @@ maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
 notes: "This data includes curb edges with cartways and curb edges without cartways\
   \ to represent travelways within the City of Philadelphia and it aids in placement\
-  \ of street centerline.\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ of street centerline."
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Quarterly '

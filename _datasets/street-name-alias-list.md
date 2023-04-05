@@ -7,8 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 notes: "Table to display street names which have aliased street names associated with\
-  \ them.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
-  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ them."
 organization: City of Philadelphia
 resources:
 - description: ''

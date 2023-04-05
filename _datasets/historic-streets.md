@@ -6,9 +6,7 @@ extras: {}
 license: Other (City of Philadelphia)
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
-notes: "To map older streets with historical value in the City of Philadelphia.\r\n\
-  \r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "To map older streets with historical value in the City of Philadelphia."
 organization: City of Philadelphia
 resources:
 - description: ''

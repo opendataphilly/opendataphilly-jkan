@@ -9,9 +9,7 @@ maintainer: Mark Dodds
 maintainer_email: mark.dodds@phila.gov
 notes: "Data reflecting properties cleaned and greened through the LandCare program\
   \ - a joint program between the Division of Housing and Community Development (DHCD)\
-  \ and the Pennsylvania Horticultural Society (PHS).  \r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ and the Pennsylvania Horticultural Society (PHS). "
 organization: City of Philadelphia
 resources:
 - description: ''

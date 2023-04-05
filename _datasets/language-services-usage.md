@@ -7,9 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: maria.giraldo-gallo@phila.gov
 maintainer_email: maria.giraldo-gallo@phila.gov
 notes: "This dataset tracks usage of the City's language access services through contracts\
-  \ with external vendors for translation and interpretation. \r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ with external vendors for translation and interpretation."
 organization: City of Philadelphia
 resources:
 - description: ''

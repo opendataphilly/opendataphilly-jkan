@@ -11,9 +11,7 @@ extras:
 license: Other (City of Philadelphia)
 maintainer: Office of Innovation & Technology
 maintainer_email: brian.ivey@phila.gov
-notes: "Data includes aerial photography of the City of Philadelphia.\r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Data includes aerial photography of the City of Philadelphia."
 organization: City of Philadelphia
 resources:
 - description: 'NOTE: To download shapefiles from PASDA, you need to copy the Download

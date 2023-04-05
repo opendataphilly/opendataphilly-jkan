@@ -15,8 +15,7 @@ notes: "The following datasets are no longer maintained and will not receive fur
   \ pollution.\r\n*Benefit from parks, trees, stormwater management, and healthy waterways.\r\
   \n*Have access to safe, affordable, and low-carbon transportation.\r\n*Waste less\
   \ and keep our neighborhoods clean.\r\n*Benefit from sustainability education, employment,\
-  \ and business opportunities.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ and business opportunities."
 organization: City of Philadelphia
 resources:
 - description: ''

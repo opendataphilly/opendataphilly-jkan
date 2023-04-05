@@ -12,8 +12,7 @@ maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
 notes: "Street Centerline Arcs with link to legal cards, which are a collection of\
   \ cards containing the official record of the legal description and drawings of\
-  \ city streets.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ city streets."
 organization: City of Philadelphia
 resources:
 - description: ''

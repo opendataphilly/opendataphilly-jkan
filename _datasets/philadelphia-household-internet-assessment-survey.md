@@ -8,8 +8,7 @@ license: Other (City of Philadelphia)
 maintainer: Juliet Fink-Yates
 maintainer_email: juliet.fink-yates@phila.gov
 notes: "A survey assessment on home broadband and device access in the City of Philadelphia.\
-  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
-  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  "
 organization: City of Philadelphia
 resources:
 - description: ''

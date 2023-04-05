@@ -5,9 +5,7 @@ extras: {}
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Services and support available to businesses in Philadelphia. \r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Services and support available to businesses in Philadelphia. "
 organization: City of Philadelphia
 resources:
 - description: ''

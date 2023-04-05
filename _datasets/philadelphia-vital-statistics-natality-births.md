@@ -24,9 +24,7 @@ notes: "Vital Statistics tables that contain aggregate metrics on the natality (
   \ are provided at the city, planning district, and census tract levels of geography.\
   \ Please refer to the metadata links below for variable definitions and [this technical\
   \ notes document](https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/624cb0c4782b6a001ebc26f3/kn-asset/142-534-251-6279872beb52cc001e87008f/technicalnotesformetadata5.9.22.pdf)\
-  \ to access detailed technical notes about the datasets.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ to access detailed technical notes about the datasets."
 organization: City of Philadelphia
 resources:
 - description: Interactive maps and charts of vital statistics and trends in natality

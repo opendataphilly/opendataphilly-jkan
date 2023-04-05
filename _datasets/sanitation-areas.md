@@ -14,8 +14,7 @@ license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 notes: "Data includes the boundaries for city sanitation areas (which are aggregations\
-  \ of Sanitation Districts).\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ of Sanitation Districts)."
 organization: City of Philadelphia
 resources:
 - description: ''

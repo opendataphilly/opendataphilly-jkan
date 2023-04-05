@@ -9,8 +9,7 @@ maintainer_email: max.steinbrenner@phila.gov
 notes: "Rate of recycling per rubbish/recycling district in total tons of recycling\
   \ divided by the total tons of rubbish (garbage) collected during the given time\
   \ period, either fiscal year, a fiscal year through a given quarter, or within one\
-  \ quarter.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ quarter."
 organization: City of Philadelphia
 resources:
 - description: ''

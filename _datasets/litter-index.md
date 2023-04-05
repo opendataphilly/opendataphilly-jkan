@@ -9,9 +9,7 @@ license: Other (City of Philadelphia)
 maintainer: cleanphl@phila.gov
 maintainer_email: cleanphl@phila.gov
 notes: "The Litter Index is used to compare the relative cleanliness of different\
-  \ areas of the city of Philadelphia. This data will be updated annually.\r\n\r\n\
-  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ areas of the city of Philadelphia. This data will be updated annually."
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -9,8 +9,7 @@ license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 notes: "This data was developed for cartographic use -- specifically, as reference\
-  \ information for the Police Athletic League.\r\n\r\nTrouble downloading or have\
-  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ information for the Police Athletic League."
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -7,8 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: maps@phila.gov
 maintainer_email: maps@phila.gov
 notes: "An inventory of cultural landmarks found within the borders of the City of\
-  \ Philadelphia.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Philadelphia."
 organization: City of Philadelphia
 resources:
 - description: "Give feedback on and submit missing landmarks of cultural, historical\

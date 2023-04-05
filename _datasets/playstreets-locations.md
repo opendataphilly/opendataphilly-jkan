@@ -10,9 +10,7 @@ notes: "The streets (at the center of platystreet blocks) involved in the PPR Pl
   \ Program.  This program closes designated streets to traffic so that kids have\
   \ a safe place to play when school is out. A key feature of the program are the\
   \ nutritious meals and snacks provided to children. This is important during the\
-  \ summer months when school meals are not available.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ summer months when school meals are not available."
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -8,8 +8,7 @@ maintainer: Seth Bluestein
 maintainer_email: seth.bluestein@phila.gov
 notes: "Information regarding individuals who are registered to vote (aka the Qualified\
   \ Voter Registry). This data is broken down into various reports for voter, election,\
-  \ and district information.\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ and district information."
 organization: City of Philadelphia
 resources:
 - description: ''

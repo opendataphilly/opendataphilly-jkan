@@ -17,9 +17,7 @@ notes: "***As of May 2022, these datasets moved from daily updates to weekly upd
   \ missing from the data.**\r\n\r\nDeidentified, aggregate datasets showing COVID\
   \ tests by date, zip, and outcome and cases by race, age or sex.  To protect the\
   \ confidentiality of residents, PDPH suppresses the exact data for any categories\
-  \ that have less than 6 counts (i.e. of tests or fatalities).\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ that have less than 6 counts (i.e. of tests or fatalities)."
 organization: City of Philadelphia
 resources:
 - description: ''

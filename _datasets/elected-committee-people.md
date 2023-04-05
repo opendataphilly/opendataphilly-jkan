@@ -7,8 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: Seth Bluestein
 maintainer_email: seth.bluestein@phila.gov
 notes: "This data set is a list of elected Committee People by ward, division, and\
-  \ party.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
-  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ party."
 organization: City of Philadelphia
 resources:
 - description: 'Visit this site to download excel files for Democratic and Republican

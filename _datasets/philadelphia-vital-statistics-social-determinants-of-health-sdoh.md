@@ -24,8 +24,7 @@ notes: "Social determinants of health metrics at the city and planning district 
   \ and [mortality (deaths)](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-mortality-deaths)\
   \ by planning district or citywide. [Population metrics](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-population-metrics)\
   \ are provided at the city, planning district, and census tract levels of geography.\
-  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
-  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\n"
+  \r\n"
 organization: City of Philadelphia
 resources:
 - description: Interactive maps and charts of vital statistics and trends in natality

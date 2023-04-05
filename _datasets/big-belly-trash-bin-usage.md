@@ -5,8 +5,7 @@ extras:
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly
-  Discussion Group](http://www.phila.gov/data/discuss/)
+notes: 
 organization: City of Philadelphia
 resources:
 - description: ''

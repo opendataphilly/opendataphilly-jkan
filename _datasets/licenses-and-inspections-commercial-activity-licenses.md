@@ -7,9 +7,7 @@ maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 notes: "Commercial Activity Licenses are required by entities doing business in the\
   \ City of Philadelphia. Information includes license number, application date, issuance\
-  \ date, applicant information, business entity name and other related information.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ date, applicant information, business entity name and other related information."
 organization: City of Philadelphia
 resources:
 - description: ''

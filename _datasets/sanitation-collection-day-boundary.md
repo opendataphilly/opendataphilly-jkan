@@ -11,8 +11,7 @@ notes: "The data is used to determine the day of sanitation collection (rubbish 
   \ layer contain data signifying information relating it to the polygon layer. It\
   \ can tell you if both sides of the arc belong to one of the bounding polygons.\
   \  All the arcs, including those with no boundary info, have naming attributes for\
-  \ labeling the polygon borders. \r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ labeling the polygon borders. "
 organization: City of Philadelphia
 resources:
 - description: ''

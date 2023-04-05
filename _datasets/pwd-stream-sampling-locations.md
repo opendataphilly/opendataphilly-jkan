@@ -10,9 +10,7 @@ maintainer_email: raymond.pierdomenico@phila.gov
 notes: "Locations where PWD has conducted surface water quality sampling and other\
   \ types of stream assessments. Sampling activities may include water quality grab\
   \ sampling, habitat assessment, and sampling of invertebrates, fish and algae from\
-  \ wadeable streams. Not all assessment activities are performed at all sites.\r\n\
-  \r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ wadeable streams. Not all assessment activities are performed at all sites."
 organization: City of Philadelphia
 resources:
 - description: ''

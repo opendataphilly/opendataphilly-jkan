@@ -12,9 +12,7 @@ license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
 notes: "The latest air quality sensor readings managed by the Air Management Systems\
-  \ (AMS) division of the Philadelphia Department of Public Health (PDPH)\r\n\r\n\
-  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ (AMS) division of the Philadelphia Department of Public Health (PDPH)"
 organization: City of Philadelphia
 resources:
 - description: ''

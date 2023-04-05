@@ -5,9 +5,7 @@ extras: {}
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
-notes: "Federal Emergency Management Administration (FEMA) data clipped to Philadelphia.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)\r\n"
+notes: "Federal Emergency Management Administration (FEMA) data clipped to Philadelphia.\r\n"
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As released by FEMA'

@@ -16,8 +16,7 @@ notes: "This layer was developed to aid the Traffic Division in planning, organi
   \ It can tell you if both sides of the arc belong to one of the bounding polygons.\
   \  All the arcs, including those with no boundary info, have naming attributes for\
   \ labeling the polygon borders.  Contact the Streets GIS unit for public consumption\
-  \ of the corresponding arc layer.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
+  \ of the corresponding arc layer.\r\
   \n"
 organization: City of Philadelphia
 resources:

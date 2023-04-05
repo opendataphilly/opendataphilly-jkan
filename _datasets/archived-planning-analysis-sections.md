@@ -14,8 +14,7 @@ maintainer_email: brian.ivey@phila.gov
 notes: "Please note that this dataset is no longer in use by the Philadelphia City\
   \ Planning Commission and has been replaced with the [Planning Districts dataset](https://www.opendataphilly.org/dataset/planning-districts).\r\
   \n\r\nThe Planning Analysis Sections were the boundaries for the city's twelve planning\
-  \ analysis sections with attribute labels. \r\n \r\nTrouble downloading or have\
-  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ analysis sections with attribute labels."
 organization: City of Philadelphia
 resources:
 - description: 'Multiple formats available for download, including SHP. '

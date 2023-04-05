@@ -11,9 +11,7 @@ maintainer_email: darshna.patel@phila.gov
 notes: "Historic districts listed on the Philadelphia Register. Data was updated by\
   \ the Philadelphia City Planning Commission in August 2017.  The public can confirm\
   \ a property\u2019s historic status by contacting the Historical Commission at 215-686-7660.\r\
-  \n\r\nYou can also download a dataset of the [Historic sites](https://www.opendataphilly.org/dataset/philadelphia-registered-historic-sites).\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \n\r\nYou can also download a dataset of the [Historic sites](https://www.opendataphilly.org/dataset/philadelphia-registered-historic-sites)."
 organization: City of Philadelphia
 resources:
 - description: ''

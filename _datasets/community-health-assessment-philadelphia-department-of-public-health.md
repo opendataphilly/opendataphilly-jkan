@@ -16,9 +16,7 @@ notes: "The Community Health Assessment (CHA) is a systematic assessment of popu
   \ of Public Health publishes an annual report of the analyses, linked to under the\
   \ 'Related' tab. Additionally, they have released an online, interactive version\
   \ of the CHA, known as the Community Health Explorer, to make the data more accessible\
-  \ to a broader audience: http://cityofphiladelphia.github.io/community-health-explorer/\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)\r\n\r\n\r\n"
+  \ to a broader audience: http://cityofphiladelphia.github.io/community-health-explorer/\r\n\r\n\r\n"
 organization: City of Philadelphia
 resources:
 - description: 'Interactive web application to see charts and maps of the community

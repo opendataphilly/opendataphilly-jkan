@@ -14,9 +14,7 @@ notes: "A dataset of free COVID-19 testing sites. \r\n\r\n__If looking for a tes
   \ sites may:\r\n* Limit testing to people who meet certain criteria.\r\n* Require\
   \ an appointment.\r\n* Require a referral from your doctor.\r\n* Ask you to stay\
   \ in your car (for drive-thru sites).\r\n\r\nCheck a location\u2019s specific details\
-  \ on the map. Then, call or visit the provider's website before going for a test.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ on the map. Then, call or visit the provider's website before going for a test."
 organization: City of Philadelphia
 resources:
 - description: ''

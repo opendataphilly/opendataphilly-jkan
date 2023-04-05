@@ -12,9 +12,7 @@ maintainer_email: publicsafetygis@phila.gov
 notes: "There are currently 65 Police Service Areas (PSA) boundaries in Philadelphia\
   \ with two to four per District. These boundaries replaced a much smaller boundary,\
   \ Sectors in 2009. In several Districts, PSA's split Sector boundaries and therefore\
-  \ a historical comparison would not necessarily be accurate.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ a historical comparison would not necessarily be accurate."
 organization: City of Philadelphia
 resources:
 - description: ''

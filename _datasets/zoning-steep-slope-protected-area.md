@@ -7,8 +7,7 @@ maintainer: 'Darshna Patel '
 maintainer_email: darshna.patel@phila.gov
 notes: "Boundaries of the City's Steep Slope Overlay district enacted under Section\
   \ 14-704(2) of the Zoning Code of December 2011 and made effective August 22, 2012.\
-  \ See code for further details. \r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ See code for further details. "
 organization: City of Philadelphia
 resources:
 - description: ''

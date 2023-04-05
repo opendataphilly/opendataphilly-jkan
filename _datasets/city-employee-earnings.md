@@ -16,8 +16,7 @@ notes: "__This data does not necessarily represent current salaries of employees
   \ of the BASE_SALARY field does not reflect the total budgeted amount. Also, when\
   \ the BASE_SALARY column is blank, it represents part-time, temporary, or seasonal\
   \ employees paid by the hour. Please see [metadata](https://metadata.phila.gov/#home/datasetdetails/5543865520583086178c4ebd/representationdetails/604284dc49a209001d746460/?view_287_per_page=25&view_287_page=1)\
-  \ for detailed explanations of each field.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ for detailed explanations of each field."
 organization: City of Philadelphia
 resources:
 - description: A visualization of the latest  available quarter's data on City of

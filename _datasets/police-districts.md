@@ -11,9 +11,7 @@ license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 notes: "Police district boundaries. A police Captain is responsible for each district.\
-  \ Districts are subdivided into sectors. Several districts are aggregated into divisions.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Districts are subdivided into sectors. Several districts are aggregated into divisions."
 organization: City of Philadelphia
 resources:
 - description: ''

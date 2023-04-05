@@ -11,8 +11,7 @@ maintainer: ''
 maintainer_email: ''
 notes: "This dataset contains location data for both Healthy Corner and Enhanced Healthy\
   \ Corner Store. It is currently being updated. Please visit [Food Fit Philly](http://foodfitphilly.org/eat-healthy-on-a-budget/)\
-  \ for information in the interim. \r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ for information in the interim. "
 organization: City of Philadelphia
 resources:
 - description: A webpage of available resources for finding healthy food.

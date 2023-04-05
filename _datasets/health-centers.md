@@ -7,8 +7,7 @@ extras:
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "The location of primary care health centers.\r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "The location of primary care health centers."
 organization: City of Philadelphia
 resources:
 - description: "\r\n"

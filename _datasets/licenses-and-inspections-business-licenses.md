@@ -14,9 +14,7 @@ notes: "Information regarding applications for licenses required by the City to 
   \ and contractors, require a license in order to practice their trade.\r\n\r\nInformation\
   \ includes license application type, applicant, property for which the license would\
   \ be issued, application date, issue date, and expiration date. Data is accurate;\
-  \ however, it may be misinterpreted by an unfamiliar user.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ however, it may be misinterpreted by an unfamiliar user."
 organization: City of Philadelphia
 resources:
 - description: ''

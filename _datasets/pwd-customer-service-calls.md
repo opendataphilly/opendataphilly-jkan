@@ -9,8 +9,7 @@ maintainer_email: angeline.zamorski@phila.gov
 notes: "Every call received by the Customer Information Unit for issues like open\
   \ hydrants, cave ins, and more. Calls are categorized as to the type of issue at\
   \ hand. Includes outcomes of calls. Billing matters are referred to the Water Revenue\
-  \ Bureau.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Bureau."
 organization: City of Philadelphia
 resources:
 - description: ''

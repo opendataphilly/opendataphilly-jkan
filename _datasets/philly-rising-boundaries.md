@@ -13,8 +13,7 @@ maintainer_email: brian.ivey@phila.gov
 notes: "The boundaries of the four designated pilot areas included in the Philly Rising\
   \ program. Philly Rising focuses on areas with chronic quality of life concerns\
   \ and works with residents and community groups to address neighborhood issues.\
-  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
-  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  "
 organization: City of Philadelphia
 resources:
 - description: ''

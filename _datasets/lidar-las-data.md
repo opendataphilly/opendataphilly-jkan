@@ -11,8 +11,7 @@ license: Other (City of Philadelphia)
 maintainer: Office of Innovation & Technology
 maintainer_email: maps@phila.gov
 notes: "LiDAR and LAS data was gathered for the City of Philadelphia in April 2008,\
-  \ April 2010 and April 2018.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ April 2010 and April 2018."
 organization: City of Philadelphia
 resources:
 - description: ''

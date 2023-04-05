@@ -7,9 +7,7 @@ license: Other (City of Philadelphia)
 maintainer: Andy Viren
 maintainer_email: andy.viren@phila.gov
 notes: "Locations within PPR that are permittable based on PPR team. Feature designed\
-  \ to link with Permitting Application for PPR. BETA Version.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ to link with Permitting Application for PPR. BETA Version."
 organization: City of Philadelphia
 resources:
 - description: ''

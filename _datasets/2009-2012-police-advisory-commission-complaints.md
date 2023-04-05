@@ -11,9 +11,7 @@ maintainer: ''
 maintainer_email: ''
 notes: "The datasets below show information about Complaints filed with the Police\
   \ Advisory Commission against Philadelphia Police officers. The information comes\
-  \ directly from Police Advisory Commission Complaint Database. \r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ directly from Police Advisory Commission Complaint Database."
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Never'
