@@ -31,9 +31,6 @@ layout: default
                             <div class="card-body">
                           {{ organization.description | markdownify }}
                         </div>
-                        <div class="view-code-link">
-                          <a href="{% github_edit_link %}"  target="_blank"><i class="fa fa-code"></i> Open in GitHub</a>
-                        </div>
                       </div>
           </div>
       <div class="col">
@@ -42,7 +39,6 @@ layout: default
       {% endif %}
         <h1>
           <span property="dct:title">{{ page.title }}</span>
-          <a href="{{ "/editor" | relative_url }}/#/collections/datasets/entries/{{ page.slug }}" class="pull-right btn btn-outline-secondary" data-hook="edit-dataset-btn">Edit</a>
         </h1>
         <p property="dct:description" style="text-align: justify; overflow-wrap: break-word;">{{ page.notes }}</p>
 
@@ -105,6 +101,7 @@ layout: default
           {% endfor %}
 
         </table>
+        <a href="{{site.github.repository_url}}/tree/main/{{page.path}}"  target="_blank"><i class="fa fa-code"></i> Open in GitHub</a>
       </div>
     </div>
   </div>
