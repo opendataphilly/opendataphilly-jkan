@@ -40,7 +40,7 @@ layout: default
         <h1>
           <span property="dct:title">{{ page.title }}</span>
         </h1>
-        <p property="dct:description" style="text-align: justify; overflow-wrap: break-word;">{{ page.notes }}</p>
+        <p property="dct:description" style="text-align: justify; overflow-wrap: break-word;">{{ page.notes | markdownify }}</p>
 
         <h2>Resources</h2>
         <ul>
