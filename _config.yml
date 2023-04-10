@@ -8,7 +8,7 @@ hero_image: /img/homepage-hero.jpg
 jkan_theme: Default
 
 # Dataset schema
-schema: default
+schema: philadelphia
 
 # Nav bar
 navigation:
