@@ -1,0 +1,79 @@
+dataset_fields:
+  - field_name: title
+    label: Title
+    datajson: title
+  - field_name: organization
+    label: Organization
+    datajson: publisher.name
+  - field_name: notes
+    label: Description
+    datajson: description
+  - field_name: area_of_interest
+    label: Area of Interest
+  - field_name: created
+    label: Created
+    display_template: display/date.html
+  - field_name: category
+    label: Category
+    display_template: display/category.html
+    datajson: category
+  - field_name: license
+    label: License
+    datajson: license
+  - field_name: maintainer
+    label: Maintainer
+    datajson: contactPoint.fn
+  - field_name: maintainer_email
+    label: Maintainer Email
+    datajson: contactPoint.hasEmail
+  - field_name: maintainer_link
+    label: Maintainer Link
+  - field_name: maintainer_phone
+    label: Maintainer Phone
+  - field_name: opendataphilly_rating
+    label: OpenDataPhilly Rating
+  - field_name: source
+    label: Source
+  - field_name: time_period
+    label: Time Period
+  - field_name: usage
+    label: Usage
+
+resource_fields:
+  - field_name: name
+    label: Resource Name
+    datajson: distribution.title
+  - field_name: url
+    label: URL
+    datajson: distribution.downloadURL
+  - field_name: format
+    label: Format
+    datajson: distribution.format
+    values:
+      - api
+      - csv
+      - json
+      - geojson
+      - html
+      - kml
+      - kmz
+      - shp
+      - xml
+
+organization_fields:
+  - field_name: title
+    label: Title
+  - field_name: description
+    label: Description
+  - field_name: logo
+    label: Logo
+
+category_fields:
+  - field_name: name
+    label: Name
+  - field_name: logo
+    label: Logo
+  - field_name: logo_credit
+    label: Logo Credit
+  - field_name: featured
+    label: Featured on Homepage

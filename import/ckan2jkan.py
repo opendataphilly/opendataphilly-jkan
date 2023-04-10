@@ -17,7 +17,7 @@ organizations_output_dir = f"{working_files_dir}/_organizations"
 img_output_dir = f"{working_files_dir}/img"
 organization_logos_output_path = "img/organizations"
 organization_logos_output_dir = f"{working_files_dir}/{organization_logos_output_path}"
-organizations_logos_input_url = "https://www.opendataphilly.org/uploads/group"
+organizations_logos_input_url = "https://ckan.opendataphilly.org/uploads/group"
 
 
 # Copied Django's slugify from https://github.com/django/django/blob/main/django/utils/text.py
@@ -56,7 +56,12 @@ def make_resource(ckan_resource):
 def download_organization_logo(image_url):
     url = f"{organizations_logos_input_url}/{image_url}"
     try:
-        r = requests.get(url, stream=True)  # stream so image isn't downloaded to memory
+        from urllib3.exceptions import InsecureRequestWarning
+
+        requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
+        r = requests.get(
+            url, stream=True, verify=False
+        )  # stream so image isn't downloaded to memory
         if r.status_code == 200:
             with open(f"{organization_logos_output_dir}/{image_url}", "wb") as f:
                 r.raw.decode_content = True
@@ -73,20 +78,27 @@ def download_organization_logo(image_url):
 def make_dataset_frontmatter(ckan_ds):
     """Formats a CKAN dataset metadata into JKAN frontmatter for a dataset"""
     data = ckan_ds["result"]
+    extras = {extra.get("key"): extra.get("value") for extra in data.get("extras", [])}
+
     return {
+        "area_of_interest": extras.get("Area of Interest"),
+        "maintainer_link": extras.get("Maintainer Link"),
+        "maintainer_phone": extras.get("Maintainer Phone"),
+        "opendataphilly_rating": extras.get("OpenDataPhilly Rating"),
+        "time_period": extras.get("Time Period"),
+        "usage": extras.get("Usage"),
         "category": [group.get("title") for group in data.get("groups", [])],
-        "extras": {
-            extra.get("key"): extra.get("value") for extra in data.get("extras", [])
-        },
+        "created": data.get("metadata_created"),
         "license": data.get("license_title"),
         "maintainer": data.get("maintainer"),
         "maintainer_email": data.get("maintainer_email"),
         "notes": data.get("notes"),
+        "source": data.get("url"),
         "organization": data.get("organization", {}).get("title", None),
         "resources": [
             make_resource(resource) for resource in data.get("resources", [])
         ],
-        "schema": "default",
+        "schema": "philadelphia",
         "tags": [tag.get("display_name") for tag in data.get("tags", [])],
         "title": data[
             "title"
@@ -100,6 +112,8 @@ def make_organization_frontmatter(ckan_ds):
     org = data.get("organization", {})
     image_url = org.get("image_url", None)
     if download_organization_logo(image_url) is True:
+        # if download_organization_logo is successful, treat image_url as internal url
+        # otherwise, try it as an external url
         image_url = f"{organization_logos_output_path}/{image_url}"
 
     return {
