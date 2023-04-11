@@ -1,16 +1,21 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Health / Human Services
 - Parks / Recreation
 - Public Safety
-extras: {}
+created: '2022-03-02T18:33:33.321745'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Point location features for all PPR Program site locations. This dataset includes\
   \ recreation centers, playgrounds, older adult centers, swimming pools, and environmental\
-  \ education centers."
+  \ education centers.\r\n\r\nTrouble downloading or have questions about this City\
+  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,9 +38,12 @@ resources:
   format: HTML
   name: PPR Program Sites (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/61e1923f91ab020021d65679/representationdetails/61e1924091ab020021d6567d/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - PPR
 - Philadelphia Parks and Recreation
+time_period: null
 title: Parks & Recreation Program Sites
+usage: null
 ---

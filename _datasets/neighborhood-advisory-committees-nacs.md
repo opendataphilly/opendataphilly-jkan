@@ -1,14 +1,20 @@
 ---
+area_of_interest: null
 category:
 - Arts / Culture / History
 - Health / Human Services
-extras: {}
+created: '2015-11-30T20:33:33.224755'
 license: Other (City of Philadelphia)
 maintainer: Portia Egan
 maintainer_email: portia.egan@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "DHCD\u2019s Neighborhood Advisory Committee (NAC) Program offers community-based\
   \ non-profit organizations the opportunity to lead and engage neighborhood residents\
-  \ in activities that support the City\u2019s core objectives."
+  \ in activities that support the City\u2019s core objectives.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -51,9 +57,12 @@ resources:
   format: HTML
   name: NAC Service Areas (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/56537f150c82f165614f3075/representationdetails/565c9d9fd2abd2457e91e93d/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
 - Division of Housing and Community Development
+time_period: null
 title: Neighborhood Advisory Committees (NACs)
+usage: null
 ---

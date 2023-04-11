@@ -1,17 +1,23 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Food
 - Health / Human Services
-extras: {}
+created: '2019-08-26T14:11:24.194581'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "This dataset is derived from the Neighborhood Food Retail in Philadelphia\
   \ report. The [report, and accompanying online resource gallery](http://foodfitphilly.org/NeighborhoodFoodRetail/),\
   \ looks at neighborhood availability of \"high-produce supply stores\u201D (e.g.,\
   \ supermarkets, produce stores, farmers\u2019 markets) in relation to \u201Clow-produce\
-  \ supply stores\u201D (like dollar stores, pharmacies, and convenience stores)."
+  \ supply stores\u201D (like dollar stores, pharmacies, and convenience stores).\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -38,10 +44,13 @@ resources:
   format: HTML
   name: Neighborhood Food Retail (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/568d4b3c13d1bebc0c2a2b0f/representationdetails/5d4c6e160f63a20011c21727/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Access
 - Food
 - Philadelphia Department of Public Health
+time_period: null
 title: Neighborhood Food Retail
+usage: null
 ---

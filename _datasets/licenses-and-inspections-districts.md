@@ -1,17 +1,21 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
 - Economy
 - Real Estate / Land Records
-extras:
-  Department: Licenses and Inspections
-  Department Phone: 215-686-2400
+created: '2015-01-30T19:27:53.322578'
 license: Other (City of Philadelphia)
 maintainer: Department of Licenses and Inspections
 maintainer_email: LIGISTEAM@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "District Boundaries for the Department of Licenses & Inspections are pre 2014.\r\
   \nDistricts Broad refers to the five districts which contain their own district\
-  \ offices and are a method the department uses to assign and analyze work."
+  \ offices and are a method the department uses to assign and analyze work.\r\n\r\
+  \nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -54,8 +58,11 @@ resources:
   format: HTML
   name: L&I Districts (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/55676856609f65a12174370b/representationdetails/5567692969e261cf61e0d589/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
+time_period: null
 title: Licenses and Inspections Districts
+usage: null
 ---

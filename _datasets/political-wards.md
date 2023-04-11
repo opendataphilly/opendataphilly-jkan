@@ -1,20 +1,21 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Elections / Politics
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Department of Planning and Development
-  Maintainer Link: http://www.philaplanning.org/
-  Maintainer Phone: 215-683-4600
-  Usage: Public Use
+created: '2014-12-08T22:53:33.227657'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
+maintainer_link: http://www.philaplanning.org/
+maintainer_phone: 215-683-4600
 notes: "Boundaries of wards (political units) in the City of Philadelphia. Data was\
   \ developed by Philadelphia City Planning Commission. Each ward contains no fewer\
   \ than 10 and no more than 50 divisions. Ward leaders are elected by their party's\
   \ committeepeople. Learn more about Democratic Ward Leaders and Committeepeople\
-  \ : http://www.seventy.org/Resources_Ward_Leaders_and_Committeepeople.aspx"
+  \ : http://www.seventy.org/Resources_Ward_Leaders_and_Committeepeople.aspx\r\n\r\
+  \nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -37,8 +38,11 @@ resources:
   format: api
   name: Political Wards (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Political_Wards/FeatureServer/0/query?outFields=*&where=1%3D1
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Political Wards
+usage: Public Use
 ---

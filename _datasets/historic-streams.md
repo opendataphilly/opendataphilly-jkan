@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras: {}
+created: '2016-02-17T19:46:30.866683'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Philadelphia streams as mapped by Charles Ellet in 1842 and Previous study\
-  \ of historic streams conducted by PWD."
+  \ of historic streams conducted by PWD.\r\n\r\nTrouble downloading or have questions\
+  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -49,8 +54,11 @@ resources:
   format: HTML
   name: Historic Streams - Polygon (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5617d2dafbc5055b2b20f416/representationdetails/5617fea5cf9bd9e60261d92e/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Historic Streams
+usage: null
 ---

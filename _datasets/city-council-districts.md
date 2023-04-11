@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Elections / Politics
-extras: {}
+created: '2015-08-19T22:33:38.503471'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "City Council Districts (1990),\r\nCity Council Districts (2000), and\r\nCity\
-  \ Council Districts (2016)"
+  \ Council Districts (2016)\r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed '
@@ -69,8 +74,11 @@ resources:
   format: HTML
   name: City Council Districts - 1990 (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/557f30c4dcec614c29ce8b67/representationdetails/55438ad09b989a05172d0d83/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: City Council Districts
+usage: null
 ---

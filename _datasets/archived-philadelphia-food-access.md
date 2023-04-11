@@ -1,12 +1,15 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Food
 - Health / Human Services
-extras: {}
+created: '2016-01-19T21:20:31.167867'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "The datasets below have been archived and will not receive further updates,\
   \ but remain available for reference. The up-to-date and more comprehensive [Neighborhood\
   \ Food Retail data](https://www.opendataphilly.org/dataset/neighborhood-food-retail)\
@@ -14,7 +17,9 @@ notes: "The datasets below have been archived and will not receive further updat
   \ analysis using this data, please be advised that the previous methodology is vastly\
   \ different from the more recent data, so it would not make sense to compare the\
   \ two.\r\n\r\nThis dataset is derived from the Walkable Access to Healthy Foods\
-  \ in Philadelphia, 2012-2014 report analyses."
+  \ in Philadelphia, 2012-2014 report analyses.\r\n\r\nTrouble downloading or have\
+  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Archived'
@@ -57,8 +62,11 @@ resources:
   format: HTML
   name: Walkable Access to Healthy Food (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/568d4b3c13d1bebc0c2a2b0f/representationdetails/568d4b3c13d1bebc0c2a2b10/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: 'ARCHIVED: Philadelphia Food Access'
+usage: null
 ---

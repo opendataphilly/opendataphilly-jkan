@@ -1,10 +1,14 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2018-05-16T20:57:19.387125'
 license: License Not Specified
 maintainer: ''
 maintainer_email: opendata@philasd.org
+maintainer_link: null
+maintainer_phone: null
 notes: School lists, enrollment, demographics, pre-school, catchments; surveys, reopening
+opendataphilly_rating: null
 organization: School District of Philadelphia
 resources:
 - description: 2001 - 2021
@@ -57,7 +61,10 @@ resources:
   format: CSV
   name: School Selection
   url: https://www.philasd.org/performance/programsservices/open-data/school-information/#school_selection
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: School Information
+usage: null
 ---

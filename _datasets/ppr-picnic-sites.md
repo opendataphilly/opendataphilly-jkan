@@ -1,14 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Health / Human Services
 - Parks / Recreation
-extras: {}
+created: '2019-06-18T15:26:54.259554'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: Displays the locations of picnic sites located within Philadelphia Parks and
   Recreation boundaries. Picnic sites are denoted as any location with a picnic table.
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -31,8 +35,11 @@ resources:
   format: HTML
   name: Picnic Sites (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5ce320f835d1480006084e0a/representationdetails/5ce320f835d1480006084e0e/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
+time_period: null
 title: PPR Picnic Sites
+usage: null
 ---

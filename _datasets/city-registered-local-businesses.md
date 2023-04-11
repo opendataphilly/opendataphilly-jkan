@@ -1,15 +1,21 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
 - Economy
-extras: {}
+created: '2021-05-14T12:44:05.002185'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "The City of Philadelphia gives preference to certified local businesses through\
   \ its Local Business Entity program. This dataset provides a list of currently certified\
   \ local businesses registered with the City of Philadelphia.\r\n\r\nFor more information,\
-  \ visit:\r\nhttps://www.phila.gov/departments/procurement-department/local-preference/"
+  \ visit:\r\nhttps://www.phila.gov/departments/procurement-department/local-preference/\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -40,12 +46,15 @@ resources:
   format: HTML
   name: City-Registered Local Businesses (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/609bdbbeb73ca4001bcbf275/representationdetails/609bdbbfb73ca4001bcbf279/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Procurement
 - business
 - businesses
 - contracting
 - contracts
+time_period: null
 title: City-Registered Local Businesses
+usage: null
 ---

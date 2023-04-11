@@ -1,15 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Health / Human Services
-extras:
-  Department: Managing Director's Office
-  Department Phone: ''
+created: '2015-01-16T16:46:17.148739'
 license: Other (City of Philadelphia)
 maintainer: cleanphl@phila.gov
 maintainer_email: cleanphl@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The Litter Index is used to compare the relative cleanliness of different\
-  \ areas of the city of Philadelphia. This data will be updated annually."
+  \ areas of the city of Philadelphia. This data will be updated annually.\r\n\r\n\
+  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -72,8 +76,11 @@ resources:
   format: HTML
   name: Litter Index Surveys 2017-2018 (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555f812bf15fcb6c6ed44110/representationdetails/5d0d32e0656a70000b75f3a0
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Litter Index
+usage: null
 ---

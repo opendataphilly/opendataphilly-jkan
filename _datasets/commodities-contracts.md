@@ -1,18 +1,23 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
-extras:
-  Department: Procurement Department
+created: '2015-03-09T20:26:30.123356'
 license: Other (City of Philadelphia)
 maintainer: Office of Innovation & Technology
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Commodities contracts are bid and awarded by the Procurement Department, for\
   \ supplies, equipment, non-professional services, and public works.  Each data set\
   \ includes information regarding contracts that were renewed or received payment\
   \ during the given quarter.\r\n\r\nWhen you click on a file below and it opens in\
   \ a new tab, simple right click on the page, and choose 'save as.' When the save\
   \ as dialog box appears, make sure the 'save as type' is Microsoft Excel Comma Separated\
-  \ Values File. You should then be able to open in excel."
+  \ Values File. You should then be able to open in excel.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'An app to view procurement contracts.  '
@@ -59,9 +64,12 @@ resources:
   format: HTML
   name: Commodities Contract (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543865320583086178c4eb5/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Innovation and Technology
 - Procurement Department
+time_period: null
 title: Commodities Contracts
+usage: null
 ---

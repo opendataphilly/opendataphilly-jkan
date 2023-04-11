@@ -1,9 +1,12 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-05-27T17:14:26.466583'
 license: Other (City of Philadelphia)
 maintainer: LIGISTEAM@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The Department of Licenses & Inspections reviews construction plans and conducts\
   \ building inspections to ensure the safety of the workers and the public. \r\n\r\
   \n[Zoning permits](https://business.phila.gov/zoning-basics/) are issued to authorize\
@@ -18,7 +21,9 @@ notes: "The Department of Licenses & Inspections reviews construction plans and 
   \ for all years.** \r\n\r\n**If you are comfortable with APIs, you can also use\
   \ the API links to access this data. You can learn more about how to use the API\
   \ at Carto\u2019s SQL API site and in the Carto guide in the section on making calls\
-  \ to the API.**"
+  \ to the API.**\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -67,8 +72,11 @@ resources:
   format: HTML
   name: Subcontractors (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543868920583086178c4f8f/representationdetails/60ad8730d71dfb001e62efa0/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
+time_period: null
 title: Licenses and Inspections Building and Zoning Permits
+usage: null
 ---

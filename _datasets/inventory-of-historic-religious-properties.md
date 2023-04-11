@@ -1,13 +1,14 @@
 ---
+area_of_interest: null
 category:
 - Arts / Culture / History
 - Real Estate / Land Records
-extras:
-  Maintainer Phone: 215-546-1146
-  Usage: Public Use; Free
+created: '2015-01-02T23:03:27.458077'
 license: License Not Specified
 maintainer: Ben Leech
 maintainer_email: info@preservationalliance.org
+maintainer_link: null
+maintainer_phone: 215-546-1146
 notes: "Founded as William Penn's \"Holy Experiment,\" Philadelphia has a centuries-long\
   \ history of fostering and constructing prominent houses of worship throughout the\
   \ city. In recent decades, as congregations face declining membership and shifting\
@@ -26,6 +27,7 @@ notes: "Founded as William Penn's \"Holy Experiment,\" Philadelphia has a centur
   \ 1960.\r\n\r\nData elements include:  current congregation, original congregation,\
   \ address, year of construction, original architect and whether or not the build\
   \ is on the Philadelphia or National Historic Registers.\r\n"
+opendataphilly_rating: null
 organization: Preservation Alliance for Greater Philadelphia
 resources:
 - description: searchable online database with downloads of search results available
@@ -37,7 +39,10 @@ resources:
   format: PDF
   name: Summary Report - Inventory of Historic Religious Properties
   url: http://www.preservationalliance.com/wp-content/uploads/2014/09/IHRPP_Lester.pdf
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: Inventory of Historic Religious Properties
+usage: Public Use; Free
 ---

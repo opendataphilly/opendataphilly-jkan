@@ -1,17 +1,23 @@
 ---
+area_of_interest: null
 category:
 - Arts / Culture / History
 - Parks / Recreation
 - Planning / Zoning
 - Real Estate / Land Records
-extras: {}
+created: '2017-08-16T14:02:49.016879'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Historic districts listed on the Philadelphia Register. Data was updated by\
   \ the Philadelphia City Planning Commission in August 2017.  The public can confirm\
   \ a property\u2019s historic status by contacting the Historical Commission at 215-686-7660.\r\
-  \n\r\nYou can also download a dataset of the [Historic sites](https://www.opendataphilly.org/dataset/philadelphia-registered-historic-sites)."
+  \n\r\nYou can also download a dataset of the [Historic sites](https://www.opendataphilly.org/dataset/philadelphia-registered-historic-sites).\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -34,9 +40,12 @@ resources:
   format: HTML
   name: Philadelphia Registered Historic Districts (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5953c707a00b875468083217/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
 - Historical Commission
+time_period: null
 title: Philadelphia Registered Historic Districts
+usage: null
 ---

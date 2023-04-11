@@ -1,13 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Transportation
-extras: {}
+created: '2015-02-05T18:41:01.871763'
 license: License Not Specified
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: Reported crashes in the city of Philadelphia from 2008-2012. Original data
   source is  PennDOT, the data was geocoded and flag table merged with crash locations
   to provide a more complete dataset with incident information.
+opendataphilly_rating: null
 organization: Azavea
 resources:
 - description: "# Philadelphia Crashes - 2012\r\n\r\n### Description  \r\n\r\nCrash\
@@ -70,8 +74,11 @@ resources:
   format: CSV
   name: 2008 CSV
   url: https://raw.githubusercontent.com/dmcglone/philly-crash-data/master/data/2008/all_crashes_2008.csv
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - transportation
+time_period: null
 title: Philadelphia Crash Points
+usage: null
 ---

@@ -1,9 +1,12 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2018-03-25T22:50:41.004949'
 license: Other (Public Domain)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Late last year, the City of Philadelphia began posting online certain data\
   \ about civilian complaints against the Philadelphia Police Department. The City\
   \ will only make these data available on a five-year rolling basis, however. The\
@@ -18,6 +21,7 @@ notes: "Late last year, the City of Philadelphia began posting online certain da
   \ words, the file labeled \"Complaints Against Police March 2018 Data\" was uploaded\
   \ by the City in March 2018 before being replaced the next month.\r\n\r\nThe original\
   \ data are available here: https://www.opendataphilly.org/dataset/police-complaints"
+opendataphilly_rating: null
 organization: Philly Declaration
 resources:
 - description: 'The data on complaints against police uploaded in March 2018. This
@@ -61,9 +65,12 @@ resources:
   format: CSV
   name: Corrected CAP Complainants July 2018 Data
   url: https://github.com/PhillyDeclaration/Philadelphia-Police-Accountability-Project/blob/master/ppd_complaint_complainants_7-18_corrected.csv
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Civilian Complaints
 - Police
+time_period: null
 title: Philadelphia Police Complaint Archive
+usage: null
 ---

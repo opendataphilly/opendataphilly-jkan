@@ -1,13 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Health / Human Services
 - Parks / Recreation
-extras: {}
+created: '2020-01-29T21:11:25.970210'
 license: Other (City of Philadelphia)
 maintainer: Andy Viren
 maintainer_email: andy.viren@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Locations within PPR that are permittable based on PPR team. Feature designed\
-  \ to link with Permitting Application for PPR. BETA Version."
+  \ to link with Permitting Application for PPR. BETA Version.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,8 +36,11 @@ resources:
   format: HTML
   name: PPR Permittable Space (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5deac59f9dd3b9001b3ce4ed/representationdetails/5deac5a09dd3b9001b3ce4f3/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
+time_period: null
 title: PPR Permittable Space
+usage: null
 ---

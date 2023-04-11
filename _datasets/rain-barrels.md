@@ -1,13 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras:
-  Department: Water Department
+created: '2015-09-14T18:29:03.311187'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Rain Barrels installed under PWD's Rain Barrel Workshop and Installation program,\
-  \ which ran from 2006 to 2014."
+  \ which ran from 2006 to 2014.\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,8 +34,11 @@ resources:
   format: HTML
   name: Rain Barrels (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543866120583086178c4eeb/representationdetails/561804f9f061d8707502e475/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Rain Barrels
+usage: null
 ---

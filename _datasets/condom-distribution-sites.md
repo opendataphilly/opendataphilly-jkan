@@ -1,14 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Health / Human Services
-extras:
-  Department: Public Health
-  Department Phone: 215-686-5259
+created: '2015-04-24T13:50:17.907822'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Street location and hours of stores and organizations that distribute PDPH\
-  \ Freedom Condom-branded condoms."
+  \ Freedom Condom-branded condoms.\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: "Update frequency: Biannually\r\n\r\n"
@@ -31,8 +34,11 @@ resources:
   format: HTML
   name: Condom Distribution Sites (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555a509d0ae7565761d9578b/representationdetails/555cdd12d63b640a048a08cc/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: Condom Distribution Sites
+usage: null
 ---

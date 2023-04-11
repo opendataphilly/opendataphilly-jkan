@@ -1,13 +1,18 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-06-09T07:36:48.532024'
 license: Other (City of Philadelphia)
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The subsection layer was developed to aid the Highway Division in the planning,\
   \ organizing, and maintaining of the streets within each of the fifty-six sections.\
   \  Examples include: paving, snow removal, concrete maintenance, and the monitoring/repairing\
-  \ of ditches and potholes. "
+  \ of ditches and potholes. \r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -50,8 +55,11 @@ resources:
   format: ''
   name: Highway Subsections - Line (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8128f15fcb6c6ed44103/representationdetails/5571b1b2e4fb1d91393c2136/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Highway Subsections
+usage: null
 ---

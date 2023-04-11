@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Public Safety
-extras:
-  Usage: Public Use; Free
+created: '2014-12-08T22:17:19.277559'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Locations of red light cameras maintained by the Philadelphia Parking Authority."
+maintainer_link: null
+maintainer_phone: null
+notes: "Locations of red light cameras maintained by the Philadelphia Parking Authority.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -21,7 +26,10 @@ resources:
   format: HTML
   name: Red Light Camera Metadata
   url: http://metadata.phila.gov/#home/datasetdetails/5543864a20583086178c4e8d/representationdetails/55438a8b9b989a05172d0d0d/
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: Red Light Cameras
+usage: Public Use; Free
 ---

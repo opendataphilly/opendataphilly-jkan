@@ -1,16 +1,22 @@
 ---
+area_of_interest: null
 category:
 - Education
 - Health / Human Services
-extras: {}
+created: '2020-01-29T21:23:49.283594'
 license: Other (City of Philadelphia)
 maintainer: Annaka Scheeres
 maintainer_email: annaka.scheeres@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Tobacco-free school zones included in the tobacco retailing regulations. This\
   \ part of the regulation prohibits new tobacco retailer permits within 500 feet\
   \ of any K-12 school property parcel. [For more information visit](http://www.phila.gov/health/Commissioner/regulationtobaccoretailing.html)\r\
   \n\r\nRelated datasets include the [Tobacco Retailers Permits](https://www.opendataphilly.org/dataset/tobacco-retailer-permits)\
-  \ and [Tobacco Youth Sales Violations](https://www.opendataphilly.org/dataset/tobacco-youth-sales-violations)."
+  \ and [Tobacco Youth Sales Violations](https://www.opendataphilly.org/dataset/tobacco-youth-sales-violations).\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -53,12 +59,15 @@ resources:
   format: HTML
   name: Tobacco-Free School Zone Parcels (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5859abdf8e8fe29d46ac503c/representationdetails/5859ac307870b993467f4c91/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - PDPH
 - Philadelphia Department of Public Health
 - Schools
 - Smoking
 - Tobacco
+time_period: null
 title: Tobacco-Free School Zones
+usage: null
 ---

@@ -1,14 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
-extras: {}
+created: '2015-06-09T08:14:26.747951'
 license: Other (City of Philadelphia)
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This layer was developed to aid the Surveys Division in planning, modifying\
   \ and referencing the streets within a city plan of the City of Philadelphia.  Examples\
   \ include:  building new streets, modifying existing streets, or observing current\
-  \ streets."
+  \ streets.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -31,8 +36,11 @@ resources:
   format: api
   name: City Plan Boundary (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/City_Plan_Boundary/FeatureServer/0/query?outFields=*&where=1%3D1
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: City Plan Boundary
+usage: null
 ---

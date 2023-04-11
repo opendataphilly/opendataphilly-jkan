@@ -1,9 +1,12 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2018-06-08T17:37:22.164681'
 license: License Not Specified
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "\u2022 Actual Performance files: calculated using actual student performance\
   \ levels.\r\n\u2022 Accountability Performance files: calculated using the student\
   \ performance levels used for accountability reporting purposes, which are revised\
@@ -14,6 +17,7 @@ notes: "\u2022 Actual Performance files: calculated using actual student perform
   \ up the Keystone end-of-course assessments. Results are reported for All Students,\
   \ and are also broken down by Gender, Ethnicity, English Language Learner (ELL)\
   \ status, Special Education (IEP) status, and Economically Disadvantaged status."
+opendataphilly_rating: null
 organization: School District of Philadelphia
 resources:
 - description: ''
@@ -52,8 +56,11 @@ resources:
   format: ZIP
   name: All Available Years
   url: https://cdn.philasd.org/offices/performance/Open_Data/School_Performance/PSSA_Keystone/PSSA_Keystone_All_Years.zip
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - education
+time_period: null
 title: PSSA & Keystone Performance
+usage: null
 ---

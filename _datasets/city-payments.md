@@ -1,4 +1,5 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
 - Economy
@@ -12,10 +13,12 @@ category:
 - Public Safety
 - Real Estate / Land Records
 - Transportation
-extras: {}
+created: '2019-03-13T21:17:04.722160'
 license: Other (City of Philadelphia)
 maintainer: Catherine Lamb
 maintainer_email: catherine.lamb@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This dataset includes checks and ACH (direct deposit) payments made by the\
   \ City during the fiscal year, which runs from July 1st 2016 through June 31st 2017.\r\
   \n\r\nPlease see [full metadata](http://metadata.phila.gov/#home/datasetdetails/5c4243d6a074de085a899716/)\
@@ -26,6 +29,7 @@ notes: "This dataset includes checks and ACH (direct deposit) payments made by t
   \ and benefits data or payments the City makes to fund the operations of the First\
   \ Judicial District.\r\n- Vendors should use the [vendor payment website](https://secure.phila.gov/finance/vendorpayments/),\
   \ not this dataset, to track payments."
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: A data visualization of the City of Philadelphia's FY2017 payments.
@@ -87,10 +91,13 @@ resources:
   format: HTML
   name: FY 2017 Aggregated City Payments (Metadata)
   url: http://metadata.phila.gov/index.html#home/datasetdetails/5c4243d6a074de085a899716/representationdetails/5c42446833d76c0858f4cd57/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - expenditures
 - payments
 - spending
+time_period: null
 title: City Payments
+usage: null
 ---

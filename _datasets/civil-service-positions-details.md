@@ -1,14 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
 - Economy
-extras: {}
+created: '2022-08-25T20:45:42.646502'
 license: Other (City of Philadelphia)
 maintainer: Jerome Lomax
 maintainer_email: jerome.lomax@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "These datasets show job classification and pay ranges details about Civil\
   \ Service positions approved by the Civil Service commission and Administrative\
-  \ board."
+  \ board.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
+  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -37,7 +42,10 @@ resources:
   format: HTML
   name: Pay Ranges (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/62fe7bbd4fc5860021be5c87/representationdetails/630651053330120025907856/
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: Civil Service Positions Details
+usage: null
 ---

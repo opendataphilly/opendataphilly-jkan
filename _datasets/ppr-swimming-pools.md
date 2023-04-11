@@ -1,13 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Parks / Recreation
 - Planning / Zoning
-extras: {}
+created: '2019-08-26T18:31:03.560839'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
-notes: "The location of swimming pools in Philadelphia run by Parks and Recreation."
+maintainer_link: null
+maintainer_phone: null
+notes: "The location of swimming pools in Philadelphia run by Parks and Recreation.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,8 +36,11 @@ resources:
   format: Metadata
   name: PPR Swimming Pools (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5d35e6b36d677c001141e1f3/representationdetails/5d35e6b46d677c001141e1f7/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
+time_period: null
 title: PPR Swimming Pools
+usage: null
 ---

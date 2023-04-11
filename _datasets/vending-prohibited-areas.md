@@ -1,15 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
 - Economy
 - Environment
 - Food
 - Planning / Zoning
-extras: {}
+created: '2015-09-02T19:46:51.028464'
 license: Other (City of Philadelphia)
 maintainer: ligisteam@phila.gov
 maintainer_email: ligisteam@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Areas where vending is prohibited in the city of Philadelphia.\r\n\r\n"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -32,8 +36,11 @@ resources:
   format: HTML
   name: Vending Prohibited Areas (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/55e757cb0cabb1575717e44b/representationdetails/55e7584b62595a08636c4b28/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
+time_period: null
 title: Vending Prohibited Areas
+usage: null
 ---

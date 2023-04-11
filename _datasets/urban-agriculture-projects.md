@@ -1,14 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Food
 - Parks / Recreation
-extras: {}
+created: '2021-11-17T14:32:56.641423'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Urban agriculture projects located within Philadelphia Parks and Recreation\
-  \ sites."
+  \ sites.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
+  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -31,8 +36,11 @@ resources:
   format: HTML
   name: Urban Agriculture Projects (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/6176ecc6ddaefc00212c9124/representationdetails/6176ecc6ddaefc00212c9128/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Parks and Recreation
+time_period: null
 title: Urban Agriculture Projects
+usage: null
 ---

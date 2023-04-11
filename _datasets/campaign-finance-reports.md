@@ -1,14 +1,13 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Elections / Politics
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Records Department
-  Department Phone: 215-686-2260
-  Maintainer Link: http://www.phila.gov/records/campaignfinance/CampaignFinance.html
+created: '2014-12-08T22:51:34.264504'
 license: Other (City of Philadelphia)
 maintainer: bryan.mchale@phila.gov
 maintainer_email: bryan.mchale@phila.gov
+maintainer_link: http://www.phila.gov/records/campaignfinance/CampaignFinance.html
+maintainer_phone: null
 notes: "Campaign finance reports from 2019 to the present: The tables below show different\
   \ cuts of the campaign finance reports data related to Philadelphia elections provided\
   \ by filers (including candidates and political committees) about their contributions,\
@@ -17,7 +16,10 @@ notes: "Campaign finance reports from 2019 to the present: The tables below show
   \ to learn how to navigate the dashboard, or read the [technical document](https://docs.google.com/document/d/1VzeY_HJOATS17pE4639OZq0fhrF7Jppps-Mc3dZhDqY/edit?usp=sharing)\
   \ to understand how we compiled the data and dashboard. \r\n\r\nIf you want to use\
   \ the raw, unfiltered data, please visit the [searchable database](https://apps.phila.gov/search/all).\
-  \ Filers can submit reports on via the [campaign finance filing system](https://apps.phila.gov/auth)."
+  \ Filers can submit reports on via the [campaign finance filing system](https://apps.phila.gov/auth).\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -172,12 +174,15 @@ resources:
   format: HTML
   name: 2005-2012 Campaign Finance Records (Metadata)
   url: https://github.com/CityOfPhiladelphia/phl-campaign-finance-data/blob/master/README.md
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Board of Ethics
 - Campaign Finance
 - Candidates
 - Department of Records
 - Elections
+time_period: null
 title: Campaign Finance Reports
+usage: null
 ---

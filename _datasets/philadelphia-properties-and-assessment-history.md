@@ -1,11 +1,13 @@
 ---
+area_of_interest: null
 category:
 - Real Estate / Land Records
-extras:
-  Department: Office of Property Assessment
+created: '2015-08-21T15:39:23.714944'
 license: Other (City of Philadelphia)
 maintainer: opadata@phila.gov
 maintainer_email: opadata@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "***OPA is currently updating its data files. Some of the information in the\
   \ open data files below may not yet reflect the data used to calculate the tax year\
   \ 2023 property value.***\r\n\r\nProperty characteristic and assessment history\
@@ -13,7 +15,9 @@ notes: "***OPA is currently updating its data files. Some of the information in 
   \ more information on [how OPA assesses property and their reports](https://www.phila.gov/departments/office-of-property-assessment/resources/)\
   \ on the quality of assessments. \r\n\r\n***This data updates nightly. Please ignore\
   \ the 'created by' date below - the date of August 2015 shows when this webpage,\
-  \ not the data, was created.***"
+  \ not the data, was created.*** Trouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: "***This data updates nightly. Please ignore the 'created by' date\
@@ -71,10 +75,13 @@ resources:
   format: HTML
   name: Property Assessment History (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543865f20583086178c4ee5/representationdetails/55d62f07ee9c74144746ccfd/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Property Assessment
 - assessment
 - properties
+time_period: null
 title: Philadelphia Properties and Assessment History
+usage: null
 ---

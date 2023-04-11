@@ -1,14 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Elections / Politics
-extras:
-  Department: City Commissioners
+created: '2015-03-17T18:07:17.987078'
 license: Other (City of Philadelphia)
 maintainer: Seth Bluestein
 maintainer_email: seth.bluestein@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Information regarding individuals who are registered to vote (aka the Qualified\
   \ Voter Registry). This data is broken down into various reports for voter, election,\
-  \ and district information."
+  \ and district information.\r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -199,8 +203,11 @@ resources:
   format: HTML
   name: Voter Registry (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543868620583086178c4f83/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - City Commissioners
+time_period: null
 title: Voter Registration Counts
+usage: null
 ---

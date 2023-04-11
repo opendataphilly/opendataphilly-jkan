@@ -1,12 +1,15 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Planning / Zoning
 - Real Estate / Land Records
-extras: {}
+created: '2018-01-31T15:35:22.145778'
 license: Other (City of Philadelphia)
 maintainer: Alex Waldman
 maintainer_email: alex.waldman@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The Department of Records (DOR) published data for all documents recorded\
   \ since December 06, 1999, including all real estate transfers in Philadelphia.\
   \ Document type, grantor, and grantee information is presented by address for each\
@@ -22,7 +25,10 @@ notes: "The Department of Records (DOR) published data for all documents recorde
   \ We provide the CSV of All Years mostly for developers to use when coding.\r\n\
   If you are comfortable with APIs, you could also use the API links to access this\
   \ data. You can learn more about how to use the API at [Carto\u2019s SQL API site](https://carto.com/developers/sql-api/)\
-  \  and in the [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
+  \  and in the [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -174,9 +180,12 @@ resources:
   format: HTML
   name: Real Estate Transfers (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5a04b8d39202605970a7457d/representationdetails/5a04b8d39202605970a74581/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Records
 - visualization
+time_period: null
 title: Real Estate Transfers
+usage: null
 ---

@@ -1,13 +1,16 @@
 ---
+area_of_interest: null
 category:
 - Public Safety
-extras:
-  Department: Police Department
-  Department Phone: 215-686-1577
+created: '2015-01-30T17:32:47.980292'
 license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
-notes: "Locations of Police Stations."
+maintainer_link: null
+maintainer_phone: null
+notes: "Locations of Police Stations.\r\n\r\nTrouble downloading or have questions\
+  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,8 +33,11 @@ resources:
   format: HTML
   name: Police Stations (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543864720583086178c4e7f/representationdetails/55438a849b989a05172d0cff/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Police Department
+time_period: null
 title: Police Stations
+usage: null
 ---

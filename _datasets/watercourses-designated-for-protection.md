@@ -1,20 +1,23 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Health / Human Services
 - Planning / Zoning
-extras:
-  Department: Water Department
-  Department Phone: 215-683-6300
+created: '2015-01-21T15:14:44.855872'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Hydrographic features included in Philadelphia Hydrology Map. This map was\
   \ officially adopted by City Council as the official map of Philadelphia Watercourses\
   \ Designated for Protection on September 13th, 2012. The geographic data depicts\
   \ watercourses within Philadelphia County as they appear on the map and will not\
   \ be edited or updated. For up-to-date hydrography see the Hydrolographic_Features_Poly\
-  \ layer under Hydrology."
+  \ layer under Hydrology.\r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -57,8 +60,11 @@ resources:
   format: HTML
   name: ' Protected Watercourses - Polygon (Metadata)'
   url: https://metadata.phila.gov/#home/datasetdetails/5589c611d2b75b7a58b238fa/representationdetails/5589c63a185a41346fccce8c/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Watercourses Designated for Protection
+usage: null
 ---

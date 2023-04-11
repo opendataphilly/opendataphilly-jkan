@@ -1,18 +1,18 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Planning / Zoning
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Department of Planning and Development
-  Maintainer Link: http://www.philaplanning.org
-  Maintainer Phone: 215-683-4600
-  Usage: Public use; Free
+created: '2014-12-08T22:45:50.420741'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
+maintainer_link: http://www.philaplanning.org
+maintainer_phone: 215-683-4600
 notes: "To provide a base for very generalized maps or used as an outline in conjunction\
   \ with other data layers.  Establishes City Limits for City's Standard Boundary\
-  \ Format. This layer was updated on July 22, 2012."
+  \ Format. This layer was updated on July 22, 2012.\r\n\r\nTrouble downloading or\
+  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -35,8 +35,11 @@ resources:
   format: HTML
   name: City Limits (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543868820583086178c4f89/representationdetails/55438ada9b989a05172d0d92/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: City Limits
+usage: Public use; Free
 ---

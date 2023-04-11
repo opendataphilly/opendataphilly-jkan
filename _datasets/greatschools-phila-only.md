@@ -1,14 +1,13 @@
 ---
+area_of_interest: U.S. (National)
 category:
 - Education
-extras:
-  Area of Interest: U.S. (National)
-  Maintainer Link: http://www.greatschools.org/about/feedback.page
-  Usage: Public Use; Free Free registration entails interactivity and extra privilegesAPI
-    structuring requires key, by request
+created: '2014-12-08T22:01:36.286721'
 license: License Not Specified
 maintainer: ''
 maintainer_email: ''
+maintainer_link: http://www.greatschools.org/about/feedback.page
+maintainer_phone: null
 notes: 'GreatSchools is an online database of school locations and relevant information,
   including metrics submitted by school districts and government agencies and school
   reviews submitted by individual users. Schools within the database include public,
@@ -21,6 +20,7 @@ notes: 'GreatSchools is an online database of school locations and relevant info
   interactivity and extra privileges (comment/review capability; participation in
   community forum, customized, detailed grade-by-grade tips; and in-depth article
   access.) '
+opendataphilly_rating: null
 organization: GreatSchools.org
 resources:
 - description: ''
@@ -35,7 +35,11 @@ resources:
   format: HTML
   name: GreatSchools API Documentation
   url: http://www.greatschools.org/api/docs/main.page
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: GreatSchools (Phila. only)
+usage: Public Use; Free Free registration entails interactivity and extra privilegesAPI
+  structuring requires key, by request
 ---

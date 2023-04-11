@@ -1,13 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Real Estate / Land Records
-extras:
-  Department: Community Life Improvement Program (CLIP)
+created: '2015-01-14T20:40:39.894443'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Dates and locations of when lots were cleaned (removing weeds, debris, etc.)\
-  \ through the City of Philadelphia's Community Life Improvement Program."
+  \ through the City of Philadelphia's Community Life Improvement Program.\r\n\r\n\
+  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,8 +35,11 @@ resources:
   format: HTML
   name: Exterior Violation Cleanups (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543866b20583086178c4f12/representationdetails/55438aae9b989a05172d0d49/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Community Life Improvement Program
+time_period: null
 title: Exterior Violation Cleanups
+usage: null
 ---

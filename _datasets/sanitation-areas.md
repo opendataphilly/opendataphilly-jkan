@@ -1,20 +1,20 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Economy
 - Environment
 - Health / Human Services
 - Planning / Zoning
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Streets Department
-  Maintainer Link: http://www.phila.gov/streets
-  Maintainer Phone: 215-686-8287
-  Usage: Public Use; Free
+created: '2014-12-08T22:49:48.724091'
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
+maintainer_link: http://www.phila.gov/streets
+maintainer_phone: 215-686-8287
 notes: "Data includes the boundaries for city sanitation areas (which are aggregations\
-  \ of Sanitation Districts)."
+  \ of Sanitation Districts).\r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -37,8 +37,11 @@ resources:
   format: HTML
   name: Sanitation Areas (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f812ff15fcb6c6ed4411f/representationdetails/55438a869b989a05172d0d02/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Sanitation Areas
+usage: Public Use; Free
 ---

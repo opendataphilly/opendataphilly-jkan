@@ -1,13 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Health / Human Services
-extras: {}
+created: '2022-12-05T22:44:43.565815'
 license: Other (City of Philadelphia)
 maintainer: maria.giraldo-gallo@phila.gov
 maintainer_email: maria.giraldo-gallo@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This dataset tracks usage of the City's language access services through contracts\
-  \ with external vendors for translation and interpretation."
+  \ with external vendors for translation and interpretation. \r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -26,7 +32,8 @@ resources:
   format: ''
   name: Language Usage (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/634eac83dc2dee002120a9bc/representationdetails/634eac86dc2dee002120a9f3/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Language access
 - Office of Immigrant Affairs
@@ -36,5 +43,7 @@ tags:
 - interpretation
 - language usage
 - translation
+time_period: null
 title: Language Services Usage
+usage: null
 ---

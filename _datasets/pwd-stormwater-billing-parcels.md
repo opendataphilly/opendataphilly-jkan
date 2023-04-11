@@ -1,12 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras: {}
+created: '2015-09-11T19:45:37.890599'
 license: Other (City of Philadelphia)
 maintainer: Larry Szarek
 maintainer_email: larry.szarek@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The primary purpose of PWD_PARCEL layer is to calculate parcel-based stormwater\
-  \ charges for PWD customers under the new parcel-based stormwater billing program."
+  \ charges for PWD customers under the new parcel-based stormwater billing program.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,8 +35,11 @@ resources:
   format: HTML
   name: PWD Parcels (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543864620583086178c4e7a/representationdetails/55438a829b989a05172d0cfa/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: PWD Stormwater Billing Parcels
+usage: null
 ---

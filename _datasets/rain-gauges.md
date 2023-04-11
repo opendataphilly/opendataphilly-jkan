@@ -1,13 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras: {}
+created: '2015-10-07T17:42:05.363372'
 license: Other (City of Philadelphia)
 maintainer: Edward Lennon, Jr.
 maintainer_email: edward.lennonjr@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The purpose of this data is to describe the Rain Gauges both locationally\
   \ and via their attributes. This data shows the location and attributes of Rain\
-  \ Gauges throughout the City of Philadelphia."
+  \ Gauges throughout the City of Philadelphia.\r\n\r\nTrouble downloading or have\
+  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,8 +35,11 @@ resources:
   format: HTML
   name: Rain Gauge Network (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5601852f077169215719b5c5/representationdetails/5612c96db96c129517118d00/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Rain Gauges
+usage: null
 ---

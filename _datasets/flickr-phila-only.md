@@ -1,15 +1,13 @@
 ---
+area_of_interest: International
 category:
 - Arts / Culture / History
-extras:
-  Area of Interest: International
-  Maintainer Link: http://www.flickr.com/
-  Usage: "Public Use; Free. \r\n\r\nFree registration entails interactivity privileges\r\
-    \n\r\nAPI creation requires API key, made available to a user upon registration\
-    \ (google/facebook/yahoo account)."
+created: '2014-12-08T22:53:07.053906'
 license: License Not Specified
 maintainer: null
 maintainer_email: ''
+maintainer_link: http://www.flickr.com/
+maintainer_phone: null
 notes: Flick is an online, interactive photo database, where users can search for
   photographs by thematic descriptors and locations through the mapping application.
   Thematic descriptors include mood/visual keywords, tags, and account names of photographers,
@@ -17,6 +15,7 @@ notes: Flick is an online, interactive photo database, where users can search fo
   accessible to users through a feed (RSS) that yields recent, exportable photo uploads,
   and an API. With free registration, users can also upload their own photos, create
   profiles, edit, comment, and participate in forum/group culture.
+opendataphilly_rating: null
 organization: Yahoo
 resources:
 - description: ''
@@ -35,7 +34,12 @@ resources:
   format: RSS
   name: Flickr RSS feed (Phila. only)
   url: http://api.flickr.com/services/feeds/geo/United+States/Pennsylvania/Philadelphia&format=rss_200
-schema: default
+schema: philadelphia
+source: null
 tags: []
+time_period: null
 title: Flickr (Phila. only)
+usage: "Public Use; Free. \r\n\r\nFree registration entails interactivity privileges\r\
+  \n\r\nAPI creation requires API key, made available to a user upon registration\
+  \ (google/facebook/yahoo account)."
 ---

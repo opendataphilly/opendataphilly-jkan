@@ -1,20 +1,20 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Environment
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Philadelphia Water Department
-  Maintainer Link: http://www.phila.gov/water
-  Maintainer Phone: 215-686-8287
-  Usage: Public use; Free
+created: '2014-12-08T22:22:40.010029'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: brian.ivey@phila.gov
+maintainer_link: http://www.phila.gov/water
+maintainer_phone: 215-686-8287
 notes: "This dataset is a contour data line segments representing the elevation of\
   \ features covering the City of Philadelphia, PA, approximately 196 sq miles total.\
   \ Data is typically collected during the month of April. Data Development: Vector\
   \ (line) data representing the elevation of natural and artificial features in the\
-  \ project area."
+  \ project area.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -85,9 +85,12 @@ resources:
   format: SHP
   name: 1996 Topographic Contours (SHP)
   url: http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=159
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - PASDA
 - Philadelphia Water Department
+time_period: null
 title: Topographic Contours
+usage: Public use; Free
 ---

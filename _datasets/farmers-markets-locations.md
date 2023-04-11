@@ -1,14 +1,16 @@
 ---
+area_of_interest: null
 category:
 - Food
-extras:
-  Department: Public Health
-  Maintainer Phone: 215-686-5259
-  Usage: Public Use; Free;
+created: '2014-12-08T22:15:58.147670'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Locations of farmers markets in Philadelphia."
+maintainer_link: null
+maintainer_phone: 215-686-5259
+notes: "Locations of farmers markets in Philadelphia.\r\n\r\nTrouble downloading or\
+  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: "\r\n"
@@ -31,8 +33,11 @@ resources:
   format: HTML
   name: Farmers Markets Locations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864320583086178c4e6d/representationdetails/55438a7c9b989a05172d0cec/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: Farmers Markets Locations
+usage: Public Use; Free;
 ---

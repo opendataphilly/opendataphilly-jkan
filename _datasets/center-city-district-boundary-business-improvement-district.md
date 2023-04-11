@@ -1,15 +1,18 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Police Department
-  Department Phone: 215-686-1577
+created: '2015-06-09T21:48:58.392460'
 license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Center City District encompasses 120 blocks and more than 4500 individual\
   \ properties. The mission is to keep Center City clean, safe, and fun.  CCD also\
   \ makes phyiscal improvements to center city by installing and maintain lighting,\
-  \ signs, banners trees and landscape."
+  \ signs, banners trees and landscape.\r\n\r\nTrouble downloading or have questions\
+  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -32,8 +35,11 @@ resources:
   format: HTML
   name: Center City Business Improvement District (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/557aed5d4d72efc5445ab0c1/representationdetails/557f30e0c579ea311699bb41/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Police Department
+time_period: null
 title: Center City District Boundary (Business Improvement District)
+usage: null
 ---

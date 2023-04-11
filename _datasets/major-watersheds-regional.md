@@ -1,20 +1,22 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Planning / Zoning
 - Real Estate / Land Records
-extras:
-  Department: Water Department
-  Department Phone: 215-683-6300
-  Usage: Public Use; Free
+created: '2015-09-11T18:51:40.249272'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Polygon feature class representing major watersheds in Philadelphia. Data\
   \ was developed originally from either USGS and the 2004 Sanborn DEM (digital elevation\
   \ model) using ArcHydro watershed extraction tools. Major Watersheds are dissolved\
   \ from subshed boundaries which reflect surface flow in relationship to stormwater\
-  \ inlets and outfalls."
+  \ inlets and outfalls.\r\n\r\nTrouble downloading or have questions about this City\
+  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -37,8 +39,11 @@ resources:
   format: HTML
   name: Major Watersheds - Regional (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864520583086178c4e78/representationdetails/55438a819b989a05172d0cf8/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Major Watersheds - Regional
+usage: Public Use; Free
 ---

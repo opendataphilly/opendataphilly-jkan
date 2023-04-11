@@ -1,11 +1,12 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Streets Department
-  Department Phone: 215-686-5560
+created: '2015-01-16T16:57:46.359102'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "From the Streets Department snow emergency route page\r\n\r\nWhen snow accumulations\
   \ approach emergency status, the Managing Director may declare a snow emergency.\
   \ Once emergency status is declared, the City's 110 miles of Snow Emergency Routes\
@@ -19,7 +20,9 @@ notes: "From the Streets Department snow emergency route page\r\n\r\nWhen snow a
   \ file contains the IDs of all of the street segments that are classified as snow\
   \ emergency routes. The snow emergency routes shapefile/geojson is built by filtering\
   \ the street centerline layer to include only those rows where the seg_id is contained\
-  \ in this list."
+  \ in this list.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -42,8 +45,11 @@ resources:
   format: HTML
   name: Snow Emergency Routes (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8132f15fcb6c6ed4412d/representationdetails/55438ab49b989a05172d0d54/?view_286_sort=field_12|asc
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Snow Emergency Routes
+usage: null
 ---

@@ -1,13 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras:
-  Department: Streets Department
-  Department Phone: 215-686-5560
+created: '2015-01-16T16:50:27.315346'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Count of residents participating in the RecycleBank program by street segment."
+maintainer_link: null
+maintainer_phone: null
+notes: "Count of residents participating in the RecycleBank program by street segment.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,8 +34,11 @@ resources:
   format: HTML
   name: RecycleBank Participation (Metadata)
   url: http://cityofphiladelphia.github.io/metadata-catalog/#home/datasetdetails/5543866d20583086178c4f1b/representationdetails/55438ab39b989a05172d0d52/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: RecycleBank Participation
+usage: null
 ---

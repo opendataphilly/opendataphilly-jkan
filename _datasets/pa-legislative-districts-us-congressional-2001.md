@@ -1,15 +1,14 @@
 ---
+area_of_interest: State of Pennsylvania
 category:
 - Boundaries
 - Elections / Politics
-extras:
-  Area of Interest: State of Pennsylvania
-  Maintainer Link: http://www.dot.state.pa.us/Internet/Bureaus/pdPlanRes.nsf/PlanningAndResearchHomePage?OpenFrameset
-  Maintainer Phone: 717-772-3305
-  Usage: Public Use; Free
+created: '2014-12-08T22:08:15.975328'
 license: License Not Specified
 maintainer: null
 maintainer_email: ''
+maintainer_link: http://www.dot.state.pa.us/Internet/Bureaus/pdPlanRes.nsf/PlanningAndResearchHomePage?OpenFrameset
+maintainer_phone: 717-772-3305
 notes: Boundaries of United States Congressional legislative boundaries for Pennsylvania,
   according to PA Congressional Redistricting Plan Act 34, of 2002. Boundary data
   corresponds to boundaries used for the November 2002 General Election, which is
@@ -18,6 +17,7 @@ notes: Boundaries of United States Congressional legislative boundaries for Penn
   Accuracy is estimated to +/- 100 feet. Data originates from the PA Department of
   Transportation, Bureau of Planning and Research, developed from digitized, approved
   PA Reapportionment Commission maps.
+opendataphilly_rating: null
 organization: PA Bureau of Planning and Research
 resources:
 - description: ''
@@ -32,7 +32,10 @@ resources:
   format: XML
   name: PA Legislative Districts, U.S. Congressional XML Metadata
   url: http://www.pasda.psu.edu/pasda/UCI_Metadata/PaCongressional2011_01.xml
-schema: default
+schema: philadelphia
+source: null
 tags: []
+time_period: null
 title: PA Legislative Districts, U.S. Congressional (2001)
+usage: Public Use; Free
 ---

@@ -1,11 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras: {}
+created: '2015-06-09T21:06:44.713244'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
-notes: "Federal Emergency Management Administration (FEMA) data clipped to Philadelphia.\r\n"
+maintainer_link: null
+maintainer_phone: null
+notes: "Federal Emergency Management Administration (FEMA) data clipped to Philadelphia.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)\r\n"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As released by FEMA'
@@ -88,8 +94,11 @@ resources:
   format: HTML
   name: 2007 FEMA 500 Year Flood Plain (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/55773916220d94f32b210704/representationdetails/55773096aa479af0697b1286/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: FEMA Flood Plain
+usage: null
 ---

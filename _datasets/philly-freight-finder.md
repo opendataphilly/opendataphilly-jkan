@@ -1,12 +1,14 @@
 ---
+area_of_interest: Delaware Valley (Camden; Gloucester; Mercer; Bucks; Chester; Delaware;
+  Montgomery; Philadelphia counties)
 category:
 - Transportation
-extras:
-  Area of Interest: Delaware Valley (Camden; Gloucester; Mercer; Bucks; Chester; Delaware;
-    Montgomery; Philadelphia counties)
+created: '2016-08-15T17:19:42.213814'
 license: Other (Open)
 maintainer: Sean Lawrence
 maintainer_email: slawrence@dvrpc.org
+maintainer_link: null
+maintainer_phone: null
 notes: "Freight Data Portal for the Delaware Valley.\r\n\r\nThe Delaware Valley is\
   \ a premier freight transportation gateway. It possesses one of the world's busiest\
   \ freshwater ports; rail freight service from two large Class I railroads and 12\
@@ -28,13 +30,15 @@ notes: "Freight Data Portal for the Delaware Valley.\r\n\r\nThe Delaware Valley 
   \ across the country. Open Freight App would serve as a self-hosted solution to\
   \ offer these datasets to other planners, economic developers, public officials,\
   \ decision-makers and the general public."
+opendataphilly_rating: null
 organization: Delaware Valley Regional Planning Commission (DVRPC)
 resources:
 - description: Freight mapping and data platform for the Delaware Valley
   format: HTML
   name: Philly Freight Finder
   url: http://dvrpc.org/webmaps/PhillyFreightFinder/
-schema: default
+schema: philadelphia
+source: https://github.com/DVRPCfreight/open-freight-app/
 tags:
 - DVRPC
 - Economy
@@ -42,5 +46,7 @@ tags:
 - Intermodal
 - Ports
 - Transportation
+time_period: null
 title: Philly Freight Finder
+usage: null
 ---

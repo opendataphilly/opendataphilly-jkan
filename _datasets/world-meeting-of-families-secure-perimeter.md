@@ -1,10 +1,16 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-08-28T19:32:20.815955'
 license: Other (City of Philadelphia)
 maintainer: OEM
 maintainer_email: oem@phila.gov
-notes: "Secure perimeter for the 2015 World Meeting of Families in Philadelphia, PA."
+maintainer_link: null
+maintainer_phone: null
+notes: "Secure perimeter for the 2015 World Meeting of Families in Philadelphia, PA.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -27,8 +33,11 @@ resources:
   format: HTML
   name: WMoF Secure Perimeter (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/55e0b88ac2418ba73ac23bc5/representationdetails/55e0b99143e43f0c7833e22f/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Emergency Management
+time_period: null
 title: World Meeting of Families Secure Perimeter
+usage: null
 ---

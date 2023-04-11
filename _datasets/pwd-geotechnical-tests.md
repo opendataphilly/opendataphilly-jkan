@@ -1,9 +1,12 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2022-11-28T22:53:18.634544'
 license: Other (City of Philadelphia)
 maintainer: larry.szarek@phila.gov
 maintainer_email: larry.szarek@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "BACKGROUND - The objective of geotechnical testing is to help determine the\
   \ suitability of a site for green stormwater infrastructure. The tests are used\
   \ to calculate infiltration rates at proposed green infrastructure locations and\
@@ -13,7 +16,10 @@ notes: "BACKGROUND - The objective of geotechnical testing is to help determine 
   \ the footprint of each GSI system.\r\n\r\nUSING THE LAYER - The infiltration rates\
   \ and subsurface lithology results such as depth to bedrock and depth to groundwater\
   \ may be helpful for other users of this layer, but it is important to note that\
-  \ these values can vary widely from location to location, even for nearby sites."
+  \ these values can vary widely from location to location, even for nearby sites.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -36,9 +42,12 @@ resources:
   format: HTML
   name: Geotechnical Tests (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/6321e815169cc40021d917a6/representationdetails/6321e815169cc40021d917b5/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Green Stormwater Infrastructure
 - Philadelphia Water Department
+time_period: null
 title: PWD Geotechnical Tests
+usage: null
 ---

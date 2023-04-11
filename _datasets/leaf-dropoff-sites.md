@@ -1,12 +1,16 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Health / Human Services
-extras: {}
+created: '2020-12-21T16:36:24.081855'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: ''
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -25,9 +29,12 @@ resources:
   format: API
   name: Leaf Dropoff Locations (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Leaf_Dropoff_Sites/FeatureServer/0/query?outFields=*&where=1%3D1
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Leaf dropoff
 - Philadelphia Streets Department
+time_period: null
 title: Leaf Dropoff Sites
+usage: null
 ---

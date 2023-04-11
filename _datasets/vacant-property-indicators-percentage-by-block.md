@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2017-03-08T17:08:45.582983'
 license: Other (City of Philadelphia)
 maintainer: tim.haynes@phila.gov
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Block by block percentages across Philadelphia showing the percentages of\
   \ properties (buildings and lots) in each block considered likely to be vacant by\
-  \ the city's Vacant Property Indicators Model."
+  \ the city's Vacant Property Indicators Model.\r\n\r\nTrouble downloading or have\
+  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -69,8 +74,11 @@ resources:
   format: HTML
   name: VPI Percentage by Block - Combined (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/589b73c13137e2175f6e3169/representationdetails/589b75c1418c8e8c5bc5aabf/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
+time_period: null
 title: Vacant Property Indicators Percentage by Block
+usage: null
 ---

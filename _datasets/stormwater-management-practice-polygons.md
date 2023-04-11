@@ -1,14 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras: {}
+created: '2015-10-07T18:24:09.439881'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This layer represents Green Stormwater Infrastructure Stormwater Management\
   \ Practice types. Integrating Green Stormwater Infrastructure (GSI) into a highly\
   \ developed area such as Philadelphia requires a decentralized and creative approach\
-  \ to planning and design."
+  \ to planning and design.\r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -31,8 +36,11 @@ resources:
   format: HTML
   name: Stormwater Management Practice Polygons (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543864320583086178c4e6f/representationdetails/56eaddf28597748205e975da/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Stormwater Management Practice Polygons
+usage: null
 ---

@@ -1,16 +1,20 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Health / Human Services
 - Real Estate / Land Records
-extras: {}
+created: '2017-09-15T20:19:37.330658'
 license: Other (City of Philadelphia)
 maintainer: Portia Egan
 maintainer_email: portia.egan@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: 'The Division of Housing and Community Development (DHCD) provides funding
   to developers that are building or renovating affordable homes. These homes are
   available for sale, for rent, and to support people with special needs. This dataset
   shows the number and location of units built between 1994 to August 2019. '
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,12 +37,15 @@ resources:
   format: HTML
   name: Housing Production 1994 - August 2019 (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5d5448e32385b40011d09425/representationdetails/5d5448e42385b40011d09429/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
 - Division of Housing and Community Development
 - Office of Homeless Services
 - Philadelphia Redevelopment Authority
 - housing
+time_period: null
 title: Affordable Housing Production
+usage: null
 ---

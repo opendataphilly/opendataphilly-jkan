@@ -1,11 +1,16 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-01-21T14:17:47.544851'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Raw data dump from the PPA including meter/kiosk manufacturer and model, as\
-  \ well as status."
+  \ well as status.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -20,7 +25,10 @@ resources:
   format: HTML
   name: Parking Meter & Kiosk Inventory (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543865d20583086178c4edb/representationdetails/55c3c71bea8fa7742f7dd107/
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: Parking Meter & Kiosk Inventory
+usage: null
 ---

@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-06-09T16:46:39.219713'
 license: Other (City of Philadelphia)
 maintainer: Brian Ivey
 maintainer_email: brian.ivey@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This is one of the planimetric coverages developed as part of the aerial survey\
   \ project of 1996 and updated using new aerial photography collected between 25\
-  \ March 2004 and 23 April 2004."
+  \ March 2004 and 23 April 2004.\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,8 +34,11 @@ resources:
   format: HTML
   name: Railroad Lines (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543866120583086178c4eea/representationdetails/55438aa19b989a05172d0d32/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Innovation and Technology
+time_period: null
 title: Railroad Lines
+usage: null
 ---

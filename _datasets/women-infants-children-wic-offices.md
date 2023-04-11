@@ -1,12 +1,16 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Public Health
+created: '2015-05-22T06:59:01.300783'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "The Special Supplemental Nutrition Program for Women, Infants, and Children\
-  \ (WIC) ."
+  \ (WIC) .\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,8 +33,11 @@ resources:
   format: HTML
   name: WIC Offices (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/557f30c7dcec614c29ce8b73/representationdetails/557f30e4c579ea311699bb50/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: Women, Infants & Children (WIC) Offices
+usage: null
 ---

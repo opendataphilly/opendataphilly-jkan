@@ -1,13 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Planning / Zoning
 - Transportation
-extras:
-  Department: Streets Department
+created: '2015-09-21T16:37:09.733341'
 license: Other (City of Philadelphia)
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
-notes: "Street segments containing train tracks."
+maintainer_link: null
+maintainer_phone: null
+notes: "Street segments containing train tracks.\r\n\r\nTrouble downloading or have\
+  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,8 +34,11 @@ resources:
   format: HTML
   name: Track Streets (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555f8137f15fcb6c6ed44146/representationdetails/5571b1c7e4fb1d91393c21a2/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Track Streets
+usage: null
 ---

@@ -1,11 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Economy
-extras: {}
+created: '2022-08-30T17:37:40.434047'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Services and support available to businesses in Philadelphia. "
+maintainer_link: null
+maintainer_phone: null
+notes: "Services and support available to businesses in Philadelphia. \r\n\r\nTrouble\
+  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,10 +36,13 @@ resources:
   format: HTML
   name: Business Support (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/63a5df407c825c001258de37/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - business
 - businesses
 - economic development
+time_period: null
 title: Business Technical Support Resources
+usage: null
 ---

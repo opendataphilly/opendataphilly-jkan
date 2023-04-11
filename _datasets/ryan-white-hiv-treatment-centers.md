@@ -1,14 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Health / Human Services
-extras:
-  Department: Public Health
-  Department Phone: 215-686-5259
+created: '2015-04-24T13:52:21.286438'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Street location, contact information and hours of PDPH-funded HIV Treatment\
-  \ Centers."
+  \ Centers.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -31,8 +34,11 @@ resources:
   format: HTML
   name: Ryan White HIV Treatment Centers (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555a509c0ae7565761d95789/representationdetails/555d6c11e2f9e21021746ee0/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: Ryan White HIV Treatment Centers
+usage: null
 ---

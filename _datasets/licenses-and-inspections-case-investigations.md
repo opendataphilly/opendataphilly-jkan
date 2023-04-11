@@ -1,16 +1,21 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2016-09-22T16:17:08.376879'
 license: Other (City of Philadelphia)
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "All investigations completed on a property with property maintenance violations\
   \ by an inspector of the Department of Licenses & Inspections.\r\n\r\n**Please note\
   \ that this is a very large dataset. To see all investigations, download all datasets\
   \ for all years.** \r\n\r\n**If you are comfortable with APIs, you can also use\
   \ the API links to access this data. You can learn more about how to use the API\
   \ at Carto\u2019s SQL API site and in the Carto guide in the section on making calls\
-  \ to the API.**"
+  \ to the API.**\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -95,9 +100,12 @@ resources:
   format: HTML
   name: 'L&I Case investigations (Metadata) '
   url: https://metadata.phila.gov/#home/datasetdetails/5543ca785c4ae4cd66d3ff80/representationdetails/5e986970b2c39b001522fb9d/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
 - Visualization
+time_period: null
 title: 'Licenses and Inspections: Case Investigations'
+usage: null
 ---

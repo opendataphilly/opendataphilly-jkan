@@ -1,12 +1,16 @@
 ---
+area_of_interest: null
 category:
 - Transportation
-extras:
-  Agency: Philadelphia Parking Authority
+created: '2015-06-02T18:35:01.828590'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: 
+maintainer_link: null
+maintainer_phone: null
+notes: Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly
+  Discussion Group](http://www.phila.gov/data/discuss/)
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,8 +33,11 @@ resources:
   format: HTML
   name: Residential Parking Permit Blocks Metadata
   url: http://metadata.phila.gov/#home/datasetdetails/556dfd836c7888b92ed5a367/representationdetails/556dfe215b3f4fa164630a33/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parking Authority
+time_period: null
 title: Residential Parking Permit Blocks
+usage: null
 ---

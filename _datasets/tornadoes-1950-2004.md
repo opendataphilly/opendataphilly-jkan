@@ -1,19 +1,18 @@
 ---
+area_of_interest: State of Pennsylvania
 category:
 - Environment
-extras:
-  Area of Interest: State of Pennsylvania
-  Maintainer Link: http://www.spc.noaa.gov
-  Maintainer Phone: 405-579-0747
-  Time Period: 01/01/1950 - 12/31/2004
-  Usage: Public Use; Free
+created: '2014-12-08T22:06:06.256161'
 license: License Not Specified
 maintainer: null
 maintainer_email: spc.feedback@noaa.gov
+maintainer_link: http://www.spc.noaa.gov
+maintainer_phone: 405-579-0747
 notes: 'Data includes location touchdown points and corresponding dates of Tornadoes
   in Pennsylvania from 1950 to 2004, according to the National Weather Service''s
   Storm Prediction Center (SPC). Data originates from the Severe Thunderstorm Database
   and the National Oceanic and Atmosphere Administration Storm Data publication. '
+opendataphilly_rating: null
 organization: Storm Prediction Center
 resources:
 - description: ''
@@ -28,7 +27,10 @@ resources:
   format: XML
   name: Tornadoes, 1950-2004 XML Metadata
   url: http://www.pasda.psu.edu/pasda/UCI_Metadata/Tornados_Pennsylvania.xml
-schema: default
+schema: philadelphia
+source: null
 tags: []
+time_period: 01/01/1950 - 12/31/2004
 title: Tornadoes, 1950-2004
+usage: Public Use; Free
 ---

@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Public Safety
-extras:
-  department: Police Department
+created: '2016-04-21T22:38:08.194327'
 license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
-notes: "City-wide shooting victims, including Police Officer-involved shootings"
+maintainer_link: null
+maintainer_phone: null
+notes: "City-wide shooting victims, including Police Officer-involved shootings\r\n\
+  \r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: Guided tour of the data, contextualized with other datasets
@@ -37,8 +42,11 @@ resources:
   format: HTML
   name: Shooting Victims (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5719551277d6389f3005a610/representationdetails/5719551277d6389f3005a614/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Police Department
+time_period: null
 title: Shooting Victims
+usage: null
 ---

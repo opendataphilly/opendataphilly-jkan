@@ -1,15 +1,18 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Streets Department
-  Department Phone: 215-686-5560
+created: '2015-01-16T16:55:08.083099'
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenne
 maintainer_email: max.steinbrenner@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Rate of recycling per rubbish/recycling district in total tons of recycling\
   \ divided by the total tons of rubbish (garbage) collected during the given time\
   \ period, either fiscal year, a fiscal year through a given quarter, or within one\
-  \ quarter."
+  \ quarter.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -32,8 +35,11 @@ resources:
   format: HTML
   name: Recycling Diversion Rate (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555f812df15fcb6c6ed44119/representationdetails/55438ab39b989a05172d0d53/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Recycling Diversion Rate
+usage: null
 ---

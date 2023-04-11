@@ -1,17 +1,19 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Environment
 - Planning / Zoning
 - Real Estate / Land Records
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Office of Innovation & Technology
-  Maintainer Phone: 215-686-8287
-  Usage: Public Use
+created: '2014-12-08T22:50:51.032857'
 license: Other (City of Philadelphia)
 maintainer: Office of Innovation & Technology
 maintainer_email: brian.ivey@phila.gov
-notes: "Data includes aerial photography of the City of Philadelphia."
+maintainer_link: null
+maintainer_phone: 215-686-8287
+notes: "Data includes aerial photography of the City of Philadelphia.\r\n\r\nTrouble\
+  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'NOTE: To download shapefiles from PASDA, you need to copy the Download
@@ -526,7 +528,8 @@ resources:
   format: HTML
   name: Aerial Photography (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Innovation and Technology
 - PASDA
@@ -535,5 +538,7 @@ tags:
 - imagery
 - ortho
 - orthophotography
+time_period: null
 title: Aerial Photography
+usage: Public Use
 ---

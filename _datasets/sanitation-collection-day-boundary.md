@@ -1,9 +1,12 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-06-09T03:42:41.970072'
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The data is used to determine the day of sanitation collection (rubbish and\
   \ recycling) for a given location and set of households in the City of Philadelphia.\
   \  The file is also used to aggregate data such as households, tonnage, and mileage.\r\
@@ -11,7 +14,9 @@ notes: "The data is used to determine the day of sanitation collection (rubbish 
   \ layer contain data signifying information relating it to the polygon layer. It\
   \ can tell you if both sides of the arc belong to one of the bounding polygons.\
   \  All the arcs, including those with no boundary info, have naming attributes for\
-  \ labeling the polygon borders. "
+  \ labeling the polygon borders. \r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -54,8 +59,11 @@ resources:
   format: HTML
   name: Sanitation Collection - Line (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f812ff15fcb6c6ed44120/representationdetails/5571b1c0e4fb1d91393c216b/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Sanitation Collection Day Boundary
+usage: null
 ---

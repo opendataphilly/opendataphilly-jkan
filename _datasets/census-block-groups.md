@@ -1,4 +1,5 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
 - Economy
@@ -7,14 +8,19 @@ category:
 - Health / Human Services
 - Planning / Zoning
 - Public Safety
-extras: {}
+created: '2015-06-09T18:09:19.775520'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "For matching and analyzing demographic data collected and compiled by the\
   \ U.S. Census Bureau & American Community Survey(ACS) to the geography of Census\
   \ Block Group boundaries within the City of Philadelphia. These boundaries can change\
-  \ every ten years when the decennial census is conducted."
+  \ every ten years when the decennial census is conducted. \r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -90,8 +96,11 @@ resources:
   format: HTML
   name: Census Block Groups - 1990 (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867720583086178c4f46/representationdetails/557ae8b44d72efc5445ab091/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Census Block Groups
+usage: null
 ---

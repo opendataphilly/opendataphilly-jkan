@@ -1,16 +1,17 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Planning / Zoning
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Department of Planning and Development
-  Maintainer Link: http://www.philaplanning.org
-  Usage: Public Use; Free
+created: '2014-12-08T22:48:17.066907'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
+maintainer_link: http://www.philaplanning.org
+maintainer_phone: null
 notes: "To illustrate the outlines of the 18 Districts for Philadelphia2035 District\
-  \ Plans."
+  \ Plans.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
+  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,8 +34,11 @@ resources:
   format: HTML
   name: Planning Districts (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864620583086178c4e7d/representationdetails/55438a839b989a05172d0cfd/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Planning Districts
+usage: Public Use; Free
 ---

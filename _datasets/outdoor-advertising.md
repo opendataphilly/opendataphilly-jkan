@@ -1,11 +1,17 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2016-04-25T22:09:17.756565'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: LIGISTEAM@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Locational and relevant attribute data pertaining to billboard and outdoor\
-  \ advertising locations throughout the City of Philadelphia."
+  \ advertising locations throughout the City of Philadelphia.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -28,8 +34,11 @@ resources:
   format: HTML
   name: Outdoor Advertising (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/56cc9cc6de5887880eef8291/representationdetails/56cc9cc6de5887880eef8293/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
+time_period: null
 title: Outdoor Advertising
+usage: null
 ---

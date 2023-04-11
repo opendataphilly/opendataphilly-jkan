@@ -1,13 +1,17 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2018-05-17T18:46:55.373120'
 license: License Not Specified
 maintainer: ''
 maintainer_email: opendata@philasd.org
+maintainer_link: null
+maintainer_phone: null
 notes: School progress report, district scorecard, PSSA & Keystone, district graduation
   rate, school graduation rate, aimsweb-star, attendance, out-of-school suspensions,
   serious incidents, NSC student tracker reports, college matriculation, end-of-year
   report
+opendataphilly_rating: null
 organization: School District of Philadelphia
 resources:
 - description: SY 2012 - 2019
@@ -83,8 +87,11 @@ resources:
   format: XLSX
   name: End-of-year Report
   url: https://www.philasd.org/performance/programsservices/open-data/school-performance/#end_of_year_report
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Education
+time_period: null
 title: School Performance
+usage: null
 ---

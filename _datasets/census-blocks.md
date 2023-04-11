@@ -1,4 +1,5 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
 - Economy
@@ -7,19 +8,19 @@ category:
 - Planning / Zoning
 - Public Safety
 - Real Estate / Land Records
-extras:
-  Department: Department of Planning and Development
-  Maintainer Link: http://www.philaplanning.org
-  Maintainer Phone: 215-683-4600
-  Usage: Public Use
+created: '2014-12-08T21:55:04.256289'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: http://www.philaplanning.org
+maintainer_phone: 215-683-4600
 notes: "The basic unit of aggregation published by the US Census Bureau.  Population\
   \ statistics published for redistricting are distributed at the block level.  In\
   \ an urban area, this corresponds to approximately one city block.  This block map\
   \ has been altered to improve accuracy and align with the City of Philadelphia's\
-  \ street centerline."
+  \ street centerline.\r\n\r\nTrouble downloading or have questions about this City\
+  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: For matching and analyzing demographic data collected and compiled
@@ -75,8 +76,11 @@ resources:
   format: HTML
   name: Census Blocks - 2000 (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5570a49772bb21d44d123607/representationdetails/5570a5b91a590a30400c9db9/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Census Blocks
+usage: Public Use
 ---

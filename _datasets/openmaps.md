@@ -1,4 +1,5 @@
 ---
+area_of_interest: null
 category:
 - Arts / Culture / History
 - Basemaps
@@ -15,22 +16,29 @@ category:
 - Public Safety
 - Real Estate / Land Records
 - Transportation
-extras: {}
+created: '2018-04-30T13:27:10.098614'
 license: Other (City of Philadelphia)
 maintainer: CityGeo
 maintainer_email: maps@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Explore Philadelphia's most popular open geographic data in one easy to use\
   \ mapping tool. This tool was built by the City's Office of Innovation and Technology's\
-  \ CityGeo team."
+  \ CityGeo team.\r\n\r\nTrouble using or have questions about this City application?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: Application
   name: OpenMaps
   url: https://openmaps.phila.gov/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - application
 - citygeo
+time_period: null
 title: OpenMaps
+usage: null
 ---

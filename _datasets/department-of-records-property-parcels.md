@@ -1,16 +1,17 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Real Estate / Land Records
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Records Department
-  Maintainer Link: http://www.phila.gov/records/
-  Usage: Public Use; Free
+created: '2014-12-08T21:56:54.780656'
 license: Other (City of Philadelphia)
 maintainer: Tracy Dandridge
 maintainer_email: tracy.dandridge@phila.gov
+maintainer_link: http://www.phila.gov/records/
+maintainer_phone: null
 notes: "Department of Records (DOR) Boundaries of real estate property parcels derived\
-  \ from legal recorded deed documents. "
+  \ from legal recorded deed documents. \r\n\r\nTrouble downloading or have questions\
+  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Weekly'
@@ -33,8 +34,11 @@ resources:
   format: HTML
   name: DOR Property Parcels (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867020583086178c4f2a/representationdetails/55438aba9b989a05172d0d61/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Records Department
+time_period: null
 title: Department of Records Property Parcels
+usage: Public Use; Free
 ---

@@ -1,15 +1,17 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Environment
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Philadelphia Water Department
-  Usage: Public Use; Free
+created: '2014-12-08T22:15:36.513147'
 license: Other (City of Philadelphia)
 maintainer: Larry Szarek
 maintainer_email: Larry.Szarek@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This point layer contains all the wastewater and stormwater inlets in Philadelphia\
-  \ with latitude and longitude coordinates. "
+  \ with latitude and longitude coordinates. \r\n\r\nTrouble downloading or have questions\
+  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -36,9 +38,12 @@ resources:
   format: HTML
   name: Water Inlets (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543864920583086178c4e87/representationdetails/55438a889b989a05172d0d07/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
 - visualization
+time_period: null
 title: Water Inlets
+usage: Public Use; Free
 ---

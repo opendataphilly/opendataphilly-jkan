@@ -1,15 +1,20 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
-extras: {}
+created: '2015-09-01T16:02:19.223971'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Polygon description of use rights for ingress/egress, driveways, alleyways,\
-  \ utilities, drainage and subsurface areas. "
+  \ utilities, drainage and subsurface areas. \r\n\r\nTrouble downloading or have\
+  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -32,8 +37,11 @@ resources:
   format: HTML
   name: DOR Easement (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864520583086178c4e79/representationdetails/55438a829b989a05172d0cf9/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Records
+time_period: null
 title: Department of Records Easement
+usage: null
 ---

@@ -1,15 +1,14 @@
 ---
+area_of_interest: Delaware Valley (Camden; Gloucester; Mercer; Bucks; Chester; Delaware;
+  Montgomery; Philadelphia counties)
 category:
 - Transportation
-extras:
-  Area of Interest: Delaware Valley (Camden; Gloucester; Mercer; Bucks; Chester; Delaware;
-    Montgomery; Philadelphia counties)
-  Maintainer Link: http://www.dvrpc.org/Traffic/
-  Maintainer Phone: 215-592-1800
-  Usage: Public Use; Free
+created: '2014-12-08T22:13:13.063910'
 license: License Not Specified
 maintainer: ''
 maintainer_email: chenry@dvrpc.org
+maintainer_link: http://www.dvrpc.org/Traffic/
+maintainer_phone: 215-592-1800
 notes: 'Traffic Count Viewer is an online mapping application, which users can use
   to explore traffic count reports in different locations within the Delaware Valley,
   including Philadelphia. Users search by location (address, city, zip code, or place
@@ -22,13 +21,15 @@ notes: 'Traffic Count Viewer is an online mapping application, which users can u
   are available for export in multiple formats (including basic .doc and .rtf outputs.)
   Traffic count data is collected by the Delaware Valley Regional Planning Commission
   and other agencies. '
+opendataphilly_rating: null
 organization: Delaware Valley Regional Planning Commission (DVRPC)
 resources:
 - description: ''
   format: HTML
   name: Traffic Count Viewer
   url: http://www.dvrpc.org/webmaps/trafficcounts/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - AADT
 - Congestion
@@ -36,5 +37,7 @@ tags:
 - Traffic Count
 - Volume
 - vehicle
+time_period: null
 title: DVRPC Traffic Count Viewer
+usage: Public Use; Free
 ---

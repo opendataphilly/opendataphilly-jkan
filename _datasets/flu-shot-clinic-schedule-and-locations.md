@@ -1,16 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Health / Human Services
-extras:
-  Department: Public Health
-  Maintainer Phone: 215-685-6458
-  Usage: Public Use; Free
+created: '2014-12-08T22:26:22.755417'
 license: Other (City of Philadelphia)
 maintainer: Public Health
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: 215-685-6458
 notes: "Flu shot clinic schedule and locations for the City of Philadelphia. Locations\
   \ include Philadelphia Department of Public Health District Health Centers, federally\
-  \ qualified health centers and community flu clinics."
+  \ qualified health centers and community flu clinics.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Annually'
@@ -33,8 +36,11 @@ resources:
   format: HTML
   name: Flu Shots (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543868920583086178c4f8d/representationdetails/55438adc9b989a05172d0d94/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: Flu Shot Clinic Schedule and Locations
+usage: Public Use; Free
 ---

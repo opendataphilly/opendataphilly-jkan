@@ -1,18 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
-extras:
-  Department: Streets Department
-  Maintainer Link: http://www.philaplanning.org
-  Maintainer Phone: 215-686-8287
-  OpenDataPhilly Rating: '4'
-  Usage: Public use
+created: '2014-12-08T22:19:07.861855'
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
+maintainer_link: http://www.philaplanning.org
+maintainer_phone: 215-686-8287
 notes: "The purpose of this dataset is to represent the Zip Code areas for the City\
   \ of Philadelphia.  The edges of Zip Codes are slightly modified for logical and\
-  \ cartographic purposes."
+  \ cartographic purposes.\r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: '4'
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -55,8 +55,11 @@ resources:
   format: HTML
   name: ZIP Codes - Line (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f813af15fcb6c6ed44153/representationdetails/5571b1cae4fb1d91393c21cc/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Zip Codes
+usage: Public use
 ---

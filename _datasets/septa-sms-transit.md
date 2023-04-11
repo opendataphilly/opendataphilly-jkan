@@ -1,16 +1,14 @@
 ---
+area_of_interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery,
+  Philadelphia counties)
 category:
 - Transportation
-extras:
-  Area of Interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery,
-    Philadelphia counties)
-  Maintainer Link: http://www.septa.org/cs/comment/
-  Maintainer Phone: 215-580-7800
-  Metadata Contact: Michael Zaleski
-  Usage: Public Use
+created: '2014-12-08T22:43:00.116427'
 license: License Not Specified
 maintainer: null
 maintainer_email: MZaleski@septa.org
+maintainer_link: http://www.septa.org/cs/comment/
+maintainer_phone: 215-580-7800
 notes: "SEPTA SMS Transit enables users to request scheduled trip information via\
   \ text message. Users subscribe to the service via text. After setting up an account,\
   \ users can receive schedule information by texting the Stop ID number for a bus,\
@@ -44,6 +42,7 @@ notes: "SEPTA SMS Transit enables users to request scheduled trip information vi
   \ times for all routes\r\n<br><br>\r\nhttp://www3.septa.org/sms/283/13/o \r\n<br>\r\
   \nReturns the next 4 outbound times for only Route 13\r\n </li>\r\n</ol>\r\n\r\n\
   \ "
+opendataphilly_rating: null
 organization: SEPTA
 resources:
 - description: ''
@@ -58,7 +57,10 @@ resources:
   format: api
   name: SMS Transit API (text)
   url: http://www3.septa.org/sms/
-schema: default
+schema: philadelphia
+source: null
 tags: []
+time_period: null
 title: SEPTA SMS Transit
+usage: Public Use
 ---

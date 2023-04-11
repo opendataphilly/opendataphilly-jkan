@@ -1,11 +1,16 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-06-09T07:08:34.582261'
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This layer shows the Philadelphia Gas Works (PGW) Emergency Utility Network\
-  \ (EUN) with Excavation points.  "
+  \ (EUN) with Excavation points.  \r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -28,8 +33,11 @@ resources:
   format: HTML
   name: Street Lane Closure EUN (Metadata)
   url: https://www.arcgis.com/home/item.html?id=9010d26d9deb4cdb9bd8fbc45a8e55f5
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Street Lane Closure Emergency Utility Network
+usage: null
 ---

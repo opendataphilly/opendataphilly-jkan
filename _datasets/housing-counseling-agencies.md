@@ -1,17 +1,23 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
 - Health / Human Services
 - Real Estate / Land Records
-extras: {}
+created: '2015-11-30T20:19:08.655631'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "OHCD has long supported neighborhood-based and citywide organizations offering\
   \ housing counseling services to low- and moderate-income people. OHCD-funded services\
   \ provided by these agencies include mortgage counseling, default and delinquency\
   \ counseling, tenant support and housing consumer education. Through these services\
-  \ prospective homeowners can avoid predatory loans, a significant cause of foreclosure."
+  \ prospective homeowners can avoid predatory loans, a significant cause of foreclosure.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -38,9 +44,12 @@ resources:
   format: HTML
   name: Housing Counseling Agencies (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5654bc6d38317f7a1b7d0bdb/representationdetails/565ca9c095ee49602a610a7f/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
 - Division of Housing and Community Development
+time_period: null
 title: Housing Counseling Agencies
+usage: null
 ---

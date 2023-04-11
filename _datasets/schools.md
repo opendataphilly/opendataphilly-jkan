@@ -1,15 +1,13 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Education
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Department of Planning and Development
-  Maintainer Link: http://philaplanning.org/
-  Maintainer Phone: 215-683-4600
-  Usage: Public Use; Free
+created: '2014-12-08T21:57:28.065312'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
+maintainer_link: http://philaplanning.org/
+maintainer_phone: 215-683-4600
 notes: "Data includes points identifying public schools, charter schools, many private\
   \ schools, school annexes, and athletic fields and facilities. The types of data\
   \ were extended from previous schools layers in order to assist the Streets Department\
@@ -17,7 +15,9 @@ notes: "Data includes points identifying public schools, charter schools, many p
   \ provides information on public, private, charter and archdiocesan schools. Please\
   \ keep in mind that this data, particularly with regards to enrollment, is constantly\
   \ changing or is not publicly available. If you have specific questions about a\
-  \ school, please contact that facility directly.__"
+  \ school, please contact that facility directly.__\r\n\r\nTrouble downloading or\
+  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -40,8 +40,11 @@ resources:
   format: HTML
   name: School Facilities (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543866320583086178c4ef1/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Schools
+usage: Public Use; Free
 ---

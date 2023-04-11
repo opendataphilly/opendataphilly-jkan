@@ -1,11 +1,17 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2021-07-27T16:34:46.779241'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "A digital elevation model (DEM) is a digital model or 3D representation of\
-  \ a terrain's surface, created from terrain elevation data."
+  \ a terrain's surface, created from terrain elevation data.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -48,9 +54,12 @@ resources:
   format: HTML
   name: 2008 DEM (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/569582e508cf5d0714accfe2/representationdetails/569582e608cf5d0714accfe4/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Innovation and Technology
 - PASDA
+time_period: null
 title: Digital Elevation Model (DEM)
+usage: null
 ---

@@ -1,15 +1,21 @@
 ---
+area_of_interest: null
 category:
 - Public Safety
 - Transportation
-extras: {}
+created: '2017-10-02T18:20:34.562755'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "This dataset contains a modified version of street centerlines used for spatial\
   \ analysis to derive the High Injury Network (HIN). This version has been arrived\
   \ at, using steps described in the methodology for High Injury Network. See the\
-  \ Metadata link for an attached PDF describing the methodology."
+  \ Metadata link for an attached PDF describing the methodology.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -36,10 +42,13 @@ resources:
   format: HTML
   name: 2017 Street Centerlines for HIN (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/59d24da9379d9e2cdb6fc34e/representationdetails/59d24daa379d9e2cdb6fc355/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - injury
 - office of transportation and infrastructure systems
 - streets
+time_period: null
 title: Street Centerlines for Vision Zero High Injury Network 2017
+usage: null
 ---

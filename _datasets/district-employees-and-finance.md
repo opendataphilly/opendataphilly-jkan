@@ -1,11 +1,15 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2018-05-18T19:45:33.567212'
 license: License Not Specified
 maintainer: ''
 maintainer_email: opendata@philasd.org
+maintainer_link: null
+maintainer_phone: null
 notes: Expenditures, employee information, teacher attendance, teacher demographics,
   budgets, and full-time employees
+opendataphilly_rating: null
 organization: School District of Philadelphia
 resources:
 - description: 2015-2022 budget
@@ -32,8 +36,11 @@ resources:
   format: CSV
   name: Full-time Employees
   url: https://www.philasd.org/performance/programsservices/open-data/district-information/#fte
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Education
+time_period: null
 title: District Employees and Finance
+usage: null
 ---

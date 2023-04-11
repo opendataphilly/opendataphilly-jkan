@@ -1,12 +1,15 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Planning / Zoning
 - Real Estate / Land Records
-extras: {}
+created: '2016-09-22T21:14:38.869844'
 license: Other (City of Philadelphia)
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Information regarding applications for licenses required by the City to conduct\
   \ certain business activities. Licenses are required for individuals and businesses\
   \ to engage in select commercial activities. For example, vendors and restaurants\
@@ -14,7 +17,10 @@ notes: "Information regarding applications for licenses required by the City to 
   \ and contractors, require a license in order to practice their trade.\r\n\r\nInformation\
   \ includes license application type, applicant, property for which the license would\
   \ be issued, application date, issue date, and expiration date. Data is accurate;\
-  \ however, it may be misinterpreted by an unfamiliar user."
+  \ however, it may be misinterpreted by an unfamiliar user.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -41,9 +47,12 @@ resources:
   format: HTML
   name: L&I Business Licenses (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543865a20583086178c4ed2/representationdetails/5e985a5e344ed50018936bb8/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
 - Visualization
+time_period: null
 title: Licenses and Inspections Business Licenses
+usage: null
 ---

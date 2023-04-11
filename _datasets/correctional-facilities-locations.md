@@ -1,13 +1,16 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Police Department
-  Department Phone: 215-686-1577
+created: '2015-06-09T20:24:46.113866'
 license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "These layers illustrate 10 correctional facilities in the City, administered\
-  \ by the Philadelphia Prisons System."
+  \ by the Philadelphia Prisons System.\r\n\r\nTrouble downloading or have questions\
+  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -50,8 +53,11 @@ resources:
   format: HTML
   name: Correctional Facilities - Polygons (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/55774240220d94f32b2107a6/representationdetails/56731bc259baa355023e2867/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Police Department
+time_period: null
 title: Correctional Facilities Locations
+usage: null
 ---

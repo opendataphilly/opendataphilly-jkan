@@ -1,15 +1,14 @@
 ---
+area_of_interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery,
+  Philadelphia counties)
 category:
 - Transportation
-extras:
-  Area of Interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery,
-    Philadelphia counties)
-  Maintainer Link: http://www.septa.org/cs/comment/
-  Maintainer Phone: 215-580-7276
-  Usage: Public Use
+created: '2014-12-08T21:52:23.182526'
 license: License Not Specified
 maintainer: null
 maintainer_email: mzaleski@septa.org
+maintainer_link: http://www.septa.org/cs/comment/
+maintainer_phone: 215-580-7276
 notes: "The SEPTA Next to Arrive application provides users with real-time schedule\
   \ train information for trips on the SEPTA Regional Rail system. Users identify\
   \ their beginning and destination stations and receive information on the next four\
@@ -43,6 +42,7 @@ notes: "The SEPTA Next to Arrive application provides users with real-time sched
   \ Upsal, Villanova, Wallingford, Warminster, Washington Lane, Wayne Jct, Wayne Station,\
   \ West Trenton, Whitford, Willow Grove, Wilmington, Wissahickon, Wister, Woodbourne,\
   \ Wyndmoor, Wynnefield Avenue, Wynnewood, Yardley\r\n"
+opendataphilly_rating: null
 organization: SEPTA
 resources:
 - description: ''
@@ -53,7 +53,10 @@ resources:
   format: HTML
   name: SEPTA Next To Arrive JSON
   url: http://www3.septa.org/hackathon/NextToArrive/
-schema: default
+schema: philadelphia
+source: null
 tags: []
+time_period: null
 title: SEPTA Next to Arrive
+usage: Public Use
 ---
