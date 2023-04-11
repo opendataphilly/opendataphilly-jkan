@@ -1,15 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras:
-  department: Philadelphia Water Department
+created: '2015-10-15T02:19:34.441360'
 license: Other (City of Philadelphia)
 maintainer: Angeline Zamorski
 maintainer_email: angeline.zamorski@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Every call received by the Customer Information Unit for issues like open\
   \ hydrants, cave ins, and more. Calls are categorized as to the type of issue at\
   \ hand. Includes outcomes of calls. Billing matters are referred to the Water Revenue\
-  \ Bureau."
+  \ Bureau.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -24,8 +28,11 @@ resources:
   format: HTML
   name: Customer Service Calls (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/560184fc077169215719b5a5/representationdetails/561f12d775d3fc3a4c7beb7b/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: PWD Customer Service Calls
+usage: null
 ---

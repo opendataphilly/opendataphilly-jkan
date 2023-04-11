@@ -1,10 +1,13 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras: {}
+created: '2019-06-22T22:01:03.325578'
 license: License Not Specified
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "DRB2070 Version 1.0 represents a baseline forecast of urban land cover in\
   \ the Delaware River Basin (DRB) out to the year 2070. It was developed by the Delaware\
   \ River Basin Land Use Dynamics Project at Shippensburg Unviersity. The forecasts\
@@ -17,6 +20,7 @@ notes: "DRB2070 Version 1.0 represents a baseline forecast of urban land cover i
   \n - https://drbproject.org/wp-content/uploads/sites/101/2017/03/DRB2070_v1.pdf\
   \ - March 2017\r\n - https://drbproject.org/wp-content/uploads/2017/07/DRB2070_v2.pdf\
   \ - July 2017\r\n"
+opendataphilly_rating: null
 organization: Shippensburg University of Pennsylvania
 resources:
 - description: The 2070 forecast is summarized as NHDPlus catchments (2001, 2011,
@@ -39,7 +43,10 @@ resources:
   format: HTML
   name: DRB Development Forecast v2 StoryMap 2011, 2030, and 2070
   url: https://ship.maps.arcgis.com/apps/MapSeries/index.html?appid=8dea935b1701406b9d8dfbd75031bbdb
-schema: default
+schema: philadelphia
+source: https://drbproject.org/
 tags: []
+time_period: null
 title: Delaware River Basin 2070 Land Cover Forecast
+usage: null
 ---

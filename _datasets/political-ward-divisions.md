@@ -1,20 +1,19 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Boundaries
 - Elections / Politics
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Department of Planning and Development
-  Maintainer Link: http://www.philaplanning.org
-  Maintainer Phone: 215-683-4611
-  OpenDataPhilly Rating: '5'
-  Usage: Public Use
+created: '2014-12-08T22:56:02.445787'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: Darshna.Patel@phila.gov
+maintainer_link: http://www.philaplanning.org
+maintainer_phone: 215-683-4611
 notes: "Boundaries of the ward divisions (subunits of wards) in Philadelphia. The\
   \ first two numbers of a four number division identifier indicates the ward in which\
-  \ the specific division is located."
+  \ the specific division is located.\r\n\r\nTrouble downloading or have questions\
+  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: '5'
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -37,8 +36,11 @@ resources:
   format: HTML
   name: Political Ward Divisions (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543866f20583086178c4f25/representationdetails/55438ab79b989a05172d0d5c/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Political Ward Divisions
+usage: Public Use
 ---

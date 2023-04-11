@@ -1,11 +1,14 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Health / Human Services
-extras: {}
+created: '2020-04-24T15:21:21.961405'
 license: Other (City of Philadelphia)
 maintainer: PublicHealthInfo@phila.gov
 maintainer_email: PublicHealthInfo@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "***As of May 2022, these datasets moved from daily updates to weekly updates\
   \ every Monday.***\r\n\r\n**For greatest accuracy, please use the latest dataset\
   \ for all analysis and reporting as opposed to any data you downloaded prior to\
@@ -17,7 +20,10 @@ notes: "***As of May 2022, these datasets moved from daily updates to weekly upd
   \ missing from the data.**\r\n\r\nDeidentified, aggregate datasets showing COVID\
   \ tests by date, zip, and outcome and cases by race, age or sex.  To protect the\
   \ confidentiality of residents, PDPH suppresses the exact data for any categories\
-  \ that have less than 6 counts (i.e. of tests or fatalities)."
+  \ that have less than 6 counts (i.e. of tests or fatalities).\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -119,10 +125,13 @@ resources:
   format: Metadata
   name: COVID Cases by Race (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5ea725f6890f920015c17af8/representationdetails/5f0db610b084460016abaf14/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - COVID-19
 - Coronavirus
 - Philadelphia Department of Public Health
+time_period: null
 title: COVID Tests and Cases
+usage: null
 ---

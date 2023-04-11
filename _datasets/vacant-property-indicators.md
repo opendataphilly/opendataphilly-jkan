@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2016-11-14T17:46:54.215540'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: tim.haynes@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The location of properties across Philadelphia that are likely to be a vacant\
   \ lot or vacant building based on an assessment of City of Philadelphia administrative\
-  \ datasets."
+  \ datasets.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -69,8 +74,11 @@ resources:
   format: HTML
   name: Vacant Property Indicators - Points (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/58078697d414285d25b14e3c/representationdetails/59c154f1c8357d22ed035e66/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
+time_period: null
 title: Vacant Property Indicators
+usage: null
 ---

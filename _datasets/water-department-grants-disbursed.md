@@ -1,16 +1,13 @@
 ---
+area_of_interest: Grants
 category:
 - Environment
-extras:
-  Area of Interest: Grants
-  Department: Water Department
-  Maintainer Phone: (215) 685-6300
-  Time Period: FY 2014 to FY 2014
-  Update Frequency: Quarterly
-  Usage: No limitations.
+created: '2014-12-08T22:47:01.762609'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
+maintainer_link: null
+maintainer_phone: (215) 685-6300
 notes: "Collection Process:  This data set reflects the recipients, award amounts,\
   \ and project sites for grant money disbursed by the Philadelphia Water Department.\
   \ It includes the Stormwater Management Incentive Program, the Soak It Up! Adoption\
@@ -20,7 +17,9 @@ notes: "Collection Process:  This data set reflects the recipients, award amount
   \ assistance to reduce their stormwater bill.\r\nIntended Audience:  It can also\
   \ be useful to community organizations interested in serving as stewards of green\
   \ infrastructure located in their area. And it can be useful to businesses impacted\
-  \ by PWD projects."
+  \ by PWD projects.\r\n\r\nTrouble downloading or have questions about this City\
+  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -64,8 +63,11 @@ resources:
   format: HTML
   name: GSI SoakItUp Adoption Sites (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543867620583086178c4f43/representationdetails/5618025d210ba1dc0238ce6c/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: FY 2014 to FY 2014
 title: Water Department Grants Disbursed
+usage: No limitations.
 ---

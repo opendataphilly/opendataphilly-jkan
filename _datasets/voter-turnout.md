@@ -1,13 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Elections / Politics
-extras:
-  Department: City Commissioners
+created: '2015-03-17T18:23:09.958989'
 license: Other (City of Philadelphia)
 maintainer: Seth Bluestein
 maintainer_email: seth.bluestein@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Information regarding individuals who have voted and when. This data is broken\
-  \ down into various reports for voter, election, and district information."
+  \ down into various reports for voter, election, and district information.\r\n\r\
+  \nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -86,8 +91,11 @@ resources:
   format: HTML
   name: Voter Turnout 2014 General Metadata
   url: http://metadata.phila.gov/#home/datasetdetails/5543868120583086178c4f73/representationdetails/55438acf9b989a05172d0d82/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - City Commissioners
+time_period: null
 title: Voter Turnout
+usage: null
 ---

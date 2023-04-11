@@ -1,17 +1,17 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Environment
-extras:
-  Area of Interest: City of Philadelphia
-  Data Formats: .las, FileGeodatabase
-  Department: Office of Innovation & Technology
-  Department Phone: 215-686-8101
-  Usage: Free; Pubic Use;
+created: '2014-12-08T22:08:29.229053'
 license: Other (City of Philadelphia)
 maintainer: Office of Innovation & Technology
 maintainer_email: maps@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "LiDAR and LAS data was gathered for the City of Philadelphia in April 2008,\
-  \ April 2010 and April 2018."
+  \ April 2010 and April 2018.\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -62,9 +62,12 @@ resources:
   format: HTML
   name: 2008  LiDAR - LAS Files (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543864520583086178c4e76/representationdetails/55438a809b989a05172d0cf6/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Innovation and Technology
 - PASDA
+time_period: null
 title: LiDAR-LAS data
+usage: Free; Pubic Use;
 ---

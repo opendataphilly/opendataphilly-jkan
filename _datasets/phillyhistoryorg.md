@@ -1,18 +1,15 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Arts / Culture / History
 - Real Estate / Land Records
 - Transportation
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Records Department
-  Maintainer Link: http://www.phillyhistory.org
-  OpenDataPhilly Rating: '10'
-  Time Period: 1850 - present
-  Usage: Public Use; Free
+created: '2014-12-08T22:11:26.185443'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: info@phillyhistory.org
+maintainer_link: http://www.phillyhistory.org
+maintainer_phone: null
 notes: "PhillyHistory.org is an online database of historic photographs and maps from\
   \ the Philadelphia City Archives and four additional area institutions. A project\
   \ of the City of Philadelphia Department of Records, the database contains images\
@@ -20,7 +17,9 @@ notes: "PhillyHistory.org is an online database of historic photographs and maps
   \ intersection, place name, and neighborhood as well as keyword, date, collection,\
   \ topics, and other criteria. Images and maps are associated with a location using\
   \ the database's geocoding feature. Users can create a free account to save images,\
-  \ bookmark searches, and submit error reports."
+  \ bookmark searches, and submit error reports.\r\n\r\nTrouble downloading or have\
+  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: '10'
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -35,8 +34,11 @@ resources:
   format: RSS
   name: PhillyHistory.org RSS Feed
   url: http://www.phillyhistory.org/PhotoArchive/RssFeed.ashx
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Records Department
+time_period: 1850 - present
 title: PhillyHistory.org
+usage: Public Use; Free
 ---

@@ -1,13 +1,16 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
-extras: {}
+created: '2015-06-09T05:19:35.311377'
 license: Other (City of Philadelphia)
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This layer was developed to aid the Traffic Division in planning, organizing,\
   \ and maintaining traffic flow within the City of Philadelphia.  Examples include:\
   \  the maintenance and placing of stop signs and signals and monitoring street travel\
@@ -16,8 +19,10 @@ notes: "This layer was developed to aid the Traffic Division in planning, organi
   \ It can tell you if both sides of the arc belong to one of the bounding polygons.\
   \  All the arcs, including those with no boundary info, have naming attributes for\
   \ labeling the polygon borders.  Contact the Streets GIS unit for public consumption\
-  \ of the corresponding arc layer.\r\
+  \ of the corresponding arc layer.\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
   \n"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -60,8 +65,11 @@ resources:
   format: HTML
   name: Traffic PM Districts - Line (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8138f15fcb6c6ed4414a/representationdetails/5571b1c8e4fb1d91393c21ac/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Traffic Preventative Maintenance Districts
+usage: null
 ---

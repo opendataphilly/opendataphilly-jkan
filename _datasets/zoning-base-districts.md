@@ -1,21 +1,22 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Boundaries
 - Planning / Zoning
 - Real Estate / Land Records
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Department of Planning and Development
-  Maintainer Link: http://www.phila.gov/cityplanning
-  Maintainer Phone: 215-683-4600
-  Usage: Public Use; Free
+created: '2014-12-08T22:25:43.766959'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
+maintainer_link: http://www.phila.gov/cityplanning
+maintainer_phone: 215-683-4600
 notes: "Polygon boundaries of Zoning Base Districts based on existing City zoning\
   \ districts with revised codes applied per enactment of the new Zoning Code of December\
   \ 2011, made effective August 22, 2012. District boundaries unchanged from previous\
-  \ zoning with the exception of certain CMX2 / CMX2.5 splits."
+  \ zoning with the exception of certain CMX2 / CMX2.5 splits.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -58,8 +59,11 @@ resources:
   format: HTML
   name: Zoning Base Districts Pre August 2012 (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864920583086178c4e88/representationdetails/55ad4037d9d387ba1648d2b9/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Zoning Base Districts
+usage: Public Use; Free
 ---

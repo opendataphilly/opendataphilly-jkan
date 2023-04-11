@@ -1,13 +1,14 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Real Estate / Land Records
-extras:
-  Department: Streets Department
-  Department Phone: 215-686-5560
+created: '2015-01-21T04:06:46.553387'
 license: Other (City of Philadelphia)
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "A code violation notice is issued from the Street's department when a person\
   \ has violated one or more codes in the City of Philadelphia or violated one or\
   \ more Streets Department rules and regulations. A code violation notice (CVN) is\
@@ -20,7 +21,9 @@ notes: "A code violation notice is issued from the Street's department when a pe
   \ datasets for all years.** \r\n\r\n**If you are comfortable with APIs, you can\
   \ also use the API links to access this data. You can learn more about how to use\
   \ the API at Carto\u2019s SQL API site and in the Carto guide in the section on\
-  \ making calls to the API.**"
+  \ making calls to the API.**\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -175,8 +178,11 @@ resources:
   format: HTML
   name: Code Violation Notices Metadata
   url: http://metadata.phila.gov/#home/datasetdetails/5543865120583086178c4ead/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Street's Code Violation Notices
+usage: null
 ---

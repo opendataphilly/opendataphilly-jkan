@@ -1,11 +1,15 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-05-08T03:07:46.125457'
 license: Other (Non-Commercial)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: SEPTA schedule and location information in GTFS format.  Please use GitHub
   (https://github.com/septadev/GTFS/) or Google group (https://groups.google.com/forum/#!forum/septadev)
+opendataphilly_rating: null
 organization: SEPTA
 resources:
 - description: Each new release is posted on GitHub. Each zip file contains a separate
@@ -21,8 +25,11 @@ resources:
   format: GTFS
   name: Current GTFS file
   url: http://www3.septa.org/developer/
-schema: default
+schema: philadelphia
+source: http://www.septa.org/developer/
 tags:
 - transportation
+time_period: null
 title: SEPTA GTFS
+usage: null
 ---

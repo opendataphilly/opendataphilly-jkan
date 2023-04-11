@@ -1,4 +1,5 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Education
@@ -7,12 +8,17 @@ category:
 - Health / Human Services
 - Planning / Zoning
 - Public Safety
-extras: {}
+created: '2022-05-03T18:27:22.197394'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "The latest air quality sensor readings managed by the Air Management Systems\
-  \ (AMS) division of the Philadelphia Department of Public Health (PDPH)"
+  \ (AMS) division of the Philadelphia Department of Public Health (PDPH)\r\n\r\n\
+  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -35,10 +41,13 @@ resources:
   format: HTML
   name: Latest core site readings (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5554b3720eb18d837ab45ae2/representationdetails/626ae9dc25c384001f0247cd/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Air Management Systems
 - Philadelphia Department of Public Health
 - air quality
+time_period: null
 title: AMS Latest Air Quality Sensor Readings
+usage: null
 ---

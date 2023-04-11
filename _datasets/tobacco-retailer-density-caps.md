@@ -1,9 +1,12 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2022-11-28T22:30:28.388509'
 license: Other (City of Philadelphia)
 maintainer: nykesha.johnson@phila.gov
 maintainer_email: nykesha.johnson@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Tobacco Retailer Density Caps for each planning district included in the tobacco\
   \ retailing regulations. This part of the regulation prohibits new tobacco retailer\
   \ permits in capped planning districts. Capped districts refer to districts where\
@@ -11,6 +14,7 @@ notes: "Tobacco Retailer Density Caps for each planning district included in the
   \ estimates. For more information visit: [Tobacco Retailing](http://www.phila.gov/health/Commissioner/regulationtobaccoretailing.html).\r\
   \n\r\nVisit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
   \n"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,9 +37,12 @@ resources:
   format: HTML
   name: Tobacco Retailer Density Caps (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/6376a4753f9b210021ceca10/representationdetails/6376a4753f9b210021ceca1f/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
 - Tobacco
+time_period: null
 title: Tobacco Retailer Density Caps
+usage: null
 ---

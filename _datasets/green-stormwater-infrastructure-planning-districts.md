@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras: {}
+created: '2015-06-10T14:27:25.872719'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "District planning areas for Green City, Clean Waters stormwater management\
-  \ strategic planning. "
+  \ strategic planning. \r\n\r\nTrouble downloading or have questions about this City\
+  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,8 +34,11 @@ resources:
   format: HTML
   name: GSI Planning Districts (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/557f30c5dcec614c29ce8b6c/representationdetails/603500035a6419001b751794/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Green Stormwater Infrastructure Planning Districts
+usage: null
 ---

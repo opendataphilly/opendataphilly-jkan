@@ -1,19 +1,24 @@
 ---
+area_of_interest: null
 category:
 - Public Safety
 - Real Estate / Land Records
-extras: {}
+created: '2015-05-27T17:25:21.594800'
 license: Other (City of Philadelphia)
 maintainer: LIGISTEAM@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Violations issued by the Department of Licenses and Inspections in reference\
   \ to the Philadelphia Building Construction and Occupancy Code.\r\n\r\n**Please\
   \ note that L&I Violations is a very large dataset. To see all violations, download\
   \ all datasets for all years.** \r\n\r\n**If you are comfortable with APIs, you\
   \ can also use the API links to access this data. You can learn more about how to\
   \ use the API at Carto\u2019s SQL API site and in the Carto guide in the section\
-  \ on making calls to the API.**\r\
+  \ on making calls to the API.**\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
   \n"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -171,8 +176,11 @@ resources:
   format: HTML
   name: L&I Contractor Violations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543ca7a5c4ae4cd66d3ff86/representationdetails/60a56925ef206f001ed69179/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
+time_period: null
 title: Licenses and Inspections Code Violations
+usage: null
 ---

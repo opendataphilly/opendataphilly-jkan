@@ -1,15 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Parks / Recreation
-extras:
-  Department: Police Department
-  Update Frequency: As Needed
-  Usage: Public Use, Free;
+created: '2014-12-08T22:32:44.706340'
 license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This data was developed for cartographic use -- specifically, as reference\
-  \ information for the Police Athletic League."
+  \ information for the Police Athletic League.\r\n\r\nTrouble downloading or have\
+  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -32,8 +34,11 @@ resources:
   format: HTML
   name: PAL Centers (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867420583086178c4f3a/representationdetails/55438ac49b989a05172d0d70/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Police Department
+time_period: null
 title: Police Athletic League (PAL) Centers
+usage: Public Use, Free;
 ---

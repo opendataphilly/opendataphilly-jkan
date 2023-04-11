@@ -1,15 +1,20 @@
 ---
+area_of_interest: null
 category:
 - Arts / Culture / History
 - Economy
 - Health / Human Services
 - Planning / Zoning
-extras: {}
+created: '2020-07-02T20:13:46.923823'
 license: Other (City of Philadelphia)
 maintainer: Dan Whaland
 maintainer_email: daniel.whaland@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Locations and basic information on public art that is part of the Percent\
-  \ for Art program. Updated as needed. "
+  \ for Art program. Updated as needed. \r\n\r\nTrouble downloading or have questions\
+  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -34,8 +39,11 @@ resources:
   format: Metadata
   name: Percent for Art Locations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5ee1478f01459a00156f153f/representationdetails/5ee147f501459a00156f201f/?view_287_page=1
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Percent for Art Locations
+usage: null
 ---

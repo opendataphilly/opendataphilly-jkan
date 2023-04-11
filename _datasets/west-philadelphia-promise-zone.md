@@ -1,17 +1,21 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Education
 - Health / Human Services
 - Planning / Zoning
-extras:
-  Department: Mayor's Office of Community Empowerment and Opportunity
-  Department Phone: 215-685-3600
+created: '2015-02-26T17:33:19.437078'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Area designated by the U.S. Department of Housing and Urban Development deeming\
-  \ West Philadelphia as a Promise Zone. Click here to learn more about promise zones."
+  \ West Philadelphia as a Promise Zone. Click here to learn more about promise zones.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -34,9 +38,12 @@ resources:
   format: HTML
   name: West Philadelphia Promise Zone (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/55f9b0fc10e850c854d2eff8/representationdetails/56279fe7c8393fce6caca842/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
 - Mayors Office of Community Empowerment and Opportunity
+time_period: null
 title: West Philadelphia Promise Zone
+usage: null
 ---

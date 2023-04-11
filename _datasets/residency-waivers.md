@@ -1,17 +1,22 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
 - Economy
-extras: {}
+created: '2022-08-26T12:24:44.345925'
 license: Other (City of Philadelphia)
 maintainer: Jerome Lomax
 maintainer_email: jerome.lomax@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The table below shows which job positions have received a waiver from the\
   \ following residency requirements.\r\n\r\nTo get a job with the City, you must\
   \ fulfill certain residency requirements:\r\n-Exempt positions: You must move to\
   \ Philadelphia within six months after your appointment date.\r\n-Civil service\
   \ positions: you must live in Philadelphia for one year before your appointment\
-  \ date."
+  \ date.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
+  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -26,7 +31,10 @@ resources:
   format: HTML
   name: Residency Waivers (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/63065d27c87ca20022c50942/representationdetails/63065d27c87ca20022c50951/
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: Residency Waivers
+usage: null
 ---

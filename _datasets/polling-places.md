@@ -1,19 +1,20 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Elections / Politics
-extras:
-  Area of Interest: City of Philadelphia
-  Department: City Commissioners
-  Maintainer Link: "www.philadelphiavotes.com/\u200E"
-  Maintainer Phone: 215-557-3600
-  Usage: Public Use; Free
+created: '2014-12-08T22:26:32.294770'
 license: Other (City of Philadelphia)
 maintainer: Seth Bluestein
 maintainer_email: seth.bluestein@phila.gov
+maintainer_link: "www.philadelphiavotes.com/\u200E"
+maintainer_phone: 215-557-3600
 notes: "The locations of polling places in Philadelphia, along with parking code and\
   \ building accessibility code attribute markers. Data is originally provided by\
   \ the Philadelphia City Commissioners and is continuously updated in correspondence\
-  \ with the City Commissioners website, www.philadelphiavotes.com."
+  \ with the City Commissioners website, www.philadelphiavotes.com.\r\n\r\nTrouble\
+  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -36,8 +37,11 @@ resources:
   format: Metadata
   name: Polling Places (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867e20583086178c4f68/representationdetails/5571b1bce4fb1d91393c2157/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - City Commissioners
+time_period: null
 title: Polling Places
+usage: Public Use; Free
 ---

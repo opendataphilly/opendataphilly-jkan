@@ -1,17 +1,20 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
 - Parks / Recreation
-extras:
-  Department: Parks & Recreation
-  Department Phone: 215-686-1776
+created: '2015-01-16T16:37:08.456601'
 license: Other (City of Philadelphia)
 maintainer: Parks & Recreation
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Polygon boundaries of Philadelphia Parks and Recreation (PPR) operational\
   \ districts as established by PPR's GIS staff and reviewed, revised, and approved\
   \ by PPR's executive staff. These boundaries were revised from boundaries that were\
-  \ in place in prior years."
+  \ in place in prior years.\r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -58,8 +61,11 @@ resources:
   format: HTML
   name: 2011 PPR Districts (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/57c9fe0829250a01219e87a9/representationdetails/57c9fe0829250a01219e87ad/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
+time_period: null
 title: Parks & Recreation Districts
+usage: null
 ---

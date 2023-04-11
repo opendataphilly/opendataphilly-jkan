@@ -1,18 +1,21 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
 - Public Safety
-extras:
-  Department: Police Department
-  Department Phone: 215-686-1577
-  Usage: Public Use; Free
+created: '2014-12-08T22:34:27.848090'
 license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "There are currently 65 Police Service Areas (PSA) boundaries in Philadelphia\
   \ with two to four per District. These boundaries replaced a much smaller boundary,\
   \ Sectors in 2009. In several Districts, PSA's split Sector boundaries and therefore\
-  \ a historical comparison would not necessarily be accurate."
+  \ a historical comparison would not necessarily be accurate.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -35,8 +38,11 @@ resources:
   format: HTML
   name: Police Service Areas (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543864420583086178c4e75/representationdetails/55438a809b989a05172d0cf4/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Police Department
+time_period: null
 title: Police Service Areas
+usage: Public Use; Free
 ---

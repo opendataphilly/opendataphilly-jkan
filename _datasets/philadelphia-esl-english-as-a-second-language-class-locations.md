@@ -1,12 +1,18 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2017-06-05T13:45:27.838672'
 license: Other (City of Philadelphia)
 maintainer: Office of Adult Education
 maintainer_email: catherine.freimiller@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Location of English as a Second Language (ESL) classes in Philadelphia. To\
   \ find the best site to visit for ESL classes, or to enroll in training for volunteers\
-  \ to become an ESL tutor, please contact the Office of Adult Education at 215-686-5250."
+  \ to become an ESL tutor, please contact the Office of Adult Education at 215-686-5250.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,9 +39,12 @@ resources:
   format: ''
   name: Philadelphia ESL Class Locations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/59303111dad141495c52d9db/representationdetails/59303112dad141495c52d9df/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - ESL
 - Office of Adult Education
+time_period: null
 title: Philadelphia ESL (English as a Second Language) Class Locations
+usage: null
 ---

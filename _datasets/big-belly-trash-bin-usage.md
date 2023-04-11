@@ -1,11 +1,15 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Streets Department
+created: '2015-06-25T17:21:24.464458'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: 
+maintainer_link: null
+maintainer_phone: null
+notes: Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly
+  Discussion Group](http://www.phila.gov/data/discuss/)
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -20,8 +24,11 @@ resources:
   format: HTML
   name: Big Belly Collections Metadata
   url: http://metadata.phila.gov/#home/datasetdetails/5543866e20583086178c4f1e/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Big Belly Trash Bin Usage
+usage: null
 ---

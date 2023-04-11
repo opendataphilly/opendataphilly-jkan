@@ -1,12 +1,15 @@
 ---
+area_of_interest: null
 category:
 - Planning / Zoning
 - Public Safety
 - Real Estate / Land Records
-extras: {}
+created: '2016-09-22T14:01:30.276425'
 license: Other (City of Philadelphia)
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The Department of Licenses and Inspections accepts applications for appeals\
   \ of various violations, refusals, revocations, and denials to the following Boards:\r\
   \n*Board of Building Standards \r\n*Licenses and Inspections (L&I) Review Board\r\
@@ -15,7 +18,9 @@ notes: "The Department of Licenses and Inspections accepts applications for appe
   \ and what the status/results of the court proceedings are. Some Appeal numbers\
   \ could have multiple appeal types, so those are provided as a dataset below as\
   \ well. \r\n\r\nThe Board Decisions datasets shows the decisions made by the Appeal\
-  \ Boards (LIRB, ZBA, BBS)."
+  \ Boards (LIRB, ZBA, BBS).\r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -79,8 +84,11 @@ resources:
   format: HTML
   name: L&I Board Decisions (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5981e6ae90e53c5054148db1/representationdetails/5e9864449452850017b87407/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
+time_period: null
 title: Licenses and Inspections Appeals of Code Violations and Permit Refusals
+usage: null
 ---

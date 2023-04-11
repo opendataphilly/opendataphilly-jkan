@@ -1,16 +1,20 @@
 ---
+area_of_interest: null
 category:
 - Public Safety
 - Transportation
-extras:
-  Department: Mayor's Office of Transportation & Utilities
+created: '2015-06-01T16:54:30.397013'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "This data set contains crash data for the years 2007-2020 from the Pennsylvania\
   \ Department of Transportation (Penn DOT). This is a subset of the [annual Crash\
   \ Data compiled](https://crashinfo.penndot.gov/PCIT/welcome.html) and released by\
-  \ Penn DOT for the entire state."
+  \ Penn DOT for the entire state.\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: This is a subset of the annual Crash Data compiled and released by
@@ -121,8 +125,11 @@ resources:
   format: HTML
   name: TAZ Aggregated Crash Data 2011-2013 (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543865420583086178c4eba/representationdetails/55708cb1769f8e8c48483217/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Mayors Office of Transportation and Utilities
+time_period: null
 title: Vehicular Crashes
+usage: null
 ---

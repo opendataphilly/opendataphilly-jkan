@@ -1,14 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Health / Human Services
-extras:
-  Department: Public Health
-  Department Phone: 215-686-5259
+created: '2015-04-24T13:46:27.485493'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Street location and types of pollutants sampled at each PDPH air monitoring\
-  \ station."
+  \ station.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: "Update frequency: Yearly\r\n"
@@ -31,8 +34,11 @@ resources:
   format: HTML
   name: Air Monitoring Stations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5554b3720eb18d837ab45ae2/representationdetails/5554b78cecbb7bb358453714/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: Air Monitoring Stations
+usage: null
 ---

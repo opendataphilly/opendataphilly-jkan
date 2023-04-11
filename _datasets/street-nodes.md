@@ -1,15 +1,20 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
-extras: {}
+created: '2015-06-09T04:14:36.650841'
 license: Other (City of Philadelphia)
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The street nodes layer was developed for use by agencies citywide including\
-  \ PWD, PCPC, Police, BRT, Health, etc. "
+  \ PWD, PCPC, Police, BRT, Health, etc. \r\n\r\nTrouble downloading or have questions\
+  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -32,8 +37,11 @@ resources:
   format: HTML
   name: Street Nodes (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8134f15fcb6c6ed44138/representationdetails/5571b1c4e4fb1d91393c2182/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Street Nodes
+usage: null
 ---

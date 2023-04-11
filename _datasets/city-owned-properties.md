@@ -1,13 +1,16 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: PHDC
-  Department Phone: 215-854-6500
+created: '2015-01-30T19:40:59.857775'
 license: Other (City of Philadelphia)
 maintainer: PHDC
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Web application displaying properties owned by the City, PHDC/RDA or other\
-  \ public entities."
+  \ public entities.\r\n\r\nTrouble downloading or have questions about this City\
+  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: A map of all properties in public ownership that are available. It
@@ -16,8 +19,11 @@ resources:
   format: HTML
   name: PHDC Land Management
   url: https://phl.maps.arcgis.com/apps/webappviewer/index.html?id=2eb44decb9464cb79f2132d1c5883674
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - PHDC
+time_period: null
 title: City Owned Properties
+usage: null
 ---

@@ -1,23 +1,23 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Planning / Zoning
 - Real Estate / Land Records
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Department of Planning and Development
-  Maintainer Link: http://www.philaplanning.org
-  Maintainer Phone: 215-686-8287
-  OpenDataPhilly Rating: '5'
-  Usage: Public Use; Free
+created: '2014-12-08T22:48:40.349259'
 license: Other (City of Philadelphia)
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
+maintainer_link: http://www.philaplanning.org
+maintainer_phone: 215-686-8287
 notes: "City of Philadelphia land use as ascribed to individual parcel boundaries\
   \ or units of land. Land use is the type of activity occurring on the land such\
   \ as residential, commercial or industrial. Each unit of land is assigned one of\
   \ nine major classifications of land use (2-digit code), and where possible a more\
   \ narrowly defined sub-classification (3-digit code). The land use feature class\
-  \ has been field checked and corrected for the following Planning Districts. "
+  \ has been field checked and corrected for the following Planning Districts. \r\n\
+  \r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: '5'
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -44,8 +44,11 @@ resources:
   format: HTML
   name: Land Use (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543864420583086178c4e74/representationdetails/55438a7f9b989a05172d0cf3/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Land Use
+usage: Public Use; Free
 ---

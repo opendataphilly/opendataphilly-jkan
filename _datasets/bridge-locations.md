@@ -1,13 +1,18 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-06-09T04:35:02.175594'
 license: Other (City of Philadelphia)
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This layer was developed to aid the Bridge Division in maintaining and referencing\
   \ the bridges of the City of Philadelphia.  Examples include: routing trucks with\
   \ height and weight restrictions through out the city, maintenance, and obtaining\
-  \ bridge number."
+  \ bridge number.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -30,8 +35,11 @@ resources:
   format: HTML
   name: Bridge Locations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8125f15fcb6c6ed440f6/representationdetails/5571b1a6e4fb1d91393c2109/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Bridge Locations
+usage: null
 ---

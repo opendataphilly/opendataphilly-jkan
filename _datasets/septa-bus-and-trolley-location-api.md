@@ -1,15 +1,14 @@
 ---
+area_of_interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery,
+  Philadelphia counties)
 category:
 - Transportation
-extras:
-  Area of Interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery,
-    Philadelphia counties)
-  Metadata Contact: Michael Zaleski
-  OpenDataPhilly Rating: '8'
-  Usage: Public use
+created: '2014-12-08T22:35:02.024204'
 license: License Not Specified
 maintainer: null
 maintainer_email: MZaleski@septa.org
+maintainer_link: null
+maintainer_phone: null
 notes: "This REST API provides real-time SEPTA vehicle positions based on a GPS data\
   \ feed for each bus and trolley.  There are two services - one returning JSON points\
   \ for the current locations of all vehicles on a particular route and one returning\
@@ -23,6 +22,7 @@ notes: "This REST API provides real-time SEPTA vehicle positions based on a GPS 
   \ format:\r\n <br>\r\nhttp://www3.septa.org/transitview/kml/var1\r\n<br><br>\r\n\
   [var1] is the name of the route.  Lettered routes must be in Caps, such as:\r\n\
   http://www3.septa.org/transitview/kml/G"
+opendataphilly_rating: '8'
 organization: SEPTA
 resources:
 - description: ''
@@ -33,7 +33,10 @@ resources:
   format: KML
   name: SEPTA Vehicle Route API (KML)
   url: http://www3.septa.org/transitview/kml/
-schema: default
+schema: philadelphia
+source: null
 tags: []
+time_period: null
 title: SEPTA Bus and Trolley Location API
+usage: Public use
 ---

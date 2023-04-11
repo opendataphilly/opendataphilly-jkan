@@ -1,20 +1,25 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
 - Economy
 - Health / Human Services
 - Real Estate / Land Records
-extras: {}
+created: '2015-12-03T14:42:25.321720'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "To prevent homeowners from becoming homeless due to foreclosure, the City\
   \ initiated the Residential Mortgage Foreclosure Prevention Program, an innovative\
   \ program that links a Court of Common Pleas order requiring that homeowners facing\
   \ foreclosure have an opportunity to meet with their lenders to negotiate an alternative\
   \ to foreclosure with City-funded housing counseling, outreach, a hotline and legal\
   \ assistance. Working together, the City and the Court have created and implemented\
-  \ a national model."
+  \ a national model.\r\n\r\nTrouble downloading or have questions about this City\
+  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,9 +34,12 @@ resources:
   format: HTML
   name: Homes Saved (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543868720583086178c4f86/representationdetails/55438ad89b989a05172d0d8f/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
 - Division of Housing and Community Development
+time_period: null
 title: Homes Saved
+usage: null
 ---

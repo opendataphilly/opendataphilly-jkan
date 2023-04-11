@@ -1,13 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras:
-  Department: Streets Department
-  Department Phone: 215-686-5560
+created: '2015-01-16T17:07:17.251755'
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
-notes: "Big Belly brand waste baskets maintained/collected by the City of Philadelphia."
+maintainer_link: null
+maintainer_phone: null
+notes: "Big Belly brand waste baskets maintained/collected by the City of Philadelphia.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -46,8 +50,11 @@ resources:
   format: HTML
   name: Big Belly Waste/Trash Bins (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8139f15fcb6c6ed4414f/representationdetails/556de53bcf0e0dca19464e91/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Big Belly Waste Baskets (Trash Bins)
+usage: null
 ---

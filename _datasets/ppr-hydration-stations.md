@@ -1,11 +1,15 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2019-04-05T18:39:30.196007'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: Locations of hydration station and water fountains on or near Philadelphia
   Parks and Recreation (PPR) assets.
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -28,11 +32,14 @@ resources:
   format: HTML
   name: PPR Hydration Stations (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5c38b6ee1726020857ac5473/representationdetails/5c38b6f01726020857ac5477/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
 - fountain
 - hydration station
 - water
+time_period: null
 title: PPR Hydration Stations
+usage: null
 ---

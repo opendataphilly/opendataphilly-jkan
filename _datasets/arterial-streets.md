@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-06-09T05:53:41.054908'
 license: Other (City of Philadelphia)
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The Arterial layer was developed to aid various city agencies with planning,\
   \ organizing, and maintaining the streets of the City of Philadelphia.  These agencies\
-  \ include PWD, PCPC, Police, BRT, Health, etc. "
+  \ include PWD, PCPC, Police, BRT, Health, etc. \r\n\r\nTrouble downloading or have\
+  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -29,8 +34,11 @@ resources:
   format: HTML
   name: Street Arterials (Metadata)
   url: https://www.arcgis.com/home/item.html?id=261eeb49dfd44ccb8a4b6a0af830fdc8
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Arterial Streets
+usage: null
 ---

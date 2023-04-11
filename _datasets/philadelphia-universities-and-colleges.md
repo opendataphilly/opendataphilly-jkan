@@ -1,14 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Education
-extras: {}
+created: '2017-06-22T13:16:48.459471'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "The purpose of this dataset is to provide the geographic locations of the\
   \ college and universities in Philadelphia along with their attribute data attached\
-  \ to each polygon.\r\
+  \ to each polygon.\r\n\r\nTrouble downloading or have questions about this City\
+  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
   \n"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -31,8 +36,11 @@ resources:
   format: HTML
   name: Universities and Colleges (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/56ccbdb319eb87e11e04a201/representationdetails/56ccbdb319eb87e11e04a203/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Philadelphia Universities and Colleges
+usage: null
 ---

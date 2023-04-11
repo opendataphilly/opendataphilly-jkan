@@ -1,16 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Transportation
-extras:
-  Department: Streets Department
-  Maintainer Link: http://www.phila.gov/streets
-  Usage: Public use; Free
+created: '2014-12-08T22:42:15.275162'
 license: Other (City of Philadelphia)
 maintainer: Michael Matela
 maintainer_email: michael.matela@phila.gov
+maintainer_link: http://www.phila.gov/streets
+maintainer_phone: null
 notes: "Please note that the dataset below is a snapshot of data captured at one time\
   \ and does not receive regular updates.\r\n\r\nThe Highway Districts dataset shows\
-  \ the boundaries of highway districts used for managing maintenance of roads. "
+  \ the boundaries of highway districts used for managing maintenance of roads. \r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -53,8 +56,11 @@ resources:
   format: HTML
   name: Highway Districts - Line (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8128f15fcb6c6ed440ff/representationdetails/5571b1b2e4fb1d91393c2134/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Highway Districts
+usage: Public use; Free
 ---

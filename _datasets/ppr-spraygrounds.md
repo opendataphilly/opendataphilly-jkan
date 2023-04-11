@@ -1,13 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Parks / Recreation
 - Planning / Zoning
-extras: {}
+created: '2019-08-26T17:59:57.415901'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
-notes: "The location of spraygrounds in Philadelphia run by Parks and Recreation."
+maintainer_link: null
+maintainer_phone: null
+notes: "The location of spraygrounds in Philadelphia run by Parks and Recreation.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,8 +36,11 @@ resources:
   format: HTML
   name: PPR Spraygrounds (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5d35ebf988c50300165e5076/representationdetails/5d35ebfc88c50300165e507f/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
+time_period: null
 title: PPR Spraygrounds
+usage: null
 ---

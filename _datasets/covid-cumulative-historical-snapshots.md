@@ -1,11 +1,14 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Health / Human Services
-extras: {}
+created: '2020-08-09T23:26:16.351308'
 license: Other (City of Philadelphia)
 maintainer: Ambient Point Data Team
 maintainer_email: data@ambientpointcorp.com
+maintainer_link: null
+maintainer_phone: null
 notes: The City of Philadelphia's datasets are snapshots published on a daily basis.
   These data sets include de-identified, aggregate datasets showing COVID-19 cases,
   hospitalizations, and deaths by date, zip code, race, and age/sex and are made available
@@ -14,6 +17,7 @@ notes: The City of Philadelphia's datasets are snapshots published on a daily ba
   and death by race and hospitalizations are accumulated since 8/15/2020. Data is
   collected from the City's data published at https://www.opendataphilly.org/showcase/philadelphia-covid-19-information
   through a daily scrape of the web site.
+opendataphilly_rating: null
 organization: Ambient Point
 resources:
 - description: ''
@@ -76,8 +80,11 @@ resources:
   format: CSV
   name: COVID-19 Hospitalizations by Zipcode
   url: https://github.com/ambientpointcorp/covid19-philadelphia/tree/master/hospitalizations_by_zipcode
-schema: default
+schema: philadelphia
+source: https://www.opendataphilly.org/showcase/philadelphia-covid-19-information
 tags:
 - public health
+time_period: null
 title: COVID Cumulative Historical Snapshots
+usage: null
 ---

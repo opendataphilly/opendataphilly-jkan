@@ -1,15 +1,18 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Basemaps
 - Boundaries
-extras:
-  Area of Interest: City of Philadelphia
-  Usage: Public Use; Free
+created: '2014-12-08T21:58:43.438282'
 license: Other (City of Philadelphia)
 maintainer: maps@phila.gov
 maintainer_email: maps@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Basemaps of the Philadelphia area, including from the Department of Records.\
-  "
+  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
+  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -55,8 +58,11 @@ resources:
   format: HTML
   name: DOR Basemap (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864e20583086178c4ea0/representationdetails/60a7bb7cab3e8a001e4f8df5/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - basemap
+time_period: null
 title: Philadelphia Basemaps
+usage: Public Use; Free
 ---

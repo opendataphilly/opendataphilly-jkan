@@ -1,11 +1,14 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
 - Economy
-extras: {}
+created: '2014-12-08T22:38:54.946558'
 license: Other (City of Philadelphia)
 maintainer: T. David Williams
 maintainer_email: t.david.williams@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The entire dataset for Professional Services Contracts by fiscal quarter are\
   \ available for download in a Microsoft Excel\xAE compatible CSV format below. ***To\
   \ download:  click on the dataset url, which will open in a new browser tab as a\
@@ -16,7 +19,10 @@ notes: "The entire dataset for Professional Services Contracts by fiscal quarter
   \ City\u2019s professional services contracts in a searchable format and includes\
   \ a breakdown of contract dollars by vendor, department and service type. It also\
   \ features a \u201Cfrequently asked questions\u201D section to help users understand\
-  \ the available data: http://cityofphiladelphia.github.io/contracts/.  "
+  \ the available data: http://cityofphiladelphia.github.io/contracts/.  \r\n\r\n\
+  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: '***To download:  click on the dataset url, which will open in a new
@@ -201,7 +207,10 @@ resources:
   format: Application
   name: Procurement contracts application
   url: http://cityofphiladelphia.github.io/contracts/commodities/
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: Professional Services Contracts
+usage: null
 ---

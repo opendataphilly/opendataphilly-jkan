@@ -1,16 +1,22 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Health / Human Services
-extras: {}
+created: '2021-02-03T14:44:35.061685'
 license: Other (City of Philadelphia)
 maintainer: PublicHealthInfo@phila.gov
 maintainer_email: PublicHealthInfo@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "***As of May 2022, these datasets moved from daily updates to weekly updates\
   \ every Monday.***\r\n\r\nShows distribution counts of first and second dose, as\
   \ well as total dose information for all vaccinations performed by the health department.\
   \ Also provides vaccinations by census tract, ZIP code, date, age, race, and sex.\
-  \ Vaccinations include residents and non-residents of Philadelphia. Updates daily."
+  \ Vaccinations include residents and non-residents of Philadelphia. Updates daily.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -139,11 +145,14 @@ resources:
   format: HTML
   name: COVID Vaccinations by Sex (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/601abeb9f910a2001ce794e2/representationdetails/604fb6ffc2a893001c2ca8c9/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - COVID-19
 - Philadelphia Department of Public Health
 - Vaccine
 - equity
+time_period: null
 title: COVID-19 Vaccinations
+usage: null
 ---

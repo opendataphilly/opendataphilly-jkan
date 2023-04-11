@@ -1,11 +1,17 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-09-22T18:27:21.085648'
 license: Other (City of Philadelphia)
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This layer identifies the active intersection controls for the Street Lighting\
-  \ and Traffic Engineering Divisions of the City of Philadelphia Streets Department."
+  \ and Traffic Engineering Divisions of the City of Philadelphia Streets Department.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -28,8 +34,11 @@ resources:
   format: HTML
   name: Intersection Controls (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555f812af15fcb6c6ed44108/representationdetails/560037a4a1ae355c7e07a0a0/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Intersection Controls
+usage: null
 ---

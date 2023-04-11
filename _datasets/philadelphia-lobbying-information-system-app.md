@@ -1,18 +1,13 @@
 ---
+area_of_interest: Lobbying
 category:
 - Elections / Politics
-extras:
-  Area of Interest: Lobbying
-  Data Formats: CSV, PDF
-  Department: Ethics Board
-  Maintainer Phone: 215 686 9450
-  Metadata Contact: Bryan McHale
-  Time Period: January 2014 - Present
-  Update Frequency: Continuously
-  Usage: No limitations
+created: '2014-12-08T22:42:43.677672'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: Lobbying@phila.gov
+maintainer_link: null
+maintainer_phone: 215 686 9450
 notes: "The Philadelphia Lobbying Information System is a searchable database of registered\
   \ lobbyists, principals and lobbying firms as well as lobbying expenses\r\n\r\n\
   The data was collected to comply with City Code Chapter 20-1200 (and Board Regulation\
@@ -22,7 +17,10 @@ notes: "The Philadelphia Lobbying Information System is a searchable database of
   \ this data is anyone with an interest in the people lobbying City government. \
   \ The data collected by PLIS is a public record intended to make the legislative\
   \ and executive process more transparent by providing the public with a clear picture\
-  \ of all of the outside interests involved in policy discussions."
+  \ of all of the outside interests involved in policy discussions.\r\n\r\nTrouble\
+  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -37,8 +35,11 @@ resources:
   format: HTML
   name: Lobbyist Registration (Metadata)
   url: http://cityofphiladelphia.github.io/metadata-catalog/#home/datasetdetails/5543868520583086178c4f81/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Board of Ethics
+time_period: January 2014 - Present
 title: Philadelphia Lobbying Information System (App)
+usage: No limitations
 ---

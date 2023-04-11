@@ -1,9 +1,12 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2019-06-22T21:26:59.466035'
 license: License Not Specified
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "High-resolution land cover dataset for the Delaware River Basin developed\
   \ by the UVM Spatial Analysis Lab. The primary data sources were 2006-2008 leaf-off\
   \ LiDAR data, 2005-2008 leaf-off orthoimagery, and 2013 leaf-on orthoimagery. Ancillary\
@@ -16,6 +19,7 @@ notes: "High-resolution land cover dataset for the Delaware River Basin develope
   \ over Structures\r\n11 - Tree Canopy over Other Impervious Surfaces\r\n12 - Tree\
   \ Canopy over Roads\r\n\r\nUVM Spatial Analysis Lab request attribution in any publications,\
   \ reports, derivative datasets, etc."
+opendataphilly_rating: null
 organization: University of Vermont Spatial Analysis Lab
 resources:
 - description: One raster dataset for each county that intersects with Delaware River
@@ -27,7 +31,10 @@ resources:
   format: TIFF
   name: Delaware River Basin High-Resolution Land Cover
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=3208
-schema: default
+schema: philadelphia
+source: https://www.uvm.edu/rsenr/sal/
 tags: []
+time_period: null
 title: Delaware River Basin High-Resolution Land Cover
+usage: null
 ---

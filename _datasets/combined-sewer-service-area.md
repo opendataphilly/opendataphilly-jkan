@@ -1,20 +1,23 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Real Estate / Land Records
-extras:
-  Department: Water Department
-  Department Phone: 215-685-6300
-  Usage: Public Use; Free
+created: '2014-12-08T22:40:36.589956'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This layer is dissolved and queried from PWD's internal sewer shed feature\
   \ class named modelsheds. The polygons in this layer are catchments for sanitary,\
   \ storm and/or combined sewer flows. These catchments are used in the hydraulic\
   \ models. Data DevelopmentBase Modelsheds are maintained regularly and delineate\
   \ waste water and stormwater and combined sewer catchments in Philadelphia. Storm\
-  \ water and waste water pipe flow are analyzed to delineate the shed boundaries."
+  \ water and waste water pipe flow are analyzed to delineate the shed boundaries.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -37,8 +40,11 @@ resources:
   format: HTML
   name: Combined Sewer Service Area (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864220583086178c4e6a/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Combined Sewer Service Area
+usage: Public Use; Free
 ---

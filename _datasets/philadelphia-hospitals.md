@@ -1,13 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Health / Human Services
-extras:
-  Update Frequency: As Needed
-  Usage: Public Use; Free
+created: '2014-12-08T22:25:05.490132'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "A list of hospitals and their location in Philadelphia."
+maintainer_link: null
+maintainer_phone: null
+notes: "A list of hospitals and their location in Philadelphia. \r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,8 +34,11 @@ resources:
   format: HTML
   name: Philadelphia Hospitals (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543867420583086178c4f38/representationdetails/55438ac29b989a05172d0d6e/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: Philadelphia Hospitals
+usage: Public Use; Free
 ---

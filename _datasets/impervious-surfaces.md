@@ -1,20 +1,19 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Environment
 - Real Estate / Land Records
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Philadelphia Water Department
-  Maintainer Link: http://www.phila.gov/water/
-  Maintainer Phone: 215-686-8287
-  OpenDataPhilly Rating: '2'
-  Usage: Public Use; Free
+created: '2014-12-08T22:54:44.588037'
 license: Other (City of Philadelphia)
 maintainer: Brian Ivey
 maintainer_email: brian.ivey@phila.gov
+maintainer_link: http://www.phila.gov/water/
+maintainer_phone: 215-686-8287
 notes: "This is one of the planimetric coverages developed as part of the aerial survey\
   \ project of 1996 and updated using new aerial photography collected between 25\
-  \ March 2004 and 23 April 2004."
+  \ March 2004 and 23 April 2004.\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: '2'
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,8 +32,11 @@ resources:
   format: HTML
   name: Impervious Surfaces (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543868720583086178c4f88/representationdetails/55438ada9b989a05172d0d91/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Impervious Surfaces
+usage: Public Use; Free
 ---

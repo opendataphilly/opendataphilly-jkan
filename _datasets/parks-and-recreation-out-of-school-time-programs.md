@@ -1,13 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Parks / Recreation
-extras:
-  Department: Public Health
-  Department Phone: 215-686-5259
+created: '2015-05-22T04:58:38.912312'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Philadelphia Parks and Recreation out-of-school time afterschool programs."
+maintainer_link: null
+maintainer_phone: null
+notes: "Philadelphia Parks and Recreation out-of-school time afterschool programs.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,9 +34,12 @@ resources:
   format: HTML
   name: PPR Out of School Time Programs (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/557f30c7dcec614c29ce8b71/representationdetails/557f30e4c579ea311699bb4e/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
 - Philadelphia Parks and Recreation
+time_period: null
 title: Parks and Recreation Out of School Time Programs
+usage: null
 ---

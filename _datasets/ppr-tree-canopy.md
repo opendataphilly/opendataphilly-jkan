@@ -1,12 +1,15 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Health / Human Services
 - Parks / Recreation
-extras: {}
+created: '2019-04-05T19:20:58.225402'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "2018 data: This dataset was developed as part of an Urban Tree Canopy (UTC)\
   \ assessment for Philadelphia,Pennsylvania. It shows how tree canopy changed during\
   \ the period 2008-2018, highlighting trees that were gained or lost during the 10-year\
@@ -16,6 +19,7 @@ notes: "2018 data: This dataset was developed as part of an Urban Tree Canopy (U
   \ off the 2015 Leaf-Off 3\" AccuPLUS Imagery representing changes in tree canopy\
   \ visible within the imagery. Heights have been derived separately for each tree\
   \ canopy outline from 2015 LiDAR data capture."
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -86,11 +90,14 @@ resources:
   format: HTML
   name: PPR 2015 Tree Canopy Points (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5c49edcfcf1222529a2e3b32/representationdetails/5c49edcfcf1222529a2e3b36?ref=ref%3Dview_280_search%253Dcanopy%2526view_280_page%253D1
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
 - canopy
 - trees
 - urban forest
+time_period: null
 title: PPR Tree Canopy
+usage: null
 ---

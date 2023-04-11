@@ -1,14 +1,18 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2019-11-04T20:11:28.659833'
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: The composite layer is an arc layer, consisting of street centerline arcs,
   city boundary arcs, generalized rail arcs, generalized hydrography arcs. This is
   a layer used by many departments to create boundaries. Used for viewing and analysis
   puposes. The composite layer is available for reference purposes only and does not
   represent exact engineering specifications.
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -31,8 +35,11 @@ resources:
   format: HTML
   name: Streets Composite (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8126f15fcb6c6ed440f9/representationdetails/56b8d547048f6c43577c6d13/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - philadelphia streets department
+time_period: null
 title: Streets Composite Layer
+usage: null
 ---

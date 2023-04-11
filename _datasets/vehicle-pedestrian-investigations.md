@@ -1,11 +1,13 @@
 ---
+area_of_interest: null
 category:
 - Public Safety
-extras:
-  department: Police Department
+created: '2016-04-21T22:08:24.449402'
 license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Police investigations of pedestrians and vehicles from the Philadelphia Police\
   \ Department. Provides details related to the location of the investigation, type\
   \ of investigation, demographics of the individual investigated, and the actions\
@@ -16,7 +18,10 @@ notes: "Police investigations of pedestrians and vehicles from the Philadelphia 
   ve split up the dataset by year. Please be sure to download data for all of the\
   \ years to see the full dataset. You can learn more about how to use the API at\
   \ [Carto\u2019s SQL API site](https://carto.com/developers/sql-api/) and in the\
-  \ [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
+  \ [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: Guided tour of the data, contextualized with other datasets
@@ -118,8 +123,11 @@ resources:
   format: HTML
   name: Vehicle & Pedestrian Inv. (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/571787614fc865407e3cf2b4/representationdetails/571787614fc865407e3cf2b8/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Police Department
+time_period: null
 title: Vehicle & Pedestrian Investigations
+usage: null
 ---

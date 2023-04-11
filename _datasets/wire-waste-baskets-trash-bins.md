@@ -1,12 +1,16 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Streets Department
-  Department Phone: 215-686-5093
+created: '2015-03-30T06:06:05.081202'
 license: Other (City of Philadelphia)
 maintainer: 'Max Steinbrenner '
 maintainer_email: max.steinbrenner@phila.gov
-notes: "Non Big Belly waste baskets maintained/collected by the City of Philadelphia.\r\n"
+maintainer_link: null
+maintainer_phone: null
+notes: "Non Big Belly waste baskets maintained/collected by the City of Philadelphia.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)\r\n"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,8 +33,11 @@ resources:
   format: HTML
   name: Wire Waste Baskets (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555f813af15fcb6c6ed44150/representationdetails/55438ad79b989a05172d0d8e/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Wire Waste Baskets (Trash Bins)
+usage: null
 ---

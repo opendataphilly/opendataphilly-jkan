@@ -1,11 +1,14 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Real Estate / Land Records
-extras: {}
+created: '2021-08-16T18:17:51.426775'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Certain buildings in the City of Philadelphia require periodic inspections.\
   \ These inspections are performed by licensed inspection companies. Buildings that\
   \ contain fire sprinkler systems or hard-wired fire alarm systems must have these\
@@ -18,7 +21,10 @@ notes: "Certain buildings in the City of Philadelphia require periodic inspectio
   \ issues or system deficiencies identified during the corresponding inspection.\
   \ This dataset contains records related to these building certifications.\r\n\r\n\
   You can find out more information about [fire protection certifications](https://www.phila.gov/departments/department-of-licenses-and-inspections/inspections/fire-protection-certifications/)\
-  \ and [maintenance inspections](https://www.phila.gov/departments/department-of-licenses-and-inspections/inspections/maintenance-inspections/)."
+  \ and [maintenance inspections](https://www.phila.gov/departments/department-of-licenses-and-inspections/inspections/maintenance-inspections/).\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -41,8 +47,11 @@ resources:
   format: HTML
   name: L&I Building Certs (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/60998d8277b3d7001b1362d3/representationdetails/60998d8377b3d7001b1362d9/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Licenses and Inspections
+time_period: null
 title: Licenses and Inspections Building Certifications
+usage: null
 ---

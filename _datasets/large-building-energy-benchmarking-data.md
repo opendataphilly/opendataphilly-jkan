@@ -1,17 +1,20 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Real Estate / Land Records
-extras:
-  Department: Office of Sustainability
-  Department Phone: '215-686-3495 '
+created: '2015-01-21T02:53:15.458779'
 license: Other (City of Philadelphia)
 maintainer: benchmarkinghelp@phila.gov
 maintainer_email: benchmarkinghelp@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This dataset contains annual building and performance data for those properties\
   \ required to report. Property data is pulled from the Office of Property Assessment.\
   \ Energy and water data is self-reported by building owners using the EPA Portfolio\
-  \ Manager tool. This data will be updated annually."
+  \ Manager tool. This data will be updated annually.\r\n\r\nTrouble downloading or\
+  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: Mapping and visualization application developed by the Mayor's Office
@@ -340,8 +343,11 @@ resources:
   format: HTML
   name: 2013 Properties Not Reported (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/559305dedf3100a66b20774c/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Sustainability
+time_period: null
 title: Large Building Energy Benchmarking Data
+usage: null
 ---

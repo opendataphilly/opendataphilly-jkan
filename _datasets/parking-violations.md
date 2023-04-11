@@ -1,16 +1,20 @@
 ---
+area_of_interest: null
 category:
 - Transportation
-extras:
-  Department: Bureau of Administrative Adjudication
+created: '2015-05-19T17:28:13.384290'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "**Please note that this is a very large dataset. To see all violations, download\
   \ all datasets for all years.** \r\n\r\n**If you are comfortable with APIs, you\
   \ can also use the API links to access this data. You can learn more about how to\
   \ use the API at Carto\u2019s SQL API site and in the Carto guide in the section\
-  \ on making calls to the API.**"
+  \ on making calls to the API.**\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -179,9 +183,12 @@ resources:
   format: HTML
   name: Parking Violations (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543865c20583086178c4eda/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Bureau of Administrative Adjudication
 - visualization
+time_period: null
 title: Parking Violations
+usage: null
 ---

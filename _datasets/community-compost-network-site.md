@@ -1,12 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Food
-extras: {}
+created: '2021-11-30T20:06:00.668651'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
-notes: "Community compost network sites located throughout the City of Philadelphia."
+maintainer_link: null
+maintainer_phone: null
+notes: "Community compost network sites located throughout the City of Philadelphia.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,9 +35,12 @@ resources:
   format: HTML
   name: Community Compost Network Site (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/61771d5747d34d0021b05b19/representationdetails/61771d5847d34d0021b05b1d/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
 - compost
+time_period: null
 title: Community Compost Network Site
+usage: null
 ---

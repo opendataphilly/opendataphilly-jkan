@@ -1,15 +1,21 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Food
 - Health / Human Services
 - Parks / Recreation
-extras: {}
+created: '2021-11-30T18:24:50.362574'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Locations of community gardens throughout the City of Philadelphia that are\
-  \ registered with the Philadelphia Parks and Recreation's Urban Agriculture Team."
+  \ registered with the Philadelphia Parks and Recreation's Urban Agriculture Team.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -32,9 +38,12 @@ resources:
   format: HTML
   name: Registered Community Gardens (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/6176edbec7cecf001e606149/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
 - gardens
+time_period: null
 title: Registered Community Gardens
+usage: null
 ---

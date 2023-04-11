@@ -1,16 +1,18 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Streets Department
-  Maintainer Phone: (215) 686-5560
-  Usage: Public Use; Free
+created: '2014-12-08T22:39:10.474966'
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
+maintainer_link: null
+maintainer_phone: (215) 686-5560
 notes: "Street lane closures for general public use. This is the master layer depicting\
   \ the Lane Closures due to permitted road work. This layer shows the type and purpose\
   \ of working being done, the effective dates of the permits issued, as well the\
-  \ status of the work."
+  \ status of the work.\r\n\r\nTrouble downloading or have questions about this City\
+  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,8 +35,11 @@ resources:
   format: api
   name: Street Lane Closures (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/LaneClosure_Master/FeatureServer/0/query?outFields=*&where=1%3D1
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Street Lane Closures
+usage: Public Use; Free
 ---

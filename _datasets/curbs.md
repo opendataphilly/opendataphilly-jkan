@@ -1,17 +1,18 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Transportation
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Streets Department
-  Maintainer Link: http://www.phila.gov/streets
-  Usage: Public Use; Free
+created: '2014-12-08T22:52:01.251855'
 license: Other (City of Philadelphia)
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
+maintainer_link: http://www.phila.gov/streets
+maintainer_phone: null
 notes: "This data includes curb edges with cartways and curb edges without cartways\
   \ to represent travelways within the City of Philadelphia and it aids in placement\
-  \ of street centerline."
+  \ of street centerline.\r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Quarterly '
@@ -74,8 +75,11 @@ resources:
   format: HTML
   name: Curblines (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8126f15fcb6c6ed440fa/representationdetails/5567540b69e261cf61e0d471/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Curbs
+usage: Public Use; Free
 ---

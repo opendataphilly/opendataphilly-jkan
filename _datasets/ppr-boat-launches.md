@@ -1,16 +1,20 @@
 ---
+area_of_interest: null
 category:
 - Parks / Recreation
 - Transportation
-extras:
-  Department: Parks & Recreation
+created: '2015-01-14T21:31:23.917614'
 license: Other (City of Philadelphia)
 maintainer: Parks & Recreation
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Boat launches across the city are places where boats (kayaks, canoes, and\
   \ or motorboats) can be launched onto the Schuylkill River or Delaware River. This\
   \ dataset identifies the boat launches/ramps located on PPR property or boat launches\
-  \ PPR administers directly. "
+  \ PPR administers directly. \r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,8 +37,11 @@ resources:
   format: HTML
   name: Boat Launches (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5ee3f00f4a0bac0015918443/representationdetails/5ee3f0104a0bac0015918472/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
+time_period: null
 title: PPR Boat Launches
+usage: null
 ---

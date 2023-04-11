@@ -1,20 +1,20 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Parks / Recreation
 - Real Estate / Land Records
 - Transportation
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Streets Department
-  Maintainer Link: http://www.phila.gov/streets/
-  Maintainer Phone: 215-686-5560
-  OpenDataPhilly Rating: '5'
-  Usage: Public Use; Free
+created: '2014-12-08T22:33:41.160825'
 license: Other (City of Philadelphia)
 maintainer: Streets Department
 maintainer_email: ''
+maintainer_link: http://www.phila.gov/streets/
+maintainer_phone: 215-686-5560
 notes: "Line data includes the network of both streets with bike lanes and streets\
-  \ considered bicycle-friendly. Also known as the bicycle network. "
+  \ considered bicycle-friendly. Also known as the bicycle network. \r\n\r\nTrouble\
+  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: '5'
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -41,8 +41,11 @@ resources:
   format: HTML
   name: Bike Network (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867620583086178c4f44/?view_219_sort=field_15|asc
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Bike Network
+usage: Public Use; Free
 ---

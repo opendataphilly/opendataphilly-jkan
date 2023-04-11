@@ -1,22 +1,23 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Arts / Culture / History
 - Parks / Recreation
 - Planning / Zoning
 - Real Estate / Land Records
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Department of Planning and Development
-  Department Phone: 215-683-4600
-  Maintainer Link: http://www.philaplanning.org
-  Usage: Public Use
+created: '2014-12-08T21:51:59.418960'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: http://www.philaplanning.org
+maintainer_phone: null
 notes: "Historic sites listed on the Philadelphia Register. Data was updated by the\
   \ Philadelphia City Planning Commission in July 2017.  The public should confirm\
   \ a property\u2019s historic status by contacting the Historical Commission at 215-686-7660.\r\
-  \n\r\nYou can also download a dataset of the [Historic districts](https://www.opendataphilly.org/dataset/philadelphia-registered-historic-districts)."
+  \n\r\nYou can also download a dataset of the [Historic districts](https://www.opendataphilly.org/dataset/philadelphia-registered-historic-districts).\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -39,8 +40,11 @@ resources:
   format: HTML
   name: Historic Sites (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/56ccbb09aee332736b6edc20/representationdetails/56ccbb0aaee332736b6edc22/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Philadelphia Registered Historic Properties
+usage: Public Use
 ---

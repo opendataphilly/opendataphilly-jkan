@@ -1,20 +1,21 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Environment
 - Planning / Zoning
 - Real Estate / Land Records
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Water Department
-  Department Phone: 215-685-6300
-  Maintainer Link: http://www.phila.gov/water/
-  Usage: Public Use; Free
+created: '2014-12-08T21:55:38.409845'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
+maintainer_link: http://www.phila.gov/water/
+maintainer_phone: null
 notes: "Locations of surface water features (rivers, creeks, ponds, reservoirs) and\
   \ water beneath city bridges and adjacent to city borders. Separate files are available\
-  \ for each waterbody (and watershed) in KML form, or as a whole in Shapefile form."
+  \ for each waterbody (and watershed) in KML form, or as a whole in Shapefile form.\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -57,8 +58,11 @@ resources:
   format: HTML
   name: Hydrology - Polygon (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/557f30c6dcec614c29ce8b6d/representationdetails/557f30e3c579ea311699bb49/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Hydrology
+usage: Public Use; Free
 ---

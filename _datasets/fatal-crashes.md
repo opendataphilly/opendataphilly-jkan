@@ -1,9 +1,12 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2019-09-25T13:31:38.143475'
 license: Other (City of Philadelphia)
 maintainer: Captain Mark Overwise
 maintainer_email: mark.overwise@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This data set shows all fatal crashes and their investigative outcomes from\
   \ PPD's Accident Investigation Unit (AID) from 1/1/19 to the present. The whole\
   \ dataset gets refreshed nightly. This means the dataset will show new records the\
@@ -14,7 +17,10 @@ notes: "This data set shows all fatal crashes and their investigative outcomes f
   \ the location of where crashes are initially _reported_ whereas OTIS' crash data\
   \ involves further investigation to confirm initial reports. If you want to analyze\
   \ the location of crashes in Philadelphia, use OTIS' dataset. If you want to understand\
-  \ the investigative outcomes of crashes, use the PPD dataset."
+  \ the investigative outcomes of crashes, use the PPD dataset.\r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -39,8 +45,11 @@ resources:
   format: HTML
   name: Fatal Crashes (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5d89169eb5d0de0010bf1ed1/representationdetails/5d89169fb5d0de0010bf1ed5/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Police Department
+time_period: null
 title: Fatal Crashes
+usage: null
 ---

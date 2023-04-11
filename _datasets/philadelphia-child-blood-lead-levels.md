@@ -1,18 +1,24 @@
 ---
+area_of_interest: null
 category:
 - Education
 - Health / Human Services
 - Public Safety
-extras: {}
+created: '2017-09-29T14:10:55.762595'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "This dataset includes the number of newly identified (incident) children with\
   \ blood lead levels (BLL) \u22655 \xB5g/dL, the number of children screened, and\
   \ the percent of children screened with BLLs \u22655 \xB5g/dL. The ZIP code data\
   \ is for 2015 and the census tract data is for 2013-2015.\r\n\r\nCell counts with\
   \ missing values are those with less than six observations, which was truncated\
-  \ to ensure confidentiality. Cells with values of zero were included."
+  \ to ensure confidentiality. Cells with values of zero were included.\r\n\r\nTrouble\
+  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -59,8 +65,11 @@ resources:
   format: HTML
   name: Philadelphia Child Blood Lead Levels (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/594d26988d68a4593a61bcf0/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: Philadelphia Child Blood Lead Levels
+usage: null
 ---

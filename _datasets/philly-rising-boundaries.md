@@ -1,19 +1,20 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Boundaries
 - Health / Human Services
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Managing Director's Office
-  Maintainer Link: http://www.phila.gov/mdo/phillyrising
-  Usage: Public Use; Free
+created: '2014-12-08T22:04:14.942294'
 license: Other (City of Philadelphia)
 maintainer: Brian Ivey
 maintainer_email: brian.ivey@phila.gov
+maintainer_link: http://www.phila.gov/mdo/phillyrising
+maintainer_phone: null
 notes: "The boundaries of the four designated pilot areas included in the Philly Rising\
   \ program. Philly Rising focuses on areas with chronic quality of life concerns\
   \ and works with residents and community groups to address neighborhood issues.\
-  "
+  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
+  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -36,8 +37,11 @@ resources:
   format: HTML
   name: Philly Rising Boundaries (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/56d07020dca5c8a55b04aafc/representationdetails/56d07020dca5c8a55b04aafe/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Managing Directors Office
+time_period: null
 title: Philly Rising Boundaries
+usage: Public Use; Free
 ---

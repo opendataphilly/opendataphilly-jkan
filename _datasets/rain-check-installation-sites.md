@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Environment
-extras: {}
+created: '2015-10-14T17:45:31.340108'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Rain Check is a Philadelphia Water Department program that helps residents\
-  \ manage stormwater and beautify their homes. "
+  \ manage stormwater and beautify their homes. \r\n\r\nTrouble downloading or have\
+  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,8 +34,11 @@ resources:
   format: HTML
   name: Rain Check Installation Sites (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5617d44a99b28d6875595bee/representationdetails/561805edf061d8707502e48a/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Water Department
+time_period: null
 title: Rain Check Installation Sites
+usage: null
 ---

@@ -1,14 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Parks / Recreation
 - Planning / Zoning
 - Real Estate / Land Records
-extras: {}
+created: '2020-08-26T15:57:56.902203'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Footprints of buildings and structures located on Philadelphia Parks and Recreation\
-  \ (PPR) properties or utilized directly by PPR.\t"
+  \ (PPR) properties or utilized directly by PPR.\t\r\n\r\nTrouble downloading or\
+  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -31,8 +36,11 @@ resources:
   format: HTML
   name: PPR Building Structures (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5eac509ba4c12800171d0cd5/representationdetails/5eac509ba4c12800171d0cd9/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parks and Recreation
+time_period: null
 title: PPR Building Structures
+usage: null
 ---

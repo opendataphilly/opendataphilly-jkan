@@ -1,12 +1,17 @@
 ---
+area_of_interest: null
 category:
 - Transportation
-extras:
-  Agency: Philadelphia Parking Authority
+created: '2015-06-02T18:23:11.387013'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "Data is from 2015 and does not currently receive any updates. "
+maintainer_link: null
+maintainer_phone: null
+notes: "Data is from 2015 and does not currently receive any updates. \r\n\r\nTrouble\
+  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -21,8 +26,11 @@ resources:
   format: HTML
   name: Valet Parking Locations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/556dfd72b80630b12e5de299/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Parking Authority
+time_period: null
 title: 'ARCHIVED: Valet Parking Locations'
+usage: null
 ---

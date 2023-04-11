@@ -1,15 +1,21 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
 - Parks / Recreation
 - Real Estate / Land Records
-extras: {}
+created: '2016-01-20T16:03:45.901452'
 license: Other (City of Philadelphia)
 maintainer: Rich Quodomine
 maintainer_email: richard.quodomine@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "An inventory of buildings and other fixed assets owned, leased, or operated\
   \ by the City of Philadelphia including buildings, structures, and properties (not\
-  \ including surplus properties). Also known as the Master Facilities Database. "
+  \ including surplus properties). Also known as the Master Facilities Database. \r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -32,8 +38,11 @@ resources:
   format: HTML
   name: City Facilities (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/565f096450be9493120352a1/representationdetails/565f1601a6c636480f4abdf8/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - OIT
+time_period: null
 title: City Facilities (Master Facilities Database)
+usage: null
 ---

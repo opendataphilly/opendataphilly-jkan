@@ -1,13 +1,16 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
 - Economy
 - Food
 - Health / Human Services
-extras: {}
+created: '2019-10-08T18:23:41.220926'
 license: Other (City of Philadelphia)
 maintainer: Rebecca Lopez-Kriss
 maintainer_email: rebecca.lopezkriss@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "**This data has stopped receiving updates. We're working to reestablish automation\
   \ by the end of 2022.**\r\n\r\nThis dataset provides a list of businesses that have\
   \ registered as sweetened beverage distributors or dealers that file and pay the\
@@ -17,6 +20,7 @@ notes: "**This data has stopped receiving updates. We're working to reestablish 
   \ consented to share their information publicly and thus this list may not be a\
   \ comprehensive list of all who have registered. \r\n\r\n[Find out more about the\
   \ Philadelphia Beverage Tax here](https://www.phila.gov/services/payments-assistance-taxes/business-taxes/philadelphia-beverage-tax/)."
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -43,8 +47,11 @@ resources:
   format: HTML
   name: Registered Distributors (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5d1bb61aa234db0010b16483/representationdetails/5d1bb61ba234db0010b16487/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Revenue Department
+time_period: null
 title: Philadelphia Beverage Tax Registered Distributors and Dealers
+usage: null
 ---

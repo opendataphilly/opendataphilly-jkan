@@ -1,15 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Economy
-extras:
-  Department: ''
-  Department Phone: ''
+created: '2015-01-21T19:19:30.024943'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "A database of all Minority/Women/Disable Owned (MWD) owned businesses that\
   \ are registered with the City of Philadelphia's Office of Economic Opportunity\
-  \ (OEO)."
+  \ (OEO).\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
+  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -28,9 +31,12 @@ resources:
   format: HTML
   name: Registered MWD Owned Businesses (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867b20583086178c4f59/representationdetails/5579e08f597e56d77b402f91/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Commerce Department
 - Equity
+time_period: null
 title: OEO Registry of Certified Minority/Women/Disable Owned Business Enterprises
+usage: null
 ---

@@ -1,19 +1,19 @@
 ---
+area_of_interest: Bucks, Chester, Delaware, Lehigh, Montgomery, Philadelphia Counties
 category:
 - Arts / Culture / History
-extras:
-  Area of Interest: Bucks, Chester, Delaware, Lehigh, Montgomery, Philadelphia Counties
-  Maintainer Link: http://www.philadelphiadance.org/contact/
-  Maintainer Phone: 484-469-0288
-  Usage: Public Use
+created: '2014-12-08T22:46:48.541498'
 license: License Not Specified
 maintainer: ''
 maintainer_email: philadelphiadance@gmail.com
+maintainer_link: http://www.philadelphiadance.org/contact/
+maintainer_phone: 484-469-0288
 notes: 'The Philadelphia Dance Directory contains a list of dance related organizations
   in the greater Philadelphia area. The listings can be searched by keyword, location,
   or category. RSS feeds are available for the newest listings, featured listings,
   most popular listings, and most discussed listings. Users can also create custom
   feeds based on their search criteria. '
+opendataphilly_rating: null
 organization: PhiladelphiaDANCE.org
 resources:
 - description: A comprehensive guide to dance companies, studios, colleges, organizations
@@ -21,7 +21,10 @@ resources:
   format: HTML
   name: The Philadelphia Dance Directory
   url: http://philadelphiadance.org/dancedirectory/listings-map/
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: Philadelphia Dance Directory
+usage: Public Use
 ---

@@ -1,13 +1,16 @@
 ---
+area_of_interest: null
 category:
 - Health / Human Services
-extras:
-  Department: Public Health
-  Maintainer Phone: 215-686-5259
+created: '2015-01-30T16:23:42.499670'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
-notes: "The location of primary care health centers."
+maintainer_link: null
+maintainer_phone: 215-686-5259
+notes: "The location of primary care health centers.\r\n\r\nTrouble downloading or\
+  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: "\r\n"
@@ -30,8 +33,11 @@ resources:
   format: HTML
   name: Health Centers (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867320583086178c4f36/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: Health Centers
+usage: null
 ---

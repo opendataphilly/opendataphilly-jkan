@@ -1,13 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Arts / Culture / History
 - Parks / Recreation
-extras: {}
+created: '2017-11-01T15:55:41.740923'
 license: Other (City of Philadelphia)
 maintainer: maps@phila.gov
 maintainer_email: maps@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "An inventory of cultural landmarks found within the borders of the City of\
-  \ Philadelphia."
+  \ Philadelphia.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: "Give feedback on and submit missing landmarks of cultural, historical\
@@ -38,8 +43,11 @@ resources:
   format: HTML
   name: City Landmarks (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5cb8880202af7336c3f3bf6e/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Innovation and Technology
+time_period: null
 title: City Landmarks
+usage: null
 ---

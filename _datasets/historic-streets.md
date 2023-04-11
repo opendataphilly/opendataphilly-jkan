@@ -1,12 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Planning / Zoning
 - Transportation
-extras: {}
+created: '2015-06-09T07:17:26.585413'
 license: Other (City of Philadelphia)
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
-notes: "To map older streets with historical value in the City of Philadelphia."
+maintainer_link: null
+maintainer_phone: null
+notes: "To map older streets with historical value in the City of Philadelphia.\r\n\
+  \r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -49,8 +55,11 @@ resources:
   format: HTML
   name: Historic Streets - Polygon (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8129f15fcb6c6ed44105/representationdetails/5571b1b3e4fb1d91393c2139/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Historic Streets
+usage: null
 ---

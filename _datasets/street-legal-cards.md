@@ -1,4 +1,5 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
 - Economy
@@ -6,13 +7,17 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
-extras: {}
+created: '2022-06-07T21:28:11.853031'
 license: Other (City of Philadelphia)
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Street Centerline Arcs with link to legal cards, which are a collection of\
   \ cards containing the official record of the legal description and drawings of\
-  \ city streets."
+  \ city streets.\r\n\r\nTrouble downloading or have questions about this City dataset?\
+  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -39,8 +44,11 @@ resources:
   format: HTML
   name: Street Legal Cards (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f812bf15fcb6c6ed4410d/representationdetails/570ea321cd5aa2101d396eab/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Street Legal Cards
+usage: null
 ---

@@ -1,13 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Parks / Recreation
-extras: {}
+created: '2016-08-03T19:53:21.055419'
 license: Other (City of Philadelphia)
 maintainer: Chris Park
 maintainer_email: Chris.Park@Phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "A comprehensive inventory of all trees within the limits of the City of Philadelphia.\
-  \ This dataset is a snapshot in time from 2021 and will update yearly. "
+  \ This dataset is a snapshot in time from 2021 and will update yearly. \r\n\r\n\
+  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -50,7 +56,10 @@ resources:
   format: HTML
   name: 2022 Philadelphia Tree Inventory (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/57a0e1d5aa8882104134830e/representationdetails/635693df69b7d900237d1cdc/
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: Philadelphia Tree Inventory
+usage: null
 ---

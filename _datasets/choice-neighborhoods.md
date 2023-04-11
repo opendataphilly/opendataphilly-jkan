@@ -1,14 +1,19 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Office of Housing and Community Development
+created: '2015-06-02T02:57:53.351178'
 license: Other (City of Philadelphia)
 maintainer: Mark Dodds
 maintainer_email: mark.dodds@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "The Choice Neighborhoods program is administered by the U.S. Department of\
   \ Housing and Urban Development (HUD).  It supports locally driven strategies to\
   \ address struggling neighborhoods with distressed public or HUD-assisted housing\
-  \ through a comprehensive approach to neighborhood transformation. "
+  \ through a comprehensive approach to neighborhood transformation. \r\n\r\nTrouble\
+  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -31,8 +36,11 @@ resources:
   format: HTML
   name: Choice Neighborhoods (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/55808d24dfcdf42045114d25/representationdetails/55808dbff83b8f5a79560eea/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Housing and Community Development
+time_period: null
 title: Choice Neighborhoods
+usage: null
 ---

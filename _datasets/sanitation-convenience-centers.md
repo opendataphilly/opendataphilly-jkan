@@ -1,12 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Health / Human Services
-extras: {}
+created: '2021-12-07T21:38:50.627613'
 license: Other (City of Philadelphia)
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
-notes: "Sites where residents can drop off household trash and recycling."
+maintainer_link: null
+maintainer_phone: null
+notes: "Sites where residents can drop off household trash and recycling.\r\n\r\n\
+  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,9 +35,12 @@ resources:
   format: HTML
   name: Sanitation Convenience Centers (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/613b7db4b114fb001e413f89/representationdetails/613b7db6b114fb001e413f8e/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
 - trash
+time_period: null
 title: Sanitation Convenience Centers
+usage: null
 ---

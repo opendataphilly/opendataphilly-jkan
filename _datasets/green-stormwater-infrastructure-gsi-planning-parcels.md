@@ -1,15 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Boundaries
 - Environment
 - Real Estate / Land Records
-extras: {}
+created: '2021-08-12T16:07:13.462234'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: PWD Parcels with fields added that help categorize parcels by Green Stormwater
   Infrastructure (GSI) Planning program and standardize ownership or ownership category
   and summarize impervious cover by surface type.
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -32,10 +36,13 @@ resources:
   format: HTML
   name: GSI Planning Parcels (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/607da9bb6959cc001bf451b4/representationdetails/607da9d06959cc001bf451ce/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - GSI
 - Green Stormwater Infrastructure
 - Philadelphia Water Department
+time_period: null
 title: Green Stormwater Infrastructure (GSI) Planning Parcels
+usage: null
 ---

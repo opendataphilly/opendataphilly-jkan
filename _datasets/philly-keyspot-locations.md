@@ -1,14 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Education
 - Health / Human Services
 - Parks / Recreation
-extras: {}
+created: '2016-06-08T11:31:45.240271'
 license: License Not Specified
 maintainer: Andrew Stutzman
 maintainer_email: astutzman@drexel.edu
+maintainer_link: null
+maintainer_phone: null
 notes: This is the location and address data of all current KEYSPOT computer labs
   in Philadelphia.
+opendataphilly_rating: null
 organization: Philly KEYSPOTS
 resources:
 - description: This is the location and address data of all current KEYSPOT computer
@@ -21,10 +25,13 @@ resources:
   format: JSON
   name: Philly KEYSPOT Location Data by ID
   url: https://www.phillykeyspots.org/wp-json/store-locator-plus/v2/locations/8
-schema: default
+schema: philadelphia
+source: https://www.phillykeyspots.org/wp-json/store-locator-plus/v2/locations/
 tags:
 - Office of Adult Education
 - computer labs
 - keyspot
+time_period: null
 title: Philly KEYSPOT Locations
+usage: null
 ---

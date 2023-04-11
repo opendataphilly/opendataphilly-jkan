@@ -1,11 +1,14 @@
 ---
+area_of_interest: null
 category:
 - Environment
 - Health / Human Services
-extras: {}
+created: '2016-06-22T18:26:12.844603'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "This represents all service and information requests since December 8th, 2014\
   \ submitted to Philly311 via the 311 mobile application, calls, walk-ins, emails,\
   \ the 311 website or social media. \r\n\r\n**Please note that this is a very large\
@@ -14,7 +17,10 @@ notes: "This represents all service and information requests since December 8th,
   \ the data.**\r\n\r\nIf you are comfortable with APIs, you can also use the API\
   \ links to access this data. You can learn more about how to use the API at [Carto\u2019\
   s SQL API site](https://carto.com/developers/sql-api/)  and in the [Carto guide\
-  \ in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
+  \ in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -121,7 +127,10 @@ resources:
   format: HTML
   name: 311 Requests (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543864d20583086178c4e98/representationdetails/5762e19fa237544b2ecfe722/
-schema: default
+schema: philadelphia
+source: ''
 tags: []
+time_period: null
 title: 311 Service and Information Requests
+usage: null
 ---

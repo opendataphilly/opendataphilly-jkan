@@ -1,22 +1,23 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Economy
 - Planning / Zoning
 - Real Estate / Land Records
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Department of Planning and Development
-  Maintainer Link: http://www.philaplanning.org/
-  Maintainer Phone: 215-686-7817
-  Usage: Public Use; Free
+created: '2014-12-08T22:20:25.463531'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: http://www.philaplanning.org/
+maintainer_phone: 215-686-7817
 notes: "Development certified areas, i.e. areas deemed blighted and eligible for urban\
   \ renewal by the Philadelphia City Planning Commission under the amended Pennsylvania\
   \ Urban Redevelopment Law. Blighted areas are defined as meeting one of seven city\
   \ mandated criteria, including unsafe, unsanitary and inadequate conditions; economically\
-  \ or socially undesirable land use; and faulty street and lot layout."
+  \ or socially undesirable land use; and faulty street and lot layout.\r\n\r\nTrouble\
+  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -39,8 +40,11 @@ resources:
   format: HTML
   name: Redevelopment Certified Areas (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864720583086178c4e81/representationdetails/55438a859b989a05172d0d01/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Department of Planning and Development
+time_period: null
 title: Redevelopment Certified Areas
+usage: Public Use; Free
 ---

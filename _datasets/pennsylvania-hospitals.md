@@ -1,13 +1,13 @@
 ---
+area_of_interest: State of Pennsylvania
 category:
 - Health / Human Services
-extras:
-  Area of Interest: State of Pennsylvania
-  Maintainer Phone: 717-782-2448
-  Usage: Public use; free
+created: '2014-12-08T22:23:43.111147'
 license: License Not Specified
 maintainer: ' Pennsylvania Department of Health Division of Health Informatics'
 maintainer_email: RA-DHICONTACTUS@pa.gov
+maintainer_link: null
+maintainer_phone: 717-782-2448
 notes: 'The PA_Hospitals layer contains the latitude and longitude coordinates of
   249 hospitals in Pennsylvania. When possible, efforts were made to confirm the rooftop
   location of each hospital. The accuracy of geocoding is available in Geocoding Certainty
@@ -17,6 +17,7 @@ notes: 'The PA_Hospitals layer contains the latitude and longitude coordinates o
   survey and include approximately 19 fields such as survey ID number, longitude,
   latitude, facility name, etc. Additional fields and data items could be potentially
   linked to this layer. '
+opendataphilly_rating: null
 organization: PA Bureau of Health Statistics and Research
 resources:
 - description: ''
@@ -31,7 +32,10 @@ resources:
   format: JSON
   name: PA Hospitals GeoJSON
   url: http://www.pasda.psu.edu/json/DOH_Hospitals201809.geojson
-schema: default
+schema: philadelphia
+source: http://www.statistics.health.pa.gov/HealthStatistics/HealthFacilities/HospitalReports/Pages/HospitalReports.aspx
 tags: []
+time_period: null
 title: Pennsylvania Hospitals
+usage: Public use; free
 ---

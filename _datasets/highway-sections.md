@@ -1,16 +1,21 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2015-06-09T07:31:26.896114'
 license: Other (City of Philadelphia)
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "This layer delineates the fifty-six sections of the Highway Division of the\
   \ City of Philadelphia Streets Department. Sections can be aggregated into districts\
   \ and subdivided into subsections. A Highway Engineer is responsible for each district.\
   \ The section layer was developed to aid the Highway Division in the planning, organizing,\
   \ and maintaining of the streets within each of the six districts. Examples of maintenance\
   \ include: paving, snow removal, concrete maintenance, and the monitoring/repairing\
-  \ of ditches and potholes."
+  \ of ditches and potholes.\r\n\r\nTrouble downloading or have questions about this\
+  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,8 +38,11 @@ resources:
   format: HTML
   name: Highway Sections (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8128f15fcb6c6ed44101/representationdetails/5571b1b2e4fb1d91393c2135/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Streets Department
+time_period: null
 title: Highway Sections
+usage: null
 ---

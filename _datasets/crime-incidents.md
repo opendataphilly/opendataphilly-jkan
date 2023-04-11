@@ -1,11 +1,13 @@
 ---
+area_of_interest: null
 category:
 - Public Safety
-extras:
-  department: Police Department
+created: '2016-04-21T22:27:16.878591'
 license: Other (City of Philadelphia)
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
+maintainer_link: null
+maintainer_phone: null
 notes: "Crime incidents from the Philadelphia Police Department. Part I crimes include\
   \ violent offenses such as aggravated assault, rape, arson, among others. Part II\
   \ crimes include simple assault, prostitution, gambling, fraud, and other non-violent\
@@ -13,7 +15,9 @@ notes: "Crime incidents from the Philadelphia Police Department. Part I crimes i
   \ download all datasets for all years.** \r\n\r\n**If you are comfortable with APIs,\
   \ you can also use the API links to access this data. You can learn more about how\
   \ to use the API at Carto\u2019s SQL API site and in the Carto guide in the section\
-  \ on making calls to the API.**"
+  \ on making calls to the API.**\r\n\r\nTrouble downloading or have questions about\
+  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -230,8 +234,11 @@ resources:
   format: HTML
   name: Crime Incidents (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543868920583086178c4f8e/representationdetails/570e7621c03327dc14f4b68d/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Police Department
+time_period: null
 title: Crime Incidents
+usage: null
 ---

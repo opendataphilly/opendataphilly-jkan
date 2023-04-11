@@ -1,16 +1,18 @@
 ---
+area_of_interest: null
 category:
 - Budget / Finance
-extras:
-  Department: Finance Department
-  Maintainer Link: http://www.phila.gov/finance/contact.html
-  Time Period: FY2016
-  Usage: Public Use; Free
+created: '2015-03-02T17:48:11.428980'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: http://www.phila.gov/finance/contact.html
+maintainer_phone: null
 notes: "Proposed, adopted, and estimated operating budgets for City of Philadelphia\
-  \ government. The City's Fiscal Year begins July 1st and ends June 30th."
+  \ government. The City's Fiscal Year begins July 1st and ends June 30th.\r\n\r\n\
+  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -87,8 +89,11 @@ resources:
   format: HTML
   name: FY2015 Current Estimate (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543864f20583086178c4ea4/representationdetails/55438a939b989a05172d0d1f/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Finance Department
+time_period: FY2016
 title: City Operating Budget
+usage: Public Use; Free
 ---

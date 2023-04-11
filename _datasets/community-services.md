@@ -1,11 +1,15 @@
 ---
+area_of_interest: null
 category: []
-extras: {}
+created: '2016-05-16T17:24:13.649977'
 license: License Not Specified
 maintainer: Brad Steinberg
 maintainer_email: steinbergbrad@gmail.com
+maintainer_link: null
+maintainer_phone: null
 notes: A list of humanitarian resources within Philadelphia. Includes homeless shelters,
   health clinics, food pantries, soup kitchens, women and children shelters, etc.
+opendataphilly_rating: null
 organization: Code for Philly
 resources:
 - description: A list of homeless shelters, women and family shelters, health clinics,
@@ -14,7 +18,8 @@ resources:
   format: CSV
   name: Community Services Dataset
   url: https://github.com/CfABrigadePhiladelphia/RAPper/blob/master/data.csv
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Homelessness
 - clothing
@@ -24,5 +29,7 @@ tags:
 - homeless shelter
 - homelessness
 - shelter
+time_period: null
 title: Community Services
+usage: null
 ---

@@ -1,11 +1,15 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Commerce Department
+created: '2015-05-19T20:00:19.416589'
 license: Other (City of Philadelphia)
 maintainer: Nicholas Jann
 maintainer_email: nicholas.jann@phila.gov
-notes: "Economic Opportunity Plans (EOP)"
+maintainer_link: null
+maintainer_phone: null
+notes: "Economic Opportunity Plans (EOP)\r\n\r\nTrouble downloading or have questions\
+  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -44,8 +48,11 @@ resources:
   format: HTML
   name: EOP - OHCD and PIDC (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543868020583086178c4f70/representationdetails/5579da6b992642d1459eb47b/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Commerce Department
+time_period: null
 title: Economic Opportunity Plans
+usage: null
 ---

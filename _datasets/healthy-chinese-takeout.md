@@ -1,11 +1,12 @@
 ---
+area_of_interest: null
 category: []
-extras:
-  Department: Public Health
-  Department Phone: 215-686-5200
+created: '2015-05-21T05:36:55.335146'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Healthy Chinese Takeout participants as of 2/5/15. The Philadelphia Healthy\
   \ Chinese Take-out Initiative is working to prevent and control high blood pressure\
   \ in Philadelphia residents by 1) reducing the sodium content in Chinese take-out\
@@ -20,7 +21,9 @@ notes: "Healthy Chinese Takeout participants as of 2/5/15. The Philadelphia Heal
   \ other retailers. To date, 200 Chinese take-out restaurants have enrolled in the\
   \ initiative, participated in a low-sodium healthy cooking training with a professional\
   \ chef, and received education about complying with the Tobacco Youth Sales Law.\
-  "
+  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
+  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -43,8 +46,11 @@ resources:
   format: HTML
   name: Healthy Chinese Takeout (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555d710ffc0eee467ebcedd8/representationdetails/555d7150e23ac33e7ed09122/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Philadelphia Department of Public Health
+time_period: null
 title: Healthy Chinese Takeout
+usage: null
 ---

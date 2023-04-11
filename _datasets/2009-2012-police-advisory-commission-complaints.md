@@ -1,17 +1,19 @@
 ---
+area_of_interest: null
 category:
 - Public Safety
-extras:
-  OpenDataPhilly Rating: '6'
-  Time Period: 2009 - 2012
-  Update Frequency: As Needed
-  Usage: See metadata
+created: '2014-12-08T22:17:35.726140'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "The datasets below show information about Complaints filed with the Police\
   \ Advisory Commission against Philadelphia Police officers. The information comes\
-  \ directly from Police Advisory Commission Complaint Database."
+  \ directly from Police Advisory Commission Complaint Database. \r\n\r\nTrouble downloading\
+  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
+  \ Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: '6'
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Never'
@@ -34,8 +36,11 @@ resources:
   format: HTML
   name: PAC Complaints (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543867220583086178c4f2f/representationdetails/55438abc9b989a05172d0d64/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Police Advisory Commission
+time_period: 2009 - 2012
 title: 2009-2012 Police Advisory Commission Complaints
+usage: See metadata
 ---

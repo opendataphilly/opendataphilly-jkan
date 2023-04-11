@@ -1,20 +1,19 @@
 ---
+area_of_interest: City of Philadelphia
 category:
 - Planning / Zoning
 - Real Estate / Land Records
-extras:
-  Area of Interest: City of Philadelphia
-  Department: Office of Innovation & Technology
-  Department Telephone: 215-686-8101
-  Maintainer Link: http://www.phila.gov/dot/
-  OpenDataPhilly Rating: '4'
-  Usage: Public use; Free
+created: '2014-12-08T22:47:23.643861'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: http://www.phila.gov/dot/
+maintainer_phone: null
 notes: "Planimetric Coverage containing the delineation of buildings or related structure\
   \ outlines that represent the footprints of buildings within the City of Philadelphia.\
-  "
+  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
+  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: '4'
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Weekly'
@@ -37,8 +36,11 @@ resources:
   format: HTML
   name: Building Footprints (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864f20583086178c4ea5/representationdetails/595e8e85ac27025c82c53c7c/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - Office of Innovation and Technology
+time_period: null
 title: Building Footprints
+usage: Public use; Free
 ---

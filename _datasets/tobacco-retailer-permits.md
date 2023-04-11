@@ -1,16 +1,22 @@
 ---
+area_of_interest: null
 category:
 - Economy
 - Health / Human Services
-extras: {}
+created: '2019-11-27T14:45:38.457626'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
 notes: "Retailers apply for a tobacco permit through an online application system,\
   \ entering name, address, and other relevant business information. These data are\
   \ cleaned and stored in a database maintained by the Department of Public Health.\r\
   \n\r\nRelated datasets include the [Tobacco Youth Sales Violations](https://www.opendataphilly.org/dataset/tobacco-youth-sales-violations)\
-  \ and [Tobacco-Free School Zones](https://www.opendataphilly.org/dataset/tobacco-free-school-zones)."
+  \ and [Tobacco-Free School Zones](https://www.opendataphilly.org/dataset/tobacco-free-school-zones).\r\
+  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
+  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,11 +39,14 @@ resources:
   format: HTML
   name: Tobacco Retailer Permits (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5db340d6b0726100151aa15c/representationdetails/5db340d7b0726100151aa162/
-schema: default
+schema: philadelphia
+source: ''
 tags:
 - PDPH
 - Philadelphia Department of Public Health
 - smoking
 - tobacco
+time_period: null
 title: Tobacco Retailer Permits
+usage: null
 ---
