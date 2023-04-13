@@ -11,8 +11,7 @@ maintainer_link: http://www.philaplanning.org
 maintainer_phone: 215-683-4611
 notes: "Boundaries of the ward divisions (subunits of wards) in Philadelphia. The\
   \ first two numbers of a four number division identifier indicates the ward in which\
-  \ the specific division is located.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ the specific division is located.\r\n\r\n"
 opendataphilly_rating: '5'
 organization: City of Philadelphia
 resources:

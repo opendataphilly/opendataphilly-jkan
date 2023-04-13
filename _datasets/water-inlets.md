@@ -9,8 +9,7 @@ maintainer_email: Larry.Szarek@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This point layer contains all the wastewater and stormwater inlets in Philadelphia\
-  \ with latitude and longitude coordinates. \r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ with latitude and longitude coordinates. \r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

@@ -18,8 +18,7 @@ notes: "The basic unit of aggregation published by the US Census Bureau.  Popula
   \ statistics published for redistricting are distributed at the block level.  In\
   \ an urban area, this corresponds to approximately one city block.  This block map\
   \ has been altered to improve accuracy and align with the City of Philadelphia's\
-  \ street centerline.\r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ street centerline.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

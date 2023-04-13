@@ -15,8 +15,7 @@ notes: "Data includes points identifying public schools, charter schools, many p
   \ provides information on public, private, charter and archdiocesan schools. Please\
   \ keep in mind that this data, particularly with regards to enrollment, is constantly\
   \ changing or is not publicly available. If you have specific questions about a\
-  \ school, please contact that facility directly.__\r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ school, please contact that facility directly.__\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

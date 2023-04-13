@@ -10,9 +10,7 @@ maintainer_phone: null
 notes: "The Choice Neighborhoods program is administered by the U.S. Department of\
   \ Housing and Urban Development (HUD).  It supports locally driven strategies to\
   \ address struggling neighborhoods with distressed public or HUD-assisted housing\
-  \ through a comprehensive approach to neighborhood transformation. \r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ through a comprehensive approach to neighborhood transformation. "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

@@ -12,8 +12,7 @@ notes: "**Please note that this is a very large dataset. To see all violations, 
   \ all datasets for all years.** \r\n\r\n**If you are comfortable with APIs, you\
   \ can also use the API links to access this data. You can learn more about how to\
   \ use the API at Carto\u2019s SQL API site and in the Carto guide in the section\
-  \ on making calls to the API.**\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ on making calls to the API.**"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

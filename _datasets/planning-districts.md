@@ -9,8 +9,7 @@ maintainer_email: darshna.patel@phila.gov
 maintainer_link: http://www.philaplanning.org
 maintainer_phone: null
 notes: "To illustrate the outlines of the 18 Districts for Philadelphia2035 District\
-  \ Plans.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
-  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Plans."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

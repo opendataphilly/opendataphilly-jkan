@@ -8,8 +8,7 @@ maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "These layers illustrate 10 correctional facilities in the City, administered\
-  \ by the Philadelphia Prisons System.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ by the Philadelphia Prisons System.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

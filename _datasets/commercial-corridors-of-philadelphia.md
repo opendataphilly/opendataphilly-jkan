@@ -12,8 +12,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "These are commercial corridors, centers, districts, and projects that provide\
   \ consumer-oriented goods and services, including retail, food and beverage, and\
-  \ personal, professional, and business services. \r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ personal, professional, and business services. \r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

@@ -8,9 +8,7 @@ maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "Data is from 2015 and does not currently receive any updates. \r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Data is from 2015 and does not currently receive any updates. "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

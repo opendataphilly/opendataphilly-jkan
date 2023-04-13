@@ -9,9 +9,7 @@ maintainer_email: seth.bluestein@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Information regarding individuals who have voted and when. This data is broken\
-  \ down into various reports for voter, election, and district information.\r\n\r\
-  \nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ down into various reports for voter, election, and district information."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

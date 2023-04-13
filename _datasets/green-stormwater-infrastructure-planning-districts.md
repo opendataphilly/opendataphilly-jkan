@@ -9,8 +9,7 @@ maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "District planning areas for Green City, Clean Waters stormwater management\
-  \ strategic planning. \r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ strategic planning. \r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

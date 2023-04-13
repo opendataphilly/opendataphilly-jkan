@@ -16,8 +16,7 @@ notes: "The datasets below have been archived and will not receive further updat
   \ Litter Index data, please be advised that the survey design between the 2007-\
   \ 2015 data is vastly different from the 2017 data, so it would not make sense to\
   \ compare the two. \r\n\r\nThe Litter Index is used to compare the relative cleanliness\
-  \ of different areas of the city of Philadelphia.  \r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ of different areas of the city of Philadelphia."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

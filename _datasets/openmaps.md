@@ -24,8 +24,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Explore Philadelphia's most popular open geographic data in one easy to use\
   \ mapping tool. This tool was built by the City's Office of Innovation and Technology's\
-  \ CityGeo team.\r\n\r\nTrouble using or have questions about this City application?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ CityGeo team."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

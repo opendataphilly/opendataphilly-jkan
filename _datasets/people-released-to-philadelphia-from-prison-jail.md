@@ -15,8 +15,7 @@ notes: "This dataset includes people released to Philadelphia from the Philadelp
   \ not available, and makes up less than 2% of people released to Philadelphia in\
   \ the year analyzed. The dataset also only includes people released to Philadelphia\
   \ who have been charged with a criminal non-summary type offense in the Philadelphia\
-  \ adult criminal justice system.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ adult criminal justice system."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

@@ -10,8 +10,7 @@ maintainer_email: maps@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "An inventory of cultural landmarks found within the borders of the City of\
-  \ Philadelphia.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Philadelphia."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

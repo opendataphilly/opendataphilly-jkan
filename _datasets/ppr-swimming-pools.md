@@ -10,9 +10,7 @@ maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "The location of swimming pools in Philadelphia run by Parks and Recreation.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "The location of swimming pools in Philadelphia run by Parks and Recreation."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

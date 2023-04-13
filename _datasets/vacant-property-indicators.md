@@ -9,8 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "The location of properties across Philadelphia that are likely to be a vacant\
   \ lot or vacant building based on an assessment of City of Philadelphia administrative\
-  \ datasets.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ datasets."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

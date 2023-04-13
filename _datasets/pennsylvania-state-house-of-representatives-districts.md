@@ -8,9 +8,7 @@ maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "Please refer to [PA's open data for the State House Representative Districts](https://data.pa.gov/Geospatial-Data/Pennsylvania-House-Districts-Boundaries/in5u-czi3).\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Please refer to [PA's open data for the State House Representative Districts](https://data.pa.gov/Geospatial-Data/Pennsylvania-House-Districts-Boundaries/in5u-czi3)."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources: []

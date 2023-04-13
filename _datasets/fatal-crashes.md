@@ -17,9 +17,7 @@ notes: "This data set shows all fatal crashes and their investigative outcomes f
   \ the location of where crashes are initially _reported_ whereas OTIS' crash data\
   \ involves further investigation to confirm initial reports. If you want to analyze\
   \ the location of crashes in Philadelphia, use OTIS' dataset. If you want to understand\
-  \ the investigative outcomes of crashes, use the PPD dataset.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ the investigative outcomes of crashes, use the PPD dataset.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

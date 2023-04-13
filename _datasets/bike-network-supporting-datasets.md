@@ -15,9 +15,7 @@ notes: "This dataset combines data from various City of Philadelphia departments
   \ include Bike Network, Connector Streets, Regional Routes, and Trails and Side\
   \ paths. Each dataset has its own parameters, dates, and sources, and individuals\
   \ are encouraged to view the metadata associated with this data. \r\n<br></br>\r\
-  \nThis dataset is experimental and remains a work in progress. Please use with caution.\
-  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
-  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \nThis dataset is experimental and remains a work in progress. Please use with caution."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

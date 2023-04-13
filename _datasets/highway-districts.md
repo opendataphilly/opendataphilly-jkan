@@ -10,9 +10,7 @@ maintainer_link: http://www.phila.gov/streets
 maintainer_phone: null
 notes: "Please note that the dataset below is a snapshot of data captured at one time\
   \ and does not receive regular updates.\r\n\r\nThe Highway Districts dataset shows\
-  \ the boundaries of highway districts used for managing maintenance of roads. \r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ the boundaries of highway districts used for managing maintenance of roads. "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

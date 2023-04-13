@@ -10,9 +10,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Contains information about the applicant, business, project, and costs. Used\
-  \ for tracking completed projects; including tracking amounts paid.\r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ for tracking completed projects; including tracking amounts paid."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

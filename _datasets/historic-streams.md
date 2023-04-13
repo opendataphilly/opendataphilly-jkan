@@ -9,8 +9,7 @@ maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Philadelphia streams as mapped by Charles Ellet in 1842 and Previous study\
-  \ of historic streams conducted by PWD.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ of historic streams conducted by PWD.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

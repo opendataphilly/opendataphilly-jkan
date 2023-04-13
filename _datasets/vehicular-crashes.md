@@ -12,8 +12,7 @@ maintainer_phone: null
 notes: "This data set contains crash data for the years 2007-2020 from the Pennsylvania\
   \ Department of Transportation (Penn DOT). This is a subset of the [annual Crash\
   \ Data compiled](https://crashinfo.penndot.gov/PCIT/welcome.html) and released by\
-  \ Penn DOT for the entire state.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Penn DOT for the entire state."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

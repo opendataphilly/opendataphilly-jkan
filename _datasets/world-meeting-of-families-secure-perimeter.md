@@ -7,9 +7,7 @@ maintainer: OEM
 maintainer_email: oem@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "Secure perimeter for the 2015 World Meeting of Families in Philadelphia, PA.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Secure perimeter for the 2015 World Meeting of Families in Philadelphia, PA."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

@@ -9,9 +9,7 @@ maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This layer identifies the point locations of the city owned bridges that are\
-  \ maintained by the Bridge Division of the City of Philadelphia Streets Department.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ maintained by the Bridge Division of the City of Philadelphia Streets Department."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

@@ -9,8 +9,7 @@ maintainer_email: maps@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "LiDAR and LAS data was gathered for the City of Philadelphia in April 2008,\
-  \ April 2010 and April 2018.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ April 2010 and April 2018."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

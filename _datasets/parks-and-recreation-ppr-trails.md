@@ -10,8 +10,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Linear representation of Philadelphia Parks and Recreation (PPR) trails. Not\
-  \ designed for networking. \r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ designed for networking."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

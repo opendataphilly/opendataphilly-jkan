@@ -9,9 +9,7 @@ maintainer: maps@phila.gov
 maintainer_email: maps@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "Basemaps of the Philadelphia area, including from the Department of Records.\
-  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
-  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Basemaps of the Philadelphia area, including from the Department of Records."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

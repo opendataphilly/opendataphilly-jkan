@@ -9,9 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Point data of all First Judicial District of PA courts. Aside from the courts\
   \ and locations, a main telephone number was added for each court. All information\
-  \ was provided by http://www.courts.phila.gov/locations.asp\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ was provided by http://www.courts.phila.gov/locations.asp\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

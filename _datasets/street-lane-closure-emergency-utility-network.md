@@ -8,8 +8,7 @@ maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This layer shows the Philadelphia Gas Works (PGW) Emergency Utility Network\
-  \ (EUN) with Excavation points.  \r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ (EUN) with Excavation points.  "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

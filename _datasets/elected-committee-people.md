@@ -9,8 +9,7 @@ maintainer_email: seth.bluestein@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This data set is a list of elected Committee People by ward, division, and\
-  \ party.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
-  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ party."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

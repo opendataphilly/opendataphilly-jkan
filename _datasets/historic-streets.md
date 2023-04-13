@@ -9,9 +9,7 @@ maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "To map older streets with historical value in the City of Philadelphia.\r\n\
-  \r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "To map older streets with historical value in the City of Philadelphia."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

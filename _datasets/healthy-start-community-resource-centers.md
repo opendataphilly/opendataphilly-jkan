@@ -9,8 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Street location, hours and contact information of PDPH-affiliated HealthyStart\
-  \ Community Resource Centers.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Community Resource Centers."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

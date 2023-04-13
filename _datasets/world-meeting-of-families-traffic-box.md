@@ -9,8 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Traffic box for the 2015 World Meeting of Families in Philadelphia, PA.  The\
   \ boundaries and bordering streets were released during a press conference at City\
-  \ Hall on August 5th, 2015.\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Hall on August 5th, 2015.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

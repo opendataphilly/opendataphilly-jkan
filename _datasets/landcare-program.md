@@ -11,9 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Data reflecting properties cleaned and greened through the LandCare program\
   \ - a joint program between the Division of Housing and Community Development (DHCD)\
-  \ and the Pennsylvania Horticultural Society (PHS).  \r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ and the Pennsylvania Horticultural Society (PHS). "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

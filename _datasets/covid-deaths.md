@@ -19,9 +19,7 @@ notes: "***As of May 2022, these datasets moved from daily updates to weekly upd
   \n\r\nDeidentified, aggregate datasets showing COVID deaths by date, zip, race,\
   \ or age. You can [find COVID cases datasets here](https://www.opendataphilly.org/dataset/covid-cases).\
   \ To protect the confidentiality of residents, PDPH suppresses the exact data for\
-  \ any categories that have less than 6 counts (i.e. of cases or fatalities).\r\n\
-  \r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ any categories that have less than 6 counts (i.e. of cases or fatalities)."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

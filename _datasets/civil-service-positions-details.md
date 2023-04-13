@@ -11,8 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "These datasets show job classification and pay ranges details about Civil\
   \ Service positions approved by the Civil Service commission and Administrative\
-  \ board.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
-  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ board."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

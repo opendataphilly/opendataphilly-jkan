@@ -15,9 +15,7 @@ notes: "PhilaDox is an online database of documents filed with the City of Phila
   \ by grantor/grantee names, address, or county record book and page.  Scanned documents\
   \ can be downloaded as PDFs.\r\n\r\nFull access to PhilaDox records is available\
   \ with a daily, weekly, monthly, or annual subscription. More limited search for\
-  \ names and address is available for free public access.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ names and address is available for free public access.\r\n\r\n"
 opendataphilly_rating: '1'
 organization: City of Philadelphia
 resources:

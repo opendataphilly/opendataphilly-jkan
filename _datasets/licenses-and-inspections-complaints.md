@@ -11,8 +11,7 @@ notes: "Complaints that were entered via 311 or by an individual in the departme
   \ Complaints were formerly known as 'Service Requests' in L&I's old enterprise database\
   \ called 'Hansen', which was decommissioned in March 2020.\r\n\r\nEach row in the\
   \ table represents a single 'call'. Calls are sometimes bunched into one 'Complaint'\
-  \ all sharing the same unique number.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
+  \ all sharing the same unique number.\r\n\r\n\r\
   \n"
 opendataphilly_rating: null
 organization: City of Philadelphia

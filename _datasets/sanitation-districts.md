@@ -9,9 +9,7 @@ maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: http://www.phila.gov/streets/
 maintainer_phone: 215-686-8287
 notes: "Boundaries of city sanitation districts.  Collection areas are subdivisions\
-  \ of districts.  Districts are aggregated up to Sanitation Areas. \r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ of districts.  Districts are aggregated up to Sanitation Areas. "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

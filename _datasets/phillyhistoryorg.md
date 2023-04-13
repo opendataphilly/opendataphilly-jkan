@@ -17,8 +17,7 @@ notes: "PhillyHistory.org is an online database of historic photographs and maps
   \ intersection, place name, and neighborhood as well as keyword, date, collection,\
   \ topics, and other criteria. Images and maps are associated with a location using\
   \ the database's geocoding feature. Users can create a free account to save images,\
-  \ bookmark searches, and submit error reports.\r\n\r\nTrouble downloading or have\
-  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ bookmark searches, and submit error reports."
 opendataphilly_rating: '10'
 organization: City of Philadelphia
 resources:

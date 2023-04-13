@@ -10,9 +10,7 @@ maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "To identify boundaries for City Leaf Collection Services.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+notes: "To identify boundaries for City Leaf Collection Services.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

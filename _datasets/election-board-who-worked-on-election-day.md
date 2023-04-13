@@ -9,8 +9,7 @@ maintainer_email: seth.bluestein@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This data reflects which Election Board Officials worked on Election Day and\
-  \ received payment for their services.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ received payment for their services.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

@@ -9,9 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Dates and locations of when lots were cleaned (removing weeds, debris, etc.)\
-  \ through the City of Philadelphia's Community Life Improvement Program.\r\n\r\n\
-  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ through the City of Philadelphia's Community Life Improvement Program."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

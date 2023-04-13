@@ -10,8 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "The purpose of this dataset is to provide the geographic locations of the\
   \ college and universities in Philadelphia along with their attribute data attached\
-  \ to each polygon.\r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
+  \ to each polygon.\r\n\r\n\r\
   \n"
 opendataphilly_rating: null
 organization: City of Philadelphia

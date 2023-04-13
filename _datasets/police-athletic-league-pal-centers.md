@@ -9,8 +9,7 @@ maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This data was developed for cartographic use -- specifically, as reference\
-  \ information for the Police Athletic League.\r\n\r\nTrouble downloading or have\
-  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ information for the Police Athletic League."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

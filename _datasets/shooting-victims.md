@@ -8,9 +8,7 @@ maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "City-wide shooting victims, including Police Officer-involved shootings\r\n\
-  \r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "City-wide shooting victims, including Police Officer-involved shootings"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
