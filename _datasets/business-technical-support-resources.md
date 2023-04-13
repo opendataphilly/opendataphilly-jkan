@@ -8,9 +8,7 @@ maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "Services and support available to businesses in Philadelphia. \r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Services and support available to businesses in Philadelphia. "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

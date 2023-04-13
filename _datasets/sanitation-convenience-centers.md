@@ -9,9 +9,7 @@ maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "Sites where residents can drop off household trash and recycling.\r\n\r\n\
-  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Sites where residents can drop off household trash and recycling."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

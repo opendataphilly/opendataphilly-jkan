@@ -25,9 +25,7 @@ notes: "Population metrics are provided at the census tract, planning district, 
   \ of Philadelphia residents as  well as [social determinants of health metrics](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-social-determinants-of-health-sdoh)\
   \ at the city and planning district levels of geography.  Please refer to the metadata\
   \ links below for variable definitions and [this technical notes document](https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/624cb0c4782b6a001ebc26f3/kn-asset/142-534-251-6279872beb52cc001e87008f/technicalnotesformetadata5.9.22.pdf)\
-  \ to access detailed technical notes and variable definitions.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)\r\n"
+  \ to access detailed technical notes and variable definitions.\r\n\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

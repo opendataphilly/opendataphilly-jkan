@@ -11,9 +11,7 @@ maintainer_email: ''
 maintainer_link: http://www.phila.gov/streets/
 maintainer_phone: 215-686-5560
 notes: "Line data includes the network of both streets with bike lanes and streets\
-  \ considered bicycle-friendly. Also known as the bicycle network. \r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ considered bicycle-friendly. Also known as the bicycle network. "
 opendataphilly_rating: '5'
 organization: City of Philadelphia
 resources:

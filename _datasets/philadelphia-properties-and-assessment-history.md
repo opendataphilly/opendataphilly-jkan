@@ -15,8 +15,7 @@ notes: "***OPA is currently updating its data files. Some of the information in 
   \ more information on [how OPA assesses property and their reports](https://www.phila.gov/departments/office-of-property-assessment/resources/)\
   \ on the quality of assessments. \r\n\r\n***This data updates nightly. Please ignore\
   \ the 'created by' date below - the date of August 2015 shows when this webpage,\
-  \ not the data, was created.*** Trouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ not the data, was created.*** "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

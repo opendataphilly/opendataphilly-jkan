@@ -9,8 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Block by block percentages across Philadelphia showing the percentages of\
   \ properties (buildings and lots) in each block considered likely to be vacant by\
-  \ the city's Vacant Property Indicators Model.\r\n\r\nTrouble downloading or have\
-  \ questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ the city's Vacant Property Indicators Model."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

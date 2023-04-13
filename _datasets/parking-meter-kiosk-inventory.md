@@ -8,8 +8,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Raw data dump from the PPA including meter/kiosk manufacturer and model, as\
-  \ well as status.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ well as status."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

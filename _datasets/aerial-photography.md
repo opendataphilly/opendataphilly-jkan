@@ -10,9 +10,7 @@ maintainer: Office of Innovation & Technology
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: null
 maintainer_phone: 215-686-8287
-notes: "Data includes aerial photography of the City of Philadelphia.\r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Data includes aerial photography of the City of Philadelphia."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

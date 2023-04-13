@@ -13,9 +13,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "This data contains the High Injury Network. It is derived using spatial data\
-  \ analysis of crash data for years 2012-2016 from Pennsylvania Department of Transportation.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ analysis of crash data for years 2012-2016 from Pennsylvania Department of Transportation."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

@@ -10,9 +10,7 @@ maintainer: ligisteam@phila.gov
 maintainer_email: ligisteam@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "Properties that have applied and been approved as suitable for renting. \r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Properties that have applied and been approved as suitable for renting. "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

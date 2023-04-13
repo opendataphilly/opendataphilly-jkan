@@ -14,9 +14,7 @@ notes: "City of Philadelphia land use as ascribed to individual parcel boundarie
   \ as residential, commercial or industrial. Each unit of land is assigned one of\
   \ nine major classifications of land use (2-digit code), and where possible a more\
   \ narrowly defined sub-classification (3-digit code). The land use feature class\
-  \ has been field checked and corrected for the following Planning Districts. \r\n\
-  \r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ has been field checked and corrected for the following Planning Districts. "
 opendataphilly_rating: '5'
 organization: City of Philadelphia
 resources:

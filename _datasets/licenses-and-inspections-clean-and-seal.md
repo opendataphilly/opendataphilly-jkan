@@ -8,8 +8,7 @@ maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Address, date of abatement, and more for properties that have been cleaned\
-  \ and sealed by the L&I Clean & Seal Unit.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
+  \ and sealed by the L&I Clean & Seal Unit.\r\n\r\n\r\
   \n"
 opendataphilly_rating: null
 organization: City of Philadelphia

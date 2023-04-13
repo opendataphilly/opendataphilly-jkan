@@ -14,8 +14,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Districts with special sidewalk vending rules pursuant to Sections 9-204 (Sidewalk\
   \ Vendors in Center City) and 9-206 (Sidewalk Vendors in Neighborhood Business Districts)\
-  \ of The Philadelphia Code.\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ of The Philadelphia Code.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

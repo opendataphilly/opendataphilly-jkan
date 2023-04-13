@@ -10,8 +10,7 @@ maintainer_link: http://www.phila.gov/streets
 maintainer_phone: null
 notes: "This data includes curb edges with cartways and curb edges without cartways\
   \ to represent travelways within the City of Philadelphia and it aids in placement\
-  \ of street centerline.\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ of street centerline.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

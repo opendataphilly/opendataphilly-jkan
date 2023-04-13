@@ -14,8 +14,7 @@ notes: "The table below shows which job positions have received a waiver from th
   \ fulfill certain residency requirements:\r\n-Exempt positions: You must move to\
   \ Philadelphia within six months after your appointment date.\r\n-Civil service\
   \ positions: you must live in Philadelphia for one year before your appointment\
-  \ date.\r\n\r\nTrouble downloading or have questions about this City dataset? Visit\
-  \ the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ date."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

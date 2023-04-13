@@ -12,9 +12,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "An inventory of buildings and other fixed assets owned, leased, or operated\
   \ by the City of Philadelphia including buildings, structures, and properties (not\
-  \ including surplus properties). Also known as the Master Facilities Database. \r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ including surplus properties). Also known as the Master Facilities Database. "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

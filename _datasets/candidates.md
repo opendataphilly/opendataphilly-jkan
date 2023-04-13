@@ -11,8 +11,7 @@ maintainer_phone: null
 notes: "***THIS DATASET IS UNDER CONSTRUCTION AND WILL BE RE-RELEASED SHORTLY***\r\
   \n\r\nThe individuals who are candidates for elected office.  Internally, this information\
   \ is used to create the ballot. Externally, candidates and campaigns will want to\
-  \ know who their opponents are. \r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ know who their opponents are. "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

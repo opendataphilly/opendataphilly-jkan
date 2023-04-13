@@ -12,9 +12,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "This is a dataset that shows the Philadelphia properties with tax delinquencies,\
   \ including those that are in payment agreements. An account is delinquent when\
-  \ Real Estate Tax is still unpaid on January 1 the following year the tax was due.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Real Estate Tax is still unpaid on January 1 the following year the tax was due."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

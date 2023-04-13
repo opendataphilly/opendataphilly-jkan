@@ -15,8 +15,7 @@ notes: "The Philadelphia Land Cover Raster provides data on the types of surface
   \ was intended to demonstrate tree canopy levels in Philadelphia. When tree canopy\
   \ covers another surface type, that area is placed in the tree canopy category.\
   \ The data was gathered with the assistance of the University of Vermont Spatial\
-  \ Analysis Laboratory.\r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Analysis Laboratory.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

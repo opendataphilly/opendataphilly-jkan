@@ -9,8 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Street location, contact information and hours of PDPH-funded HIV Treatment\
-  \ Centers.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Centers."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

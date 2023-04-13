@@ -20,9 +20,7 @@ notes: "Healthy Chinese Takeout participants as of 2/5/15. The Philadelphia Heal
   \ restaurants tend to have higher rates of illegal tobacco sales to minors than\
   \ other retailers. To date, 200 Chinese take-out restaurants have enrolled in the\
   \ initiative, participated in a low-sodium healthy cooking training with a professional\
-  \ chef, and received education about complying with the Tobacco Youth Sales Law.\
-  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
-  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ chef, and received education about complying with the Tobacco Youth Sales Law."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

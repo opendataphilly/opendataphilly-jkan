@@ -14,8 +14,7 @@ notes: "Polygon feature class representing major watersheds in Philadelphia. Dat
   \ was developed originally from either USGS and the 2004 Sanborn DEM (digital elevation\
   \ model) using ArcHydro watershed extraction tools. Major Watersheds are dissolved\
   \ from subshed boundaries which reflect surface flow in relationship to stormwater\
-  \ inlets and outfalls.\r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ inlets and outfalls.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

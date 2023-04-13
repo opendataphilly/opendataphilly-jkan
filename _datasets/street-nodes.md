@@ -12,8 +12,7 @@ maintainer_email: dominick.cassise@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "The street nodes layer was developed for use by agencies citywide including\
-  \ PWD, PCPC, Police, BRT, Health, etc. \r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ PWD, PCPC, Police, BRT, Health, etc. \r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

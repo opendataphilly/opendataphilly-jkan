@@ -12,8 +12,7 @@ notes: "This dataset is a contour data line segments representing the elevation 
   \ features covering the City of Philadelphia, PA, approximately 196 sq miles total.\
   \ Data is typically collected during the month of April. Data Development: Vector\
   \ (line) data representing the elevation of natural and artificial features in the\
-  \ project area.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ project area."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

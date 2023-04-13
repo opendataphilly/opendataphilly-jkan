@@ -8,8 +8,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "The Special Supplemental Nutrition Program for Women, Infants, and Children\
-  \ (WIC) .\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ (WIC) ."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

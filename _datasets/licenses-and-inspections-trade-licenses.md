@@ -10,8 +10,7 @@ maintainer_phone: null
 notes: "Information regarding individuals who have applied for trades licenses such\
   \ as General Contractor, Master Plumber, and more. Information includes the individual's\
   \ name, license number, license status issue date, expiration date, company name,\
-  \ and revenue code.\r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ and revenue code.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

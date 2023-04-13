@@ -14,9 +14,7 @@ maintainer_phone: null
 notes: "This layer was developed to aid the Street Lighting Division in planning,\
   \ referencing, and maintaining the active street poles within the City of Philadelphia.\
   \  Examples include: providing information regarding group replacement projects\
-  \ and any individual edits, using tables from layer for billing, and aiding cityworks.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ and any individual edits, using tables from layer for billing, and aiding cityworks."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

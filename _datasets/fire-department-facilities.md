@@ -9,8 +9,7 @@ maintainer_email: ''
 maintainer_link: http://www.phila.gov/fire/
 maintainer_phone: null
 notes: "Locations of Philadelphia Fire Department stations. Data originates from the\
-  \ City of Philadelphia Fire Department.\r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ City of Philadelphia Fire Department.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

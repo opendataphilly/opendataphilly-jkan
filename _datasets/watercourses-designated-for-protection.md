@@ -15,8 +15,7 @@ notes: "Hydrographic features included in Philadelphia Hydrology Map. This map w
   \ Designated for Protection on September 13th, 2012. The geographic data depicts\
   \ watercourses within Philadelphia County as they appear on the map and will not\
   \ be edited or updated. For up-to-date hydrography see the Hydrolographic_Features_Poly\
-  \ layer under Hydrology.\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ layer under Hydrology.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

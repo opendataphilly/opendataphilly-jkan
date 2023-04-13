@@ -12,8 +12,7 @@ maintainer_phone: null
 notes: "This data set reflects the recipients, award amounts, and project sites for\
   \ grant money disbursed by the Philadelphia Commerce Department for the Storefront\
   \ Improvement Program whereby businesses are provided the funds to improve the exterior\
-  \ of their storefront.\r\n\r\nTrouble downloading or have questions about this City\
-  \ dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ of their storefront.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

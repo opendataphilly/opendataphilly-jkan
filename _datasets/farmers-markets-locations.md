@@ -8,8 +8,7 @@ maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: 215-686-5259
-notes: "Locations of farmers markets in Philadelphia.\r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+notes: "Locations of farmers markets in Philadelphia.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

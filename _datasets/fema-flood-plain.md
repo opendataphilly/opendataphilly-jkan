@@ -8,9 +8,7 @@ maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "Federal Emergency Management Administration (FEMA) data clipped to Philadelphia.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)\r\n"
+notes: "Federal Emergency Management Administration (FEMA) data clipped to Philadelphia.\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

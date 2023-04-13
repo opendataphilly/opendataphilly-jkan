@@ -14,9 +14,7 @@ notes: "The Complete Streets Layer combines the Street Types developed by the Ci
   \ Handbook of the Mayor\u2019s Office of Transportation and Utilities. It allows\
   \ developers, planners, engineers and community groups to easily identify their\
   \ street type and associated pedestrian, bicycle and other travel priorities to\
-  \ be included during the planning of new streets or large developments.\r\n\r\n\
-  Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ be included during the planning of new streets or large developments."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

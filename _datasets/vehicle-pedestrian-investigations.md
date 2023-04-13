@@ -18,9 +18,7 @@ notes: "Police investigations of pedestrians and vehicles from the Philadelphia 
   ve split up the dataset by year. Please be sure to download data for all of the\
   \ years to see the full dataset. You can learn more about how to use the API at\
   \ [Carto\u2019s SQL API site](https://carto.com/developers/sql-api/) and in the\
-  \ [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

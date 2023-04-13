@@ -11,8 +11,7 @@ maintainer_phone: null
 notes: "This layer was developed to aid the Surveys Division in planning, modifying\
   \ and referencing the streets within a city plan of the City of Philadelphia.  Examples\
   \ include:  building new streets, modifying existing streets, or observing current\
-  \ streets.\r\n\r\nTrouble downloading or have questions about this City dataset?\
-  \ Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ streets."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

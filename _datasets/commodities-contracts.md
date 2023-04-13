@@ -14,9 +14,7 @@ notes: "Commodities contracts are bid and awarded by the Procurement Department,
   \ during the given quarter.\r\n\r\nWhen you click on a file below and it opens in\
   \ a new tab, simple right click on the page, and choose 'save as.' When the save\
   \ as dialog box appears, make sure the 'save as type' is Microsoft Excel Comma Separated\
-  \ Values File. You should then be able to open in excel.\r\n\r\nTrouble downloading\
-  \ or have questions about this City dataset? Visit the [OpenDataPhilly Discussion\
-  \ Group](http://www.phila.gov/data/discuss/)"
+  \ Values File. You should then be able to open in excel.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

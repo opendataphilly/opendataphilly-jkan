@@ -9,8 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Data for both primary and general elections, 2002 - present.  Includes separate\
-  \ files for initial results and certified results.\r\n\r\nTrouble downloading or\
-  \ have questions about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ files for initial results and certified results.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

@@ -9,8 +9,7 @@ maintainer_email: darshna.patel@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "City Council Districts (1990),\r\nCity Council Districts (2000), and\r\nCity\
-  \ Council Districts (2016)\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Council Districts (2016)\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

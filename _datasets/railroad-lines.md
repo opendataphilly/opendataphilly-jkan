@@ -9,8 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "This is one of the planimetric coverages developed as part of the aerial survey\
   \ project of 1996 and updated using new aerial photography collected between 25\
-  \ March 2004 and 23 April 2004.\r\n\r\nTrouble downloading or have questions about\
-  \ this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ March 2004 and 23 April 2004."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

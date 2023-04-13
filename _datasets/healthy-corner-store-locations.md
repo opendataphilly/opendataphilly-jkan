@@ -11,8 +11,7 @@ maintainer_link: null
 maintainer_phone: 215-686-5259
 notes: "This dataset contains location data for both Healthy Corner and Enhanced Healthy\
   \ Corner Store. It is currently being updated. Please visit [Food Fit Philly](http://foodfitphilly.org/eat-healthy-on-a-budget/)\
-  \ for information in the interim. \r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ for information in the interim. \r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

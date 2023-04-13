@@ -16,9 +16,7 @@ notes: "Campaign finance reports from 2019 to the present: The tables below show
   \ to learn how to navigate the dashboard, or read the [technical document](https://docs.google.com/document/d/1VzeY_HJOATS17pE4639OZq0fhrF7Jppps-Mc3dZhDqY/edit?usp=sharing)\
   \ to understand how we compiled the data and dashboard. \r\n\r\nIf you want to use\
   \ the raw, unfiltered data, please visit the [searchable database](https://apps.phila.gov/search/all).\
-  \ Filers can submit reports on via the [campaign finance filing system](https://apps.phila.gov/auth).\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ Filers can submit reports on via the [campaign finance filing system](https://apps.phila.gov/auth)."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

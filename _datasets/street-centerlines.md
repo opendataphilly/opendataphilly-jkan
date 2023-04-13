@@ -14,9 +14,7 @@ notes: "Used citywide as base layer for many purposes/applications. The street c
   \ is available for reference purposes only and does not represent exact engineering\
   \ specifiactions. The Philadelphia Streets Department makes no guarantees as to\
   \ the accuracy of the layer. Associated tables can be found here: https://www.opendataphilly.org/dataset/street-place-names\
-  \  \r\nhttps://www.opendataphilly.org/dataset/street-name-alias-list \r\n\r\nTrouble\
-  \ downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \  \r\nhttps://www.opendataphilly.org/dataset/street-name-alias-list "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

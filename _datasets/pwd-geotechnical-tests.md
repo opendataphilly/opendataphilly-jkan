@@ -16,9 +16,7 @@ notes: "BACKGROUND - The objective of geotechnical testing is to help determine 
   \ the footprint of each GSI system.\r\n\r\nUSING THE LAYER - The infiltration rates\
   \ and subsurface lithology results such as depth to bedrock and depth to groundwater\
   \ may be helpful for other users of this layer, but it is important to note that\
-  \ these values can vary widely from location to location, even for nearby sites.\r\
-  \n\r\nTrouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly\
-  \ Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ these values can vary widely from location to location, even for nearby sites."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

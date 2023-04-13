@@ -10,9 +10,7 @@ maintainer_email: ''
 maintainer_link: http://www.phila.gov/dot/
 maintainer_phone: null
 notes: "Planimetric Coverage containing the delineation of buildings or related structure\
-  \ outlines that represent the footprints of buildings within the City of Philadelphia.\
-  \ \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
-  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ outlines that represent the footprints of buildings within the City of Philadelphia."
 opendataphilly_rating: '4'
 organization: City of Philadelphia
 resources:

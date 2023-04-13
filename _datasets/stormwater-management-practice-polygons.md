@@ -11,8 +11,7 @@ maintainer_phone: null
 notes: "This layer represents Green Stormwater Infrastructure Stormwater Management\
   \ Practice types. Integrating Green Stormwater Infrastructure (GSI) into a highly\
   \ developed area such as Philadelphia requires a decentralized and creative approach\
-  \ to planning and design.\r\n\r\nTrouble downloading or have questions about this\
-  \ City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ to planning and design.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

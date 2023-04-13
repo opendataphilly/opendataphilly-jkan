@@ -12,8 +12,7 @@ maintainer_email: daniel.whaland@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Locations and basic information on public art that is part of the Percent\
-  \ for Art program. Updated as needed. \r\n\r\nTrouble downloading or have questions\
-  \ about this City dataset? Visit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ for Art program. Updated as needed. \r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

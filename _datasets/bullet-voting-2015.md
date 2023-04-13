@@ -9,9 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Each voter is allowed to select up to five candidates for City Council At-Large.\
-  \ When a voter chooses only one candidate, it is known as \u201Cbullet voting.\u201D\
-  \r\n\r\nTrouble downloading or have questions about this City dataset? Visit the\
-  \ [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)"
+  \ When a voter chooses only one candidate, it is known as \u201Cbullet voting.\u201D"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
