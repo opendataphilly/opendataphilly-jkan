@@ -10,8 +10,7 @@ maintainer_link: http://www.education.state.pa.us/
 maintainer_phone: 717-783-6540
 notes: Data includes average PA public school ACT scores. Data is organized by AUN,
   school district, number, name, and contains information on number of students tested
-  and average ACT scores broken down by section (English, math, science, reading,
-  composite, English/writing, writing sub-score).
+  and average ACT scores broken down by section.
 opendataphilly_rating: '20'
 organization: PA Department of Education
 resources:
