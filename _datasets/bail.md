@@ -17,7 +17,7 @@ resources:
 - description: ''
   format: CSV
   name: Bail by District or Citywide (CSVs)
-  url: https://github.com/phillydao/phillydao-public-data/tree/master/docs/data
+  url: https://opendata.arcgis.com/api/v3/datasets/54dc082b56d94b52a153f9a032b05791_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 schema: philadelphia
 source: ''
 tags:
