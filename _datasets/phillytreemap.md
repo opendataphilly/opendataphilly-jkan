@@ -5,8 +5,7 @@ category:
 created: '2014-12-08T21:52:40.832530'
 license: License Not Specified
 maintainer: ''
-maintainer_email: opentreemap@azavea.com
-maintainer_link: http://www.phillytreemap.org/
+maintainer_link: https://www.opentreemap.org/phillytreemap/
 maintainer_phone: null
 notes: 'Urban tree inventory database and wiki-style editing system that enables the
   public to edit information about individual trees, update existing data and calculate
@@ -17,7 +16,7 @@ resources:
 - description: ''
   format: HTML
   name: PhillyTreeMap Application
-  url: http://www.phillytreemap.org/
+  url: https://www.opentreemap.org/phillytreemap/
 schema: philadelphia
 source: ''
 tags: []
