@@ -15,7 +15,7 @@ notes: "The Department of Licenses & Inspections reviews construction plans and 
   \ are required before the start of a specific construction activity to enlarge,\
   \ repair, change, add to or demolish a structure, and to install equipment or systems\
   \ in a structure.  Depending on the scale or type of construction activity, it may\
-  \ need to be first authorized via a zoning permit. Subcontractors permits are also available. Plumbing and electrical permits,\
+  \ need to be first authorized via a zoning permit. Permit contractors are also available as a dataset. Plumbing and electrical permits,\
   \ among others, may also be required for new or existing buildings.\r\n\r\n**Please\
   \ note that this is a very large dataset. To see all permits, download all datasets\
   \ for all years.** \r\n\r\n**If you are comfortable with APIs, you can also use\
