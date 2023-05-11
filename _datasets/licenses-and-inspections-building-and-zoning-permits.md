@@ -59,18 +59,18 @@ resources:
   format: HTML
   name: L&I Building and Zoning Permits (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543868920583086178c4f8f/representationdetails/5e9a01ac801624001585ca11/
-- description: ''
+  - description: ''
   format: CSV
-  name: Subcontractors (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/2ef4d79cfec8447b82bfcb2169d99175_0/downloads/data?format=csv&spatialRefId=4326
-- description: ''
+  name: Permit Contractors (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/f623fd49ff62452ba08f9dd34e402697_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+   - description: ''
   format: API
-  name: Subcontractors (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/SUBCONTRACTORS/FeatureServer/0/query?outFields=*&where=1%3D1
-- description: ''
+  name: Permit Contractors (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PERMIT_CONTRACTORS/FeatureServer/0/query?outFields=*&where=1%3D1
+  - description: ''
   format: HTML
-  name: Subcontractors (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5543868920583086178c4f8f/representationdetails/60ad8730d71dfb001e62efa0/
+  name: Permit Contractors (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543868920583086178c4f8f/representationdetails/6375590d435286002131ea52/
 schema: philadelphia
 source: ''
 tags:
