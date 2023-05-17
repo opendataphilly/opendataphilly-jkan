@@ -59,15 +59,15 @@ resources:
   format: HTML
   name: L&I Building and Zoning Permits (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543868920583086178c4f8f/representationdetails/5e9a01ac801624001585ca11/
-  - description: ''
+- description: ''
   format: CSV
   name: Permit Contractors (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/f623fd49ff62452ba08f9dd34e402697_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
-   - description: ''
+- description: ''
   format: API
   name: Permit Contractors (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PERMIT_CONTRACTORS/FeatureServer/0/query?outFields=*&where=1%3D1
-  - description: ''
+- description: ''
   format: HTML
   name: Permit Contractors (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543868920583086178c4f8f/representationdetails/6375590d435286002131ea52/
