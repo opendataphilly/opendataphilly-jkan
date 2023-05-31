@@ -11,7 +11,7 @@ notes: "This data set shows all fatal crashes and their investigative outcomes f
   \ PPD's Accident Investigation Unit (AID) from 1/1/19 to the present. The whole\
   \ dataset gets refreshed nightly. This means the dataset will show new records the\
   \ day after the source data has updated.\r\n\r\n__For those conducting analysis,\
-  \ this dataset by PPD and [OTIS' crash data](https://www.opendataphilly.org/dataset/vehicular-crash-data)\
+  \ this dataset by PPD and [OTIS' crash data](https://www.opendataphilly.org/datasets/vehicular-crash-data)\
   \ should not be compared, or should be used together cautiously.__ The same crash\
   \ may show as in different locations between the two datasets since PPD data represent\
   \ the location of where crashes are initially _reported_ whereas OTIS' crash data\

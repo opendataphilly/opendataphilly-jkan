@@ -12,8 +12,8 @@ maintainer_phone: null
 notes: "Retailers apply for a tobacco permit through an online application system,\
   \ entering name, address, and other relevant business information. These data are\
   \ cleaned and stored in a database maintained by the Department of Public Health.\r\
-  \n\r\nRelated datasets include the [Tobacco Youth Sales Violations](https://www.opendataphilly.org/dataset/tobacco-youth-sales-violations)\
-  \ and [Tobacco-Free School Zones](https://www.opendataphilly.org/dataset/tobacco-free-school-zones)."
+  \n\r\nRelated datasets include the [Tobacco Youth Sales Violations](https://www.opendataphilly.org/datasets/tobacco-youth-sales-violations)\
+  \ and [Tobacco-Free School Zones](https://www.opendataphilly.org/datasets/tobacco-free-school-zones)."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

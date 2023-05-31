@@ -12,7 +12,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "The datasets below have been archived and will not receive further updates,\
   \ but remain available for reference. The up-to-date and more comprehensive [Neighborhood\
-  \ Food Retail data](https://www.opendataphilly.org/dataset/neighborhood-food-retail)\
+  \ Food Retail data](https://www.opendataphilly.org/datasets/neighborhood-food-retail)\
   \ is available and will be updated annually going forward. For those conducting\
   \ analysis using this data, please be advised that the previous methodology is vastly\
   \ different from the more recent data, so it would not make sense to compare the\

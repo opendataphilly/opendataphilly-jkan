@@ -10,7 +10,7 @@ maintainer_email: brian.ivey@phila.gov
 maintainer_link: http://www.philaplanning.org/
 maintainer_phone: 215-686-8287
 notes: "Please note that this dataset is no longer in use by the Philadelphia City\
-  \ Planning Commission and has been replaced with the [Planning Districts dataset](https://www.opendataphilly.org/dataset/planning-districts).\r\
+  \ Planning Commission and has been replaced with the [Planning Districts dataset](https://www.opendataphilly.org/datasets/planning-districts).\r\
   \n\r\nThe Planning Analysis Sections were the boundaries for the city's twelve planning\
   \ analysis sections with attribute labels."
 opendataphilly_rating: null

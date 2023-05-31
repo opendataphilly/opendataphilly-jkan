@@ -20,9 +20,9 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Population metrics are provided at the census tract, planning district, and\
   \ citywide levels of geography. \r\n\r\nYou can find related vital statistics tables\
-  \ that contain aggregate metrics on  [natality (births)](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-natality-births)\
-  \ and [mortality (deaths)](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-mortality-deaths)\
-  \ of Philadelphia residents as  well as [social determinants of health metrics](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-social-determinants-of-health-sdoh)\
+  \ that contain aggregate metrics on  [natality (births)](https://www.opendataphilly.org/datasets/philadelphia-vital-statistics-natality-births)\
+  \ and [mortality (deaths)](https://www.opendataphilly.org/datasets/philadelphia-vital-statistics-mortality-deaths)\
+  \ of Philadelphia residents as  well as [social determinants of health metrics](https://www.opendataphilly.org/datasets/philadelphia-vital-statistics-social-determinants-of-health-sdoh)\
   \ at the city and planning district levels of geography.  Please refer to the metadata\
   \ links below for variable definitions and [this technical notes document](https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/624cb0c4782b6a001ebc26f3/kn-asset/142-534-251-6279872beb52cc001e87008f/technicalnotesformetadata5.9.22.pdf)\
   \ to access detailed technical notes and variable definitions.\r\n\r\n\r\n"

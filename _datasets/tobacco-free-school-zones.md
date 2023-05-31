@@ -12,8 +12,8 @@ maintainer_phone: null
 notes: "Tobacco-free school zones included in the tobacco retailing regulations. This\
   \ part of the regulation prohibits new tobacco retailer permits within 500 feet\
   \ of any K-12 school property parcel. [For more information visit](http://www.phila.gov/health/Commissioner/regulationtobaccoretailing.html)\r\
-  \n\r\nRelated datasets include the [Tobacco Retailers Permits](https://www.opendataphilly.org/dataset/tobacco-retailer-permits)\
-  \ and [Tobacco Youth Sales Violations](https://www.opendataphilly.org/dataset/tobacco-youth-sales-violations)."
+  \n\r\nRelated datasets include the [Tobacco Retailers Permits](https://www.opendataphilly.org/datasets/tobacco-retailer-permits)\
+  \ and [Tobacco Youth Sales Violations](https://www.opendataphilly.org/datasets/tobacco-youth-sales-violations)."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

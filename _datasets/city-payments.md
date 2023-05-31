@@ -25,7 +25,7 @@ notes: "This dataset includes checks and ACH (direct deposit) payments made by t
   \ to learn more detail about important notes to this data, such as:\r\n\r\n- This\
   \ data cannot be compared with other financial and accounting reports released by\
   \ the City.\r\n- Legal and security-sensitive data has been rolled up to the aggregate\
-  \ dataset.\r\n- This dataset does not include [salary](https://www.opendataphilly.org/dataset/employee-salaries-overtime)\
+  \ dataset.\r\n- This dataset does not include [salary](https://www.opendataphilly.org/datasets/employee-salaries-overtime)\
   \ and benefits data or payments the City makes to fund the operations of the First\
   \ Judicial District.\r\n- Vendors should use the [vendor payment website](https://secure.phila.gov/finance/vendorpayments/),\
   \ not this dataset, to track payments."

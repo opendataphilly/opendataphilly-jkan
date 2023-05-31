@@ -8,7 +8,7 @@ maintainer: Randy Olson
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: 'The Indego bikeshare service offers an [API](/dataset/bike-share-stations)
+notes: 'The Indego bikeshare service offers an [API](/datasets/bike-share-stations)
   but it only shows current stations and usage; historical data is not published.  Randy
   Olson has developed a longitudinal data set that is updated hourly since June 30,
   2015.  Data columns include:  capture_datetime, name, kioskID, coordinates (lat/long),
@@ -18,7 +18,7 @@ opendataphilly_rating: null
 organization: Volunteer
 resources:
 - description: The data is updated hourly based on reading the [Indego Bikeshare Station
-    API](/dataset/bike-share-stations)
+    API](/datasets/bike-share-stations)
   format: TSV
   name: Indego Bikeshare Usage TSV file
   url: http://www.randalolson.com/data/indego-usage.tsv.gz

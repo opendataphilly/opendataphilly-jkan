@@ -17,7 +17,7 @@ notes: "***As of May 2022, these datasets moved from daily updates to weekly upd
   \ for example, the count of cases for each day. PDPH has also added 376 confirmed\
   \ COVID-19 cases (positive tests) that were previously missing from the data.**\r\
   \n\r\nDeidentified, aggregate datasets showing COVID deaths by date, zip, race,\
-  \ or age. You can [find COVID cases datasets here](https://www.opendataphilly.org/dataset/covid-cases).\
+  \ or age. You can [find COVID cases datasets here](https://www.opendataphilly.org/datasets/covid-cases).\
   \ To protect the confidentiality of residents, PDPH suppresses the exact data for\
   \ any categories that have less than 6 counts (i.e. of cases or fatalities)."
 opendataphilly_rating: null

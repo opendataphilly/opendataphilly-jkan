@@ -11,7 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "The datasets below have been archived and will not receive further updates,\
   \ but remain available for reference.  The up-to-date and more comprehensive [Litter\
-  \ Index is available here](https://www.opendataphilly.org/dataset/litter-index)\
+  \ Index is available here](https://www.opendataphilly.org/datasets/litter-index)\
   \ and will be updated annually going forward. For those conducting analysis using\
   \ Litter Index data, please be advised that the survey design between the 2007-\
   \ 2015 data is vastly different from the 2017 data, so it would not make sense to\

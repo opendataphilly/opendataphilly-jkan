@@ -17,7 +17,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: Mapping and visualization application developed by the Mayor's Office
-    of Sustainability. The application includes both [city-owned properties](/dataset/city-building-energy-benchmarking
+    of Sustainability. The application includes both [city-owned properties](/datasets/city-building-energy-benchmarking
     "City-owned Properties Energy Usage") and large building data
   format: HTML
   name: Energy Benchmarking Visualization and Mapping Application
