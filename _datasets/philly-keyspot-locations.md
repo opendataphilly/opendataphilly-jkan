@@ -19,7 +19,7 @@ resources:
     labs in Philadelphia.
   format: GeoJSON
   name: Philly KEYSPOT Locations
-  url: https://www.opendataphilly.org/dataset/71cf84e5-c6df-44d6-91ef-63f9b880e98e/resource/40daf627-b8c4-43b0-8d73-3cb8f9ccae15/download/keyspotlocationdata.geojson
+  url: https://www.opendataphilly.org/datasets/71cf84e5-c6df-44d6-91ef-63f9b880e98e/resource/40daf627-b8c4-43b0-8d73-3cb8f9ccae15/download/keyspotlocationdata.geojson
 - description: Just append the ID number found in the first script to the end of the
     URL.
   format: JSON

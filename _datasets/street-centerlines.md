@@ -13,8 +13,8 @@ maintainer_phone: 215-686-8287
 notes: "Used citywide as base layer for many purposes/applications. The street centerline\
   \ is available for reference purposes only and does not represent exact engineering\
   \ specifiactions. The Philadelphia Streets Department makes no guarantees as to\
-  \ the accuracy of the layer. Associated tables can be found here: https://www.opendataphilly.org/dataset/street-place-names\
-  \  \r\nhttps://www.opendataphilly.org/dataset/street-name-alias-list "
+  \ the accuracy of the layer. Associated tables can be found here: https://www.opendataphilly.org/datasets/street-place-names\
+  \  \r\nhttps://www.opendataphilly.org/datasets/street-name-alias-list "
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:

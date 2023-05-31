@@ -14,7 +14,7 @@ maintainer_phone: null
 notes: "Historic sites listed on the Philadelphia Register. Data was updated by the\
   \ Philadelphia City Planning Commission in July 2017.  The public should confirm\
   \ a property\u2019s historic status by contacting the Historical Commission at 215-686-7660.\r\
-  \n\r\nYou can also download a dataset of the [Historic districts](https://www.opendataphilly.org/dataset/philadelphia-registered-historic-districts)."
+  \n\r\nYou can also download a dataset of the [Historic districts](https://www.opendataphilly.org/datasets/philadelphia-registered-historic-districts)."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
