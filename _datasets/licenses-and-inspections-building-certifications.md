@@ -27,6 +27,18 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
+  name: L&I Building Certs Summary (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/fbfce1de2fa747748cedae5ede54da60_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: L&I Building Certs Summary (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/BUILDING_CERT_SUMMARY/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: L&I Building Certs Summary (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/60998d8277b3d7001b1362d3/representationdetails/645bb6ab1c64910025375900/
+- description: ''
+  format: CSV
   name: L&I Building Certs (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/0d5f1b98872b4444aea641792be7d12b_0/downloads/data?format=csv&spatialRefId=4326
 - description: ''
