@@ -20,7 +20,7 @@ resources:
     and services in the Greater Philadelphia Region.
   format: HTML
   name: The Philadelphia Dance Directory
-  url: http://philadelphiadance.org/dancedirectory/listings-map/
+  url: https://philadelphiadance.org/directory/
 schema: philadelphia
 source: ''
 tags: []
