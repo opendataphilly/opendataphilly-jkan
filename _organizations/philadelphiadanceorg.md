@@ -9,8 +9,8 @@ description: PhiladelphiaDANCE.org was established in 2005 as a resource and hub
   dance writers, dance organizations, dance practitioners, audiences, media, philanthropists
   and policy makers. By facilitating collaboration between these entities, it is our
   hope to create an even stronger dance community and presence for dance and the arts
-  in Philadelphia. http://philadelphiadance.org/
-logo: https://pbs.twimg.com/profile_images/466595387810123776/q5IkdAs9.jpeg
+  in Philadelphia. [PhiladelphiaDANCE.org](https://philadelphiadance.org/)
+logo: https://philadelphiadance.org/wp-content/uploads/2021/10/logo300x50.jpg
 schema: default
 tags: []
 title: PhiladelphiaDANCE.org
