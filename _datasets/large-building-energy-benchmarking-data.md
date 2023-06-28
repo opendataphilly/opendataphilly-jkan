@@ -24,6 +24,26 @@ resources:
   url: http://visualization.phillybuildingbenchmarking.com/
 - description: ''
   format: CSV
+  name: 2021 Properties Reported (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/e274dd8edce34c138f4c9263e316a187_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2021 Properties Reported (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/e274dd8edce34c138f4c9263e316a187_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2021 Properties Reported (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/e274dd8edce34c138f4c9263e316a187_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: ' 2021 Properties Reported (API)'
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Properties_Reported_2021/FeatureServer
+- description: ''
+  format: HTML
+  name: 2021 Properties Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/63e568e5b9520600110c3ead/
+- description: ''
+  format: CSV
   name: 2020 Properties Reported (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/d180e4e02cda417e9ee0be16421915b3_0/downloads/data?format=csv&spatialRefId=4326
 - description: ''
@@ -42,6 +62,26 @@ resources:
   format: HTML
   name: 2020 Properties Reported (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/61fc1605b2fcf2001e7e0f28/
+- description: ''
+  format: CSV
+  name: 2021 Properties Not Reported (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/129ce9aed3d143eb8cfb1d9861b31702_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2021 Properties Not Reported (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/129ce9aed3d143eb8cfb1d9861b31702_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2021 Properties Not Reported (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/129ce9aed3d143eb8cfb1d9861b31702_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: 2021 Properties Not Reported (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Properties_Not_Reported_2021/FeatureServer
+- description: ''
+  format: HTML
+  name: 2021 Properties Not Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/63e6b2d0a0991b00100bef5f/
 - description: ''
   format: CSV
   name: 2020 Properties Not Reported (CSV)
