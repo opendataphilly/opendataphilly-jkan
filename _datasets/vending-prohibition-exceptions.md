@@ -37,4 +37,5 @@ resources:
   url: https://metadata.phila.gov/#home/datasetdetails/63ea7b833a6d260011344674/representationdetails/63ea7b833a6d260011344683/
 schema: philadelphia
 source: ''
-tags:
+title: Vending Prohibition Exceptions
+---
