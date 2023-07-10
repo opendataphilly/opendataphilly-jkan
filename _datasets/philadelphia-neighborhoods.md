@@ -23,8 +23,8 @@ resources:
   url: https://github.com/azavea/geo-data/raw/master/Neighborhoods_Philadelphia/Neighborhoods_Philadelphia.zip
 - description: ''
   format: HTML
-  name: Neighborhoods CartoDB Map
-  url: http://cdb.io/YEoD17
+  name: Neighborhoods CARTO Map
+  url: https://azavea-maps.carto.com/u/azavea/viz/e4e6c638-0126-11e4-a118-0e73339ffa50/map
 - description: ''
   format: HTML
   name: Neighborhoods ArcGIS Online Map
