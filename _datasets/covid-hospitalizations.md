@@ -17,18 +17,18 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: COVID Hospitalizations by Date (CSV)
+  name: COVID Hospitalizations by Date 03/2020 - 05/2023 (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=covid_hospitalizations_by_date&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
     * FROM covid_hospitalizations_by_date
-- description: ''
+- description: 'This dataset tracked hospitalizations from 03/2020 - 05/2023.'
   format: API
   name: COVID Hospitalizations by Date (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_hospitalizations_by_date
-- description: ''
+- description: 'This dataset tracked hospitalizations from 03/2020 - 05/2023.'
   format: Metadata
   name: COVID Hospitalizations by Date (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5efb5dc2bec0b10015172d9b/representationdetails/5f0dce6cfdb1f30015f1f3f2/
-- description: ''
+- description: 'This dataset tracked hospitalizations from 03/2020 - 05/2023'
   format: CSV
   name: COVID Hospitalizations by ZIP (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=covid_hospitalizations_by_zip&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
