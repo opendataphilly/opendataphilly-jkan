@@ -25,18 +25,18 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: COVID Deaths by Date (CSV)
+  name: COVID Deaths by Date 03/2020 - 05/2023 (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=covid_deaths_by_date&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
     * FROM covid_deaths_by_date
-- description: ''
+- description: 'This dataset tracked deaths from 03/2020 - 05/2023.'
   format: API
-  name: COVID Deaths by Date (API)
+  name: COVID Deaths by Date 03/2020 - 05/2023 (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_deaths_by_date
-- description: ''
+- description: 'This dataset tracked deaths from 03/2020 - 05/2023.'
   format: Metadata
-  name: COVID Deaths by Date (Metadata)
+  name: COVID Deaths by Date 03/2020 - 05/2023 (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/5eb30f63d4c4600016078ab3/
-- description: ''
+- description: 'This dataset tracked deaths from 03/2020 - 05/2023.'
   format: CSV
   name: COVID Deaths by ZIP (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=covid_deaths_by_zip&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
