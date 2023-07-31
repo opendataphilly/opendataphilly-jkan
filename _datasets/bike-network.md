@@ -18,7 +18,7 @@ resources:
 - description: ''
   format: Visualization
   name: Map of Bike Lanes (Visualization)
-  url: https://overturn.carto.com/viz/0a4810c2-dcbd-11e4-9c3c-0e4fddd5de28/public_map
+  url: https://phl.maps.arcgis.com/home/item.html?id=b5f660b9f0f44ced915995b6d49f6385#visualize
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Bike Network (CSV)
