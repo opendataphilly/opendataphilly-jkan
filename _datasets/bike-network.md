@@ -22,15 +22,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Bike Network (CSV)
-  url: https://opendata.arcgis.com/datasets/b5f660b9f0f44ced915995b6d49f6385_0.csv
+  url: https://opendata.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Bike Network (SHP)
-  url: https://opendata.arcgis.com/datasets/b5f660b9f0f44ced915995b6d49f6385_0.zip
+  url: https://opendata.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Bike Network (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/b5f660b9f0f44ced915995b6d49f6385_0.geojson
+  url: https://opendata.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: api
   name: Bike Network (API)
