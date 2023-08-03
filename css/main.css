@@ -1,3 +1,7 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
 input[data-hook=search-query] {
   display: none;
 }
@@ -91,4 +95,15 @@ dataset {
   background-color: #e9ecef;
   padding: .75rem 1rem;
   border-radius: .25rem;
+}
+
+nav {
+  background-color: #31383c;
+  color: #fff;
+  padding-top: 2rem !important;
+}
+
+.nav-item .active {
+  background-color: #20c3c4;
+  border-radius: 4px;
 }
