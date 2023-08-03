@@ -1,17 +1,19 @@
-<nav class="navbar navbar-expand-sm mb-4 navbar-light bg-light" data-component="navigation">
+<nav class="navbar navbar-expand-sm mb-4 navbar-light" data-component="navigation">
   <div class="container">
-  <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
-<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-  <span class="sr-only">Toggle navigation</span>
-  <span class="navbar-toggler-icon"></span>
-</button>
+    <a alt="{{ site.title }}" class="navbar-brand" href="{{ site.baseurl }}/">
+      <img src="{{ site.logo }}" srcset="/img/odp-logo@2x.png 2x" alt="OpenDataPhilly" title="OpenDataPhilly">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="navbar-toggler-icon"></span>
+    </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         {% for link in site.navigation %}
           {% if page.url contains link.url %}
-          <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{{ link.url }}" aria-current="page">{{ link.title }}</a></li>
+          <li class="nav-item"><a class="nav-link text-light active" href="{{ site.baseurl }}{{ link.url }}" aria-current="page">{{ link.title }}</a></li>
           {% else %}
-          <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+          <li class="nav-item"><a class="nav-link text-light" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
