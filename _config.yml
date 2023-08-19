@@ -91,7 +91,6 @@ plugins:
   - "jekyll-paginate-v2"
   - "jekyll-titles-from-headings"
 
-
 # Exclude these files from the build
 exclude:
   - CONTRIBUTING.md
