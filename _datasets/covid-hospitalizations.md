@@ -17,18 +17,17 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: COVID Hospitalizations by Date 03/2020 - 05/2023 (CSV)
-  url: https://phl.carto.com/api/v2/sql?filename=covid_hospitalizations_by_date&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
-    * FROM covid_hospitalizations_by_date
-- description: 'This dataset tracked hospitalizations from 03/2020 - 05/2023.'
+  name: COVID Hospitalizations by Week 03/2020 - Current week (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/1d9ad02a336b446cb1fa29af055cc32f_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: 
   format: API
-  name: COVID Hospitalizations by Date (API)
-  url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_hospitalizations_by_date
-- description: 'This dataset tracked hospitalizations from 03/2020 - 05/2023.'
+  name: COVID Hospitalizations by Week 03/2020 - Current week (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/covid_hospitalizations_by_week/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: 
   format: Metadata
-  name: COVID Hospitalizations by Date (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5efb5dc2bec0b10015172d9b/representationdetails/5f0dce6cfdb1f30015f1f3f2/
-- description: 'This dataset tracked hospitalizations from 03/2020 - 05/2023'
+  name: COVID Hospitalizations by Week 03/2020 - Current week (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5efb5dc2bec0b10015172d9b/representationdetails/64593ee12225ed00283f2c2b/
+- description: 
   format: CSV
   name: COVID Hospitalizations by ZIP (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=covid_hospitalizations_by_zip&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
