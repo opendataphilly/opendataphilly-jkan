@@ -18,10 +18,6 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: HTML
-  name: Vaccinations Dashboard (Visualization)
-  url: https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/vaccines/data/
-- description: ''
   format: CSV
   name: Total COVID Vaccinations (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=covid_vaccine_totals&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
