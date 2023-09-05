@@ -2,6 +2,14 @@ body {
   font-family: "Lato", sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 input[data-hook=search-query] {
   display: none;
 }
