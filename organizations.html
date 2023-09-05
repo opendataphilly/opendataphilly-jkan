@@ -19,7 +19,7 @@ permalink: /organizations/
             <img src="{{ organization.logo | relative_url }}" alt="{{ logo_alt }}" style="width: 64px; height: auto;">
           </div>
         {% endif %}
-        <div class="ms-3">
+        <div class="ms-3 organization-card">
           <h4 style="text-align: start;">{{ organization.title }}</h4>
           <p style="text-align: justify;">{{ organization.description | markdownify }}</p>
         </div>
