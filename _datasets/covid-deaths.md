@@ -9,8 +9,8 @@ maintainer: PublicHealthInfo@phila.gov
 maintainer_email: PublicHealthInfo@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "***As of May 2022, these datasets moved from daily updates to weekly updates\
-  \ every Monday.***\r\n\r\n**For greatest accuracy, please use the latest dataset\
+notes: "***As of May 2022, these datasets moved from daily updates to weekly updates.\
+  \ ***\r\n\r\n**For greatest accuracy, please use the latest dataset\
   \ for all analysis and reporting as opposed to any data you downloaded prior to\
   \ September 29, 2020. All datasets now reflect counts from test collection dates\
   \ instead of the previously displayed result dates.  These changes will adjust,\
@@ -25,18 +25,17 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: COVID Deaths by Date 03/2020 - 05/2023 (CSV)
-  url: https://phl.carto.com/api/v2/sql?filename=covid_deaths_by_date&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
-    * FROM covid_deaths_by_date
-- description: 'This dataset tracked deaths from 03/2020 - 05/2023.'
+  name: COVID Deaths by Week 03/2020 - Current week (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/239350d1b4894f0c979e5cede159628b_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: 
   format: API
-  name: COVID Deaths by Date 03/2020 - 05/2023 (API)
-  url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_deaths_by_date
-- description: 'This dataset tracked deaths from 03/2020 - 05/2023.'
+  name: COVID Deaths by Week 03/2020 - Current week (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/covid_deaths_by_week/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: 
   format: Metadata
-  name: COVID Deaths by Date 03/2020 - 05/2023 (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/5eb30f63d4c4600016078ab3/
-- description: 'This dataset tracked deaths from 03/2020 - 05/2023.'
+  name: COVID Deaths by Week 03/2020 - Current week (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/64592eca487f170028f8ed68/
+- description: 
   format: CSV
   name: COVID Deaths by ZIP (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=covid_deaths_by_zip&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
