@@ -3,11 +3,23 @@ body {
 }
 
 a {
+  color: #098e8e;
   text-decoration: none;
 }
 
 a:hover {
+  color: #20c3c4;
   text-decoration: underline;
+}
+
+a.btn {
+  background-color: #31383c;
+  border-color: #31383c;
+}
+
+a.btn:hover {
+  background-color: #20c3c4;
+  border-color: #20c3c4;
 }
 
 input[data-hook=search-query] {
@@ -21,6 +33,10 @@ input[data-hook=search-query] {
 .js .js-hidden { display: none; }
 .js-shown { display: none; }
 .js .js-shown { display: block; }
+
+.bg-primary {
+  background-color: #20c3c4 !important;
+}
 
 .organization-card > p {
   text-align: start;
