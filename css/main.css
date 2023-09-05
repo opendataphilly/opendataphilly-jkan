@@ -14,6 +14,10 @@ input[data-hook=search-query] {
 .js-shown { display: none; }
 .js .js-shown { display: block; }
 
+.organization-card > p {
+  text-align: start;
+}
+
 .organization-thumbnail img,
 .category-thumbnail img {
   width: 64px;
