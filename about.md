@@ -10,6 +10,14 @@ OpenDataPhilly includes both municipal and non-municipal data and enables users 
 
 What do you think of OpenDataPhilly? Let us know your ideas and suggestions for the site at [info@opendataphilly.org](mailto:info@opendataphilly.org).
 
+## Contribute
+
+Up to this point, OpenDataPhilly has relied on pro bono support from single organizations (Azavea and Element 84); in the long run, we seek to grow the project's community of contributors in order to improve its resilience and sustainability, while still maintaining its regional character. We invite you to explore further and start contributing:
+
+How to Contribute:
+* Join our [Element](https://matrix.to/#/#opendataphilly:matrix.org) chat
+* Visit our [GitHub](https://github.com/azavea/opendataphilly-jkan) to explore and contribute to codebase
+
 ## Partners
 
 ![Element 84](/img/organizations/element84-logo.png){: height="70" }
