@@ -69,8 +69,9 @@ The catalog is currently being maintained by Element 84 and the City of Philadel
 
 ## How do I join the Community?
 
-*   Contact the [Google discussion group for Open Data Philly and government transparency in Philadelphia](https://groups.google.com/forum/#!forum/opendataphilly)
+*   Contact the [Google discussion group for Open Data Philly and government transparency in Philadelphia](https://groups.google.com/forum/#!forum/opendataphilly).
 * Create PRs to improve this site in the [Open Data Philly GitHub repo](https://github.com/azavea/opendataphilly-jkan/) or improve the [JKAN software](https://github.com/timwis/jkan) we use.
+* Join our [Element](https://matrix.to/#/#opendataphilly:matrix.org) chat.
 
 ## Open Data Request Procedure
 
