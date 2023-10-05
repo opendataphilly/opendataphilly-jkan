@@ -21,11 +21,11 @@ resources:
 - description: ''
   format: CSV
   name: Language Usage (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/c45d99253fe04aefbfbf7b7cda7197ca_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://opendata.arcgis.com/api/v3/datasets/fbc598ae916a4b58939276b8fc3f127c_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Language Usage (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/MASTER_FY22_Template_for_Open_Data_Philly_9_21_22_(V4)/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Lang_Access_Services/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: ''
   name: Language Usage (Metadata)
@@ -44,5 +44,5 @@ tags:
 time_period: null
 title: Language Services Usage
 usage: null
-published: false
+published: true
 ---
