@@ -5,56 +5,34 @@ category:
 - Real Estate / Land Records
 created: '2015-03-16T21:19:27.744946'
 license: Other (City of Philadelphia)
-maintainer: Mark Dodds
-maintainer_email: mark.dodds@phila.gov
+maintainer: Darshna Patel
+maintainer_email: darshna.patel@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "Data reflecting properties cleaned and greened through the LandCare program\
-  \ - a joint program between the Division of Housing and Community Development (DHCD)\
-  \ and the Pennsylvania Horticultural Society (PHS). "
+notes: "The Philadelphia LandCare layer is an inventory of all vacant parcels that have received the "Clean and Green" stabilization treatment and are currently under maintenance contract with the Pennsylvania Horticultural Society, funded by the City of Philadelphia’s Division of Housing and Community Development. Every spring and fall, additional vacant parcels are stabilized and then added to the maintenance inventory the following year. The parcels in this layer are based off the PARCEL_PWD layer, supplied by the Philadelphia Water Department."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: Community Landcare  (CSV)
-  url: https://opendata.arcgis.com/datasets/acf7328bfcca4015ac083cb2a5f1744d_0.csv
+  name: Current LandCare Properties (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/8fc146b50f3a45edb8348e9b1ba52252_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
   format: SHP
-  name: Community LandCare (SHP)
-  url: https://opendata.arcgis.com/datasets/acf7328bfcca4015ac083cb2a5f1744d_0.zip
+  name: Current LandCare Properties (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/8fc146b50f3a45edb8348e9b1ba52252_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
 - description: ''
   format: GeoJSON
-  name: Community Landcare (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/acf7328bfcca4015ac083cb2a5f1744d_0.geojson
+  name: Current LandCare Properties (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/8fc146b50f3a45edb8348e9b1ba52252_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: api
-  name: Community LandCare (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PHS_CommunityLandcare/FeatureServer/0/query?outFields=*&where=1%3D1
+  name: Current LandCare Properties (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/phs_landcare/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
-  name: LandCare Program (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/557729caaa479af0697b1240/representationdetails/55772ac37b4434f86956d313/
-- description: ''
-  format: CSV
-  name: LandCare Maintenance (CSV)
-  url: https://opendata.arcgis.com/datasets/370e90f4f3044170a85f098facb9684c_0.csv
-- description: ''
-  format: SHP
-  name: LandCare Maintenance (SHP)
-  url: https://opendata.arcgis.com/datasets/370e90f4f3044170a85f098facb9684c_0.zip
-- description: ''
-  format: GeoJSON
-  name: LandCare Maintenance (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/370e90f4f3044170a85f098facb9684c_0.geojson
-- description: ''
-  format: api
-  name: LandCare Maintenance (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PHS_PhilaLandCare_Maintenance/FeatureServer/0/query?outFields=*&where=1%3D1
-- description: ''
-  format: HTML
-  name: LandCare Maintenance (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/557729caaa479af0697b1240/representationdetails/55772ac37b4434f86956d313/
+  name: Current LandCare Properties (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/6500c9581b759d0028f878fc/representationdetails/6500c9581b759d0028f8793a/?view_287_per_page=25&view_287_page=1
 schema: philadelphia
 source: ''
 tags:
