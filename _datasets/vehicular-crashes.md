@@ -16,6 +16,22 @@ notes: "This data set contains crash data for the years 2007-2020 from the Penns
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
+- description: This is a subset of the annual Crash Data compiled and released by Penn DOT for the entire state. This data set contains only those crashes that occurred within the City limits. New crash data will be appended to this data set every year. Currently the data includes crashes for years 2018 to 2022.
+  format: CSV
+  name: Crash Data 2018-2022 (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/579eaad27cd8473e97fd6851c6b43de0_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: This is a subset of the annual Crash Data compiled and released by Penn DOT for the entire state. This data set contains only those crashes that occurred within the City limits. New crash data will be appended to this data set every year. Currently the data includes crashes for years 2018 to 2022.
+  format: SHP
+  name: Crash Data 2018-2022 (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/579eaad27cd8473e97fd6851c6b43de0_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+- description: This is a subset of the annual Crash Data compiled and released by Penn DOT for the entire state. This data set contains only those crashes that occurred within the City limits. New crash data will be appended to this data set every year. Currently the data includes crashes for years 2018 to 2022.
+  format: GeoJSON
+  name: Crash Data 2018-2022 (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/579eaad27cd8473e97fd6851c6b43de0_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: This is a subset of the annual Crash Data compiled and released by Penn DOT for the entire state. This data set contains only those crashes that occurred within the City limits. New crash data will be appended to this data set every year. Currently the data includes crashes for years 2018 to 2022.
+  format: API
+  name: Crash Data 2018-2022 (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/collision_crash_2018_2022/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: This is a subset of the annual Crash Data compiled and released by
     Penn DOT for the entire state. This data set contains only those crashes that
     occurred within the City limits. New crash data will be appended to this data
