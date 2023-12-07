@@ -43,6 +43,10 @@ resources:
   format: HTML
   name: Street Legal Cards (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f812bf15fcb6c6ed4410d/representationdetails/570ea321cd5aa2101d396eab/
+- description: 'A visual guide to reading the notes on street legal cards, as well as descriptions of key terms.'
+  format: PDF
+  name: Guide to Street Legal Cards (PDF)
+  url: https://drive.google.com/file/d/11ieQllUSx-2prE8AFPP1m3WxZQ4k-a23/view?usp=sharing
 schema: philadelphia
 source: ''
 tags:
