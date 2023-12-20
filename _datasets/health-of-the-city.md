@@ -14,7 +14,7 @@ maintainer_phone: null
 notes: "The Health of the City report summarizes data on community health in Philadelphia\
   \ through interactive charts and maps. The Health of the City table contains aggregate\
   \ metrics on population statistics, social determinants of health, and health outcomes\
-  \ that were used to build this report.\
+  \ that were used to build this report."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
@@ -35,6 +35,6 @@ source: ''
 tags:
 - Philadelphia Department of Public Health
 time_period: null
-title: health of the City, Philadelphia Department of Public Health
+title: Health of the City, Philadelphia Department of Public Health
 usage: null
 ---
