@@ -19,6 +19,10 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
+  format: Visualization
+  name: Health of the City app (Visualization)
+  url: https://philadelphiapublichealth.shinyapps.io/health-of-the-city/
+- description: 'An app of maps and charts showing the health of the city data.'
   format: CSV
   name: Health of the City (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/f054dcfeefa84ba6a0af90b4325561c3_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
@@ -26,6 +30,10 @@ resources:
   format: API
   name: Health of the City (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/health_of_the_city/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: '' 
+  format: HTML
+  name: Technical Notes (Documentation)
+  url: https://philadelphiapublichealth.shinyapps.io/health-of-the-city/#technical-notes
 - description: ''
   format: HTML
   name: Health of the City (Metadata)
