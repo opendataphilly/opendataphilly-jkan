@@ -19,7 +19,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'An app of maps and charts showing the health of the city data.'
-  format: Visualization
+  format: HTML
   name: Health of the City app (Visualization)
   url: https://philadelphiapublichealth.shinyapps.io/health-of-the-city/
 - description: ''
