@@ -18,11 +18,11 @@ notes: "The Health of the City report summarizes data on community health in Phi
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
-- description: ''
+- description: 'An app of maps and charts showing the health of the city data.'
   format: Visualization
   name: Health of the City app (Visualization)
   url: https://philadelphiapublichealth.shinyapps.io/health-of-the-city/
-- description: 'An app of maps and charts showing the health of the city data.'
+- description: ''
   format: CSV
   name: Health of the City (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/f054dcfeefa84ba6a0af90b4325561c3_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
