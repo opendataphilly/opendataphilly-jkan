@@ -9,7 +9,7 @@ maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "The Philadelphia LandCare layer is an inventory of all vacant parcels that have received the "Clean and Green" stabilization treatment and are currently under maintenance contract with the Pennsylvania Horticultural Society, funded by the City of Philadelphia’s Division of Housing and Community Development. Every spring and fall, additional vacant parcels are stabilized and then added to the maintenance inventory the following year. The parcels in this layer are based off the PARCEL_PWD layer, supplied by the Philadelphia Water Department."
+notes: "The Philadelphia LandCare layer is an inventory of all vacant parcels that have received the \"Clean and Green\" stabilization treatment and are currently under maintenance contract with the Pennsylvania Horticultural Society, funded by the City of Philadelphia’s Division of Housing and Community Development. Every spring and fall, additional vacant parcels are stabilized and then added to the maintenance inventory the following year. The parcels in this layer are based off the PARCEL_PWD layer, supplied by the Philadelphia Water Department."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
