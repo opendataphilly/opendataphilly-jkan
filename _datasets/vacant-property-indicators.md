@@ -4,7 +4,7 @@ category: []
 created: '2016-11-14T17:46:54.215540'
 license: Other (City of Philadelphia)
 maintainer: ''
-maintainer_email: tim.haynes@phila.gov
+maintainer_email: maps@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "The location of properties across Philadelphia that are likely to be a vacant\
