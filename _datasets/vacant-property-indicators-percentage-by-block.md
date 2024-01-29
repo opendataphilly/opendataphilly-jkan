@@ -3,7 +3,7 @@ area_of_interest: null
 category: []
 created: '2017-03-08T17:08:45.582983'
 license: Other (City of Philadelphia)
-maintainer: tim.haynes@phila.gov
+maintainer: maps@phila.gov 
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
