@@ -8,9 +8,11 @@ maintainer: opadata@phila.gov
 maintainer_email: opadata@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "***OPA is currently updating its data files. Some of the information in the\
-  \ open data files below may not yet reflect the data used to calculate the tax year\
-  \ 2023 property value.***\r\n\r\nProperty characteristic and assessment history\
+notes: "***Some of the information in the open data files below may not yet reflect the\
+  \data used to calculate the most recent tax year’s property value. If you see missing\
+  \or incorrect info about your property, [use this form](https://phila.formstack.com/forms/property_feedback_form)\
+  \to contact OPA to report the issue.***\
+  \r\n\r\nProperty characteristic and assessment history\
   \ from the Office of Property Assessment for all properties in Philadelphia. See\
   \ more information on [how OPA assesses property and their reports](https://www.phila.gov/departments/office-of-property-assessment/resources/)\
   \ on the quality of assessments. \r\n\r\n***This data updates nightly. Please ignore\
