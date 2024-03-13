@@ -4,6 +4,6 @@ logo: http://www.ridepatco.org/images/header_logo.png
 schema: default
 tags:
 - gtfs
-- transporation
+- transportation
 title: Port Authority Transit Corporation (PATCO)
 ---
