@@ -28,7 +28,7 @@ resources:
   url: https://opendata.arcgis.com/datasets/73f97f2c6c634469a81dd7721661b63f_0.zip
 - description: ''
   format: GeoJSON
-  name: Major Watersheds - Philadelphis (GeoJSON)
+  name: Major Watersheds - Philadelphia (GeoJSON)
   url: https://opendata.arcgis.com/datasets/73f97f2c6c634469a81dd7721661b63f_0.geojson
 - description: ''
   format: api

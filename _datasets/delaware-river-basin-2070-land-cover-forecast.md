@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "DRB2070 Version 1.0 represents a baseline forecast of urban land cover in\
   \ the Delaware River Basin (DRB) out to the year 2070. It was developed by the Delaware\
-  \ River Basin Land Use Dynamics Project at Shippensburg Unviersity. The forecasts\
+  \ River Basin Land Use Dynamics Project at Shippensburg University. The forecasts\
   \ were developed using a SLEUTH urban growth model for the 43 county region of the\
   \ DRB over the 2001-2006 time period. The model was validated for the 2006-2011\
   \ time period. The modeling team used the National Land Cover Database (NLCD) urban\
