@@ -18,7 +18,7 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: Vending Prohbitied Areas (CSV)
+  name: Vending Prohibited Areas (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/ce24c5700c7b4c70bead03181934c573_0/downloads/data?format=csv&spatialRefId=4326
 - description: ''
   format: SHP
