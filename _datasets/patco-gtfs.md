@@ -20,7 +20,7 @@ schema: philadelphia
 source: http://www.ridepatco.org/developers/
 tags:
 - gtfs
-- transporation
+- transportation
 time_period: null
 title: PATCO GTFS
 usage: null
