@@ -19,6 +19,10 @@ notes: "Crime incidents from the Philadelphia Police Department. Part I crimes i
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
+- description: 'An online appication that displays summary statistics and enables mapping of recent incidents within a radius of an address.'
+  format: HTML
+  name: Crime Maps and Stats Application
+  url: https://www.phillypolice.com/crimestats
 - description: ''
   format: HTML
   name: Crime Incidents (Visualization)
