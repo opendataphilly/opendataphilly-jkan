@@ -32,8 +32,20 @@ resources:
   url: https://data.phila.gov/visualizations/vehicle-pedestrian-investigations
 - description: ''
   format: CSV
+  name: 2024 Vehicle & Pedestrian Inv.(CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272024-01-01%27%20AND%20datetimeoccur%20%3C%20%272025-01-01%27
+- description: ''
+  format: CSV
+  name: 2023 Vehicle & Pedestrian Inv.(CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272023-01-01%27%20AND%20datetimeoccur%20%3C%20%272024-01-01%27
+- description: ''
+  format: CSV
+  name: 2022 Vehicle & Pedestrian Inv.(CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272022-01-01%27%20AND%20datetimeoccur%20%3C%20%272023-01-01%27
+- description: ''
+  format: CSV
   name: 2021 Vehicle & Pedestrian Inv.(CSV)
-  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272021-01-01%27
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272021-01-01%27%20AND%20datetimeoccur%20%3C%20%272022-01-01%27
 - description: ''
   format: CSV
   name: 2020 Vehicle & Pedestrian Inv. (CSV)
@@ -76,8 +88,20 @@ resources:
     >= '2014-01-01' AND datetimeoccur < '2015-01-01'
 - description: ''
   format: SHP
+  name: 2024 Vehicle & Pedestrian Inv. (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=SHP&skipfields=cartodb_id&q=SELECT%20*%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272024-01-01%27%20AND%20datetimeoccur%20%3C%20%272025-01-01%27
+- description: ''
+  format: SHP
+  name: 2023 Vehicle & Pedestrian Inv. (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=SHP&skipfields=cartodb_id&q=SELECT%20*%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272023-01-01%27%20AND%20datetimeoccur%20%3C%20%272024-01-01%27
+- description: ''
+  format: SHP
+  name: 2022 Vehicle & Pedestrian Inv. (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=SHP&skipfields=cartodb_id&q=SELECT%20*%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272022-01-01%27%20AND%20datetimeoccur%20%3C%20%272023-01-01%27
+- description: ''
+  format: SHP
   name: 2021 Vehicle & Pedestrian Inv. (SHP)
-  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=shp&skipfields=cartodb_id&q=SELECT%20*%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272021-01-01%27
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=SHP&skipfields=cartodb_id&q=SELECT%20*%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272021-01-01%27%20AND%20datetimeoccur%20%3C%20%272022-01-01%27
 - description: ''
   format: SHP
   name: 2020 Vehicle & Pedestrian Inv. (SHP)
