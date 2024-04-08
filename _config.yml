@@ -4,7 +4,6 @@ description: OpenDataPhilly is a catalog of open data in the Philadelphia region
 logo: /img/odp-logo.png
 hero_image: /img/homepage-hero.jpg
 strict_front_matter: true
-repository: azavea/opendataphilly-jkan
 
 # Site theme
 jkan_theme: Default
