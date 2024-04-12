@@ -45,27 +45,27 @@ Data on its own is not really helpful. To be truly useful, data needs to be sort
 
 OpenDataPhilly features data that is available to the general public, usually at no cost. We encourage users to access this data and find ways to transform it into creative applications, projects, and visualizations. However, the creator of the original data set, application, or API retains any copyright or intellectual property restrictions they have placed on the data, application, or API. Please check with the originator of the data for questions regarding use and copyright, particularly if your use of the data will result in a for-profit endeavor or is used in a commercial manner.
 
-## How do I submit a new data set for inclusion on OpenDataPhilly?
-
-We realize that we have probably missed some useful data sets. If you have a data set you'd like to have included in the OpenDataPhilly catalog, please email information about the data set, application, or API to [info@opendataphilly.org](mailto:info@opendataphilly.org). Please include as much information as possible so that we can confirm that the data is open for public use and easily accessible.
-
 ## Are you getting an error downloading geospatial data?
 
 If you receive a 'processing' download message for GIS data, this may be the result of the service providing the data. Please refresh this web page until the file downloads. If you continue to have trouble downloading this dataset, email data@Phila.gov.
 
 ## Who built and maintains OpenDataPhilly?
 
-OpenDataPhilly was built by Azavea, a Philadelphia-based geographic information systems (GIS) software firm. Azavea's initial work on OpenDataPhilly was partially done pro bono and partially supported by a grant from the William Penn Foundation to TechImpact. A second grant from the Knight Foundation helped support migration and redesign of the application in 2015. The catalog itself is obviously only part of the work. These data sets have been put together through countless hours invested over the course of many years by City staff, non-profit organizations, universities and private citizens. For a partial list of the many contributors, please visit the [About](/about/) page.
+OpenDataPhilly was built by Azavea, a Philadelphia-based geospatial software firm. Azavea's initial work on OpenDataPhilly was partially done pro bono and partially supported by a grant from the William Penn Foundation to TechImpact. A second grant from the Knight Foundation helped support migration and redesign of the application in 2015. The catalog itself is obviously only part of the work. These data sets have been put together through countless hours invested over the course of many years by City staff, non-profit organizations, universities and private citizens. For a partial list of the many contributors, please visit the [About](/about/) page.
 
-The catalog is currently being maintained by Element 84 and the City of Philadelphia.
+The catalog is currently being maintained by volunteers and the City of Philadelphia.
 
 ## Feedback and How do I contact you?
 
-*   Got data to contribute? Fill out the [New Organization Submission Form](https://goo.gl/forms/i84wdlqgrMsNgkIh1).
-*   Got data to contribute? Email information about the data set, application, or API to [info@opendataphilly.org](mailto:info@opendataphilly.org)
+*   Got data to contribute? Either:
+  *  Fill out the [New Organization Submission Form](https://goo.gl/forms/i84wdlqgrMsNgkIh1).
+  *   Email information about the data set, application, or API to [info@opendataphilly.org](mailto:info@opendataphilly.org)
 *   Have you used Philly data in useful and inspiring ways? Email it to [info@opendataphilly.org](mailto:info@opendataphilly.org)
 *   Other questions or ideas? Contact us at [info@opendataphilly.org](mailto:info@opendataphilly.org)
 
+## How do I submit a new data set for inclusion on OpenDataPhilly?
+
+If you have a data set you'd like to have included in the OpenDataPhilly catalog, please email information about the data set, application, or API to [info@opendataphilly.org](mailto:info@opendataphilly.org). Please include as much information as possible so that we can confirm that the data is open for public use and easily accessible.
 
 ## How do I join the Community?
 
@@ -81,7 +81,7 @@ Not all data is currently open data, but that doesn't mean you can't access it. 
 
 ## Philadelphia Citywide Data Inventory
 
-The city’s Data Services Team is working with each department to compile a citywide data inventory - a detailed list of every dataset that exists within city government - to gauge public demand and inform prioritization of data releases. View datasets from the departments who have completed this exercise so far:
+The city’s Data Services Team began compiling a citywide data inventory - a detailed list of every dataset that exists within city government - to gauge public demand and inform prioritization of data releases. This inventory was never completed, but you can view datasets from the departments that completed this exercise:
 
 - [Citywide Data Inventory](http://cityofphiladelphia.github.io/slash-data/inventory/)
 
@@ -97,8 +97,10 @@ el/?ofcresset=1), [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)
     
     We list a few tools but a much more complete list can be found on [Wikipedia](https://en.wikipedia.org/wiki/Geographic_information_system_software#Open_source_software).
     - [QGIS](https://www.qgis.org/) - open source desktop tools
+    - [Esri ArcGIS Online]()
+    - [Felt](https://felt.com/)
+    - [CARTO](https://www.carto.com/)
     - [Mapbox](https://mapbox.com)
-    - [Google MyMaps](https://mymaps.google.com/)
 
 ## Where can I find more data?
 
