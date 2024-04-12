@@ -4,7 +4,7 @@ layout: default
 permalink: /about/
 ---
 
-OpenDataPhilly is a portal that provides access to more than 300 data sets, applications, and APIs related to the Philadelphia region. Built by Azavea, a Philadelphia-based geospatial software firm, OpenDataPhilly is based on the idea that providing free and easy access to data information encourages better and more transparent government and a more engaged and knowledgeable citizenry.
+OpenDataPhilly is a data catalog and portal that provides access to more than 300 data sets, applications, and APIs related to the Philadelphia region. Built by Azavea, a Philadelphia-based geospatial software firm, OpenDataPhilly is based on the idea that providing free and easy access to data information encourages better and more transparent government and a more engaged and informed citizenry.
 
 OpenDataPhilly includes both municipal and non-municipal data and enables users to search for and locate data sets based on keyword and category searches. For each data set, application, or API, we’ve included accompanying information about the origins, update frequency, and other specifics of the data. The record for each data source also includes links for downloading the data or accessing the application or API.
 
@@ -12,18 +12,15 @@ What do you think of OpenDataPhilly? Let us know your ideas and suggestions for 
 
 ## Contribute
 
-Up to this point, OpenDataPhilly has relied on pro bono support from single organizations (Azavea and Element 84); in the long run, we seek to grow the project's community of contributors in order to improve its resilience and sustainability, while still maintaining its regional character. We invite you to explore further and start contributing:
+From its inception in 2010, OpenDataPhilly has relied on pro bono support from Azavea. In December 2023, it was separated into a standalone organization run by volunteers. In the long run, we seek to grow the project's community of contributors in order to improve its resilience and sustainability, while still maintaining its regional character. We invite you to explore further and start contributing:
 
 How to Contribute:
 * Join our [Element](https://matrix.to/#/#opendataphilly:matrix.org) chat
-* Visit our [GitHub](https://github.com/azavea/opendataphilly-jkan) to explore and contribute to codebase
+* Visit our [GitHub](https://github.com/opendataphilly/opendataphilly-jkan) to explore and contribute to codebase
 
 ## Partners
 
-![Element 84](/img/organizations/element84-logo.png){: height="70" }
-
-[Element 84](https://element84.com/) is a women-owned software development firm that builds ambitious web applications and cloud services engineered for high scalability. We work with public and private sector clients to create systems that help solve problems
-and answer big questions about our health, our infrastructure, and our changing planet. We have over a decade of experience helping satellite operators, universities, and organizations like NASA and the USGS create systems, software, and user experiences that make their data more actionable and accessible.
+Civic technology volunteers in the Philadelphia, including [CodeForPhilly](https://codeforphilly.org/) members.
 
 ![City of Philadelphia logo](/img/organizations/logo-oit.png){: height="70" }
 
@@ -42,6 +39,7 @@ The City of Philadelphia [Office of Innovation & Technology](https://www.phila.g
  * The [William Penn Foundation](http://www.williampennfoundation.org/) provided part of the funding for collaboration features in the original OpenDataPhilly data catalog in 2011
  * The [John S. and James L. Knight Foundation](http://www.knightfoundation.org/) provided part of the funding for the redevelopment of the data catalog in 2015.
  * [Azavea](https://www.azavea.com/) provided the balance of the funding to develop both the original web site and the new version in 2015 and has paid for maintenance and hosting since then.
+ * With the migration to JKAN in spring 2023, hosting costs were reduced significantly, and remaining costs are being paid by Robert Cheetham. 
 
 ## Terms
 
