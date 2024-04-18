@@ -97,7 +97,6 @@ el/?ofcresset=1), [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)
     
     We list a few tools but a much more complete list can be found on [Wikipedia](https://en.wikipedia.org/wiki/Geographic_information_system_software#Open_source_software).
     - [QGIS](https://www.qgis.org/) - open source desktop tools
-    - [Esri ArcGIS Online]()
     - [Felt](https://felt.com/)
     - [CARTO](https://www.carto.com/)
     - [Mapbox](https://mapbox.com)
