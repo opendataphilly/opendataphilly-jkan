@@ -1,21 +1,21 @@
 ---
 area_of_interest: null
 category:
-- Public Safety
+ - Public Safety
 created: '2024-04-12'
 license: Other (City of Philadelphia)
-maintainer: 'Philadelphia District Attorney's Office DATA Lab'
+maintainer: "Philadelphia District Attorney's Office DATA Lab"
 maintainer_email: ''
 maintainer_link: https://phillyda.org/data-lab/
 maintainer_phone: null
-notes: 'Interactive data reports on the Philadelphia District Attorney''s Office''s
-  work, including incidents (from the Philadelphia Police Department), 
-  arrests, charges, bail, outcomes, case length, future years of incarceration, 
-  future years of supervision, summary arrests, summary charges, 
-  summary case outcomes, and summary case lengths. Dashboards are organized into 
-  final year-end data (updated at the end of each year) and year-to-date data (updated daily). 
-  Each dashboard displays one or more interactive graphs showing trends, a table of data, and, optionally, 
-  an interactive map displaying the data by police districts.'
+notes: "Interactive data reports on the Philadelphia District Attorney's Office's
+  work, including incidents (from the Philadelphia Police Department),
+  arrests, charges, bail, outcomes, case length, future years of incarceration,
+  future years of supervision, summary arrests, summary charges,
+  summary case outcomes, and summary case lengths. Dashboards are organized into
+  final year-end data (updated at the end of each year) and year-to-date data (updated daily).
+  Each dashboard displays one or more interactive graphs showing trends, a table of data, and, optionally,
+  an interactive map displaying the data by police districts."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
@@ -67,10 +67,6 @@ resources:
   format: HTML
   name: YTD Case Length Dashboard
   url: https://data.philadao.com/Summary_Case_Length_Report.html
-- description: ''
-  format: 
-  name: ''''
-  url: 
 - description: ''
   format: HTML
   name: Year End Incidents Dashboard
