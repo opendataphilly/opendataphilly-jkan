@@ -19,11 +19,11 @@ notes: Buy Fresh, Buy Local is an online application that enables users to acces
   for Sustainable Agriculture. Free registration enables commenting, blogging, uploading
   recipes and other interactive features.
 opendataphilly_rating: null
-organization: Buy Fresh Buy Local PA
+organization: Pasa Sustainable Agriculture
 resources:
 - description: Map of locally produced food locations
   format: HTML
-  name: 'Buy Fresh Buy Local PA '
+  name: 'Buy Fresh Buy Local PA'
   url: https://buyfreshbuylocal.org/pennsylvania/
 schema: default
 source: null
