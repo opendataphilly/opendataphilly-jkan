@@ -24,17 +24,17 @@ opendataphilly_rating: null
 organization: GreatSchools.org
 resources:
 - description: ''
-  format: api
-  name: GreatSchools API Registration
-  url: http://www.greatschools.org/api/registration.page
-- description: ''
   format: HTML
   name: GreatSchools (Phila. only)
   url: http://www.greatschools.org/pennsylvania/philadelphia/
 - description: ''
+  format: API
+  name: GreatSchools API Registration
+  url: http://www.greatschools.org/api/registration.page
+- description: ''
   format: HTML
   name: GreatSchools API Documentation
-  url: http://www.greatschools.org/api/docs/main.page
+  url: https://www.greatschools.org/gk/api-developer-resources/
 schema: philadelphia
 source: ''
 tags: []
