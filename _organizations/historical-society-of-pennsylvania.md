@@ -8,7 +8,7 @@ description: "Founded in 1824 in Philadelphia, the Historical Society of Pennsyl
   \ society\u2019s remarkable holdings together with its educational programming make\
   \ it one of the nation\u2019s most important special collections libraries: a center\
   \ of historical documentation and study, education, and engagement. http://hsp.org/"
-logo: https://pbs.twimg.com/profile_images/941352085425029120/WDDodL4P_400x400.jpg
+logo: img\organizations\logo-hsp.gif
 schema: default
 tags: []
 title: Historical Society of Pennsylvania
