@@ -15,7 +15,9 @@ notes: "Interactive data reports on the Philadelphia District Attorney's Office'
   summary case outcomes, and summary case lengths. Dashboards are organized into
   final year-end data (updated at the end of each year) and year-to-date data (updated daily).
   Each dashboard displays one or more interactive graphs showing trends, a table of data, and, optionally,
-  an interactive map displaying the data by police districts."
+  an interactive map displaying the data by police districts.
+
+  The dashboard does not provide for downloading data. Data downloads can be found at https://opendataphilly.org/datasets/district-attorney/"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
