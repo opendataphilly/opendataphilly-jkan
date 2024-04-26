@@ -34,11 +34,11 @@ resources:
 - description: ''
   format: GeoJSON
   name: Philadelphia County Soils GeoJSON
-  url: http://www.pasda.psu.edu/json/PA_Soils2022.geojson
+  url: https://www.pasda.psu.edu/json/PA_Soils2022.geojson
 - description: ''
   format: API
   name: Philadelphia County Soils ArcGIS REST API
-  url: (https://mapservices.pasda.psu.edu/server/rest/services/pasda/Soils_PA/MapServer
+  url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/Soils_PA/MapServer
 
 schema: philadelphia
 source: null
