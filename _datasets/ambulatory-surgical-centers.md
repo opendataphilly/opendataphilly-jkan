@@ -4,32 +4,37 @@ category:
 - Health / Human Services
 created: '2014-12-08T22:09:55.554600'
 license: License Not Specified
-maintainer: ''
-maintainer_email: strosenber@state.pa.us
-maintainer_link: http://www.portal.health.state.pa.us/portal/server.pt/community/health_statistics_and_research/11599
-maintainer_phone: 717-783-2548
-notes: Data includes location points of Pennsylvania ambulatory surgical centers,
-  or out-patient procedure clinics, licensed or approved by the PA Department of Health
-  from July 1, 2008 to June 30, 2009.
+maintainer: 'PA Department of Health Bureau of Informatics and Information Technology'
+maintainer_email:RA-DHICONTACTUS@pa.go
+maintainer_link: null
+maintainer_phone: 717-782-2448
+notes: "Data includes location points of Pennsylvania ambulatory surgical centers,
+facilities for surgeries to be performed on a person who is admitted to and
+discharged from the location on the same day."
+
 opendataphilly_rating: null
-organization: PA Bureau of Health Statistics and Research
+organization: PA Department of Health
 resources:
-- description: ''
-  format: HTML
-  name: Ambulatory Service Centers Text Metadata
-  url: http://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_Ambulatory_Surgery_Centers201210.xml
-- description: ''
-  format: XML
-  name: Ambulatory Service Centers XML Metadata
-  url: http://www.pasda.psu.edu/pasda/UCI_Metadata/DOH_Ambulatory_Surgery_Centers201210.xml
 - description: ''
   format: SHP
   name: Ambulatory Service Centers Shapefile
-  url: http://www.pasda.psu.edu/data/padoh/DOH_Ambulatory_Surgery_Centers201008.zip
+  url: https://www.pasda.psu.edu/download/padoh/DOH_Ambulatory_Surgery_Centers202311.zip
+- description: ''
+  format: GeoJSON
+  name: Ambulatory Service Centers GeoJSON
+  url: https://www.pasda.psu.edu/json/DOH_Ambulatory_Surgery_Centers202311.geojson
+- description: ''
+  format: API
+  name:  Ambulatory Service Centers REST API
+  url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/DepHealth/MapServer
+- description: ''
+  format: HTML
+  name: Ambulatory Service Centers HTML Metadata
+  url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_Ambulatory_Surgery_Centers202311.xml
 schema: philadelphia
 source: ''
 tags: []
-time_period: null
+time_period: 2023
 title: Ambulatory Surgical Centers
 usage: Public Use; Free
 ---
