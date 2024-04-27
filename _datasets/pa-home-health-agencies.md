@@ -18,24 +18,24 @@ organization: PA Department of Health
 resources:
 - description: ''
   format: SHP
-  name: Home Health Agencies Shapefile
+  name: PA Home Health Agencies Shapefile
   url: https://www.pasda.psu.edu/download/padoh/DOH_HomeHealthAgencies202208.zip
 - description: ''
   format: GeoJSON
-  name: Home Health Agencies GeoJSON
+  name: PA Home Health Agencies GeoJSON
   url: https://www.pasda.psu.edu/json/DOH_HomeHealthAgencies202208.geojson
 - description: ''
   format: API
-  name: Home Health Agencies REST API
+  name: PA Home Health Agencies REST API
   url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/DepHealth/MapServer
 - description: ''
   format: HTML
-  name: Home Health Agencies Text Metadata
+  name: PA Home Health Agencies Metadata
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_HomeHealthAgencies202208.xml
 schema: philadelphia
 source: null
 tags: []
 time_period: 2022
-title: Home Health Agencies
+title: PA Home Health Agencies
 usage: 'Public Use; Free '
 ---
