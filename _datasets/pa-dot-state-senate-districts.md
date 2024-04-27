@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 created: '2024-03-01'
 license: License Not Specified
-maintainer: PA DoT Bureau of Planning and Research
+maintainer: PA Department of Transportation Bureau of Planning and Research
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: 717-772-3305
