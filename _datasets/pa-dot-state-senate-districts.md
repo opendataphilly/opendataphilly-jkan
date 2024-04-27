@@ -1,7 +1,6 @@
 ---
 area_of_interest: State of Pennsylvania
 category:
-- Boundaries
 - Elections / Politics
 created: '2024-03-01'
 license: License Not Specified
