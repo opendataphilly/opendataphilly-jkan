@@ -18,7 +18,7 @@ resources:
 - description: ''
   format: HTML
   name: Online Weather Data
-  url: http://www.nws.noaa.gov/climate/xmacis.php?wfo=phi
+  url: https://www.weather.gov/wrh/Climate?wfo=phi
 schema: philadelphia
 source: null
 tags: []
