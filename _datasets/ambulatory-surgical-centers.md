@@ -5,7 +5,7 @@ category:
 created: '2014-12-08T22:09:55.554600'
 license: License Not Specified
 maintainer: 'PA Department of Health Bureau of Informatics and Information Technology'
-maintainer_email:RA-DHICONTACTUS@pa.go
+maintainer_email: RA-DHICONTACTUS@pa.go
 maintainer_link: null
 maintainer_phone: 717-782-2448
 notes: "Data includes location points of Pennsylvania ambulatory surgical centers,
