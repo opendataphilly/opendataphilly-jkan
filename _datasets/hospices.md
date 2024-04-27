@@ -4,31 +4,36 @@ category:
 - Health / Human Services
 created: '2014-12-08T22:36:02.238315'
 license: License Not Specified
-maintainer: null
-maintainer_email: strosenber@state.pa.us
-maintainer_link: http://www.portal.health.state.pa.us/portal/server.pt/community/health_statistics_and_research/11599
-maintainer_phone: 717-783-2548
-notes: Locations of Pennsylvania hospices, according to the PA Department of Health's
-  quality assurance database.
+maintainer: Bureau of Informatics and Information Technology
+maintainer_email: RA-DHICONTACTUS@pa.gov
+maintainer_link: null
+maintainer_phone: 717-782-2448
+notes: "Locations of Pennsylvania hospices, according to the PA Department of Health's
+  quality assurance database. A hospice is a home providing care for the sick or terminally ill."
+
 opendataphilly_rating: null
-organization: PA Bureau of Health Statistics and Research
+organization: PA Department of Health
 resources:
 - description: ''
   format: SHP
   name: Hospices Shapefile
-  url: http://www.pasda.psu.edu/data/padoh/DOH_Hospices200909.zip
+  url: https://www.pasda.psu.edu/download/padoh/DOH_Hospices202308.zip
+- description: ''
+  format: GeoJSON
+  name: Hospices GeoJSON
+  url: https://www.pasda.psu.edu/json/DOH_Hospices202308.geojson
+- description: ''
+  format: API
+  name: Hospices REST API
+  url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/DepHealth/MapServer
 - description: ''
   format: HTML
-  name: Hospices Text Metadata
-  url: http://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_Hospices200909.xml
-- description: ''
-  format: XML
-  name: Hospices XML Metadata
-  url: http://www.pasda.psu.edu/pasda/UCI_Metadata/DOH_Hospices200909.xml
+  name: Hospices Metadata
+  url: https://pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_Hospices202308.xml
 schema: philadelphia
 source: null
 tags: []
-time_period: null
+time_period: 2023
 title: Hospices
 usage: Public Use; Free
 ---
