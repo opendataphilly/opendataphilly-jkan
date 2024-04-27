@@ -15,7 +15,7 @@ resources:
 - description: GTFS data as a zip file.
   format: GTFS
   name: PATCO GTFS
-  url: https://addtransit.com/gtfs/Patco/PortAuthorityTransitCorporation.zip
+  url: http://www.ridepatco.org/developers/PortAuthorityTransitCorporation.zip
 schema: philadelphia
 source: http://www.ridepatco.org/developers/
 tags:
