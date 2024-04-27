@@ -16,24 +16,24 @@ organization: PA Department of Health
 resources:
 - description: ''
   format: SHP
-  name: Hospices Shapefile
+  name: PA Hospices Shapefile
   url: https://www.pasda.psu.edu/download/padoh/DOH_Hospices202308.zip
 - description: ''
   format: GeoJSON
-  name: Hospices GeoJSON
+  name: PA Hospices GeoJSON
   url: https://www.pasda.psu.edu/json/DOH_Hospices202308.geojson
 - description: ''
   format: API
-  name: Hospices REST API
+  name: PA Hospices REST API
   url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/DepHealth/MapServer
 - description: ''
   format: HTML
-  name: Hospices Metadata
+  name: PA Hospices Metadata
   url: https://pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_Hospices202308.xml
 schema: philadelphia
 source: null
 tags: []
 time_period: 2023
-title: Hospices
+title: PA Hospices
 usage: Public Use; Free
 ---
