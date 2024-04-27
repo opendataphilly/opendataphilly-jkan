@@ -33,7 +33,7 @@ resources:
   url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/DepHealth/MapServer
 - description: ''
   format: HTML
-  name: PA Intermediate Care Treatment Facilities Metadata
+  name: PA Intermediate Care Facilities Metadata
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_IntermediateCareFacilities202212.xml
 schema: philadelphia
 source: null
