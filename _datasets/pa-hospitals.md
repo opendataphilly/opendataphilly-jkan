@@ -32,12 +32,12 @@ resources:
   url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/DepHealth/MapServer
 - description: ''
   format: HTML
-  name: Hospitals Metadata
+  name: PA Hospitals Metadata
   url: https://pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_Hospitals202311.xml
 schema: philadelphia
 source: null
 tags: []
 time_period: 2023
-title: Hospitals
+title: PA Hospitals
 usage: Public use; free
 ---
