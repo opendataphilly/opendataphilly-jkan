@@ -17,24 +17,24 @@ organization: PA Department of Health
 resources:
 - description: ''
   format: SHP
-  name: Ambulatory Service Centers Shapefile
+  name: PA Ambulatory Service Centers Shapefile
   url: https://www.pasda.psu.edu/download/padoh/DOH_Ambulatory_Surgery_Centers202311.zip
 - description: ''
   format: GeoJSON
-  name: Ambulatory Service Centers GeoJSON
+  name: PA Ambulatory Service Centers GeoJSON
   url: https://www.pasda.psu.edu/json/DOH_Ambulatory_Surgery_Centers202311.geojson
 - description: ''
   format: API
-  name:  Ambulatory Service Centers REST API
+  name: PA Ambulatory Service Centers REST API
   url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/DepHealth/MapServer
 - description: ''
   format: HTML
-  name: Ambulatory Service Centers HTML Metadata
+  name: PA Ambulatory Service Centers HTML Metadata
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_Ambulatory_Surgery_Centers202311.xml
 schema: philadelphia
 source: ''
 tags: []
 time_period: 2023
-title: Ambulatory Surgical Centers
+title: PA Ambulatory Surgical Centers
 usage: Public Use; Free
 ---
