@@ -23,7 +23,7 @@ resources:
   url: https://www.pasda.psu.edu/download/padoh/DOH_NursingHome202206.zip
 - description: ''
   format: GeoJSON
-  name: PA Nursing Homess GeoJSON
+  name: PA Nursing Homes GeoJSON
   url: https://www.pasda.psu.edu/json/DOH_NursingHome202206.geojson
 - description: ''
   format: API
