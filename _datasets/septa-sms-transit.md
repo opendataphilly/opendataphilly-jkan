@@ -24,7 +24,7 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
   
   \[var1\] = stop id <br>
   \[var2\] = route id  OR  i/o for inbound/outbound <br>
-
+  \[var3\] = i/o for inbound/outbound only if route id is supplied <br>
    '
 opendataphilly_rating: null
 organization: SEPTA
