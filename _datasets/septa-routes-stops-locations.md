@@ -4,9 +4,9 @@ category:
 - Transportation
 created: '2014-12-08'
 license: License Not Specified
-maintainer: null
-maintainer_email: 'septoid@gmail.com'
-maintainer_link: 'https://wwww.septa.org/open-data/'
+maintainer: SEPTA
+maintainer_email: septoid@gmail.com
+maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: "Geographic data for SEPTA routes, stops, and locations is available from both
   APIs and GIS data."
