@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: 'Provides API access to SEPTA regional rail, bus, and trolley schedules. 
   <br></br>
-  Regional rail schedules are accessed by train number. Train numbers are in the GTFS files. <br>
+  Regional rail schedules are accessed by train number. Train numbers are in the GTFS files or the route stop API. <br>
   Example: [https://www3.septa.org/api/RRSchedules/index.php?req1=458](https://www3.septa.org/api/RRSchedules/index.php?req1=458)
   returns rail schedule for the Aiport Line.
   <br></br>
