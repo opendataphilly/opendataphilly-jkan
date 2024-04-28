@@ -22,7 +22,8 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
   is currently text format, separated.  The API can be accessed in the format:
   https://www3.septa.org/sms/var1/var2/var3/var4/var5  <br>
   
-  \[var1\] = stop id<br>
+  \[var1\] = stop id <br>
+  \[var2\] = route id  OR  i/o for inbound/outbound <br>
 
    '
 opendataphilly_rating: null
