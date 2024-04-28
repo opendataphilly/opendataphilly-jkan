@@ -28,7 +28,7 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
   \[var4\] = returns schedule times on or after specified date, format: MM/DD/YYYY. Defaults to current day. <br>
   \[var5\] = returns schedule times on or after specified time, format: HH:mm:ss. Defaults to current time. <br>
   <br>
-  Stops fall into one of three categories, here\'s an explanation with some sample links:
+  Stops fall into one of three categories, here is an explanation with some sample links:
 
    '
 opendataphilly_rating: null
