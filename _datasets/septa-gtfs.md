@@ -2,8 +2,8 @@
 area_of_interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery, Philadelphia counties)
 category: 
 - Transportation
-created: '2015-05-08T03:07:46.125457'
-license: Other (Non-Commercial)
+created: '2015-05-08'
+license: License Not Specified
 maintainer: 'SEPTA'
 maintainer_email: 'septoid@gmail.com'
 maintainer_link: null
