@@ -2,24 +2,24 @@
 area_of_interest: null
 category:
 - Transportation
-created: '2014-12-31T22:23:33.002327'
+created: '2014-12-31'
 license: License Not Specified
-maintainer: ''
+maintainer: 'SEPTA'
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: Mobile web site for alerts, schedules, maps, fare, and next to arrive information
+notes: 'Trip planner for finding SEPTA routes and times between an origin and destination.' 
 opendataphilly_rating: null
 organization: SEPTA
 resources:
 - description: ''
   format: HTML
-  name: Septa Mobile
-  url: http://www.septa.org/m/
+  name: SEPTA Trip Planner
+  url: https://plan.septa.org/
 schema: philadelphia
 source: ''
 tags: []
 time_period: null
-title: SEPTA Mobile
-usage: null
+title: SEPTA Trip Planner
+usage: Public use
 ---
