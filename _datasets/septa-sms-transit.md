@@ -18,55 +18,60 @@ notes: "SEPTA SMS Transit enables users to request scheduled trip information vi
   \ stop serves multiple routes.\r\n
 
   \r\nIn addition to using the SMS, there\
-  \ is also a simulator which people can use to experiment at no cost.\r\n\r\
+  \ is also a simulator which people can use to experiment at no cost.\r\n\r
   
   \nFinally, the SMS data can be accessed from an API.  The data returned by the API\
   \ is currently text format, \\n separated.  The API can be accessed in the format:
-  \r\nhttp://www3.septa.org/sms/var1/var2/var3/var4/var5\r\
+  \r\nhttp://www3.septa.org/sms/var1/var2/var3/var4/var5 \r
   \n
 
   \r\n[var1] = stop id\r\n
   \r\n[var2] = route id  OR  i/o for inbound/outbound\r\n
-  \r\n[var3] = i/o for inbound/outbound only if route id is supplied\r\n\
+  \r\n[var3] = i/o for inbound/outbound only if route id is supplied\r\n
   \r\n[var4] = returns schedule times on or after specified date, format: MM/DD/YYYY. Defaults to current day.\r\n
   \r\n[var5] = returns schedule times on or after specified time, format: HH:mm:ss. Defaults to current time\r\n
   
   \n
   Stops fall into one of three categories, here's an explanation with some sample\
-  \ links:\r\n<br><br>\r\n
-  <ol style=\"list-style: decimal inside none;\">
+  \ links:\r\n
+
+  \r\n
+  \<ol style=\"list-style: decimal inside none;\">
     \r\n<li>\r\nStops with service provided by only one route, stop is not the first or last stop\
   \ and\r\nall travel is in a single direction:\r\n<br><br>\r\nhttp://www3.septa.org/sms/321\r\
   \n<br>\r\nReturns the next 4 scheduled trolleys (All Route 13) at Chester Ave &\
-  \ 49th St.\r\r\n</li>
+  \ 49th St.\r\r\n\</li>
     
-    <li>\r\nStops with service provided by multiple routes,\
-  \ but all travel is in one direction:\r\n<br><br>\r\nhttp://www3.septa.org/sms/20645/\r\
-  \n<br>\r\nReturns the next 4 scheduled trolleys at 22nd St. Station. Note the results\
+    \<li>\r\nStops with service provided by multiple routes,\
+  \ but all travel is in one direction:\r\n<br><br>\r\nhttp://www3.septa.org/sms/20645/\r
+  \n
+      \r\nReturns the next 4 scheduled trolleys at 22nd St. Station. Note the results\
   \ shows\r\ntrolleys regardless or route.  To grep just a single route, for a multi-route,\
-  \ uni-directional\r\nstop, add another var:\r\n<br><br>\r\nhttp://www3.septa.org/sms/20645/13/\r\
-  \n<br>\r\nReturns only the Route 13 trolleys at 22nd St. Station\r\n\r\n\</li>
+  \ uni-directional\r\nstop, add another var:\r\n
+      
+      \r\nhttp://www3.septa.org/sms/20645/13/\r
+  \n\r\nReturns only the Route 13 trolleys at 22nd St. Station\r\n\r\n\</li>
   
-  <li>\r\nStops with travel in multi-directions.  This is usually end points,\
+  \<li>\r\nStops with travel in multi-directions.  This is usually end points,\
   \ like the trolley\r\nloop at Juniper and they may or may not have multiple routes.\
   \  For example:\r\n
     
     \r\nhttp://www3.septa.org/sms/283\r\n<br>\r\nReturns\
   \ the next 2 inbound and 2 outbound times for all routes\r\n
 
-  \r\nhttp://www3.septa.org/sms/283/13/\r\
+  \r\nhttp://www3.septa.org/sms/283/13/\r
   \n
-  \r\nReturns the next 2 inbound and 2 outbound times for only Route 13\r\n\
+  \r\nReturns the next 2 inbound and 2 outbound times for only Route 13\r\n
 
 
   \r\nhttp://www3.septa.org/sms/283/o \r\n<br>\r\nReturns the next 4 outbound\
   \ times for all routes\r\n
 
-  \r\nhttp://www3.septa.org/sms/283/13/o \r\n\r\
+  \r\nhttp://www3.septa.org/sms/283/13/o \r\n\r
     
   \nReturns the next 4 outbound times for only Route 13\r\n </li>\r\n
 
-  </ol>\r\n\r\n\
+  </ol>\r\n\r\n
   \ "
 opendataphilly_rating: null
 organization: SEPTA
