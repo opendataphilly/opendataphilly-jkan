@@ -1,6 +1,6 @@
 ---
 description: PATCO operates a train service between southern New Jersey and Philadelphia.
-logo: http://www.ridepatco.org/images/header_logo.png
+logo: img/organizatons/logo-patco.svg
 schema: default
 tags:
 - gtfs
