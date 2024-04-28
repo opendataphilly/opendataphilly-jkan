@@ -30,6 +30,19 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
   <br>
   Stops fall into one of three categories, here is an explanation with some sample links:
 
+  <ol>
+    <li>Stops with service provided by only one route, stop is not the first or last stop
+  andall travel is in a single direction:
+      
+      <br><br>https://www3.septa.org/sms/321<br>
+  Returns the next 4 scheduled trolleys (All Route 13) at Chester Ave &
+  49th St.</li>
+    
+    <li>Stops with service provided by multiple routes, 
+  but all travel is in one direction:
+  <br><br>
+
+
    '
 opendataphilly_rating: null
 organization: SEPTA
