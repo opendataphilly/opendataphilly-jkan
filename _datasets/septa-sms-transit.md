@@ -4,9 +4,9 @@ category:
 - Transportation
 created: '2014-12-08'
 license: License Not Specified
-maintainer: null
-maintainer_email: 'septoid@gmail.com'
-maintainer_link: null
+maintainer: SEPTA
+maintainer_email: septoid@gmail.com
+maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'SEPTA SMS Transit enables users to request scheduled trip information via 
   text message. Users subscribe to the service via text. After setting up an account, 
