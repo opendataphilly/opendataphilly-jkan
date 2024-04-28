@@ -1,5 +1,5 @@
 ---
-area_of_interest: null
+area_of_interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery, Philadelphia counties)
 category:
 - Transportation
 created: '2014-12-31'
