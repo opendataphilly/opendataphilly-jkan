@@ -42,6 +42,13 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
   but all travel is in one direction:
   <br><br>
 
+  https://www3.septa.org/sms/20645/<br>
+  Returns the next 4 scheduled trolleys at 22nd St. Station. Note the results shows trolleys regardless or route.  To grep just a single route, for a multi-route, uni-directional stop, add another var: <br>
+      
+      https://www3.septa.org/sms/20645/13/<br>
+  Returns only the Route 13 trolleys at 22nd St. Station</li>
+  
+
 
    '
 opendataphilly_rating: null
