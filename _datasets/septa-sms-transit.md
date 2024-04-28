@@ -2,7 +2,7 @@
 area_of_interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery, Philadelphia counties)
 category:
 - Transportation
-created: '2014-12-08T22:43:00.116427'
+created: '2014-12-08'
 license: License Not Specified
 maintainer: null
 maintainer_email: 'septoid@gmail.com'
@@ -22,39 +22,38 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
   Finally, the SMS data can be accessed from an API.  The data returned by the API
   is currently text format, separated.  The API can be accessed in the format:
   https://www3.septa.org/sms/var1/var2/var3/var4/var5 
-  
-
-  [var1] = stop i
-  [var2] = route id  OR  i/o for inbound/outbound
-  [var3] = i/o for inbound/outbound only if route id is supplied
-  [var4] = returns schedule times on or after specified date, format: MM/DD/YYYY. Defaults to current day.
-  [var5] = returns schedule times on or after specified time, format: HH:mm:ss. Defaults to current time
-  
+  <br>
+  [var1] = stop i<br>
+  [var2] = route id  OR  i/o for inbound/outbound<br>
+  [var3] = i/o for inbound/outbound only if route id is supplied<br>
+  [var4] = returns schedule times on or after specified date, format: MM/DD/YYYY. Defaults to current day.<br>
+  [var5] = returns schedule times on or after specified time, format: HH:mm:ss. Defaults to current time.<br>
+  <br>
   Stops fall into one of three categories, here's an explanation with some sample links:
 
   <ol>
     <li>Stops with service provided by only one route, stop is not the first or last stop
   andall travel is in a single direction:
       
-      <br><br>https://www3.septa.org/sms/321
-  <br>Returns the next 4 scheduled trolleys (All Route 13) at Chester Ave &
+      <br><br>https://www3.septa.org/sms/321<br>
+  Returns the next 4 scheduled trolleys (All Route 13) at Chester Ave &
   49th St.</li>
     
     <li>Stops with service provided by multiple routes, 
   but all travel is in one direction:
   <br><br>
 
-  https://www3.septa.org/sms/20645/
+  https://www3.septa.org/sms/20645/<br>
   Returns the next 4 scheduled trolleys at 22nd St. Station. Note the results 
   shows trolleys regardless or route.  To grep just a single route, for a multi-route, 
-  uni-directionalstop, add another var: 
+  uni-directional stop, add another var: <br>
       
-      https://www3.septa.org/sms/20645/13/
+      https://www3.septa.org/sms/20645/13/<br>
   Returns only the Route 13 trolleys at 22nd St. Station</li>
   
   <li>Stops with travel in multi-directions.  This is usually end points,
    like the trolley\r\nloop at Juniper and they may or may not have multiple routes.
-    For example:
+    For example:<br>
     
     https://www3.septa.org/sms/283 <br>
     Returns the next 2 inbound and 2 outbound times for all routes
