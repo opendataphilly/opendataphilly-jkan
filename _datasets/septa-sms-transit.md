@@ -75,11 +75,11 @@ resources:
 - description: ''
   format: API
   name: SMS Transit API (text)
-  url: http://www3.septa.org/sms/
+  url: https://www3.septa.org/sms/
 - description: ''
   format: HTML
   name: SMS Transit Simulator
-  url: http://www3.septa.org/sms/simulator
+  url: https://www3.septa.org/sms/simulator
 schema: philadelphia
 source: null
 tags: []
