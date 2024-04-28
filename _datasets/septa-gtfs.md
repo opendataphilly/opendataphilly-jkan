@@ -9,8 +9,8 @@ maintainer_email: 'septoid@gmail.com'
 maintainer_link: null
 maintainer_phone: null
 notes: 'SEPTA schedule and location information in GTFS format.  Additional informatoion can be found on GitHub
-  (https://github.com/septadev/GTFS/) or Google group (https://groups.google.com/forum/#!forum/septadev)
-opendataphilly_rating: null'
+  (https://github.com/septadev/GTFS/) or Google group (https://groups.google.com/forum/#!forum/septadev)'
+opendataphilly_rating: null
 organization: SEPTA
 resources:
 - description: 'Each new release is posted on GitHub. Each zip file contains a separate
@@ -24,15 +24,15 @@ resources:
   format: GTFS
   name: Current GTFS file
   url: https://www3.septa.org/developer/gtfs_public.zip
-- description: 
+- description: ''
   format: RSS
-  name: RSS feed of releases
+  name: RSS feed of GTFS data releases
   url: https://github.com/septadev/GTFS/releases.atom
 schema: philadelphia
 source: 
 tags:
 - transportation
-time_period: 2024
+time_period: Current
 title: SEPTA GTFS
 usage: null
 ---
