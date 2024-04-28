@@ -23,12 +23,6 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
   https://www3.septa.org/sms/var1/var2/var3/var4/var5  <br>
   
   \[var1\] = stop id<br>
-  \[var2\] = route id  OR  i/o for inbound/outbound<br>
-  \[var3\] = i/o for inbound/outbound only if route id is supplied<br>
-  \[var4\] = returns schedule times on or after specified date, format: MM/DD/YYYY. Defaults to current day.<br>
-  \[var5\] = returns schedule times on or after specified time, format: HH:mm:ss. Defaults to current time.<br>
-  <br>
-  Stops fall into one of three categories, here's an explanation with some sample links:
 
    '
 opendataphilly_rating: null
