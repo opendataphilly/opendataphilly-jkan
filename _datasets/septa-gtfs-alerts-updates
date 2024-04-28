@@ -42,7 +42,7 @@ schema: philadelphia
 source: 
 tags:
 - transportation
-time_period: 2024
+time_period: Real-time updates
 title: SEPTA GTFS Real-time Alerts and Updates
 usage: null
 ---
