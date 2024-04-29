@@ -22,16 +22,16 @@ resources:
   name: PA U.S. Congressional Districts 2024 Shapefile
   url: https://www.pasda.psu.edu/download/padot/boundary_layers/PaCongressional2024_03.zip
 - description: ''
-  format: HTML
-  name: PA U.S. Congressional Districts 2024GeoJSON
+  format: GeoJSON
+  name: PA U.S. Congressional Districts 2024 GeoJSON
   url: https://www.pasda.psu.edu/json/PaCongressional2024_03.geojson
 - description: ''
-  format: HTML
-  name: PA U.S. Congressional Districts 2024REST API
+  format: API
+  name: PA U.S. Congressional Districts 2024 REST API
   url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/PennDOT/MapServer
 - description: ''
   format: HTML
-  name: PA U.S. Congressional Districts 2024Metadata
+  name: PA U.S. Congressional Districts 2024 Metadata
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaCongressional2024_03.xml
 schema: philadelphia
 source: null
