@@ -9,7 +9,7 @@ maintainer_email: septoid@gmail.com
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'SEPTA schedule and location information in GTFS format.  Additional informatoion can be found on GitHub
-  (https://github.com/septadev/GTFS/) or Google group (https://groups.google.com/forum/#!forum/septadev)'
+  ([https://github.com/septadev/GTFS/](https://github.com/septadev/GTFS/)) or Google group ([https://groups.google.com/forum/#!forum/septadev](https://groups.google.com/forum/#!forum/septadev))'
 opendataphilly_rating: null
 organization: SEPTA
 resources:
