@@ -25,6 +25,6 @@ schema: philadelphia
 source: ''
 tags: []
 time_period: null
-title: SEPTA Real Time Locator
+title: Skookul SEPTA Real Time Locator
 usage: Public Use
 ---

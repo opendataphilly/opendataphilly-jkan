@@ -1,35 +1,39 @@
 ---
-area_of_interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery,
-  Philadelphia counties)
+area_of_interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery, Philadelphia counties)
 category:
 - Transportation
-created: '2014-12-08T22:02:00.717719'
+created: '2014-12-08'
 license: License Not Specified
-maintainer: null
-maintainer_email: MZaleski@septa.org
-maintainer_link: http://www.septa.org/cs/comment/
-maintainer_phone: 215-580-7800
-notes: "Provides API access to SEPTA regional rail, bus, and trolley schedules. \r\
-  \n<br></br>\r\nRegional rail schedules are accessed by train number. Example: http://www3.septa.org/hackathon/RRSchedules/458\r\
-  \n<br></br>\r\nBus and trolley schedules are accessed at http://www3.septa.org/hackathon/BusSchedules/\
-  \ and requested using the following parameters - ?req1=stop_id req2=route (optional)\
-  \ req3=(i or o) (for inbound/outbound)optional req=6 number of results(optional).\r\
-  \n<br></br>\r\nThese APIs were created as part of the Apps for SEPTA hackathon. "
+maintainer: SEPTA
+maintainer_email: septoid@gmail.com
+maintainer_link: https://wwww.septa.org/open-data/
+maintainer_phone: null
+notes: 'Provides API access to SEPTA regional rail, bus, and trolley schedules. 
+  <br></br>
+  Regional rail schedules are accessed by train number. Train numbers are in the GTFS files or the route stop API. <br>
+  Example: [https://www3.septa.org/api/RRSchedules/index.php?req1=458](https://www3.septa.org/api/RRSchedules/index.php?req1=458)
+  returns rail schedule for the Aiport Line.
+  <br></br>
+  Bus and trolley schedules are accessed by stop ID. <br>
+  Example: [https://www3.septa.org/api/BusSchedules/index.php?stop_id=12345](https://www3.septa.org/BusSchedules/index.php?stop_id=12345) 
+  returns scheduled stops for Ridge Av & Walnut Ln
+  <br></br>
+  '
 opendataphilly_rating: '5'
 organization: SEPTA
 resources:
 - description: ''
-  format: api
+  format: API
   name: Regional Rail Schedules by Train Number
-  url: http://www3.septa.org/hackathon/RRSchedules/
+  url: https://www3.septa.org/api/RRSchedules/index.php
 - description: ''
-  format: api
-  name: Bus and Trolley Schedules
-  url: http://www3.septa.org/hackathon/BusSchedules/
+  format: API
+  name: Bus and Trolley Schedules by Stop ID
+  url: https://www3.septa.org/api/BusSchedules/index.php
 schema: philadelphia
 source: null
 tags: []
-time_period: null
+time_period: Real-time
 title: SEPTA Schedules
 usage: Public Use
 ---
