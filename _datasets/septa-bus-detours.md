@@ -6,7 +6,7 @@ created: '2014-12-08'
 license: License Not Specified
 maintainer: SEPTA
 maintainer_email: septoid@gmail.com
-maintainer_link: [https://wwww.septa.org/open-data/](https://wwww.septa.org/open-data/)
+maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'Provides access to current SEPTA bus detours via an API. All detours for all
    routes can be accessed at [https://www3.septa.org/api/BusDetours/](https://www3.septa.org/api/BusDetours/).<br>
