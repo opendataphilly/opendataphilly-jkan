@@ -6,7 +6,7 @@ created: '2014-12-08T21:58:28.178412'
 license: License Not Specified
 maintainer: ''
 maintainer_email: info@thedrinknation.com
-maintainer_link: [http://www.drinkphilly.com/drinks/contacts](https://philly.thedrinknation.com/drinks/contacts)
+maintainer_link: https://philly.thedrinknation.com/drinks/contacts
 maintainer_phone: 267-507-6147
 notes: 'Drink Philly provides listings of happy hours and drink and food specials
   available at bars and restaurants throughout Philadelphia. The application includes
@@ -19,7 +19,7 @@ resources:
 - description: ''
   format: HTML
   name: Drink Philly Happy Hours & Specials
-  url: [http://www.drinkphilly.com/specials](https://philly.thedrinknation.com/specials)
+  url: https://philly.thedrinknation.com/specials
 schema: philadelphia
 source: ''
 tags: []
