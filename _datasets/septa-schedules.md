@@ -9,17 +9,17 @@ maintainer_email: septoid@gmail.com
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'Provides API access to SEPTA regional rail, bus, and trolley schedules. 
-  <br></br>
+  <br>
   Regional rail schedules are accessed by train number. Train numbers are in the GTFS files or the route stop API. <br>
   Example: [https://www3.septa.org/api/RRSchedules/index.php?req1=458](https://www3.septa.org/api/RRSchedules/index.php?req1=458)
   returns rail schedule for the Aiport Line.
-  <br></br>
+  <br>
   Bus and trolley schedules are accessed by stop ID. <br>
-  Example: [https://www3.septa.org/api/BusSchedules/index.php?stop_id=12345](https://www3.septa.org/BusSchedules/index.php?stop_id=12345) 
+  Example: [https://www3.septa.org/api/BusSchedules/index.php?stop_id=12345](https://www3.septa.org/api/BusSchedules/index.php?stop_id=12345) 
   returns scheduled stops for Ridge Av & Walnut Ln
-  <br></br>
+  <br>
   '
-opendataphilly_rating: '5'
+opendataphilly_rating: null
 organization: SEPTA
 resources:
 - description: ''
