@@ -8,12 +8,12 @@ maintainer: 'PA Department of Health Bureau of Informatics and Information Techn
 maintainer_email: RA-DHICONTACTUS@pa.gov
 maintainer_link: null
 maintainer_phone: 717-782-2448
-notes: 'The PA Nursing Homes dataset includes facilities for people who don't need to 
+notes: >
+  The PA Nursing Homes dataset includes facilities for people who don't need to 
   be in a hospital but can't be cared for at home. When possible, efforts were made 
   to confirm the rooftop location of each nursing home. The accuracy of geocoding is 
   available in Geocoding Certainty attribute field (Geocoding Certainty: Rooftop="00", 
-  Street="01", Zip Centroid="04", Not geocoded="99").'
-
+  Street="01", Zip Centroid="04", Not geocoded="99").
 opendataphilly_rating: null
 organization: PA Department of Health
 resources:
