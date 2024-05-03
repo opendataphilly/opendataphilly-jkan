@@ -9,14 +9,14 @@ maintainer_email: septoid@gmail.com
 maintainer_link: [https://wwww.septa.org/open-data/](https://wwww.septa.org/open-data/)
 maintainer_phone: null
 notes: 'Provides access to SEPTA travel alerts via an API. All travel alerts can be 
-  viewed at [https://www3.septa.org/api/Alerts/](https://www3.septa.org/api/Alerts/).<br>
+  viewed at https://www3.septa.org/api/Alerts/.<br>
   <br>
   To retrieve travel alerts for a specific route or line, add the parameter: route/line name 
   to the URL.<br>
-  <br>Example: [https://www3.septa.org/api/Alerts/index.php?routes=bus_route_33](https://www3.septa.org/api/Alerts/index.php?routes=bus_route_33)
+  <br>Example: https://www3.septa.org/api/Alerts/index.php?routes=bus_route_33
   <br>
   <br>The API endpoint at get_alert_data.php provides more verbose messages for either the whole system or a single route
-  <br>Example: [https://www3.septa.org/api/Alerts/get_alert_data.php?route_id=bus_route_33](https://www3.septa.org/api/Alerts/get_alert_data.php?route_id=bus_route_33)'
+  <br>Example: https://www3.septa.org/api/Alerts/get_alert_data.php?route_id=bus_route_33'
 opendataphilly_rating: null
 organization: SEPTA
 resources:
