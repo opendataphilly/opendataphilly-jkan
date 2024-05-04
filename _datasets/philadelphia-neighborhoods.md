@@ -12,7 +12,7 @@ notes: 'This dataset includes neighborhood boundaries for 157 neighborhoods in P
   The data was gathered from a mix of publicly available maps, including from the City of Philadelphia,
   the City Archives, the Philadelphia Inquirer, and user feedback.'
 opendataphilly_rating: null
-organization: Azavea
+organization: OpenDataPhilly
 resources:
 - description: ''
   format: SHP
