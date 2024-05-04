@@ -5,9 +5,5 @@ description: Azavea was a geospatial technology firm based in Philadelphia. Azav
 logo: img/organizations/logo-azavea.png
 schema: default
 tags:
-- divisions
-- historic
-- political
-- ward
 title: Azavea
 ---
