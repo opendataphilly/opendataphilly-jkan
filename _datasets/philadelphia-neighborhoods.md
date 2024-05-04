@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Planning / Zoning
+- Real Estate / Land Records
 created: '2014-12-08'
 license: Creative Commons 3.0
 maintainer: 'Robert Cheetham'
@@ -23,8 +24,9 @@ resources:
   name: Philadelphia Neighborhoods GeoJSON
   url: https://github.com/opendataphilly/open-geo-data/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.geojson
 schema: philadelphia
-source: ''
-tags: []
+source: 'Robert Cheetham'
+tags: 
+ - neighborhoods
 time_period: 1997 - 2012
 title: Philadelphia Neighborhoods
 usage: This file is released under the Creative Commons 3.0 license. Please refer
