@@ -34,7 +34,7 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
     <li>Stops with service provided by only one route, stop is not the first or last stop
   andall travel is in a single direction:
       
-      <br><br>https://www3.septa.org/sms/321<br>
+      <br><br>[https://www3.septa.org/sms/321](https://www3.septa.org/sms/321)<br>
   Returns the next 4 scheduled trolleys (All Route 13) at Chester Ave &
   49th St.</li>
     
@@ -50,13 +50,13 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
   Returns only the Route 13 trolleys at 22nd St. Station</li>
   
   <li>Stops with travel in multi-directions.  This is usually end points,
-   like the trolley\r\nloop at Juniper and they may or may not have multiple routes.
+   like the trolley loop at Juniper and they may or may not have multiple routes.
     For example:<br>
     
     https://www3.septa.org/sms/283 <br>
     Returns the next 2 inbound and 2 outbound times for all routes
 
-    https://www3.septa.org/sms/283/13/ <br>
+    https://www3.septa.org/sms/283/13/<br>
     Returns the next 2 inbound and 2 outbound times for only Route 13
 
     https://www3.septa.org/sms/283/o <br>
@@ -66,8 +66,6 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
     Returns the next 4 outbound times for only Route 13 </li>
 
   </ol>
-
-
    '
 opendataphilly_rating: null
 organization: SEPTA
