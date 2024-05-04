@@ -24,7 +24,7 @@ resources:
   name: Historic Political Wards and Ward Divisions Shapefiles
   url: https://github.com/azavea/geo-data/tree/master/philadelphia-wards-divisions
 schema: philadelphia
-source: ''
+source: 'City of Philadelphia'
 tags:
 - divisions
 - historic
