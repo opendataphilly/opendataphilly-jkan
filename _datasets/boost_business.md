@@ -8,10 +8,10 @@ maintainer: 'Qadeer Gulzari'
 maintainer_email: 'qadeer.gulzari@phila.gov'
 maintainer_link: null
 maintainer_phone: null
-notes: "The City of Philadelphia is launching Boost Your Business, a fund for equitable business growth.\
-\Businesses owned by people of color face unique barriers in accessing resources and opportunities, which\
-\was only worsened by the COVID-19 pandemic. Boost Your Business will provide funding to help diverse\
-\entrepreneurs in Philadelphia scale their businesses.\r\n\r\n"
+notes: 'The City of Philadelphia is launching Boost Your Business, a fund for equitable business growth.
+  Businesses owned by people of color face unique barriers in accessing resources and opportunities, which
+  was only worsened by the COVID-19 pandemic. Boost Your Business will provide funding to help diverse
+  entrepreneurs in Philadelphia scale their businesses.'
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
@@ -23,11 +23,11 @@ resources:
   format: SHP
   name: Boost Your Business Program (SHP)
   url: https://opendata.arcgis.com/api/v3/datasets/334387363a5e4ccc8d5e7f5e556192fc_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
-  - description: ''
+- description: ''
   format: GeoJSON
   name: Boost Your Business Program (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/334387363a5e4ccc8d5e7f5e556192fc_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1  
-  - description: ''
+- description: ''
   format: API
   name: Boost Your Business Program (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/boost_your_business/FeatureServer/0/query?outFields=*&where=1%3D1  
