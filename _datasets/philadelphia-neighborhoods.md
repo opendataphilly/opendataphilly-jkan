@@ -18,7 +18,7 @@ resources:
 - description: ''
   format: SHP
   name: Philadelphia Neighborhoods Shapefile
-  url: https://github.com/opendataphilly/open-geo-data/tree/master/philadelphia-neighborhoods/philadelphia-neighborhood.zip
+  url: https://github.com/opendataphilly/open-geo-data/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.zip
 - description: ''
   format: GeoJSON
   name: Philadelphia Neighborhoods GeoJSON
