@@ -1,12 +1,12 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category:
 - Environment
 - Health / Human Services
 created: '2016-06-22T18:26:12.844603'
 license: Other (City of Philadelphia)
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'james.morse@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "This represents all service and information requests since December 8th, 2014\
@@ -16,7 +16,7 @@ notes: "This represents all service and information requests since December 8th,
   \ [visualization](https://data.phila.gov/visualizations/311-requests/) to explore\
   \ the data.**\r\n\r\nIf you are comfortable with APIs, you can also use the API\
   \ links to access this data. You can learn more about how to use the API at [Carto\u2019\
-  s SQL API site](https://carto.com/developers/sql-api/)  and in the [Carto guide\
+  s SQL API site](https://carto.com/developers/sql-api/)  and in the [CARTO guide\
   \ in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
 opendataphilly_rating: null
 organization: City of Philadelphia
@@ -25,6 +25,14 @@ resources:
   format: HTML
   name: 311 Requests - Full Dataset (Visualization)
   url: https://data.phila.gov/visualizations/311-requests/
+- description: ''
+  format: CSV
+  name: 311 Requests for 2024 (CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*%20FROM%20public_cases_fc%20WHERE%20requested_datetime%20%3E=%20%272024-01-01%27%20AND%20requested_datetime%20%3C%20%272025-01-01%27
+- description: ''
+  format: CSV
+  name: 311 Requests for 2023 (CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*%20FROM%20public_cases_fc%20WHERE%20requested_datetime%20%3E=%20%272023-01-01%27%20AND%20requested_datetime%20%3C%20%272024-01-01%27
 - description: ''
   format: CSV
   name: 311 Requests for 2022 (CSV)
@@ -75,6 +83,30 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
     * FROM public_cases_fc WHERE requested_datetime >= '2014-01-01' AND requested_datetime
     < '2015-01-01'
+- description: ''
+  format: SHP
+  name: 311 Requests for 2024 (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=shp&skipfields=cartodb_id&q=SELECT
+    * FROM public_cases_fc WHERE requested_datetime >= '2024-01-01' AND requested_datetime
+    < '2025-01-01'
+- description: ''
+  format: SHP
+  name: 311 Requests for 2023 (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=shp&skipfields=cartodb_id&q=SELECT
+    * FROM public_cases_fc WHERE requested_datetime >= '2023-01-01' AND requested_datetime
+    < '2024-01-01'
+- description: ''
+  format: SHP
+  name: 311 Requests for 2022 (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=shp&skipfields=cartodb_id&q=SELECT
+    * FROM public_cases_fc WHERE requested_datetime >= '2022-01-01' AND requested_datetime
+    < '2023-01-01'
+- description: ''
+  format: SHP
+  name: 311 Requests for 2021 (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=shp&skipfields=cartodb_id&q=SELECT
+    * FROM public_cases_fc WHERE requested_datetime >= '2021-01-01' AND requested_datetime
+    < '2022-01-01'
 - description: ''
   format: SHP
   name: 311 Requests for 2020 (SHP)
