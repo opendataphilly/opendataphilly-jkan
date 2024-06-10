@@ -8,8 +8,8 @@ maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "This is a point dataset of bus transit shelters installed and maintained\
-  \ by the City of Philadelphia, in partnership with Intersection Media."\
+notes: "This is a point dataset of bus transit shelters installed and maintained
+  by the City of Philadelphia, in partnership with Intersection Media."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
