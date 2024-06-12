@@ -17,11 +17,10 @@ notes: An inventory compiled by the Preservation Alliance for Greater Philadelph
 opendataphilly_rating: null
 organization: Preservation Alliance for Greater Philadelphia
 resources:
-- description: Searchable web application with ability to download in Excel, CSV,
-    and PDF formats.
-  format: HTML
+- description: Report including a table of African American Historic Sites
+  format: PDF
   name: African American Historic Sites database
-  url: http://www.preservationalliance.com/inventory-african-american-historic-sites/
+  url: https://preservationalliance.com/wp-content/uploads/2023/01/African-American-Historic-Sites.pdf
 schema: philadelphia
 source: ''
 tags: []
