@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Environment
 - Real Estate / Land Records
-created: '2015-01-21T02:53:15.458779'
 license: Other (City of Philadelphia)
 maintainer: benchmarkinghelp@phila.gov
 maintainer_email: benchmarkinghelp@phila.gov
@@ -16,12 +15,11 @@ notes: "This dataset contains annual building and performance data for those pro
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
-- description: Mapping and visualization application developed by the Mayor's Office
-    of Sustainability. The application includes both [city-owned properties](/datasets/city-building-energy-benchmarking
-    "City-owned Properties Energy Usage") and large building data
+- description: Mapping and visualization application developed by the Office
+    of Sustainability. 
   format: HTML
-  name: Energy Benchmarking Visualization and Mapping Application
-  url: http://visualization.phillybuildingbenchmarking.com/
+  name: PHL Building Energy Programs Visualization and Mapping Application
+  url: https://experience.arcgis.com/experience/52c8a3b10e8c465eab723f04dbcb2a4d/page/Buildings/
 - description: ''
   format: CSV
   name: 2021 Properties Reported (CSV)
