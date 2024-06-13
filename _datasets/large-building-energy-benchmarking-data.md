@@ -22,6 +22,46 @@ resources:
   url: https://experience.arcgis.com/experience/52c8a3b10e8c465eab723f04dbcb2a4d/page/Buildings/
 - description: ''
   format: CSV
+  name: 2022 Properties Reported (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/0c68fdcdf8794a848c65f6d868ea6983_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2022 Properties Reported (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/0c68fdcdf8794a848c65f6d868ea6983_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2022 Properties Reported (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/0c68fdcdf8794a848c65f6d868ea6983_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: ' 2022 Properties Reported (API)'
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Properties_Reported_2022/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2022 Properties Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/6657364b4eae4200286abd41/
+- description: ''
+  format: CSV
+  name: 2022 Properties Not Reported (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/7b932ffc5a3043a6a164f11a8ed7562b_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2022 Properties Not Reported (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/7b932ffc5a3043a6a164f11a8ed7562b_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2022 Properties Not Reported (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/7b932ffc5a3043a6a164f11a8ed7562b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: ' 2022 Properties Not Reported (API)'
+  url: 	https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Properties_Not_Reported_2022/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2022 Properties Not Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/66573e0d2a193b0029e38a1c/
+- description: ''
+  format: CSV
   name: 2021 Properties Reported (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/e274dd8edce34c138f4c9263e316a187_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
