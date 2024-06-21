@@ -10,10 +10,7 @@ maintainer: Portia Egan
 maintainer_email: portia.egan@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: 'The Division of Housing and Community Development (DHCD) provides funding
-  to developers that are building or renovating affordable homes. These homes are
-  available for sale, for rent, and to support people with special needs. This dataset
-  shows the number and location of units built between 1994 to August 2019. '
+notes: 'The Division of Housing and Community Development (DHCD) provides funding to developers to build and maintain affordable housing units throughout the city. This dataset includes all DHCD-funded housing projects completed since 1994 for which there is data.'
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
