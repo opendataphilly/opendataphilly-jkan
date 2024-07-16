@@ -39,19 +39,19 @@ resources:
 - description: ''
   format: CSV
   name: Hydrology - Polygon (CSV)
-  url: https://opendata.arcgis.com/datasets/2b10034796f34c81a0eb44c676d86729_0.csv
+  url: https://opendata.arcgis.com/api/v3/datasets/2b10034796f34c81a0eb44c676d86729_1/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
   format: SHP
   name: Hydrology - Polygon (SHP)
-  url: https://opendata.arcgis.com/datasets/2b10034796f34c81a0eb44c676d86729_0.zip
+  url: https://opendata.arcgis.com/api/v3/datasets/2b10034796f34c81a0eb44c676d86729_1/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Hydrology - Polygon (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/2b10034796f34c81a0eb44c676d86729_0.geojson
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Hydrographic_Features_Poly/FeatureServer/1/query?outFields=*&where=1%3D1&f=geojson
 - description: ''
   format: api
   name: Hydrology - Polygon (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Hydrographic_Features_Poly/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Hydrographic_Features_Poly/FeatureServer/1/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
   name: Hydrology - Polygon (Metadata)
