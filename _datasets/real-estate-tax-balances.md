@@ -15,7 +15,7 @@ organization: City of Philadelphia
 resources:
 - description: 
   format: CSV
-  name: Real Estate Tax Balances by ZIP Code (CSV)
+  name: Tax Balances by ZIP Code (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/8f5495a86fb240e49928478218b78cfe_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: 
   format: API
