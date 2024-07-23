@@ -3,7 +3,6 @@ area_of_interest: City of Philadelphia
 category:
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2014-12-08T22:47:23.643861'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
@@ -17,15 +16,15 @@ resources:
 - description: 'Update Frequency: Weekly'
   format: CSV
   name: Building Footprints (CSV)
-  url: https://opendata.arcgis.com/datasets/ab9e89e1273f445bb265846c90b38a96_0.csv
+  url: https://opendata.arcgis.com/api/v3/datasets/ab9e89e1273f445bb265846c90b38a96_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: Weekly'
   format: SHP
   name: Building Footprints (SHP)
-  url: https://opendata.arcgis.com/datasets/ab9e89e1273f445bb265846c90b38a96_0.zip
+  url: https://opendata.arcgis.com/api/v3/datasets/ab9e89e1273f445bb265846c90b38a96_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: Weekly'
   format: GeoJSON
   name: Building Footprints (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/ab9e89e1273f445bb265846c90b38a96_0.geojson
+  url: https://opendata.arcgis.com/api/v3/datasets/ab9e89e1273f445bb265846c90b38a96_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: Weekly'
   format: api
   name: Building Footprints (API)
