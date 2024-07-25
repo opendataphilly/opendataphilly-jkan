@@ -4,7 +4,6 @@ category:
 - Environment
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2014-12-08T21:55:38.409845'
 license: Other (City of Philadelphia)
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Hydrology - Line (CSV)
-  url: https://opendata.arcgis.com/datasets/a31f7d7469404e919517e038fc133a8e_0.csv
+  url: https://opendata.arcgis.com/api/v3/datasets/a31f7d7469404e919517e038fc133a8e_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
   format: SHP
   name: Hydrology - Line (SHP)
-  url: https://opendata.arcgis.com/datasets/a31f7d7469404e919517e038fc133a8e_0.zip
+  url: https://opendata.arcgis.com/api/v3/datasets/a31f7d7469404e919517e038fc133a8e_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Hydrology - Line (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/a31f7d7469404e919517e038fc133a8e_0.geojson
+  url: https://opendata.arcgis.com/api/v3/datasets/a31f7d7469404e919517e038fc133a8e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: api
   name: Hydrology - Line (API)
