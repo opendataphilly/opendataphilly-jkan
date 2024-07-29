@@ -131,6 +131,10 @@ nav {
   padding-top: 2rem !important;
 }
 
+.navbar-toggler {
+  border: none;
+}
+
 .nav-item .active {
   background-color: #20c3c4;
   border-radius: 4px;
