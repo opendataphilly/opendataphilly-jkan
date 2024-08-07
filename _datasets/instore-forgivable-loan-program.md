@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Economy
 - Real Estate / Land Records
-created: '2015-11-02T17:23:53.684709'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
@@ -17,15 +16,23 @@ resources:
 - description: ''
   format: CSV
   name: Instore Forgivable Loan Program (CSV)
-  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+instore_forgivable_loan_program&filename=instore_forgivable_loan_program&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
+  url: https://opendata.arcgis.com/api/v3/datasets/c94131c0006e4284a052ce093e85380f_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: API Documentation
-  name: Instore Forgivable Loan Program (API Documentation)
-  url: https://cityofphiladelphia.github.io/carto-api-explorer/#instore_forgivable_loan_program
+  format: SHP
+  name: Instore Forgivable Loan Program (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/c94131c0006e4284a052ce093e85380f_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: Instore Forgivable Loan Program (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/c94131c0006e4284a052ce093e85380f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: Instore Forgivable Loan Program (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/instore_program/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
   name: InStore Forgivable Loans (Metadata)
-  url: http://metadata.phila.gov/#home/datasetdetails/5543867c20583086178c4f5c/representationdetails/567aef39b7ea7ea14f85bd02/
+  url: https://metadata.phila.gov/#editdatasets/datasetdetails/5543867c20583086178c4f5c/representationdetails/567aef39b7ea7ea14f85bd02/
 schema: philadelphia
 source: ''
 tags:
