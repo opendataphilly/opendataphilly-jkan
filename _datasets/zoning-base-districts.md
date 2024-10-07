@@ -9,10 +9,10 @@ maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: http://www.phila.gov/cityplanning
 maintainer_phone: 215-683-4600
-notes: "Polygon boundaries of Zoning Base Districts based on existing City zoning\
-  \ districts with revised codes applied per enactment of the new Zoning Code of December\
-  \ 2011, made effective August 22, 2012. District boundaries unchanged from previous\
-  \ zoning with the exception of certain CMX2 / CMX2.5 splits.\r\n\r\n"
+notes: 'Polygon boundaries of Zoning Base Districts based on existing City zoning\
+  districts with revised codes applied per enactment of the new Zoning Code of December\
+  2011, made effective August 22, 2012. District boundaries are unchanged from the previous\
+  zoning with the exception of certain CMX2 / CMX2.5 splits.'
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
@@ -29,7 +29,7 @@ resources:
   name: Current Zoning Base Districts (GeoJSON)
   url: https://opendata.arcgis.com/datasets/0bdb0b5f13774c03abf8dc2f1aa01693_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Current Zoning Base Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Zoning_BaseDistricts/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -49,7 +49,7 @@ resources:
   name: 2015 Zoning Base Districts (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/05a70768c2cb4717b2206af8438e362d_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2015 Zoning Base Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Zoning_BaseDistricts_032015/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -69,7 +69,7 @@ resources:
   name: 2016 Zoning Base Districts (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/9fbb319a669c459e8d61e4c16450f65a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2016 Zoning Base Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Zoning_BaseDistricts_052016/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -89,7 +89,7 @@ resources:
   name: 2017 Zoning Base Districts (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/cfba7f5dae78420c9b506b14dc5f0314_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2017 Zoning Base Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/zoning_basedistricts_092017/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -109,7 +109,7 @@ resources:
   name: 2018 Zoning Base Districts (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/cd4dc1de2d30419d8e863b38e9a8839d_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2018 Zoning Base Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/zoning_basedistricts_072018/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -129,14 +129,14 @@ resources:
   name: 2019 Zoning Base Districts (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/37b79e57349641249b66c4ea7b6947ae_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2019 Zoning Base Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/zoning_basedistricts_122019/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
   name: 2019 Zoning Base Districts (Metadata)
   url: https://metadata.phila.gov/index.html#home/datasetdetails/5543864920583086178c4e88/representationdetails/665de0e64a173300286ae6b1/
-  - description: ''
+- description: ''
   format: CSV
   name: 2020 Zoning Base Districts (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/0efc1de6399a45f3b1115308ae9a174e_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
@@ -149,14 +149,14 @@ resources:
   name: 2020 Zoning Base Districts (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/0efc1de6399a45f3b1115308ae9a174e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2020 Zoning Base Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/zoning_basedistricts_062020/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
   name: 2020 Zoning Base Districts (Metadata)
   url: https://metadata.phila.gov/index.html#home/datasetdetails/5543864920583086178c4e88/representationdetails/665de1308e256c002bfd8298/
-  - description: ''
+- description: ''
   format: CSV
   name: 2021 Zoning Base Districts (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/b0473d44b7b94bb6828aa81d853c56dc_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
@@ -189,7 +189,7 @@ resources:
   name: 2022 Zoning Base Districts (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/d7fa029445ca4946b4f6d0b0a44140c3_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2022 Zoning Base Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/zoning_basedistricts_122022/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
