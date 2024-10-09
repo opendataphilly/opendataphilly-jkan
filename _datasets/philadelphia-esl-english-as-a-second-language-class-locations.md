@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Education
 created: '2017-06-05T13:45:27.838672'
 license: Other (City of Philadelphia)
 maintainer: Office of Adult Education
