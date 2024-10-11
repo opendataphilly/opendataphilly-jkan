@@ -1,5 +1,8 @@
 ---
 area_of_interest: null
+category:
+- Environment
+- Health / Human Services
 category: []
 license: Other (City of Philadelphia)
 maintainer: null
