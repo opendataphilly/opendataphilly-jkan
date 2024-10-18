@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Elections / Politics
-created: '2014-12-31T23:01:20.488883'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: 'vote@phila.gov'
@@ -19,11 +18,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Election Results 2017-present (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/175adc334f2b4b80b8cf84b606f5ddae_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://opendata.arcgis.com/api/v3/datasets/fe3cb6babdb94583b16e3832070bf457_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Election Results 2017-present (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Election_Results/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: 'Update Frequency: As Needed'
+  format: GeoService
+  name: Election Results 2017-present (GeoService)
+  url: https://phl.maps.arcgis.com/home/item.html?id=fe3cb6babdb94583b16e3832070bf457
 - description: 'Update Frequency: As Needed'
   format: HTML
   name: Election Results (Metadata)
