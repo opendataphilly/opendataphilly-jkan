@@ -1,7 +1,8 @@
 ---
 area_of_interest: null
-category: []
-created: '2021-07-27T16:34:46.779241'
+category:
+- Environment
+- 
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
@@ -14,16 +15,20 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: GDB
-  name: 2022 DEM (GDB)
-  url: ''
-- description: ''
-  format: GDB
   name: 2022 DEM Hillshade (GDB)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=7153
 - description: ''
   format: HTML
   name: 2022 DEM (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/569582e508cf5d0714accfe2/representationdetails/63ab16c3f209d10012565fdc/
+  - description: ''
+  format: GDB
+  name: 2018 DEM Hillshade (GDB)
+  url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=7149
+- description: ''
+  format: HTML
+  name: 2018 DEM (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/569582e508cf5d0714accfe2/representationdetails/61f7f2458533ae783a6e276f/
 - description: ''
   format: GDB
   name: 2015 DEM 5ft (GDB)
