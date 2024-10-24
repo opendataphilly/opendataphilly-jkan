@@ -94,7 +94,7 @@ resources:
   url: http://metadata.phila.gov/#home/datasetdetails/57a0e1d5aa8882104134830e/representationdetails/57a0e1d6aa88821041348312/
 schema: philadelphia
 source: ''
-tags: []
+tags: [Philadelphia Parks and Recreation]
 time_period: null
 title: Philadelphia Tree Inventory
 usage: null
