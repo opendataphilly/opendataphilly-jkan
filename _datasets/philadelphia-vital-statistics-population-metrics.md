@@ -1,19 +1,9 @@
 ---
 area_of_interest: null
 category:
-- Arts / Culture / History
-- Economy
-- Education
-- Elections / Politics
-- Environment
-- Food
 - Health / Human Services
-- Parks / Recreation
-- Planning / Zoning
-- Public Safety
-- Transportation
 license: Other (City of Philadelphia)
-maintainer: epi@phila.gov
+maintainer: Philadelphia Department of Public Health
 maintainer_email: epi@phila.gov
 maintainer_link: null
 maintainer_phone: null
