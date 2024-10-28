@@ -1,17 +1,7 @@
 ---
 area_of_interest: null
 category:
-- Arts / Culture / History
-- Economy
-- Education
-- Elections / Politics
-- Environment
-- Food
 - Health / Human Services
-- Parks / Recreation
-- Planning / Zoning
-- Public Safety
-- Transportation
 license: Other (City of Philadelphia)
 maintainer: epi@phila.gov
 maintainer_email: epi@phila.gov
@@ -29,8 +19,7 @@ notes: "Social determinants of health metrics at the city and planning district 
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
-- description: Interactive maps and charts of vital statistics and trends in natality
-    (births), mortality (deaths), and population for Philadelphia residents from 2010 to the current available year
+- description: Interactive maps and charts of vital statistics and trends in natality (births), mortality (deaths), and population for Philadelphia residents.
   format: HTML
   name: PhilaStats Dashboard (Visualization)
   url: https://philadelphiapublichealth.shinyapps.io/philastats/
