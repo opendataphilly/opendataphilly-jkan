@@ -7,7 +7,7 @@ maintainer: City Commissioner's Office
 maintainer_email: vote@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "The current dataset captures voter registration counts and voter "turnout," or the percentage of registered voters who voted in each election, since 2017.
+notes: "The current dataset captures voter registration counts and voter 'turnout', or the percentage of registered voters who voted in each election, since 2017.
   The data is aggregated at various levels including the political precinct (division), political ward, and city-wide and shows results for different elections (primary, general,
   special). Historical releases of this data prior to 2017 were separate datasets, one for voter turnout and one for voter registration."
 opendataphilly_rating: null
