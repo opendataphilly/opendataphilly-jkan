@@ -1,2 +1,4 @@
 psycopg2
 pygdaltools
+wget
+python-frontmatter
