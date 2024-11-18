@@ -8,7 +8,7 @@ maintainer: null
 maintainer_email: null
 maintainer_link: null
 maintainer_phone: null
-notes: "OCF partners with local food banks to find locations in the city for meal sites. The food banks provide information
+notes: "The City of Philadelphia Office of Children and Families (OCF) partners with local food banks to find locations in the city for meal sites. The food banks provide information
   such as address, hours of operation, and eligibility that OCF enters to feed the meal site finder application. As needed,
   OCF updates the active status of each site."
 opendataphilly_rating: null
