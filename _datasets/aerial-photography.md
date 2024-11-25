@@ -4,7 +4,6 @@ category:
 - Environment
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2014-12-08T22:50:51.032857'
 license: Other (City of Philadelphia)
 maintainer: Office of Innovation & Technology
 maintainer_email: brian.ivey@phila.gov
@@ -537,6 +536,6 @@ tags:
 - ortho
 - orthophotography
 time_period: null
-title: Aerial Photography
+title: Aerial Photography (imagery)
 usage: Public Use
 ---
