@@ -18,19 +18,19 @@ resources:
 - description: ''
   format: Visualization
   name: Map of Bike Lanes (Visualization)
-  url: https://overturn.carto.com/viz/0a4810c2-dcbd-11e4-9c3c-0e4fddd5de28/public_map
+  url: https://phl.maps.arcgis.com/home/item.html?id=b5f660b9f0f44ced915995b6d49f6385#visualize
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Bike Network (CSV)
-  url: https://opendata.arcgis.com/datasets/b5f660b9f0f44ced915995b6d49f6385_0.csv
+  url: https://opendata.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Bike Network (SHP)
-  url: https://opendata.arcgis.com/datasets/b5f660b9f0f44ced915995b6d49f6385_0.zip
+  url: https://opendata.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Bike Network (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/b5f660b9f0f44ced915995b6d49f6385_0.geojson
+  url: https://opendata.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: api
   name: Bike Network (API)
