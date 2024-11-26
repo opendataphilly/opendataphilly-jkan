@@ -27,7 +27,7 @@ resources:
     health assessment data for Philadelphia. '
   format: HTML
   name: Community Health Explorer (Visualization)
-  url: http://cityofphiladelphia.github.io/community-health-explorer/
+  url: https://philadelphiapublichealth.shinyapps.io/health-of-the-city/
 - description: ''
   format: CSV
   name: Planning Districts 2017 (CSV)
