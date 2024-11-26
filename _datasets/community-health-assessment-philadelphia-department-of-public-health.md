@@ -23,7 +23,7 @@ resources:
 - description: 'Interactive web application with charts and maps of the community
     health assessment data for Philadelphia. '
   format: HTML
-  name: Community Health Exporer
+  name: Community Health Exporer (Visualization)
   url: https://healthexplorer.phila.gov/
 - description: ''
   format: CSV
