@@ -39,6 +39,7 @@ def main():
                         db.prepare_datasets_table(resource_table_name)
                         db.import_dataset(resource_path, resource_table_name)
                         census_tracts = db.derive_census_tracts_from_datasets(resource_table_name)
+                        print("Writing administrative boundary info into markdown file...")
                         md_dataset.metadata["census_tracts"] = census_tracts
                         frontmatter.dump(md_dataset, md_dataset_path)
                         i = i+1

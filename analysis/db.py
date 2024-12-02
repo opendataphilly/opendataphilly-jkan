@@ -6,6 +6,7 @@ import subprocess
 
 class DB:
     def __init__(self):
+        print("Instantiating DB class...")
         load_dotenv()
         self.params = {
             "DB_NAME": os.getenv("DB_NAME"),
@@ -16,6 +17,7 @@ class DB:
         }
 
     def connect(self):
+        print("Setting up database conncection...")
         self.connection = psycopg2.connect(
             database=self.params.get('DB_NAME'),
             user=self.params.get('DB_USER'),
@@ -39,16 +41,18 @@ class DB:
 
     def close(self):
         if self.connection:
+            print("Closing database connection...")
             self.connection.close()
 
     def prepare_datasets_table(self, table_name):
         cursor = self.connection.cursor()
+        print(f"Dropping {table_name} table if exists...")
         cursor.execute(f"""DROP TABLE IF EXISTS "{table_name}";""")
+        print(f"Creating new {table_name} table with id, and resource geometry...")
         cursor.execute(
             f"""
                 CREATE TABLE "{table_name}" (
                     id SERIAL PRIMARY KEY,
-                    resource_name VARCHAR(255),
                     wkb_geometry GEOMETRY (geometry, 4326)
                 )
             """
@@ -57,6 +61,7 @@ class DB:
 
     def derive_census_tracts_from_datasets(self, table_name):
         cursor = self.connection.cursor()
+        
         query = f"""
             SELECT DISTINCT c.GEOID10
             FROM "{table_name}" d
@@ -65,6 +70,7 @@ class DB:
             ORDER BY c.GEOID10
         """
         try:
+            print(f"Deriving administrative boundary ID and joining to {table_name} table on st_intersects...")
             # Execute the query
             cursor.execute(query)
             # Fetch all results as a list of tuples
@@ -73,12 +79,13 @@ class DB:
             geoid_list = [row[0] for row in results]
             return geoid_list
         except Exception as e:
-            print(f"Error deriving census tracts: {e}")
+            print(f"Error deriving administrative boundary: {e}")
             return []
         finally:
             cursor.close()
 
     def import_census_tracts(self):
+        print('Importing administrative boundary...')
         subprocess.run(
             [
                 "ogr2ogr",
@@ -94,6 +101,7 @@ class DB:
         )
 
     def import_dataset(self, path, table_name):
+        print(f"Importing resource layer info into {table_name} table...")
         subprocess.run(
             [
                 "ogr2ogr",
