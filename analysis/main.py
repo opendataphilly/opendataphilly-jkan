@@ -3,44 +3,47 @@ import os
 import frontmatter
 import wget
 
+MAXIMUM_DATASETS = 5
 def main():
+    db = DB()
+    db.connect()
+    db.import_census_tracts()
     # find geojson resource urls
     cwd = os.getcwd()
     md_datasets_path = os.path.join(cwd, "..", "_datasets")
-    geojson_paths = []
+    i = 0
     for md_dataset_filename in os.listdir(md_datasets_path):
-        if len(geojson_paths) >= 2:
+        if i > MAXIMUM_DATASETS:
             break
         md_dataset_path = os.path.join(md_datasets_path, md_dataset_filename)
         if os.path.isfile(md_dataset_path):
             try:
                 md_dataset = frontmatter.load(md_dataset_path)
-                resources = md_dataset.metadata.get("resources")
+                resources = md_dataset.metadata.get("resources",[])
                 for resource in resources:
                     if resource.get("format") == "GeoJSON":
                         resource_name = resource.get("name")
-                        url = resource.get("url")
-                        downloaded_geojson_path = (
+                        resource_path = (
                             f"working_files/{md_dataset_filename}-{resource_name}.geojson"
                         )
-                        if not os.path.exists(downloaded_geojson_path):
-                            print(f"Downloading {url} to {downloaded_geojson_path}...")
-                            wget.download(url, downloaded_geojson_path)
+                        resource_url = resource.get("url")
+                        if not os.path.exists(resource_path):
+                            print(f"Downloading {resource_url} to {resource_path}...")
+                            wget.download(resource_url, resource_path)
                             print("\nDownload complete.")
                         else:
                             print(
-                                f"File {downloaded_geojson_path} already exists. Skipping download."
+                                f"File {resource_path} already exists. Skipping download."
                             )
-                        geojson_paths.append(downloaded_geojson_path)
+                        resource_table_name = md_dataset_filename.removesuffix('.md')
+                        db.prepare_datasets_table(resource_table_name)
+                        db.import_dataset(resource_path, resource_table_name)
+                        census_tracts = db.derive_census_tracts_from_datasets(resource_table_name)
+                        md_dataset.metadata["census_tracts"] = census_tracts
+                        frontmatter.dump(md_dataset, md_dataset_path)
+                        i = i+1
             except Exception as e:
                 print(f"Error loading {md_dataset_filename}: {e}")
-    db = DB()
-    db.connect()
-    db.prepare_datasets_table()
-    db.import_census_tracts()
-    for geojsonpath in geojson_paths:
-        db.import_dataset(geojsonpath)
-    db.derive_census_tracts_from_datasets()
     db.close()
 
 if __name__ == "__main__":

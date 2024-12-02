@@ -64,10 +64,19 @@ class DB:
             ON st_intersects(d.wkb_geometry, c.wkb_geometry)
             ORDER BY c.GEOID10
         """
-        query_with_csv_export = "COPY ({0}) TO STDOUT WITH CSV HEADER".format(query)
-        csv_file = open("working_files/test.csv", "w")
-        cursor.copy_expert(query_with_csv_export, csv_file)
-        cursor.close()
+        try:
+            # Execute the query
+            cursor.execute(query)
+            # Fetch all results as a list of tuples
+            results = cursor.fetchall()
+            # Extract only the GEOID10 values into a flat list
+            geoid_list = [row[0] for row in results]
+            return geoid_list
+        except Exception as e:
+            print(f"Error deriving census tracts: {e}")
+            return []
+        finally:
+            cursor.close()
 
     def import_census_tracts(self):
         subprocess.run(
