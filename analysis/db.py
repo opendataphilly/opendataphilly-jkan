@@ -41,25 +41,25 @@ class DB:
         if self.connection:
             self.connection.close()
 
-    def prepare_datasets_table(self):
+    def prepare_datasets_table(self, table_name):
         cursor = self.connection.cursor()
-        cursor.execute("""DROP TABLE IF EXISTS datasets;""")
+        cursor.execute(f"""DROP TABLE IF EXISTS "{table_name}";""")
         cursor.execute(
+            f"""
+                CREATE TABLE "{table_name}" (
+                    id SERIAL PRIMARY KEY,
+                    resource_name VARCHAR(255),
+                    wkb_geometry GEOMETRY (geometry, 4326)
+                )
             """
-                CREATE TABLE datasets (
-                id SERIAL PRIMARY KEY,
-                resource_name VARCHAR(255),
-                wkb_geometry GEOMETRY (geometry, 4326),
-                file_name VARCHAR(255))
-                """
         )
         cursor.close()
 
-    def derive_census_tracts_from_datasets(self):
+    def derive_census_tracts_from_datasets(self, table_name):
         cursor = self.connection.cursor()
-        query = """
-            SELECT d.file_name, c.GEOID10, ST_AsText(ST_GeomFromWKB(d.wkb_geometry))
-            FROM datasets d
+        query = f"""
+            SELECT DISTINCT c.GEOID10
+            FROM "{table_name}" d
             JOIN census_tracts c
             ON st_intersects(d.wkb_geometry, c.wkb_geometry)
             ORDER BY c.GEOID10
@@ -84,8 +84,7 @@ class DB:
             ]
         )
 
-    def import_dataset(self, path):
-        file_name = path.removeprefix("working_files/")
+    def import_dataset(self, path, table_name):
         subprocess.run(
             [
                 "ogr2ogr",
@@ -93,10 +92,8 @@ class DB:
                 "PostgreSQL",
                 f"PG:host={self.params.get('DB_HOST')} user={self.params.get('DB_USER')} dbname={self.params.get('DB_NAME')} password={self.params.get('DB_PW')} port={self.params.get('DB_PORT')}",
                 path,
-                "-nln", "datasets",
                 "-nlt", "PROMOTE_TO_MULTI",
-                "-append",
-                "-sql", f"SELECT *, '{file_name}' AS file_name FROM {file_name.removesuffix('.geojson')}"
+                "-nln", table_name
             ]
         )
 
