@@ -3,10 +3,9 @@ area_of_interest: null
 category:
 - Economy
 - Health / Human Services
-created: '2022-12-05T22:44:43.565815'
 license: Other (City of Philadelphia)
-maintainer: maria.giraldo-gallo@phila.gov
-maintainer_email: maria.giraldo-gallo@phila.gov
+maintainer: Deise.Rodrigues@Phila.gov
+maintainer_email: Deise.Rodrigues@Phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This dataset tracks usage of the City's language access services through contracts\
