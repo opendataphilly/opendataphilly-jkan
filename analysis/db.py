@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 import os
 import psycopg2
+from psycopg2 import sql
 import subprocess
 
 
@@ -59,18 +60,21 @@ class DB:
         )
         cursor.close()
 
-    def derive_census_tracts_from_datasets(self, table_name):
+    def derive_census_tracts_from_datasets(self, resource_table_names):
         cursor = self.connection.cursor()
-        
+        select_clause = ' UNION '.join([
+            f"""SELECT DISTINCT c.GEOID10
+                FROM "{name}" d
+                JOIN census_tracts c
+                ON st_intersects(d.wkb_geometry, c.wkb_geometry)"""
+              for name in resource_table_names
+              ])
         query = f"""
-            SELECT DISTINCT c.GEOID10
-            FROM "{table_name}" d
-            JOIN census_tracts c
-            ON st_intersects(d.wkb_geometry, c.wkb_geometry)
-            ORDER BY c.GEOID10
+            {select_clause}
+            ORDER BY GEOID10
         """
         try:
-            print(f"Deriving administrative boundary ID and joining to {table_name} table on st_intersects...")
+            print(f"Deriving administrative boundary ID and joining to {resource_table_names} table on st_intersects...")
             # Execute the query
             cursor.execute(query)
             # Fetch all results as a list of tuples
