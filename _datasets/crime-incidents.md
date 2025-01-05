@@ -29,6 +29,10 @@ resources:
   url: https://data.phila.gov/visualizations/crime-incidents
 - description: ''
   format: CSV
+  name: Crime Incidents from 2025 (CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272025-01-01%27%20AND%20dispatch_date_time%20%3C%20%272026-01-01%27
+- description: ''
+  format: CSV
   name: Crime Incidents from 2024 (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272024-01-01%27%20AND%20dispatch_date_time%20%3C%20%272025-01-01%27
 - description: ''
@@ -131,6 +135,10 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
     * , ST_Y(the_geom) AS lat, ST_X(the_geom) AS lng FROM incidents_part1_part2 WHERE
     dispatch_date_time >= '2006-01-01' AND dispatch_date_time < '2007-01-01'
+- description: ''
+  format: SHP
+  name: Crime Incidents from 2025 (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=shp&skipfields=cartodb_id&q=SELECT%20*%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272025-01-01%27%20AND%20dispatch_date_time%20%3C%20%272026-01-01%27
 - description: ''
   format: SHP
   name: Crime Incidents from 2024 (SHP)
