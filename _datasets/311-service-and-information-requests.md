@@ -27,6 +27,10 @@ resources:
   url: https://data.phila.gov/visualizations/311-requests/
 - description: ''
   format: CSV
+  name: 311 Requests for 2025 (CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*%20FROM%20public_cases_fc%20WHERE%20requested_datetime%20%3E=%20%272025-01-01%27%20AND%20requested_datetime%20%3C%20%272026-01-01%27
+- description: ''
+  format: CSV
   name: 311 Requests for 2024 (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*%20FROM%20public_cases_fc%20WHERE%20requested_datetime%20%3E=%20%272024-01-01%27%20AND%20requested_datetime%20%3C%20%272025-01-01%27
 - description: ''
@@ -83,6 +87,12 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
     * FROM public_cases_fc WHERE requested_datetime >= '2014-01-01' AND requested_datetime
     < '2015-01-01'
+- description: ''
+  format: SHP
+  name: 311 Requests for 2025 (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=public_cases_fc&format=shp&skipfields=cartodb_id&q=SELECT
+    * FROM public_cases_fc WHERE requested_datetime >= '2025-01-01' AND requested_datetime
+    < '2026-01-01'
 - description: ''
   format: SHP
   name: 311 Requests for 2024 (SHP)
