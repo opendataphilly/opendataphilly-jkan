@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Parks / Recreation
+- Education
 created: '2015-05-22T04:58:38.912312'
 license: Other (City of Philadelphia)
 maintainer: ''

@@ -1,20 +1,10 @@
 ---
 area_of_interest: null
 category:
-- Arts / Culture / History
-- Economy
-- Education
-- Elections / Politics
-- Environment
-- Food
 - Health / Human Services
-- Parks / Recreation
-- Public Safety
-- Transportation
-created: '2022-05-10T20:51:41.676463'
 license: Other (City of Philadelphia)
-maintainer: publichealthdatalab@phila.gov
-maintainer_email: publichealthdatalab@phila.gov
+maintainer: Philadelphia Department of Public Health
+maintainer_email: epi@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Vital Statistics tables that contain aggregate metrics on the mortality (deaths)\
@@ -23,14 +13,12 @@ notes: "Vital Statistics tables that contain aggregate metrics on the mortality 
   \ and [social determinants of health metrics](https://www.opendataphilly.org/datasets/philadelphia-vital-statistics-social-determinants-of-health-sdoh)\
   \ at the city and planning district levels of geography as well. [Population metrics](https://www.opendataphilly.org/datasets/philadelphia-vital-statistics-population-metrics)\
   \ are provided at the city, planning district, and census tract levels of geography.\
-  \ Please refer to [this technical notes document](https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/624cb0c4782b6a001ebc26f3/kn-asset/142-534-251-6279872beb52cc001e87008f/technicalnotesformetadata5.9.22.pdf)\
+  \ Please refer to [this technical notes document](https://metadata.phila.gov/index.html#home/datasetdetails/61c23fb963d616001ef54695/)\
   \ to access detailed technical notes and variable definitions.\r\n\r\n"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
-- description: Interactive maps and charts of vital statistics and trends in natality
-    (births), mortality (deaths), and population for Philadelphia residents between
-    2011 and 2019.
+- description: Interactive maps and charts of vital statistics and trends in natality (births), mortality (deaths), and population for Philadelphia residents.
   format: HTML
   name: PhilaStats Dashboard (Visualization)
   url: https://philadelphiapublichealth.shinyapps.io/philastats/
