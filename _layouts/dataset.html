@@ -88,6 +88,16 @@ layout: default
               {% endif %}
             {% endunless %}
           {% endfor %}
+          {% if page.tags %}
+          <tr>
+            <th>Tags</th>
+            <td>
+              {% for tag in page.tags %}
+              <span>{{ tag }}</span>
+              {% endfor %}
+            </td>
+          </tr>
+          {% endif %}
 
         </table>
         <a href="{{site.github.repository_url}}/tree/main/{{page.path}}"  target="_blank"><i class="fa fa-code"></i> Open in GitHub</a>
