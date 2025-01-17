@@ -1,10 +1,12 @@
-<nav class="navbar navbar-expand-sm mb-4 navbar-light" data-component="navigation">
+<nav class="navbar navbar-expand-sm mb-4 navbar-dark" data-component="navigation">
   <div class="container">
     <a alt="{{ site.title }}" class="navbar-brand" href="{{ site.baseurl }}/">
       <img src="{{ site.logo }}" srcset="/img/odp-logo@2x.png 2x" alt="OpenDataPhilly" title="OpenDataPhilly">
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="sr-only">Toggle navigation</span>
+    <a class="github-logo d-md-none" href="https://github.com/opendataphilly/opendataphilly-jkan">
+      <img src="{{site.baseurl}}/img/github-mark-white.svg" width="30" height="30">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -18,9 +20,8 @@
         {% endfor %}
       </ul>
     </div>
-    <a class="github-logo" href="https://github.com/azavea/opendataphilly-jkan">
+    <a class="github-logo d-none d-md-block" href="https://github.com/opendataphilly/opendataphilly-jkan">
       <img src="{{site.baseurl}}/img/github-mark-white.svg" width="30" height="30">
     </a>
-
   </div>
 </nav>
