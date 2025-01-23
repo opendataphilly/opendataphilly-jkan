@@ -89,7 +89,7 @@ layout: default
             {% endunless %}
           {% endfor %}
           
-          {% if page.tags and page.tags != null and page.tags != "" %}
+          {% if page.tags and page.tags.size > 0 %}
           <tr>
             <th>Tags</th>
             <td>
