@@ -22,6 +22,46 @@ resources:
   url: https://experience.arcgis.com/experience/52c8a3b10e8c465eab723f04dbcb2a4d/page/Buildings/
 - description: ''
   format: CSV
+  name: 2023 Properties Reported (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/87c5a0361d24449c9ab5e159daa6607c_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2023 Properties Reported (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/87c5a0361d24449c9ab5e159daa6607c_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2023 Properties Reported (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/87c5a0361d24449c9ab5e159daa6607c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: ' 2023 Properties Reported (API)'
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/properties_reported_2023/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2023 Properties Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/673f8b8123af7d02aff55188/
+- description: ''
+  format: CSV
+  name: 2023 Properties Not Reported (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/e1216f27c3a041679fdb44e799ff4fb1_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2023 Properties Not Reported (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/e1216f27c3a041679fdb44e799ff4fb1_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2023 Properties Not Reported (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/e1216f27c3a041679fdb44e799ff4fb1_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: ' 2023 Properties Not Reported (API)'
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/properties_not_reported_2023/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2023 Properties Not Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/673f8d4cccf16f02d4335554/
+- description: ''
+  format: CSV
   name: 2022 Properties Reported (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/0c68fdcdf8794a848c65f6d868ea6983_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
