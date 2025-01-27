@@ -5,7 +5,6 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
-created: '2015-06-09T04:14:36.650841'
 license: Other (City of Philadelphia)
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Street Nodes (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/1c755104f5644b3ca83e770f684c8a37_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/1c755104f5644b3ca83e770f684c8a37_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Street Nodes (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/1c755104f5644b3ca83e770f684c8a37_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/1c755104f5644b3ca83e770f684c8a37_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Street Nodes (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/1c755104f5644b3ca83e770f684c8a37_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/1c755104f5644b3ca83e770f684c8a37_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: api
   name: Street Nodes (API)
