@@ -38,6 +38,26 @@ resources:
   url: http://metadata.phila.gov/#home/datasetdetails/5543864920583086178c4e88/representationdetails/55438a899b989a05172d0d08/
 - description: ''
   format: CSV
+  name: 2024 Zoning Base Districts (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/02f32a25c92b4b9291aac8118139b39c_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2024 Zoning Base Districts (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/02f32a25c92b4b9291aac8118139b39c_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2024 Zoning Base Districts (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/02f32a25c92b4b9291aac8118139b39c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: 2024 Zoning Base Districts (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/zoning_basedistricts_122024/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2024 Zoning Base Districts (Metadata)
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/5543864920583086178c4e88/representationdetails/679002b016164002b8f9df0f/
+- description: ''
+  format: CSV
   name: 2023 Zoning Base Districts (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/c12ac152590e4f6e8b05f82b56e2efe0_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
