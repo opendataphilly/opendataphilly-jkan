@@ -17,7 +17,7 @@ resources:
     etc.
   format: CSV
   name: Community Services Dataset
-  url: https://github.com/CfABrigadePhiladelphia/RAPper/blob/master/data.csv
+  url: https://github.com/CodeForPhilly/RAPper/blob/master/resources.csv
 schema: philadelphia
 source: ''
 tags:
