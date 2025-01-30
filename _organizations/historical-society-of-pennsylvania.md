@@ -7,7 +7,7 @@ description: "Founded in 1824 in Philadelphia, the Historical Society of Pennsyl
    its 17th-century origins to the contributions of its most recent immigrants. The
    society's remarkable holdings together with its educational programming make
    it one of the nation's most important special collections libraries: a center
-   of historical documentation and study, education, and engagement. [https://hsp.org/](https://hsp.org/)"
+   of historical documentation and study, education, and engagement. https://hsp.org/"
 logo: img/organizations/logo-hsp.gif
 schema: default
 tags: []
