@@ -10,6 +10,8 @@
     {% assign f_title = dataset_fields | where: "datajson", "title" | first %}
     {% assign title = dataset[f_title[field_name]] %}
 
+    {% assign identifier = dataset.url | remove_first: "/datasets/" | remove: "/"  %}
+
     {% assign f_publisher_name = dataset_fields | where: "datajson", "publisher.name" | first %}
     {% assign publisher_name = dataset[f_publisherName[field_name]] %}
 
@@ -34,7 +36,8 @@
 
     {% endcapture %}{% if title %}
     {
-      "title": {{ title | jsonify }}{% if publisher_name %},
+      "title": {{ title | jsonify }},
+	  "identifier": {{ identifier | jsonify }}{% if publisher_name %},
       "publisher": {
         "name": {{ publisher_name | jsonify }}
       }{% endif %}{% if description %},
