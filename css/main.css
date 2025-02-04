@@ -135,3 +135,25 @@ nav {
   background-color: #20c3c4;
   border-radius: 4px;
 }
+
+.skip-to-content {
+  background-color: #61c3c4;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  border-right: 2px solid #fff;
+  color: #fff;
+  font-size: 1.25rem;
+  left: 0;
+  padding: 5px 10px;
+  position: absolute;
+  text-decoration: underline;
+  top: -45px;
+  transition: scale(1);
+  z-index: 999
+}
+
+.skip-to-content:focus, .skip-to-content:active {
+  color: #fff;
+  outline: none;
+  top: 0;
+}
