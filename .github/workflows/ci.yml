@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: MegaLinter
-        run: ./scripts/lint
+        run: ./scripts/lint -c
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
