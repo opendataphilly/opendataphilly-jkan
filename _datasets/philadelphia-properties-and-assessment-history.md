@@ -22,9 +22,8 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: "***This data updates nightly. Please ignore the 'created by' date\
-    \ below - that date of August 2015 shows when this webpage, not the data, was created.***\r\
-    \n\r\n\r\n\r\n\r\n"
-  format: Visualization
+    \ below - that date of August 2015 shows when this webpage, not the data, was created.***
+  format: HTML
   name: Properties (Visualization)
   url: https://data.phila.gov/visualizations/property-assessments
 - description: '***This data updates nightly. Please ignore the ''created by'' date
@@ -60,7 +59,7 @@ resources:
     \ years for people who want to see this data in Excel. This CSV link is for technologists\
     \ to use in python or other coding scripts.\r\n\r\n***This data updates nightly.\
     \ Please ignore the 'created by' date below - the date of August 2015 shows when\
-    \ this webpage, not the data, was created.***\r\n\r\n"
+    \ this webpage, not the data, was created.***
   format: CSV
   name: Property Assessment History (CSV)
   url: https://opendata-downloads.s3.amazonaws.com/assessments.csv
