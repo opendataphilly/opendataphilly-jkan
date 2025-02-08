@@ -24,8 +24,8 @@ resources:
   name: Election Results 2013-present (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Election_Results/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'
-  format: GeoService
-  name: Election Results 2013-present (GeoService)
+  format: API
+  name: Election Results 2013-present (API)
   url: https://phl.maps.arcgis.com/home/item.html?id=fe3cb6babdb94583b16e3832070bf457
 - description: 'Update Frequency: As Needed'
   format: HTML
