@@ -13,11 +13,11 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: Guided tour of the data, contextualized with other datasets
-  format: Visualization
+  format: HTML
   name: Shooting Victims (Map Journal)
   url: http://philadelphia.maps.arcgis.com/apps/MapJournal/index.html?appid=d498be2dde18426193679f5e9ce0e6e5
 - description: ''
-  format: Visualization
+  format: HTML
   name: Shooting Victims (Visualization)
   url: https://data.phila.gov/visualizations/shooting-victims
 - description: ''
@@ -33,7 +33,7 @@ resources:
   name: Shooting Victims (SHP)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+shootings&filename=shootings&format=shp&skipfields=cartodb_id
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Shooting Victims (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#shootings
 - description: ''
