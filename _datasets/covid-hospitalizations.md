@@ -71,7 +71,7 @@ resources:
   name: COVID Hospitalizations by Age (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_hospitalizations_by_age
 - description: ''
-  format: ''
+  format: Metadata
   name: COVID Hospitalizations by Age (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5efb5dc2bec0b10015172d9b/representationdetails/5efcee1236f87e001524346a/
 - description: ''
