@@ -23,11 +23,11 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: Guided tour of the data, contextualized with other datasets
-  format: Visualization
+  format: HTML
   name: Vehicle & Pedestrian Inv. (Map Journal)
   url: http://philadelphia.maps.arcgis.com/apps/MapJournal/index.html?appid=d498be2dde18426193679f5e9ce0e6e5
 - description: 'Interactive visualization of the data. '
-  format: Visualization
+  format: HTML
   name: Vehicle & Pedestrian Inv. (Visualization)
   url: https://data.phila.gov/visualizations/vehicle-pedestrian-investigations
 - description: ''
@@ -138,7 +138,7 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=shp&skipfields=cartodb_id&q=SELECT
     * FROM car_ped_stops WHERE datetimeoccur >= '2014-01-01' AND datetimeoccur < '2015-01-01'
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Vehicle & Pedestrian Inv. (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#car_ped_stops
 - description: 2014-Present
