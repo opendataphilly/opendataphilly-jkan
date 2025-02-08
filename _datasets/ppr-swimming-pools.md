@@ -31,7 +31,7 @@ resources:
   name: PPR Swimming Pools (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PPR_Swimming_Pools/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
-  format: Metadata
+  format: HTML
   name: PPR Swimming Pools (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5d35e6b36d677c001141e1f3/representationdetails/5d35e6b46d677c001141e1f7/
 schema: philadelphia
