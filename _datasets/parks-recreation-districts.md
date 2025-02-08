@@ -17,7 +17,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: 2018 PPR Districts (Visualization)
   url: https://cityofphiladelphia.carto.com/u/phl/builder/d5b99ba8-bc72-460b-8d95-2c29c1efdeb8/embed
 - description: ''
