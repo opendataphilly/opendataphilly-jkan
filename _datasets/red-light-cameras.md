@@ -17,7 +17,7 @@ resources:
   name: Red Light Cameras (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+red_light_camera_locations&filename=red_light_camera_locations&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Red Light Cameras (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#red_light_camera_locations
 - description: ''
