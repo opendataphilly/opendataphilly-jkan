@@ -19,8 +19,8 @@ notes: "This dataset maps tree canopy for the state Pennsylvania at a 1m resolut
 opendataphilly_rating: null
 organization: University of Vermont Spatial Analysis Lab
 resources:
-- description: 2.3 GB zip file of tree canopy as a 1m resolution raster data set
-  format: ''
+- description: 2.3 GB zip file of tree canopy as a 1m resolution raster data set in IMG format
+  format: ZIP
   name: PA Tree Canopy, Albers Projection
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=3170
 schema: philadelphia
