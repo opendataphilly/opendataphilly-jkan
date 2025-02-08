@@ -33,7 +33,7 @@ resources:
   name: PWD Parcels (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/84baed491de44f539889f2af178ad85c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: GeoService
+  format: API
   name: PWD Parcels (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PWD_PARCELS/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
