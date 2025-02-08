@@ -35,7 +35,7 @@ resources:
   name: Stormwater Grants Disbursed (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?filename=stormwater_grants&format=geojson&skipfields=cartodb_id&q=SELECT+*+FROM+stormwater_grants
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Stormwater Grants Disbursed (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#stormwater_grants
 - description: ''
