@@ -15,7 +15,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: L&I Trade Licenses (Visualization)
   url: https://data.phila.gov/visualizations/li-trade-licenses
 - description: ''
