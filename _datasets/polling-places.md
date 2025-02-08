@@ -32,7 +32,7 @@ resources:
   name: Polling Places (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#polling_places
 - description: ''
-  format: Metadata
+  format: HTML
   name: Polling Places (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867e20583086178c4f68/representationdetails/5571b1bce4fb1d91393c2157/
 schema: philadelphia
