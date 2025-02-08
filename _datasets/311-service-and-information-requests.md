@@ -160,7 +160,7 @@ resources:
     * FROM public_cases_fc WHERE requested_datetime >= '2014-01-01' AND requested_datetime
     < '2015-01-01'
 - description: ''
-  format: API Documentation
+  format: HTML
   name: 311 Requests - Full Dataset (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#public_cases_fc
 - description: ''
