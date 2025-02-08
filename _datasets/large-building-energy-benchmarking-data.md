@@ -177,7 +177,7 @@ resources:
   name: 2020 Properties Not Reported (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/Properties_Not_Reported_2020/FeatureServer/0/query?where=1%3D1
 - description: ''
-  format: HT ML
+  format: HTML
   name: 2020 Properties Not Reported (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/61fc15c7996cd5001efc281f/
 - description: ''
