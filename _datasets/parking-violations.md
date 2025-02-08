@@ -17,7 +17,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: Parking Violations (Visualization)
   url: https://data.phila.gov/visualizations/parking-violations
 - description: ''
@@ -175,7 +175,7 @@ resources:
     * FROM parking_violations WHERE issue_datetime >= '2012-01-01' AND issue_datetime
     < '2012-07-01'
 - description: API Documentation for the full dataset
-  format: API Documentation
+  format: HTML
   name: Parking Violations (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#parking_violations
 - description: ''
