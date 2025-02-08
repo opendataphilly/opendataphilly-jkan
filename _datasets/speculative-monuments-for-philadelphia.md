@@ -22,8 +22,8 @@ resources:
     the proposed monument. The dataset also includes the age and home zip code of
     the creator of each proposal. The research team produced a Report to the City
     of their summary findings presented to the Mayor and all the city commissioners,
-    and made available in library branches throughout the city.
-  format: ''
+    and made available in library branches throughout the city. The data is avialable a JSON, CSV, GeoJSON, and Shapefile.
+  format: HTML
   name: Monument proposals from 2017 Citywide Exhibition
   url: https://github.com/MonumentLab/2017-data/
 - description: This data describes more than 450 proposals for monument collected
@@ -31,8 +31,8 @@ resources:
     City Hall courtyard in May, 2015.  Each proposal was transcribed and analyzed
     by the Monument Lab team, and is identified with the location of the proposed
     monument. The dataset also includes the age and home zip code of the creator of
-    each proposal.
-  format: ''
+    each proposal. The data is avialable a JSON, CSV, GeoJSON, Shapefile, and KML.
+  format: HTML
   name: Monument proposals from 2015 Discovery Phase Exhibition
   url: https://github.com/MonumentLab/2015-data/
 schema: philadelphia
