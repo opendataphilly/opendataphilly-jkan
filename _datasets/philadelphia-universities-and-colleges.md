@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Education
 created: '2017-06-22T13:16:48.459471'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

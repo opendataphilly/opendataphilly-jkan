@@ -4,7 +4,7 @@ category:
 - Parks / Recreation
 - Planning / Zoning
 created: '2014-12-08T21:53:34.729974'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null

@@ -4,7 +4,7 @@ category:
 - Health / Human Services
 - Public Safety
 created: '2018-03-08T20:43:51.618312'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Aviva Tevah
 maintainer_email: Aviva.Tevah@Phila.gov
 maintainer_link: null

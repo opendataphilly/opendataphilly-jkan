@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Health / Human Services
 created: '2021-01-29T17:01:49.626615'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

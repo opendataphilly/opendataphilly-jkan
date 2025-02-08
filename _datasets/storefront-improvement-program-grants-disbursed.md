@@ -4,7 +4,7 @@ category:
 - Economy
 - Real Estate / Land Records
 created: '2015-05-19T20:19:20.668577'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

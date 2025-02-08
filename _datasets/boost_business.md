@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Economy
 - Real Estate / Land Records
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: 'Qadeer Gulzari'
 maintainer_email: 'qadeer.gulzari@phila.gov'
 maintainer_link: null

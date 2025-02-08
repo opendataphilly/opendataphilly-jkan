@@ -4,7 +4,7 @@ category:
 - Basemaps
 - Boundaries
 created: '2014-12-08T21:58:43.438282'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: maps@phila.gov
 maintainer_email: maps@phila.gov
 maintainer_link: null

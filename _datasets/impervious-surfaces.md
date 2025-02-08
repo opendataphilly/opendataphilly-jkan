@@ -4,7 +4,7 @@ category:
 - Environment
 - Real Estate / Land Records
 created: '2014-12-08T22:54:44.588037'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Brian Ivey
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: http://www.phila.gov/water/

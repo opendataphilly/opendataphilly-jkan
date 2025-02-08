@@ -4,7 +4,7 @@ category:
 - Health / Human Services
 - Parks / Recreation
 created: '2020-01-29T21:11:25.970210'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Andy Viren
 maintainer_email: andy.viren@phila.gov
 maintainer_link: null

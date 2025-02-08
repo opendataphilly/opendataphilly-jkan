@@ -5,7 +5,7 @@ category:
 - Economy
 - Real Estate / Land Records
 created: '2015-01-30T19:27:53.322578'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Department of Licenses and Inspections
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null

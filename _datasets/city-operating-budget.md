@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Budget / Finance
 created: '2015-03-02T17:48:11.428980'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: http://www.phila.gov/finance/contact.html

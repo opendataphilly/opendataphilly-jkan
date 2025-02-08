@@ -3,7 +3,7 @@ area_of_interest: 'City of Philadelphia '
 category:
 - Real Estate / Land Records
 created: '2014-12-08T22:42:28.661091'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: philadox.support@phila.gov
 maintainer_link: http://www.phila.gov/records/

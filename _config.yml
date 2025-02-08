@@ -35,6 +35,9 @@ collections:
   dataset_categories:
     output: true
     permalink: /categories/:path/
+  licenses:
+    output: true
+    permalink: /licenses/:path/
 
 # Collections (cont'd)
 defaults:

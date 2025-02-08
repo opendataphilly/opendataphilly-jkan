@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Environment
 created: '2014-12-08T22:15:36.513147'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Larry Szarek
 maintainer_email: Larry.Szarek@phila.gov
 maintainer_link: null

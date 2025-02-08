@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Public Safety
 created: '2014-12-08T22:24:29.467611'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: http://www.phila.gov/fire/

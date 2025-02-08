@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Elections / Politics
 created: '2014-12-08T22:53:33.227657'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: http://www.philaplanning.org/

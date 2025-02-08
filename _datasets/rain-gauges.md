@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 created: '2015-10-07T17:42:05.363372'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Edward Lennon, Jr.
 maintainer_email: edward.lennonjr@phila.gov
 maintainer_link: null

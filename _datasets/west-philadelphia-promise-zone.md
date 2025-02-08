@@ -6,7 +6,7 @@ category:
 - Health / Human Services
 - Planning / Zoning
 created: '2015-02-26T17:33:19.437078'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: null

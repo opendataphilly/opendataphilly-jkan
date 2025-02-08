@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2022-11-28T22:53:18.634544'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: larry.szarek@phila.gov
 maintainer_email: larry.szarek@phila.gov
 maintainer_link: null

@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 created: '2017-10-02T18:07:13.814790'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

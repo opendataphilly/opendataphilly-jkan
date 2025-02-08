@@ -5,7 +5,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2014-12-08T22:33:41.160825'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Streets Department
 maintainer_email: ''
 maintainer_link: http://www.phila.gov/streets/

@@ -4,7 +4,7 @@ category:
 - Environment
 - Health / Human Services
 created: '2016-06-22T18:26:12.844603'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: 'james.morse@phila.gov'
 maintainer_link: null

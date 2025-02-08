@@ -4,7 +4,7 @@ category:
 - Environment
 - Real Estate / Land Records
 created: '2015-01-21T04:06:46.553387'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
 maintainer_link: null

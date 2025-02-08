@@ -4,7 +4,7 @@ category:
 - Health / Human Services
 - Public Safety
 created: '2017-11-01T14:14:34.042338'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

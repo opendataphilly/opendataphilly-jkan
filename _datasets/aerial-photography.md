@@ -4,7 +4,7 @@ category:
 - Environment
 - Planning / Zoning
 - Real Estate / Land Records
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Office of Innovation & Technology
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: null

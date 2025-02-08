@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Elections / Politics
 created: '2014-12-08T22:51:34.264504'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: bryan.mchale@phila.gov
 maintainer_email: bryan.mchale@phila.gov
 maintainer_link: http://www.phila.gov/records/campaignfinance/CampaignFinance.html

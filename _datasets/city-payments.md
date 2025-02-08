@@ -14,7 +14,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2019-03-13T21:17:04.722160'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Catherine Lamb
 maintainer_email: catherine.lamb@phila.gov
 maintainer_link: null

@@ -4,7 +4,7 @@ category:
 - Arts / Culture / History
 - Health / Human Services
 created: '2015-11-30T20:33:33.224755'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Portia Egan
 maintainer_email: portia.egan@phila.gov
 maintainer_link: null

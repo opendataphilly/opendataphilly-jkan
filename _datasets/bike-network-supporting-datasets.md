@@ -4,7 +4,7 @@ category:
 - Parks / Recreation
 - Transportation
 created: '2014-12-08'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Streets Department
 maintainer_email: ''
 maintainer_link: http://www.phila.gov/streets/

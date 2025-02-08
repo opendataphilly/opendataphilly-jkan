@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Transportation
 created: '2014-12-08T22:52:01.251855'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
 maintainer_link: http://www.phila.gov/streets

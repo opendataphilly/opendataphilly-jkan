@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Transportation
 created: '2015-09-01T14:57:48.780192'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null

@@ -5,7 +5,7 @@ category:
 - Health / Human Services
 - Parks / Recreation
 - Transportation
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

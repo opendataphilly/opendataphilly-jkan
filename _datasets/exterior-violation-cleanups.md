@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Real Estate / Land Records
 created: '2015-01-14T20:40:39.894443'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

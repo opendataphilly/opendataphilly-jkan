@@ -5,7 +5,7 @@ category:
 - Health / Human Services
 - Public Safety
 created: '2015-10-14T16:40:42.512184'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Raymond Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null

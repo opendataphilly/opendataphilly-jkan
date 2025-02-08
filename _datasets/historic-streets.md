@@ -4,7 +4,7 @@ category:
 - Planning / Zoning
 - Transportation
 created: '2015-06-09T07:17:26.585413'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
 maintainer_link: null

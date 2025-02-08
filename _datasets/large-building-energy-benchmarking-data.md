@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 - Real Estate / Land Records
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: benchmarkinghelp@phila.gov
 maintainer_email: benchmarkinghelp@phila.gov
 maintainer_link: null

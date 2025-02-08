@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2015-06-09T16:46:39.219713'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Brian Ivey
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: null

@@ -5,7 +5,7 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 created: '2016-09-22T21:14:38.869844'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null

@@ -17,7 +17,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2018-04-30T13:27:10.098614'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: CityGeo
 maintainer_email: maps@phila.gov
 maintainer_link: null

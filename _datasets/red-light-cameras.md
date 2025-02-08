@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Public Safety
 created: '2014-12-08T22:17:19.277559'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

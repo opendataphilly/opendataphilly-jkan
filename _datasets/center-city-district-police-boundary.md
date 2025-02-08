@@ -4,7 +4,7 @@ category:
 - Boundaries
 - Public Safety
 created: '2020-09-30T20:47:49.439841'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null

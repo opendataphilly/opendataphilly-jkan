@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 - Real Estate / Land Records
 created: '2016-01-20T16:03:45.901452'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Rich Quodomine
 maintainer_email: richard.quodomine@phila.gov
 maintainer_link: null

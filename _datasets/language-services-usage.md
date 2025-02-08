@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Economy
 - Health / Human Services
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Deise.Rodrigues@Phila.gov
 maintainer_email: Deise.Rodrigues@Phila.gov
 maintainer_link: null

@@ -5,7 +5,7 @@ category:
 - Public Safety
 - Real Estate / Land Records
 created: '2016-09-22T14:01:30.276425'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null

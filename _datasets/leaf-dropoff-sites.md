@@ -4,7 +4,7 @@ category:
 - Environment
 - Health / Human Services
 created: '2020-12-21T16:36:24.081855'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

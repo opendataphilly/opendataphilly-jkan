@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Public Safety
 created: '2024-04-12'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: "Philadelphia District Attorney's Office DATA Lab"
 maintainer_email: ''
 maintainer_link: https://phillyda.org/data-lab/

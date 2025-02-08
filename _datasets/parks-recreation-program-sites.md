@@ -6,7 +6,7 @@ category:
 - Parks / Recreation
 - Public Safety
 created: '2022-03-02T18:33:33.321745'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null

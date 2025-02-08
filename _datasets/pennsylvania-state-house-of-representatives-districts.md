@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Elections / Politics
 created: '2015-06-15T19:13:05.103858'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

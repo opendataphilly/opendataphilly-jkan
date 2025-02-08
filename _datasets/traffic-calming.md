@@ -5,7 +5,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2023-27-10T22:09:40.503423'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
 maintainer_link: http://www.phila.gov/streets/

@@ -4,7 +4,7 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
 maintainer_link: http://www.phila.gov/streets/

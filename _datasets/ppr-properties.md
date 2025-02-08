@@ -5,7 +5,7 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 created: '2020-01-29T20:30:49.330744'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null

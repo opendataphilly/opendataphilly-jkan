@@ -3,7 +3,7 @@ area_of_interest: Lobbying
 category:
 - Elections / Politics
 created: '2014-12-08T22:42:43.677672'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: Lobbying@phila.gov
 maintainer_link: null

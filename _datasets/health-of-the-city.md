@@ -6,7 +6,7 @@ category:
 - Food
 - Health / Human Services
 created: '2023-12-20T14:04:47.073232'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: 'Philadelphia Department of Public Health'
 maintainer_email: 'epi@phila.gov'
 maintainer_link: null

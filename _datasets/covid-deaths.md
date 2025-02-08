@@ -4,7 +4,7 @@ category:
 - Economy
 - Health / Human Services
 created: '2020-05-05T17:48:08.839201'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: PublicHealthInfo@phila.gov
 maintainer_email: PublicHealthInfo@phila.gov
 maintainer_link: null

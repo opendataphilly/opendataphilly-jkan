@@ -5,7 +5,7 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 created: '2016-01-20T20:04:40.350818'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: null

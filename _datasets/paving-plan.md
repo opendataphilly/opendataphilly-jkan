@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Transportation
 created: '2015-05-28T13:48:07.346672'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
 maintainer_link: null

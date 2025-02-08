@@ -6,7 +6,7 @@ category:
 - Health / Human Services
 - Real Estate / Land Records
 created: '2015-12-03T14:42:25.321720'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

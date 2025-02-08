@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Parks / Recreation
 created: '2014-12-08T22:32:44.706340'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null

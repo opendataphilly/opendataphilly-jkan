@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2015-05-19T20:00:19.416589'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Nicholas Jann
 maintainer_email: nicholas.jann@phila.gov
 maintainer_link: null

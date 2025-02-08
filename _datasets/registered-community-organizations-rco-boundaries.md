@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Planning / Zoning
 created: '2014-12-08T22:29:11.464086'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Pauline Loughlin
 maintainer_email: pauline.loughlin@phila.gov
 maintainer_link: null

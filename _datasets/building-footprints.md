@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Planning / Zoning
 - Real Estate / Land Records
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: http://www.phila.gov/dot/

@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 created: '2015-06-09T21:06:44.713244'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: null

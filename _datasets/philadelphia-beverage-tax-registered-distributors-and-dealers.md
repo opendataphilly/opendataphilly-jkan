@@ -6,7 +6,7 @@ category:
 - Food
 - Health / Human Services
 created: '2019-10-08T18:23:41.220926'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Rebecca Lopez-Kriss
 maintainer_email: rebecca.lopezkriss@phila.gov
 maintainer_link: null

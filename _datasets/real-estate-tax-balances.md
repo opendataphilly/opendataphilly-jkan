@@ -4,7 +4,7 @@ category:
 - Budget / Finance
 - Economy
 - Real Estate / Land Records
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Roman Strakovsky
 maintainer_email: 	roman.strakovsky@phila.gov
 maintainer_link: null

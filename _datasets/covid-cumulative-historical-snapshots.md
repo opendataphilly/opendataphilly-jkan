@@ -4,7 +4,7 @@ category:
 - Economy
 - Health / Human Services
 created: '2020-08-09T23:26:16.351308'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Ambient Point Data Team
 maintainer_email: data@ambientpointcorp.com
 maintainer_link: null

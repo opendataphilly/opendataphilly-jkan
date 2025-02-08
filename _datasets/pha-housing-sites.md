@@ -4,7 +4,7 @@ category:
 - Health / Human Services
 - Real Estate / Land Records
 created: '2014-12-08T22:03:35.055765'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: info@pha.phila.gov
 maintainer_link: http://www.pha.phila.gov/contact-us/contact-us.aspx

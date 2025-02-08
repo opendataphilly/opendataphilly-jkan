@@ -6,7 +6,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2015-06-09T05:19:35.311377'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
 maintainer_link: null

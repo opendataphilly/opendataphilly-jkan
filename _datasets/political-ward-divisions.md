@@ -4,7 +4,7 @@ category:
 - Boundaries
 - Elections / Politics
 created: '2014-12-08T22:56:02.445787'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: Darshna.Patel@phila.gov
 maintainer_link: http://www.philaplanning.org

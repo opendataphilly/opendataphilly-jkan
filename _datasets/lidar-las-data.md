@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Environment
 created: '2014-12-08T22:08:29.229053'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Office of Innovation & Technology
 maintainer_email: maps@phila.gov
 maintainer_link: null

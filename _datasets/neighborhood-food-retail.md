@@ -5,7 +5,7 @@ category:
 - Food
 - Health / Human Services
 created: '2019-08-26T14:11:24.194581'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

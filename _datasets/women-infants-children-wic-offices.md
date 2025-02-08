@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2015-05-22T06:59:01.300783'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

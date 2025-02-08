@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 created: '2015-10-15T02:19:34.441360'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Angeline Zamorski
 maintainer_email: angeline.zamorski@phila.gov
 maintainer_link: null
