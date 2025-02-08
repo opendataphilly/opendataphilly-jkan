@@ -15,10 +15,7 @@
     {% assign f_publisher_name = dataset_fields | where: "datajson", "publisher.name" | first %}
     {% assign publisher_name = dataset[f_publisherName[field_name]] %}
 
-    {% assign f_organization_name = dataset_fields | where: "datajson", "organization.name" | first %}
-    {% assign organization_name = dataset[f_organization_name[field_name]] %}
-
-    {% assign f_license = dataset_fields | where: "datajson", "license" | first %}
+      {% assign f_license = dataset_fields | where: "datajson", "license" | first %}
     {% assign license = dataset[f_license[field_name]] %}
 
     {% assign f_description = dataset_fields | where: "datajson", "description" | first %}
@@ -44,18 +41,18 @@
       "accessLevel": "public", 
       "publisher": {
         "@type": "org:Organization",
-        "name": {{ organization_name | jsonify }}
+        "name": {{ publisher_name | jsonify }}
       }{% if description %},
       "description": {{ description | jsonify }}{% endif %}{% if category %},
       "category": {{ category | jsonify }}{% endif %}{% if contact_point_fn or contact_point_has_email %},
       "contactPoint": {
         "fn": {{ contact_point_fn | jsonify }}{% if contact_point_has_email %},
-        "hasEmail": {{ contact_point_has_email | jsonify }}{% endif %}
-      }{% endif %}{% if license == "City of Philadelphia" %}
+        "hasEmail": {{ contact_point_has_email | prepend "mailto:" | jsonify }}{% endif %}
+      }{% endif %}{% if publisher_name == "City of Philadelphia" %}
       "license": "https://opendataphilly.org/license-city-of-philadelphia/",
       {%else%}
       "license": "https://opendataphilly.org/license-other/",
-      {% endif %}{% if organization_name == "City of Philadelphia" %}
+      {% endif %}{% if publisher_name == "City of Philadelphia" %}
       {"spatial":"Philadelphia, Pennsylvania"},
       {% endif %}
       {% if dataset.resources %},
@@ -66,50 +63,50 @@
         {
           "title": {{ dist_title | jsonify }},
           "downloadURL": {{ dist_download_url | jsonify }}{% if dist_format %},
-          {% case dist_format | upcase %}
-          {% when "CSV" %}
-            "mediaType": "text/csv"
-          {% when "HTML", "METADATA", "APP", "API DOCUMENTATION" %}
-            "mediaType": "text/html"
-          {% when "XLSX" %}
-            "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-          {% when "XML" %}
-            "mediaType": "application/xml"
-          {% when "RSS" %}
-            "mediaType": "application/rss+xml"
-          {% when "KML" %}
-            "mediaType": "application/vnd.google-earth.kml+xml"
-          {% when "KMZ" %}
-            "mediaType": "application/vnd.google-earth.kmz"
-          {% when "JSON" %}
-            "mediaType": "application/json"
-          {% when "GEOJSON" %}
-            "mediaType": "application/geo+json"
-          {% when "GPKG","GEOPACKAGE" %}
-            "mediaType": "application/geopackage+sqlite3"
-          {% when "PARQUET", "GEOPARQUET" %}
-            "mediaType": "application/vnd.apache.parquet"
-          {% when "GTFS-RT"}
-            "mediaType": "application/octet-stream"
-          {% when "JPEG", "JPG" %}
-            "mediaType": "image/jpeg"
-          {% when "TIFF", "TIF" %}
-            "mediaType": "image/tiff"
-          {% when "PNG" %}
-            "mediaType": "image/png"
-          {% when "HTTP", "API" %}
-            "mediaType": "application/http"
-          {% when "SHP", "GDB", "ZIP", "IMAGERY", "GTFS" %}
-            "mediaType": "application/zip"
-          {% when "PDF" %}
-            "mediaType": "application/pdf"
-          {% when "DOCX" %}
-            "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-          {% when "TXT" %}
-            "mediaType": "text/plain"
-          {% else %}
-            "mediaType": "application/octet-stream"
-          {% endcase %}
+       {% case dist_format | upcase %}
+       {% when "CSV" %}
+          "mediaType": "text/csv",
+       {% when "HTML", "APP", "APPLICATION" %}
+          "mediaType": "text/html",
+       {% when "XLSX" %}
+          "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+       {% when "XML" %}
+          "mediaType": "application/xml",
+       {% when "RSS" %}
+          "mediaType": "application/rss+xml",
+       {% when "KML" %}
+          "mediaType": "application/vnd.google-earth.kml+xml",
+       {% when "KMZ" %}
+          "mediaType": "application/vnd.google-earth.kmz",
+       {% when "JSON" %}
+          "mediaType": "application/json",
+       {% when "GEOJSON" %}
+          "mediaType": "application/geo+json",
+       {% when "GPKG","GEOPACKAGE" %}
+          "mediaType": "application/geopackage+sqlite3",
+       {% when "PARQUET", "GEOPARQUET" %}
+          "mediaType": "application/vnd.apache.parquet",
+       {% when "GTFS-RT"}
+          "mediaType": "application/octet-stream",
+       {% when "JPEG", "JPG" %}
+          "mediaType": "image/jpeg",
+       {% when "TIFF", "TIF" %}
+          "mediaType": "image/tiff",
+       {% when "PNG" %}
+          "mediaType": "image/png",
+       {% when "HTTP", "API" %}
+          "mediaType": "application/http",
+       {% when "SHP", "GDB", "ZIP", "IMAGERY", "GTFS" %}
+          "mediaType": "application/zip",
+       {% when "PDF" %}
+          "mediaType": "application/pdf",
+       {% when "DOCX" %}
+          "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+       {% when "TXT" %}
+          "mediaType": "text/plain",
+       {% else %}
+          "mediaType": "application/octet-stream",
+       {% endcase %}
           "format": {{ dist_format | jsonify }}{% endif %}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
       ]{% endif %}
