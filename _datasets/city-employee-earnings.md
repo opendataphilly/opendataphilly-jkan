@@ -51,7 +51,7 @@ resources:
     newer OnePhilly payroll system and has a different data schema than the legacy
     payroll system. Therefore, one cannot and should not compare this previous earnings
     data (from 2016 to 2019 Q1) with the new data. '
-  format: API Documentation
+  format: HTML
   name: 'ARCHIVED: Employee Salaries 2016 to CY2019 Q1  (API)'
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#employee_salaries_archive
 - description: 'Data from Calendar Year (CY) 2019 Q2 onwards is extracted from the
