@@ -15,7 +15,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'An online app to find free food and meal sites near the address you enter.'
-  format: Application
+  format: HTML
   name: Food and Meal Finder App (Application)
   url: https://www.phila.gov/food/
 - description: ''
