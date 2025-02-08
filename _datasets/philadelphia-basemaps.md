@@ -26,7 +26,7 @@ resources:
   name: City Basemap World (JPEG)
   url: https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityBasemap_World/MapServer
 - description: ''
-  format: PNG 24
+  format: PNG
   name: City Basemap Labels World (PNG 24)
   url: https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityBasemap_Labels_World/MapServer
 - description: ''
