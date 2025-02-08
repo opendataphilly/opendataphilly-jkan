@@ -5,7 +5,7 @@ category:
 - Transportation
 license: Other (City of Philadelphia)
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'yihong.hu@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "This data set contains crash data for many years from the Pennsylvania\
