@@ -39,7 +39,7 @@ resources:
   name: Highway Districts - Line (CSV)
   url: https://opendata.arcgis.com/datasets/68587b08a7d3491f99f83e380d85403c_0.csv
 - description: ''
-  format: ZIP
+  format: SHP
   name: Highway Districts - Line (SHP)
   url: https://opendata.arcgis.com/datasets/68587b08a7d3491f99f83e380d85403c_0.zip
 - description: ''
