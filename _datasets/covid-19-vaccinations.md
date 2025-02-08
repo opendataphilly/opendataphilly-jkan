@@ -58,7 +58,7 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=covid_vaccines_by_zip&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
     * FROM covid_vaccines_by_zip
 - description: ''
-  format: ''
+  format: SHIP
   name: COVID Vaccinations by ZIP (SHP)
   url: https://phl.carto.com/api/v2/sql?filename=covid_vaccines_by_zip&format=shp&skipfields=cartodb_id&q=SELECT
     * FROM covid_vaccines_by_zip
@@ -67,7 +67,7 @@ resources:
   name: COVID Vaccinations by ZIP (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?filename=covid_vaccines_by_zip&format=geojson&skipfields=cartodb_id&q=SELECT+*+FROM+covid_vaccines_by_zip
 - description: ''
-  format: ''
+  format: API
   name: COVID Vaccinations by ZIP (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_vaccines_by_zip
 - description: ''
