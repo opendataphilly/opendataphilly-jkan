@@ -20,7 +20,7 @@ resources:
   name: PWD Customer Service Calls (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+pwd_customer_service_calls&filename=pwd_customer_service_calls&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: PWD Customer Service Calls (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#pwd_customer_service_calls
 - description: ''
