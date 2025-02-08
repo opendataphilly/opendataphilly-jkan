@@ -24,7 +24,7 @@ resources:
   name: Big Belly Waste Baskets (Trash Bins) (SHP)
   url: https://data.phila.gov/carto/api/v2/sql?q=SELECT+*+FROM+wastebaskets_big_belly&filename=wastebaskets_big_belly&format=shp&skipfields=cartodb_id
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Big Belly Waste Baskets (Trash Bins) (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#wastebaskets_big_belly
 - description: ''
@@ -40,7 +40,7 @@ resources:
   name: Big Belly Waste/Trash Bins ( GeoJSON)
   url: https://opendata.arcgis.com/datasets/f8309c5b19e147cea5cb4d83f3d0d85f_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Big Belly Waste/Trash Bins (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/WasteBaskets_Big_Belly/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
