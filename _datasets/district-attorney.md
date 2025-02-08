@@ -20,8 +20,8 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: CSV, JSON
-  name: Public Data Download
+  format: HTML
+  name: Public Data Download (CSV, JSON)
   url: https://data.philadao.com/download.html
 schema: philadelphia
 source: ''
