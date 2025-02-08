@@ -4,7 +4,7 @@ category:
 - Economy
 - Planning / Zoning
 created: '2014-12-08T22:50:30.915944'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: http://www.philaplanning.org

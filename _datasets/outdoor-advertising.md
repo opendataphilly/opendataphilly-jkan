@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2016-04-25T22:09:17.756565'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null

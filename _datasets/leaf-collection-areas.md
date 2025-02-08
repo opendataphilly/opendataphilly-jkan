@@ -5,7 +5,7 @@ category:
 - Environment
 - Health / Human Services
 created: '2015-06-09T06:52:17.678606'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null

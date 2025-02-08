@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Boundaries
 created: '2014-12-08T22:02:45.194282'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: http://www.phila.gov/streets/

@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2015-08-19T13:53:00.447412'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: OEM
 maintainer_email: oem@phila.gov
 maintainer_link: null

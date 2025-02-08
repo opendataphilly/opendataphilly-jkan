@@ -2,7 +2,7 @@
 area_of_interest: null
 category:
 - Environment
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null

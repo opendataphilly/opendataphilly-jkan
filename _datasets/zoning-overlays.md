@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Planning / Zoning
 created: '2015-08-19T14:41:17.540141'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: null

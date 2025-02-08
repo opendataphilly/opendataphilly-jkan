@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2019-09-25T13:31:38.143475'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Captain Heinzeroth
 maintainer_email: robert.heinzeroth@phila.gov
 maintainer_link: null

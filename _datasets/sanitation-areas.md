@@ -6,7 +6,7 @@ category:
 - Health / Human Services
 - Planning / Zoning
 created: '2014-12-08T22:49:48.724091'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: http://www.phila.gov/streets

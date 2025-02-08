@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Transportation
 created: '2015-06-02T18:23:11.387013'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

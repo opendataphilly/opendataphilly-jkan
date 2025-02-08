@@ -4,7 +4,7 @@ category:
 - Boundaries
 - Planning / Zoning
 - Real Estate / Land Records
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: http://www.phila.gov/cityplanning

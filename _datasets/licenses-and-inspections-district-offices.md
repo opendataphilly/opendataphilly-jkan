@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2019-08-06T13:29:46.242146'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Department of Licenses and Inspections
 maintainer_email: ligisteam@phila.gov
 maintainer_link: null

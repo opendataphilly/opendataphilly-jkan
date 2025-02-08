@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 created: '2015-06-10T14:27:25.872719'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null

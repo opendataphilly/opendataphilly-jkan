@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2015-09-22T18:27:21.085648'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
 maintainer_link: null

@@ -4,7 +4,7 @@ category:
 - Environment
 - Health / Human Services
 created: '2019-05-22T17:46:14.482318'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Portia Egan
 maintainer_email: portia.egan@phila.gov
 maintainer_link: null

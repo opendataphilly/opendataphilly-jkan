@@ -6,7 +6,7 @@ category:
 - Food
 - Planning / Zoning
 created: '2023-06-30T03:56:30.894181'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: ligisteam@phila.gov
 maintainer_link: null

@@ -2,7 +2,7 @@
 area_of_interest: City of Philadelphia
 category:
 - Education
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: http://philaplanning.org/

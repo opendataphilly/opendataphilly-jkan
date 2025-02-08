@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 - Parks / Recreation
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: Chris.Park@Phila.gov
 maintainer_link: null

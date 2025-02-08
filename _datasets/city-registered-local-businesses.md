@@ -4,7 +4,7 @@ category:
 - Budget / Finance
 - Economy
 created: '2021-05-14T12:44:05.002185'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

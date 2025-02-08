@@ -4,7 +4,7 @@ category:
 - Environment
 - Real Estate / Land Records
 created: '2015-03-16T21:19:27.744946'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: null

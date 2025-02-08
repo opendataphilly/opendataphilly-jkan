@@ -5,7 +5,7 @@ category:
 - Environment
 - Real Estate / Land Records
 created: '2021-08-12T16:07:13.462234'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

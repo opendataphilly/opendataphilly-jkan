@@ -4,7 +4,7 @@ category:
 - Budget / Finance
 - Economy
 created: '2014-12-08T22:38:54.946558'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: T. David Williams
 maintainer_email: t.david.williams@phila.gov
 maintainer_link: null

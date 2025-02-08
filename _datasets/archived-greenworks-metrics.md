@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 created: '2016-11-10T05:47:25.073084'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

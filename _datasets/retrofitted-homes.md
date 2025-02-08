@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 created: '2015-09-15T17:40:10.575133'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: mos@phila.gov
 maintainer_email: http://metadata.phila.gov/#home/datasetdetails/55f6dd9fb22cc14e01e7ec68/representationdetails/55f8574226c3115b5533017c/
 maintainer_link: null

@@ -5,7 +5,7 @@ category:
 - Education
 - Health / Human Services
 created: '2022-09-21T12:26:59.144264'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Juliet Fink-Yates
 maintainer_email: juliet.fink-yates@phila.gov
 maintainer_link: null

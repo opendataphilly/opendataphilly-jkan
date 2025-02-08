@@ -2,7 +2,7 @@
 area_of_interest: null
 category:
 - Elections / Politics
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: 'vote@phila.gov'
 maintainer_link: null

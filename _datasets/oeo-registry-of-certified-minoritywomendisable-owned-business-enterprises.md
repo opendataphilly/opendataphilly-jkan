@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Economy
 created: '2015-01-21T19:19:30.024943'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

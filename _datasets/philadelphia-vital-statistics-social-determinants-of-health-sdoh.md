@@ -2,7 +2,7 @@
 area_of_interest: null
 category:
 - Health / Human Services
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: epi@phila.gov
 maintainer_email: epi@phila.gov
 maintainer_link: null

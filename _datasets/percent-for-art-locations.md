@@ -6,7 +6,7 @@ category:
 - Health / Human Services
 - Planning / Zoning
 created: '2020-07-02T20:13:46.923823'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Dan Whaland
 maintainer_email: daniel.whaland@phila.gov
 maintainer_link: null

@@ -5,7 +5,7 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 created: '2018-01-31T15:35:22.145778'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Alex Waldman
 maintainer_email: alex.waldman@phila.gov
 maintainer_link: null

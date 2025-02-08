@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2019-04-05T18:39:30.196007'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null

@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Elections / Politics
 created: '2015-03-17T18:15:54.472986'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Seth Bluestein
 maintainer_email: seth.bluestein@phila.gov
 maintainer_link: null

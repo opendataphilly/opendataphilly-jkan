@@ -6,7 +6,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2015-09-22T15:46:11.217666'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null

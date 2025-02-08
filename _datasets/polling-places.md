@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Elections / Politics
 created: '2014-12-08T22:26:32.294770'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Seth Bluestein
 maintainer_email: seth.bluestein@phila.gov
 maintainer_link: "www.philadelphiavotes.com/\u200E"

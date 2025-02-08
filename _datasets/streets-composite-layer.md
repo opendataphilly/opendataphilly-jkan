@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2019-11-04T20:11:28.659833'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null

@@ -4,7 +4,7 @@ category:
 - Boundaries
 - Health / Human Services
 - Parks / Recreation
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

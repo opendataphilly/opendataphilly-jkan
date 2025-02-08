@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2016-11-14T17:46:54.215540'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: maps@phila.gov
 maintainer_link: null

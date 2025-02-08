@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Real Estate / Land Records
 created: '2014-12-08T21:56:54.780656'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Tracy Dandridge
 maintainer_email: tracy.dandridge@phila.gov
 maintainer_link: http://www.phila.gov/records/

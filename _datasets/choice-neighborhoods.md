@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2015-06-02T02:57:53.351178'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Mark Dodds
 maintainer_email: mark.dodds@phila.gov
 maintainer_link: null

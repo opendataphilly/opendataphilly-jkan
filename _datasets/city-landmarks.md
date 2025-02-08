@@ -4,7 +4,7 @@ category:
 - Arts / Culture / History
 - Parks / Recreation
 created: '2017-11-01T15:55:41.740923'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: maps@phila.gov
 maintainer_email: maps@phila.gov
 maintainer_link: null

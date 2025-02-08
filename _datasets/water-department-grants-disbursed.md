@@ -3,7 +3,7 @@ area_of_interest: Grants
 category:
 - Environment
 created: '2014-12-08T22:47:01.762609'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null

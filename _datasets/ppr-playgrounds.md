@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 - Real Estate / Land Records
 created: '2020-01-29T20:24:59.915600'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null

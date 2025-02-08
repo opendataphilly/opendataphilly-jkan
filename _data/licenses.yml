@@ -1,17 +1,7 @@
 items:
-  - name: Creative Commons Attribution
+  - name: Creative Commons 4.0
     url: https://creativecommons.org/licenses/by/4.0/
-  - name: Creative Commons Attribution Share-Alike
-    url: https://creativecommons.org/licenses/by-sa/4.0/
-  - name: Creative Commons CCZero
-    url: https://creativecommons.org/publicdomain/zero/1.0/
-  - name: UK Open Government Licence
-    url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-  - name: Open Data Commons Attribution License
-    url: http://www.opendefinition.org/licenses/odc-by
-  - name: Open Data Commons Open Database License (ODbL)
-    url: http://www.opendefinition.org/licenses/odc-odbl
-  - name: Open Data Commons Public Domain Dedication and Licence (PDDL)
-    url: http://www.opendefinition.org/licenses/odc-pddl
-  - name: Not Applicable
-    url: ""
+  - name: City of Philadelphia License
+    url: https://opendataphilly.org/licenses/city-of-philadelphia
+  - name: Other License
+    url: https://opendataphilly.org/licenses/other

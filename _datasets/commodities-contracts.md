@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Budget / Finance
 created: '2015-03-09T20:26:30.123356'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Office of Innovation & Technology
 maintainer_email: ''
 maintainer_link: null

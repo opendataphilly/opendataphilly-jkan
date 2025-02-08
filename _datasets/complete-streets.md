@@ -4,7 +4,7 @@ category:
 - Planning / Zoning
 - Transportation
 created: '2014-12-08T22:07:56.196014'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

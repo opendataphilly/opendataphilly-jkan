@@ -2,7 +2,7 @@
 area_of_interest: null
 category: []
 created: '2015-06-09T20:24:46.113866'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null

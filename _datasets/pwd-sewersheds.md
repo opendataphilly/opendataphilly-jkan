@@ -5,7 +5,7 @@ category:
 - Health / Human Services
 - Planning / Zoning
 created: '2019-11-26T17:13:06.948288'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Raymond Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null

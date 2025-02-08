@@ -4,7 +4,7 @@ category:
 - Parks / Recreation
 - Transportation
 created: '2015-01-14T21:31:23.917614'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Parks & Recreation
 maintainer_email: ''
 maintainer_link: null

@@ -4,7 +4,7 @@ category:
 - Environment
 - Health / Human Services
 created: '2015-01-16T16:46:17.148739'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: cleanphl@phila.gov
 maintainer_email: cleanphl@phila.gov
 maintainer_link: null

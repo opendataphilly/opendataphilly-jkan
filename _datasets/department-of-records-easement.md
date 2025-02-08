@@ -6,7 +6,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2015-09-01T16:02:19.223971'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null

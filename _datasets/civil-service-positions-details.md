@@ -4,7 +4,7 @@ category:
 - Budget / Finance
 - Economy
 created: '2022-08-25T20:45:42.646502'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Jerome Lomax
 maintainer_email: jerome.lomax@phila.gov
 maintainer_link: null

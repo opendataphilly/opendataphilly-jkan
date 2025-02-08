@@ -4,7 +4,7 @@ category:
 - Boundaries
 - Parks / Recreation
 created: '2015-01-16T16:37:08.456601'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Parks & Recreation
 maintainer_email: ''
 maintainer_link: null
