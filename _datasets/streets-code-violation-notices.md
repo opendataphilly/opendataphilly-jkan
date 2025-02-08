@@ -170,7 +170,7 @@ resources:
     * FROM streets_code_violation_notices WHERE date_added >= '2009-01-01' AND date_added
     < '2010-01-01'
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Code Violation Notices - Full Dataset (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#streets_code_violation_notices
 - description: ''
