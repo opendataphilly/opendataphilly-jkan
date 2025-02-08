@@ -23,7 +23,7 @@ resources:
   name: Registered MWD Owned Businesses (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+oeo_registry&filename=oeo_registry&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Registered MWD Owned Businesses (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#oeo_registry
 - description: ''
