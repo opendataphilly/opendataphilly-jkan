@@ -18,7 +18,7 @@ resources:
   name: Air Quality Index Days (CSV)
   url: https://data.phila.gov/carto/api/v2/sql?q=SELECT+*+FROM+air_quality_index_days&filename=air_quality_index_days&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Air Quality Index Days (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#air_quality_index_days
 - description: 'Update Frequency: Annually'
