@@ -5,7 +5,6 @@ category:
 - Health / Human Services
 - Parks / Recreation
 - Transportation
-created: '2015-12-30T15:10:19.220783'
 license: Other (City of Philadelphia)
 maintainer: ''
 maintainer_email: ''
@@ -19,12 +18,17 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: HTML
-  name: Indego Bike Share Trips
+  name: Indego Bike Share Trips (Download)
   url: https://www.rideindego.com/about/data/
+- description: ''
+  format: HTML
+  name: Indego Bike Share Trips (Metadata)
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/568194194104b2030775f891/representationdetails/568404a3dd7e8b775fc968f1/
 schema: philadelphia
 source: ''
 tags:
 - Transportation
+- Office of Transportation Infrastructure and Sustainability
 time_period: null
 title: Indego Bike Share Trips
 usage: null
