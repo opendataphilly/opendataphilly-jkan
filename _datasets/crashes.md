@@ -18,19 +18,19 @@ resources:
 - description: This is a subset of the annual Crash Data compiled and released by Penn DOT for the entire state. This data set contains only those crashes that occurred within the City limits.
   format: CSV
   name: Crash Data 2019-2023 (CSV)
-  url: 
+  url: https://hub.arcgis.com/api/v3/datasets/ee3169e04f564a40a1df484b74a35d18_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: This is a subset of the annual Crash Data compiled and released by Penn DOT for the entire state. This data set contains only those crashes that occurred within the City limits. 
   format: SHP
   name: Crash Data 2019-2023 (SHP)
-  url: 
+  url: https://hub.arcgis.com/api/v3/datasets/ee3169e04f564a40a1df484b74a35d18_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: This is a subset of the annual Crash Data compiled and released by Penn DOT for the entire state. This data set contains only those crashes that occurred within the City limits. 
   format: GeoJSON
   name: Crash Data 2019-2023 (GeoJSON)
-  url: 
+  url: https://hub.arcgis.com/api/v3/datasets/ee3169e04f564a40a1df484b74a35d18_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: This is a subset of the annual Crash Data compiled and released by Penn DOT for the entire state. This data set contains only those crashes that occurred within the City limits. 
   format: API
   name: Crash Data 2019-2023 (API)
-  url: 
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/collision_crash_2019_2023/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: This is a subset of the annual Crash Data compiled and released by
     Penn DOT for the entire state. This data set contains only those crashes that
     occurred within the City limits. 
