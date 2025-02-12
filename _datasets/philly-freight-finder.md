@@ -4,7 +4,7 @@ area_of_interest: Delaware Valley (Camden; Gloucester; Mercer; Bucks; Chester; D
 category:
 - Transportation
 created: '2016-08-15T17:19:42.213814'
-license: Other (Open)
+license: License Not Specified
 maintainer: Sean Lawrence
 maintainer_email: slawrence@dvrpc.org
 maintainer_link: null

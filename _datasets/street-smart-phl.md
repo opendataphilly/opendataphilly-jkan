@@ -3,7 +3,7 @@ area_of_interest: Philadelphia
 category:
 - Transportation
 created: '2024-04-12T22:13:13'
-license: 	Other (City of Philadelphia)
+license: Other (City of Philadelphia)
 maintainer: "Streets Department"
 maintainer_email: 
 maintainer_link: https://www.phila.gov/departments/department-of-streets/
