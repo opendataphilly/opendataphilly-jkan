@@ -1,0 +1,8 @@
+{% assign licenses = site.data.licenses %}
+{% assign license_model = licenses.items | find: "name", include.value %}
+{% assign license_url = license_model.url %}
+<tr>
+  <th>{{ include.field.label }}</th>
+  <td>
+      <a href="{{ license_url }}">{{ include.value }}</a>
+  </td>
