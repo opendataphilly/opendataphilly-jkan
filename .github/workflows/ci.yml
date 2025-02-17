@@ -13,3 +13,20 @@ jobs:
         run: ./scripts/lint
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  node:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Make sure Node build is up to date
+        run: |
+          npm ci
+          npm run build
+          git diff --exit-code
