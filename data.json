@@ -2,7 +2,8 @@
 ---
 {
   "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
-  "dataset": [{% for dataset in site.datasets %}{% capture temp %}
+  "dataset": [{%- for dataset in site.datasets -%}
+  {%- capture temp -%}
     {% assign schema = dataset.schema | default: site.schema %}
     {% assign dataset_fields = site.data.schemas[schema].dataset_fields %}
     {% assign resource_fields = site.data.schemas[schema].resource_fields %}
@@ -14,7 +15,7 @@
     {% assign identifier = dataset.url | remove_first: "/datasets/" | remove: "/"  %}
 
     {% assign f_publisher_name = dataset_fields | where: "datajson", "publisher.name" | first %}
-    {% assign publisher_name = dataset[f_publisherName[field_name]] %}
+    {% assign publisher_name = dataset[f_publisher_name[field_name]] %}
 
     {% assign f_license = dataset_fields | where: "datajson", "license" | first %}
     {% assign license_name = dataset[f_license[field_name]] %}
@@ -36,31 +37,142 @@
     {% assign f_dist_title = resource_fields | where: "datajson", "distribution.title" | first %}
     {% assign f_dist_download_url = resource_fields | where: "datajson", "distribution.downloadURL" | first %}
     {% assign f_dist_format = resource_fields | where: "datajson", "distribution.format" | first %}
+   {%- endcapture -%}
 
-    {% endcapture %}{% if title %}
+   {%- if publisher_name == "City of Philadelphia" -%}
+      {%- if contact_point_fn == '' -%}
+         {% assign contact_point_fn = "City of Philadelphia Open Data Program" -%}
+      {%- endif -%}
+      {%- if contact_point_has_email == '' -%}
+         {% assign contact_point_has_email = "maps@phila.gov" -%}
+      {%- endif -%}
+   {%- else -%}
+      {%- if contact_point_fn == '' -%}
+         {% assign contact_point_fn = "OpenDataPhilly" -%}
+      {%- endif -%}
+      {%- if contact_point_has_email == '' -%}
+         {% assign contact_point_has_email = "info@opendataphilly.org" -%}
+      {%- endif -%}
+   {%- endif -%}
+
+   
+
+    {%- if title -%}
+
     {
+      DEBUG: f_license: {{ f_license }}
+      DEBUG: license_name: {{ license_name }}
+      DEBUG: license_model: {{ license_model }}
+      DEBUG: license_url {{ license_url }}
       "title": {{ title | jsonify }},
-	  "identifier": {{ identifier | jsonify }}{% if publisher_name %},
+	   "identifier": {{ identifier | jsonify }},
+      "accessLevel": "public", 
       "publisher": {
-        "name": {{ publisher_name | jsonify }}
-      }{% endif %}{% if description %},
-      "description": {{ description | jsonify }}{% endif %}{% if category %},
-      "category": {{ category | jsonify }}{% endif %}{% if contact_point_fn or contact_point_has_email %},
+        "@type": "org:Organization",
+        "name": {{publisher_name | jsonify}}
+      }
+      {%- if description -%},
+      "description": {{ description | jsonify }},
+      {% endif %}
+      {%- if category -%}
+      "category": {{ category | jsonify }},
+      {% endif %}
       "contactPoint": {
-        "fn": {{ contact_point_fn | jsonify }}{% if contact_point_has_email %},
-        "hasEmail": {{ contact_point_has_email | jsonify }}{% endif %}
-      }{% endif %}{% if license_url != '' %},
-      "license": "{{ license_url }}"{% endif %}{% if dataset.resources %},
-      "distribution": [{% for distribution in dataset.resources %}{% capture temp %}
-        {% assign dist_title = distribution[f_dist_title[field_name]] %}
-        {% assign dist_download_url = distribution[f_dist_download_url[field_name]] %}
-        {% assign dist_format = distribution[f_dist_format[field_name]] %}{% endcapture %}
-        {
-          "title": {{ dist_title | jsonify }},
-          "downloadURL": {{ dist_download_url | jsonify }}{% if dist_format %},
-          "format": {{ dist_format | jsonify }}{% endif %}
-        }{% unless forloop.last %},{% endunless %}{% endfor %}
-      ]{% endif %}
-    }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
+        "fn": {{ contact_point_fn | jsonify }},
+        "hasEmail": {{ contact_point_has_email | prepend: "mailto:" | jsonify }}
+      }
+      "license": {{ license_url | jsonify }},
+      {% if publisher_name == "City of Philadelphia" %}
+        {"spatial":"Philadelphia, Pennsylvania"},
+      {% endif %}
+      {% if dataset.resources %}
+         "distribution": [
+         {%- for distribution in dataset.resources -%}
+         {%- capture temp -%}
+            {% assign dist_title = distribution[f_dist_title[field_name]] -%}
+            {% assign dist_download_url = distribution[f_dist_download_url[field_name]] -%}
+            {% assign dist_format = distribution[f_dist_format[field_name]] -%}
+         {%- endcapture -%}
+         
+         {%- assign access_flag = false -%}
+
+         {%- if dist_format -%}
+            {%- case dist_format | upcase -%}
+            {%- when "HTML", "APP", "APPLICATION" -%}
+               {% assign media_type = "text/html" -%} 
+               {% assign access_flag = true -%}
+            {%- when "HTTP", "API" -%}
+               {% assign media_type = "application/http" -%}
+               {% assign access_flag = true -%}
+            {%- when "CSV" -%}
+               {% assign media_type = "text/csv" -%}
+            {%- when "XML" -%}
+               {% assign media_type = "application/xml" -%}
+            {%- when "RSS" -%}
+               {% assign media_type = "application/rss+xml" -%}
+            {%- when "KML" -%}
+               {% assign media_type = "application/vnd.google-earth.kml+xml" -%}
+            {%- when "KMZ" -%}
+               {% assign media_type = "application/vnd.google-earth.kmz" -%}
+            {%- when "JSON" -%}
+               {% assign media_type = "application/json" -%}
+            {%- when "GEOJSON" -%}
+               {% assign media_type = "application/geo+json" -%}
+            {%- when "GPKG","GEOPACKAGE" -%}
+               {% assign media_type = "application/geopackage+sqlite3" -%}
+            {%- when "PARQUET", "GEOPARQUET" -%}
+               {% assign media_type = "application/vnd.apache.parquet" -%}
+            {%- when "GTFS-RT" -%}
+               {% assign media_type = "application/octet-stream" -%}
+            {%- when "JPEG", "JPG" -%}
+               {% assign media_type = "image/jpeg" -%}
+            {%- when "TIFF", "TIF" -%}
+               {% assign media_type = "image/tiff" -%}
+            {%- when "PNG" -%}
+               {% assign media_type = "image/png" -%}
+            {%- when "SHP", "GDB", "ZIP", "IMAGERY", "GTFS" -%}
+               {% assign media_type = "application/zip" -%}
+            {%- when "PDF" -%}
+               {% assign media_type = "application/pdf" -%}
+            {%- when "XLSX" -%}
+               {% assign media_type = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" -%}
+            {%- when "DOCX" -%}
+               {% assign media_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document" -%}
+            {%- when "TXT" -%}
+               {% assign media_type = "text/plain" -%}
+            {%- else -%}
+               {% assign media_type = "application/octet-stream" -%}
+            {%- endcase -%}
+         {%- else -%}
+            {% assign media_type = "text/html" -%} 
+            {% assign access_flag = true -%}
+         {%- endif # close dist_format conditional -%}
+
+         {% comment %}
+            PASDA references require a subsequent click to download
+         {% endcomment %}
+         {%- if dist_download_url contains "pasda"  -%}
+            {% assign access_flag = true -%}
+         {%- endif -%}
+
+         {
+            "title": {{ dist_title | jsonify }},
+            {%- if access_flag %}
+            "accessURL": {{ dist_download_url | jsonify }},
+            {%- else %}
+            "downloadURL": {{ dist_download_url | jsonify }},
+            {%- endif %}
+            "mediaType": {{media_type | jsonify}},
+            "format": {{ dist_format | upcase | jsonify }}
+         }
+        {% unless forloop.last -%},{%- endunless %}
+       {% endfor # close distribution loop %}
+
+      ]
+
+      {% endif # close dataset.resources conditional %}
+    }{% unless forloop.last %},{% endunless %}
+    {% endif # close title conditional %}
+    {% endfor # close dataset loop %}
   ]
 }
