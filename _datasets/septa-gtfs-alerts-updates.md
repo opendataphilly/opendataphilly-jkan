@@ -20,7 +20,7 @@ resources:
   url: https://www3.septa.org/gtfsrt/septa-pa-us/Service/rtServiceAlerts.pb
 - description: ''
   format: GTFS-RT
-  name: Regional Rail Alerts in GTRS-RT format
+  name: Regional Rail Alerts in GTFS-RT format
   url: https://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb
 - description: ''
   format: GTFS-RT
@@ -36,7 +36,7 @@ resources:
   url: https://www3.septa.org/gtfsrt/septa-pa-us/Vehicle/rtVehiclePosition.pb
 - description: ''
   format: GTFS-RT
-  name: Regional Rail Vehciel POsition Updates in GTFS-RT format
+  name: Regional Rail Vehicle Position Updates in GTFS-RT format
   url: https://www3.septa.org/gtfsrt/septarail-pa-us/Vehicle/rtVehiclePosition.pb
 schema: philadelphia
 source: 
