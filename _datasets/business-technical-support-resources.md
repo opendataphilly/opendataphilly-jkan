@@ -12,6 +12,10 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
+  format: Application
+  name: Resources for Business Finder (App)
+  url: https://www.phila.gov/commerce/business-resource-finder/
+- description: ''
   format: CSV
   name: Business Support (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=business_technical_support&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
