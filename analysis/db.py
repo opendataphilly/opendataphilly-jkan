@@ -1,8 +1,7 @@
 from dotenv import load_dotenv
 import os
-import psycopg2
-from psycopg2 import sql
 import subprocess
+import sqlite3 as sql
 
 
 class DB:
@@ -19,26 +18,12 @@ class DB:
 
     def connect(self):
         print("Setting up database conncection...")
-        self.connection = psycopg2.connect(
-            database=self.params.get('DB_NAME'),
-            user=self.params.get('DB_USER'),
-            password=self.params.get('DB_PW'),
-            host=self.params.get('DB_HOST'),
-            port=self.params.get('DB_PORT'),
+        self.connection = sql.connect(
+            "analysis.db"
         )
-
-        self.connection.autocommit = (
-            True  # Enable autocommit to allow dropping database
-        )
-        cursor = self.connection.cursor()
-
-        try:
-            cursor.execute("CREATE EXTENSION IF NOT EXISTS postgis;")
-            print("PostGIS extension enabled.")
-        except Exception as e:
-            print(f"Error enabling PostGIS: {e}")
-
-        cursor.close()
+        self.connection.execute("PRAGMA journal_mode=WAL;")
+        self.connection.enable_load_extension(True)
+        self.connection.execute("SELECT load_extension('mod_spatialite');")
 
     def close(self):
         if self.connection:
@@ -53,8 +38,8 @@ class DB:
         cursor.execute(
             f"""
                 CREATE TABLE "{table_name}" (
-                    id SERIAL PRIMARY KEY,
-                    wkb_geometry GEOMETRY (geometry, 4326)
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    geom GEOMETRY
                 )
             """
         )
@@ -66,7 +51,7 @@ class DB:
             f"""SELECT DISTINCT c.GEOID10
                 FROM "{name}" d
                 JOIN census_tracts c
-                ON st_intersects(d.wkb_geometry, c.wkb_geometry)"""
+                ON ST_Intersects(d.geom, c.geom)"""
               for name in resource_table_names
               ])
         query = f"""
@@ -94,13 +79,15 @@ class DB:
             [
                 "ogr2ogr",
                 "-f",
-                "PostgreSQL",
-                f"PG:host={self.params.get('DB_HOST')} user={self.params.get('DB_USER')} dbname={self.params.get('DB_NAME')} password={self.params.get('DB_PW')} port={self.params.get('DB_PORT')}",
+                "SQLite",
+                "analysis.db",
                 "working_files/Census_Tracts_2010.geojson",
                 "-nln",
                 "census_tracts",
                 "-t_srs", "EPSG:4326",
-                "-overwrite"
+                "-overwrite",
+                "-dsco", "SPATIALITE=YES",
+                "-lco", "GEOMETRY_NAME=geom"
             ]
         )
 
@@ -110,11 +97,13 @@ class DB:
             [
                 "ogr2ogr",
                 "-f",
-                "PostgreSQL",
-                f"PG:host={self.params.get('DB_HOST')} user={self.params.get('DB_USER')} dbname={self.params.get('DB_NAME')} password={self.params.get('DB_PW')} port={self.params.get('DB_PORT')}",
+                "SQLite",
+                "analysis.db",
                 path,
                 "-nlt", "PROMOTE_TO_MULTI",
-                "-nln", table_name
+                "-nln", table_name,
+                "-dsco", "SPATIALITE=YES",
+                "-lco", "GEOMETRY_NAME=geom"
             ]
         )
 

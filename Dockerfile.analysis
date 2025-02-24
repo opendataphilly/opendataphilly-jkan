@@ -1,0 +1,21 @@
+FROM python:3.9 
+
+RUN \
+  apt-get update && \
+  apt-get install -y spatialite-bin libsqlite3-mod-spatialite \
+  binutils libproj-dev gdal-bin
+  #COPY _datasets /_datasets
+  #COPY analysis /analysis
+  # RUN chmod -R 777 /analysis
+VOLUME /analysis
+WORKDIR /analysis
+RUN pip install -r requirements.txt
+# Dockerfile related tasks
+# TODO: instead of copying analysis.db, mount it in a volume (docker run -v ./analysis:/analysis odp)
+# TODO: optimize above steps for improved caching
+# Random other tasks
+# TODO: download census tracts
+# TODO: don't download datasets that are already in sqlite
+# TODO: do analysis on client-side at the time of user request & don't update markdown
+
+CMD python3 main.py

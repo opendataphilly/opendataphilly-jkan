@@ -1,5 +1,3 @@
-psycopg2
 python-dotenv
-pygdaltools
 wget
 python-frontmatter
