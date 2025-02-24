@@ -61,7 +61,7 @@
 
     {
       "title": {{ title | jsonify }},
-	   "identifier": {{ identifier | jsonify }},
+     "identifier": {{ identifier | jsonify }},
       "accessLevel": "public", 
       "publisher": {
         "@type": "org:Organization",
