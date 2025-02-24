@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Environment
 - Health / Human Services
-created: '2015-09-14T21:28:48.847954'
 license: City of Philadelphia License
 maintainer: mos@phila.gov
 maintainer_email: ''
@@ -24,7 +23,7 @@ resources:
 - description: 'Update Frequency: Annually'
   format: HTML
   name: Air Quality Index Days (Metadata)
-  url: http://metadata.phila.gov/#home/datasetdetails2/55f6ddb7486f67ee03d23200/viewrepresentationdetails/55f7396b4ce634b5155fa5eb/
+  url: https://metadata.phila.gov/#home/datasetdetails/55f6ddb7486f67ee03d23200/representationdetails/55f7396b4ce634b5155fa5eb/
 schema: philadelphia
 source: ''
 tags:
