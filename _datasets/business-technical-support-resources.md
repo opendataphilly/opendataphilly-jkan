@@ -12,7 +12,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Application
+  format: APP
   name: Resources for Business Finder (App)
   url: https://www.phila.gov/commerce/business-resource-finder/
 - description: ''
