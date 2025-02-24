@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Economy
-created: '2022-08-30T17:37:40.434047'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -33,7 +32,7 @@ resources:
 - description: ''
   format: HTML
   name: Business Support (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/63a5df407c825c001258de37/
+  url: https://metadata.phila.gov/#home/datasetdetails/63a5df407c825c001258de37/representationdetails/63a5df407c825c001258de49/
 schema: philadelphia
 source: ''
 tags:
