@@ -60,18 +60,14 @@
     {%- if title -%}
 
     {
-      DEBUG: f_license: {{ f_license }}
-      DEBUG: license_name: {{ license_name }}
-      DEBUG: license_model: {{ license_model }}
-      DEBUG: license_url {{ license_url }}
       "title": {{ title | jsonify }},
 	   "identifier": {{ identifier | jsonify }},
       "accessLevel": "public", 
       "publisher": {
         "@type": "org:Organization",
         "name": {{publisher_name | jsonify}}
-      }
-      {%- if description -%},
+      },
+      {%- if description -%}
       "description": {{ description | jsonify }},
       {% endif %}
       {%- if category -%}
@@ -80,10 +76,10 @@
       "contactPoint": {
         "fn": {{ contact_point_fn | jsonify }},
         "hasEmail": {{ contact_point_has_email | prepend: "mailto:" | jsonify }}
-      }
+      },
       "license": {{ license_url | jsonify }},
       {% if publisher_name == "City of Philadelphia" %}
-        {"spatial":"Philadelphia, Pennsylvania"},
+      "spatial":"Philadelphia, Pennsylvania",
       {% endif %}
       {% if dataset.resources %}
          "distribution": [
