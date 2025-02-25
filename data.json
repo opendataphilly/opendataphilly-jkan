@@ -94,7 +94,7 @@
 
          {%- if dist_format -%}
             {%- case dist_format | upcase -%}
-            {%- when "HTML", "APP", "APPLICATION", "API DOCUMENTATION", "METADATA" -%}
+            {%- when "HTML", "APP", "APPLICATION" -%}
                {% assign media_type = "text/html" -%} 
                {% assign access_flag = true -%}
             {%- when "HTTP", "API" -%}
