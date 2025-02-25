@@ -17,7 +17,7 @@ resources:
   name: 2014 Big Belly Trash Bin Usage (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+big_belly_trash_bin_usage&filename=big_belly_trash_bin_usage&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: 2014 Big Belly Trash Bin Usage (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#big_belly_trash_bin_usage
 - description: 'Update Frequency: As Needed'

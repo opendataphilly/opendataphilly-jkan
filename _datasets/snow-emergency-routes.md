@@ -37,7 +37,7 @@ resources:
   name: Snow Emergency Routes (GeoJSON)
   url: https://opendata.arcgis.com/datasets/cf149f735ffd4b298b824bf42a1f7cb3_0.geojson
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Snow Emergency Routes (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/SNOW_EMERGENCY_ROUTES/FeatureServer/0/query?where=1%3D1
 - description: ''

@@ -35,7 +35,7 @@ resources:
   name: Philadelphia ESL Class Locations (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#esl_class_locations
 - description: ''
-  format: ''
+  format: HTML
   name: Philadelphia ESL Class Locations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/59303111dad141495c52d9db/representationdetails/59303112dad141495c52d9df/
 schema: philadelphia

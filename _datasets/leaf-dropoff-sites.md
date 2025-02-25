@@ -9,7 +9,7 @@ maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: ''
+notes: 'Bagged leaf dropoff locations operated by the Streets Department during 7-week period in autumn.'
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
@@ -29,6 +29,10 @@ resources:
   format: API
   name: Leaf Dropoff Locations (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Leaf_Dropoff_Sites/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: Leaf collection season information
+  url: https://www.phila.gov/services/trash-recycling-city-upkeep/recycle-fall-leaves/
 schema: philadelphia
 source: ''
 tags:

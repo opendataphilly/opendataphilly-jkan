@@ -17,7 +17,7 @@ resources:
   name: 2015 Parking Meter & Kiosk Inventory (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+parking_meter_and_kiosk_inventory&filename=parking_meter_and_kiosk_inventory&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: 2015 Parking Meter & Kiosk Inventory (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#parking_meter_and_kiosk_inventory
 - description: ''

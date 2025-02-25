@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Economy
 - Planning / Zoning
-created: '2014-12-08T22:50:30.915944'
+created: '2012
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: brian.ivey@phila.gov
@@ -20,7 +20,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: imagery
+  format: SHP
   name: 'Enterprise Zones '
   url: http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=342
 - description: ''

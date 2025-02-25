@@ -1,5 +1,5 @@
 ---
-area_of_interest: null
+area_of_interest: Pennsylvania
 category:
 - Environment
 created: '2019-06-22T21:05:30.407463'
@@ -20,7 +20,7 @@ opendataphilly_rating: null
 organization: University of Vermont Spatial Analysis Lab
 resources:
 - description: 2.3 GB zip file of tree canopy as a 1m resolution raster data set
-  format: ''
+  format: 'IMG'
   name: PA Tree Canopy, Albers Projection
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=3170
 schema: philadelphia

@@ -29,7 +29,7 @@ resources:
   name: PrEP Providers (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PrEP_PROVIDERS/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
-  format: Metadata
+  format: HTML
   name: PrEP Providers (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5bc5139052f3553adb2f162c/representationdetails/5bc5139652f3553adb2f1634/
 schema: philadelphia

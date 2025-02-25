@@ -26,7 +26,7 @@ resources:
   name: Residential Parking Permit Blocks (SHP)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+residential_parking_permit_blocks&filename=residential_parking_permit_blocks&format=shp&skipfields=cartodb_id
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Residential Parking Permit Blocks (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#residential_parking_permit_blocks
 - description: ''
