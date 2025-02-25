@@ -1,7 +1,7 @@
 ---
 area_of_interest: null
 category:
-- Health and human services
+- Health and Human Services
 - Food
 license: City of Philadelphia License
 maintainer: ''
@@ -42,6 +42,7 @@ tags:
 - Food
 - Meals
 - Hunger
+- Health and Human Services
 time_period: null
 title: Free Food & Meal Sites
 usage: null
