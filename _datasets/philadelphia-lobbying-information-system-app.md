@@ -36,6 +36,7 @@ schema: philadelphia
 source: ''
 tags:
 - Board of Ethics
+- lobbying
 time_period: January 2014 - Present
 title: Philadelphia Lobbying Information System (App)
 usage: No limitations
