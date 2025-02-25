@@ -18,7 +18,7 @@ resources:
   name: Retrofitted Homes (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+retrofitted_homes&filename=retrofitted_homes&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Retrofitted Homes (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#retrofitted_homes
 - description: ''

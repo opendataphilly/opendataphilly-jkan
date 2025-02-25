@@ -28,7 +28,7 @@ resources:
   name: 'Stormwater Management Practice Polygons (GeoJSON) '
   url: https://opendata.arcgis.com/datasets/dd72ac67ed2b4176afdcb60051334c83_0.geojson
 - description: ''
-  format: ''
+  format: API
   name: Stormwater Management Practice Polygons (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/GSI_SMP_TYPES/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

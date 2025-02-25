@@ -33,7 +33,7 @@ resources:
   name: Shooting Victims (SHP)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+shootings&filename=shootings&format=shp&skipfields=cartodb_id
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Shooting Victims (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#shootings
 - description: ''

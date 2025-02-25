@@ -35,7 +35,7 @@ resources:
   name: '#percent_for_art_public'
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#percent_for_art_public
 - description: ''
-  format: Metadata
+  format: HTML
   name: Percent for Art Locations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5ee1478f01459a00156f153f/representationdetails/5ee147f501459a00156f201f/?view_287_page=1
 schema: philadelphia

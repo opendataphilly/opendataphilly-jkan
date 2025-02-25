@@ -24,7 +24,7 @@ resources:
   name: COVID Hospitalizations by Week 03/2020 - Current week (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/covid_hospitalizations_by_week/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 
-  format: Metadata
+  format: HTML
   name: COVID Hospitalizations by Week 03/2020 - Current week (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5efb5dc2bec0b10015172d9b/representationdetails/64593ee12225ed00283f2c2b/
 - description: 
@@ -45,7 +45,7 @@ resources:
   name: COVID Hospitalizations by ZIP (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_hospitalizations_by_zip
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Hospitalizations by ZIP (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5efb5dc2bec0b10015172d9b/representationdetails/5efb6f4a2f3c4c00199b0c84/
 - description: ''
@@ -58,7 +58,7 @@ resources:
   name: COVID Hospitalizations by Race (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_hospitalizations_by_race
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Hospitalizations by Race (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5efb5dc2bec0b10015172d9b/representationdetails/5efb6a69ccf2e10015ba4010/
 - description: ''
@@ -71,7 +71,7 @@ resources:
   name: COVID Hospitalizations by Age (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_hospitalizations_by_age
 - description: ''
-  format: ''
+  format: HTML
   name: COVID Hospitalizations by Age (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5efb5dc2bec0b10015172d9b/representationdetails/5efcee1236f87e001524346a/
 - description: ''
@@ -84,7 +84,7 @@ resources:
   name: COVID Hospitalizations by Sex (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_hospitalizations_by_sex
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Hospitalizations by Sex (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5efb5dc2bec0b10015172d9b/representationdetails/5efcee5029365900154eb2f6/
 schema: philadelphia

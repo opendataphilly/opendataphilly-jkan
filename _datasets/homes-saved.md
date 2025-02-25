@@ -26,7 +26,7 @@ resources:
   name: Homes Saved (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+homes_saved&filename=homes_saved&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Homes Saved (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#homes_saved
 - description: Aggregated to census tract

@@ -26,7 +26,7 @@ resources:
   name: Language Usage (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Lang_Access_Services/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
-  format: ''
+  format: HTML
   name: Language Usage (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/634eac83dc2dee002120a9bc/representationdetails/634eac86dc2dee002120a9f3/
 schema: philadelphia

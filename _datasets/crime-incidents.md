@@ -246,7 +246,7 @@ resources:
     * FROM incidents_part1_part2 WHERE dispatch_date_time >= '2006-01-01' AND dispatch_date_time
     < '2007-01-01'
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Crime Incidents - Full Dataset (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#incidents_part1_part2
 - description: 2006 - Present

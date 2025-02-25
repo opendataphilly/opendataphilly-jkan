@@ -32,7 +32,7 @@ resources:
   name: COVID Deaths by Week 03/2020 - Current week (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/covid_deaths_by_week/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 
-  format: Metadata
+  format: HTML
   name: COVID Deaths by Week 03/2020 - Current week (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/64592eca487f170028f8ed68/
 - description: 
@@ -53,7 +53,7 @@ resources:
   name: COVID Deaths by ZIP (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_deaths_by_zip
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Deaths by ZIP (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/5ed10dae6ab1ff00174a54c9/
 - description: ''
@@ -66,7 +66,7 @@ resources:
   name: COVID Deaths by Race (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_deaths_by_race
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Deaths by Race (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/5efb45f7862e1c001a29864a/
 - description: ''
@@ -79,7 +79,7 @@ resources:
   name: COVID Deaths by Age (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_deaths_by_age
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Deaths by Age (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/5ed10dcbfcaa5a001553c1d4?ref=ref%3Dview_280_search%253Dcovid%252520deaths%2526view_280_page%253D1
 schema: philadelphia
