@@ -177,8 +177,7 @@ resources:
   format: HTML
   name: 2015 Aerial Imagery Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d9911f2a622cd17d4851/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
+- description: ''
   format: TIFF
   name: 2014 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1128
@@ -202,8 +201,7 @@ resources:
   format: HTML
   name: 2014 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d93ccad229285ac9d2a0/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox. '
+- description: ''
   format: TIFF
   name: 2012 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1127
@@ -267,8 +265,7 @@ resources:
   format: HTML
   name: 2011 Imagery Leaf-On (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/569684f4c99154d56b426105/representationdetails/569686ba3ef2f2a80de713b6/
-- description: '**NOTE**: To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files.'
+- description: ''
   format: TIFF
   name: 2010 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1037
@@ -292,8 +289,7 @@ resources:
   format: HTML
   name: 2010 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d82ba418a229e006f40b/
-- description: '**NOTE**: To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files.'
+- description: ''
   format: TIFF
   name: 2009 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1036
@@ -317,8 +313,7 @@ resources:
   format: HTML
   name: 2009 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d7fca7ba452d034c6a69/
-- description: '**NOTE**: To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files.'
+- description: ''
   format: TIFF
   name: 2008 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1035
@@ -342,8 +337,7 @@ resources:
   format: HTML
   name: 2008 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d7c14bad6b0a66279246/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
+- description: ''
   format: TIFF
   name: 2005 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1033
@@ -367,8 +361,7 @@ resources:
   format: HTML
   name: 2005 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d65a4bad6b0a66278dd5/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
+- description: ''
   format: TIFF
   name: 2004 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1032
@@ -392,8 +385,7 @@ resources:
   format: HTML
   name: 2004 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d4bb1f2a622cd17d37c8/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
+- description: ''
   format: TIFF
   name: 2000 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1031
@@ -417,8 +409,7 @@ resources:
   format: HTML
   name: 2000 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d24d9557a34616edd2ba/
-- description: '**NOTE**: To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files.'
+- description: ''
   format: TIFF
   name: 1996 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1030
