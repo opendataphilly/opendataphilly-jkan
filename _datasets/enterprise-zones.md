@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Economy
 - Planning / Zoning
-created: '2012
+created: '2012'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: brian.ivey@phila.gov
