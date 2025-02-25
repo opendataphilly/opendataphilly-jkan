@@ -37,7 +37,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_IntermediateCareFacilities202212.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- intermediate care
 time_period: 2022
 title: PA Intermediate Care Facilities
 usage: Public use; free

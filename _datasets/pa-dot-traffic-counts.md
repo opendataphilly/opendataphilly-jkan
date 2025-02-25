@@ -30,7 +30,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaTraffic2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- traffic
 time_period: March 2024
 title: PA Traffic Counts
 usage: Public Use; Free

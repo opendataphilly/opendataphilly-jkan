@@ -37,7 +37,8 @@ resources:
   url: https://www.greatschools.org/gk/api-developer-resources/
 schema: philadelphia
 source: ''
-tags: []
+tags:
+- schools
 time_period: null
 title: GreatSchools (Phila. only)
 usage: Public Use; Free Free registration entails interactivity and extra privilegesAPI

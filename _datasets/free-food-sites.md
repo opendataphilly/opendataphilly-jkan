@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Health / Human Services
-category: []
 license: City of Philadelphia License
 maintainer: null
 maintainer_email: null

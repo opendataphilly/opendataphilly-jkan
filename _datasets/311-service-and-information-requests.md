@@ -3,6 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Environment
 - Health / Human Services
+- Transportation
 created: '2016-06-22T18:26:12.844603'
 license: City of Philadelphia License
 maintainer: ''
@@ -169,7 +170,11 @@ resources:
   url: http://metadata.phila.gov/#home/datasetdetails/5543864d20583086178c4e98/representationdetails/5762e19fa237544b2ecfe722/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- 311
+- maintenance
+- repairs
+- information requests
 time_period: null
 title: 311 Service and Information Requests
 usage: null

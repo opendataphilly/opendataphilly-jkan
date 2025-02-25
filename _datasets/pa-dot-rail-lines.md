@@ -30,7 +30,9 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaRailLines2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- railroad
+- rail
 time_period: March 2024
 title: PA Rail Lines
 usage: Public Use; Free

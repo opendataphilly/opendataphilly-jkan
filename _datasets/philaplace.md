@@ -3,7 +3,6 @@ area_of_interest: City of Philadelphia (Old Southwark and Greater Northern Liber
   Areas)
 category:
 - Arts / Culture / History
-- Real Estate / Land Records
 created: '2014-12-08T22:22:17.755927'
 license: License Not Specified
 maintainer: ''
@@ -27,7 +26,9 @@ resources:
   url: http://www.philaplace.org/
 schema: philadelphia
 source: ''
-tags: []
+tags:
+- photography
+- neighborhoods
 time_period: null
 title: PhilaPlace
 usage: Public Use; Free

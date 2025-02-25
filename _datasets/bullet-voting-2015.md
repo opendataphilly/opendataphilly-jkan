@@ -9,7 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Each voter is allowed to select up to five candidates for City Council At-Large.\
-  \ When a voter chooses only one candidate, it is known as \u201Cbullet voting.\u201D"
+  \ When a voter chooses only one candidate, it is known as 'bullet voting'."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
@@ -27,7 +27,8 @@ resources:
   url: http://metadata.phila.gov/#home/datasetdetails/5665ccf344712bf204624362/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- City Council
 time_period: null
 title: Bullet Voting 2015
 usage: null

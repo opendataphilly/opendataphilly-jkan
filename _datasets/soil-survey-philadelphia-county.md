@@ -2,7 +2,7 @@
 area_of_interest: Philadelphia County (City of Philadelphia)
 category:
 - Environment
-created: '2014-12-08'
+created: '2022'
 license: License Not Specified
 maintainer: U.S. Department of Agriculture, Natural Resources Conservation Service, National Soil Survey Center
 maintainer_email: SoilsHotline@usda.gov
@@ -42,7 +42,10 @@ resources:
 
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- soil survey
+- soils
+- USDA
 time_period: 2022
 title: Soil Survey, Philadelphia County
 usage: Public Use; Free

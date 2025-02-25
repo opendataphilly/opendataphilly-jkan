@@ -26,7 +26,9 @@ resources:
   url: https://www3.septa.org/api/TransitView/index.php
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- SEPTA
+- public transit
 time_period: Current
 title: SEPTA TransitView
 usage: Public Use

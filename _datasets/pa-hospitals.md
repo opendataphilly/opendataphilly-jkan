@@ -36,7 +36,8 @@ resources:
   url: https://pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_Hospitals202311.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- hospitals
 time_period: 2023
 title: PA Hospitals
 usage: Public use; free

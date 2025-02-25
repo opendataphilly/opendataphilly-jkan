@@ -25,7 +25,9 @@ resources:
   url: http://data.philly.com/philly/crime/shootings/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- crime
+- neighborhoods
 time_period: null
 title: Crime Visualizations in Philadelphia County
 usage: Public Use; Free

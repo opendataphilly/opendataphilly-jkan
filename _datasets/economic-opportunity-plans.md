@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Economy
 created: '2015-05-19T20:00:19.416589'
 license: City of Philadelphia License
 maintainer: Nicholas Jann

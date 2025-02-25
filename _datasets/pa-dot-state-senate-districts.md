@@ -31,7 +31,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaSenatorial2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- state senate
 time_period: March 2024
 title: PA State Senate Districts
 usage: Public Use; Free

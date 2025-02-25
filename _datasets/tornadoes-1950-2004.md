@@ -2,6 +2,7 @@
 area_of_interest: State of Pennsylvania
 category:
 - Environment
+- Public Safety
 created: '2014-12-08T22:06:06.256161'
 license: License Not Specified
 maintainer: null
@@ -29,7 +30,10 @@ resources:
   url: http://www.pasda.psu.edu/pasda/UCI_Metadata/Tornados_Pennsylvania.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- tornadoes
+- emergency management
+- weather
 time_period: 01/01/1950 - 12/31/2004
 title: Tornadoes, 1950-2004
 usage: Public Use; Free

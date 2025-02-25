@@ -47,7 +47,10 @@ resources:
   url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/HeritageConservancy/MapServer
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- riparian buffers
+- rivers
+- streams
 time_period: 2000 and 2012
 title: Riparian Buffers
 usage: Public Use; Free

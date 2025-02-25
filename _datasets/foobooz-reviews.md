@@ -3,6 +3,7 @@ area_of_interest: Greater Philadelphia (City of Philadelphia, Main Line Suburbs,
   Southern Jersey)
 category:
 - Food
+- Arts / Culture / History
 created: '2014-12-08T22:35:18.640966'
 license: License Not Specified
 maintainer: null
@@ -20,8 +21,10 @@ resources:
   url: http://feeds2.feedburner.com/Foobooz
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- restaurants
+- bars
 time_period: null
-title: FooBooz, Reviews
+title: FooBooz Reviews
 usage: Public Use; Free
 ---

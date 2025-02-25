@@ -35,7 +35,10 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_DrugAlcoholTreatmentFacilities202212.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- alcohol treatment
+- drug treatment
+- substance treatment
 time_period: 2022
 title: PA Drug Alcohol Treatment Facilities
 usage: Public use; free

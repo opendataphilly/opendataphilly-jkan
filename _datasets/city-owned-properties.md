@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Real Estate / Land Records
+- Plannning / Zoning
 created: '2015-01-30T19:40:59.857775'
 license: City of Philadelphia License
 maintainer: PHDC

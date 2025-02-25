@@ -30,7 +30,9 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaInterstateMileMarkers2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- interstates
+- mile markers
 time_period: March 2024
 title: PA Interstate Mile Markers
 usage: Public Use; Free

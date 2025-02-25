@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Transportation
 created: '2015-11-01T02:17:12.046678'
 license: License Not Specified
 maintainer: PATCO
@@ -20,7 +21,6 @@ schema: philadelphia
 source: http://www.ridepatco.org/developers/
 tags:
 - gtfs
-- transportation
 time_period: null
 title: PATCO GTFS
 usage: null

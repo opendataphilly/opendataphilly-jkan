@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Environment
+- Planning / Zoning
 created: '2019-06-22T21:26:59.466035'
 license: License Not Specified
 maintainer: ''
@@ -33,7 +35,12 @@ resources:
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=3208
 schema: philadelphia
 source: https://www.uvm.edu/rsenr/sal/
-tags: []
+tags: 
+- land cover
+- Delaware River
+- tree canopy
+- vegetatin
+- impervious surface
 time_period: null
 title: Delaware River Basin High-Resolution Land Cover
 usage: null

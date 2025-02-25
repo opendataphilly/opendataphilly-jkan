@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Transportation
 created: '2014-12-08T22:39:10.474966'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
@@ -38,6 +39,8 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- streets
+- utilities
 time_period: null
 title: Street Lane Closures
 usage: Public Use; Free

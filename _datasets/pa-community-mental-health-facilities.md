@@ -36,7 +36,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_CommunityMentalHealthCenters202208.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- mental health
 time_period: 2022
 title: PA Community Mental Health Centers
 usage: Public use; free

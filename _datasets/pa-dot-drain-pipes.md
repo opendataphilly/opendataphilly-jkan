@@ -31,7 +31,9 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PA_DrainPipes2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- pipes
+- drainage
 time_period: March 2024
 title: PA Drain Pipes
 usage: Public Use; Free

@@ -38,7 +38,13 @@ resources:
   url: https://metadata.phila.gov/index.html#home/datasetdetails/5cdace7d97ffd6000baedab5/representationdetails/5cdace7f97ffd6000baedab9/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- neighborhoods
+- energy
+- utilities
+- water
+- gas
+- electricity
 time_period: null
 title: Neighborhood Energy Centers
 usage: null

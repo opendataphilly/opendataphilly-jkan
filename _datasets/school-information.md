@@ -64,7 +64,9 @@ resources:
   url: https://www.philasd.org/performance/programsservices/open-data/school-information/#school_selection
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- School District of Philadelphia
+- schools
 time_period: null
 title: School Information
 usage: null

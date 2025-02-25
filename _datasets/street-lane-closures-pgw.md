@@ -19,12 +19,14 @@ opendataphilly_rating: null
 organization: Philadelphia Gas Works
 resources:
 - description: ''
-  format: api
+  format: API
   name: PGW Street Lane Closure API
   url: https://opendata.pgworks.com/EUN/
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- PGW
+- streets
 time_period: 12/10/2009 - Present
 title: Street Lane Closures - PGW
 usage: No limitations

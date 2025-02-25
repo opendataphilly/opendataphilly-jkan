@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Arts / Culture / History
 created: '2014-12-31T23:20:03.727169'
 license: License Not Specified
 maintainer: info@preservationalliance.org
@@ -18,7 +19,9 @@ resources:
   url: http://www.preservationalliance.com/explore-philadelphia/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- Historic Preservation
+- Architecture
 time_period: null
 title: Historic Sites Map
 usage: null

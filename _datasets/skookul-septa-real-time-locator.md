@@ -23,7 +23,9 @@ resources:
   url: http://skookul.com/transportation/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- public transit
+- SEPTA
 time_period: null
 title: Skookul SEPTA Real Time Locator
 usage: Public Use

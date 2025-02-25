@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Health / Human Services
+- Food
 created: '2015-05-21T05:36:55.335146'
 license: City of Philadelphia License
 maintainer: ''
