@@ -12,7 +12,7 @@ notes: "State Senate Districts boundaries"
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources: 
-- description = ''
+- description: ''
   format: SHP
   name: State Senate Boundaries (Shapefiles, GeoJSON)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=39
@@ -22,6 +22,6 @@ tags:
 - state senate
 - boundaries
 time_period: null
-title: Philadelphia Pennsylvania State Senatorial Districts
+title: Pennsylvania State Senatorial Districts
 usage: null
 ---

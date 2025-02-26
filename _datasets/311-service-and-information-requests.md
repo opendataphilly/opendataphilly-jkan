@@ -171,7 +171,6 @@ resources:
 schema: philadelphia
 source: ''
 tags: 
-- 311
 - maintenance
 - repairs
 - information requests
