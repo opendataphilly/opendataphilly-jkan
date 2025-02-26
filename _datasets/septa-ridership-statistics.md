@@ -83,7 +83,9 @@ resources:
 
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- SEPTA
+- public transit
 time_period: null
 title: SEPTA Ridership Statistics
 usage: Public Use

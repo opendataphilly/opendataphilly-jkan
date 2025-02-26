@@ -31,7 +31,9 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaSchoolDistricts2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- schools
+- school districts
 time_period: March 2024
 title: PA School Districts
 usage: Public Use; Free

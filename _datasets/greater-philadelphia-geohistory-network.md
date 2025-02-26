@@ -2,6 +2,8 @@
 area_of_interest: City of Philadelphia
 category:
 - Arts / Culture / History
+- Planning / Zoning
+- Transportation
 created: '2014-12-08T22:38:18.083564'
 license: License Not Specified
 maintainer: ''
@@ -33,7 +35,13 @@ resources:
   url: http://www.philageohistory.org/rdic-images/new-maps-feed.cfm
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- aerial photographs
+- maps
+- atlases
+- directories
+- surveys
+- topographical maps
 time_period: null
 title: Greater Philadelphia GeoHistory Network
 usage: Public Use; Free

@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Education
 created: '2018-06-08T17:37:22.164681'
 license: License Not Specified
 maintainer: ''
@@ -59,7 +60,10 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- education
+- PSSA
+- students
+- science
+- math
 time_period: null
 title: PSSA & Keystone Performance
 usage: null

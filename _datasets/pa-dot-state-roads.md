@@ -49,7 +49,9 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaAdministrativeState_Roads2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- streets
+- roads
 time_period: March 2024
 title: PA State Roads
 usage: Public Use; Free

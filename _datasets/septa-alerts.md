@@ -30,7 +30,10 @@ resources:
   url: http://www3.septa.org/api/Alerts/get_alert_data.php
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- SEPTA
+- public transit
+- alerts
 time_period: null
 title: SEPTA Alerts
 usage: Public Use

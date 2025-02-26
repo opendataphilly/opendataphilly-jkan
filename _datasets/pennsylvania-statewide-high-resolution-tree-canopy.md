@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Environment
+- Parks / Recreation
 created: '2019-06-22T21:05:30.407463'
 license: License Not Specified
 maintainer: ''
@@ -25,7 +26,11 @@ resources:
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=3170
 schema: philadelphia
 source: http://letters-sal.blogspot.com/2015/09/pennslyvania-statewide-high-resolution.html
-tags: []
+tags: 
+- trees
+- tree canopy
+- LiDAR
+- NAIP
 time_period: null
 title: Pennsylvania Statewide High-Resolution Tree Canopy
 usage: null

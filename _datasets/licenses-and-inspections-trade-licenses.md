@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Planning / Zonng
+- Real Estate / Land Records
 created: '2016-09-22T21:15:57.272811'
 license: City of Philadelphia License
 maintainer: LIGISTEAM@phila.gov

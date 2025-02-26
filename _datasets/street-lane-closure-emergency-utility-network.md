@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category:
+- Transportation
 created: '2015-06-09T07:08:34.582261'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
@@ -36,6 +37,8 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- utilities
+- streets
 time_period: null
 title: Street Lane Closure Emergency Utility Network
 usage: null

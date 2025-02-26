@@ -32,7 +32,8 @@ resources:
   url: https://pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_Hospices202308.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- hospice
 time_period: 2023
 title: PA Hospices
 usage: Public Use; Free

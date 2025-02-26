@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Parks / Recreation
 created: '2019-04-05T18:39:30.196007'
 license: City of Philadelphia License
 maintainer: Chris Park

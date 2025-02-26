@@ -43,7 +43,9 @@ resources:
   url: https://metadata.phila.gov/#home/datasetdetails/62fe7bbd4fc5860021be5c87/representationdetails/630651053330120025907856/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- civil service
+- job classification
 time_period: null
 title: Civil Service Positions Details
 usage: null

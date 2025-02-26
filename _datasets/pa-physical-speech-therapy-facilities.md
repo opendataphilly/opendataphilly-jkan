@@ -36,7 +36,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_PhysicalSpeechTherapyFacilities202308.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- speech therapy
 time_period: August 2023
 title: PA Physical Speech Therapy Facilities
 usage: Public use; free

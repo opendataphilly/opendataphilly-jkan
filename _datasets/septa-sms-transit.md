@@ -80,7 +80,9 @@ resources:
   url: https://www3.septa.org/sms/simulator
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- SEPTA
+- public transit
 time_period: null
 title: SEPTA SMS Transit
 usage: Public Use

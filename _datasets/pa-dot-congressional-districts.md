@@ -35,7 +35,9 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaCongressional2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- congressional districts
+- boundaries
 time_period: March 2024
 title: PA U.S. Congressional Districts
 usage: Public Use; Free

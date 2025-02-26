@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Planning / Zonng
 created: '2015-01-21T14:17:47.544851'
 license: City of Philadelphia License
 maintainer: ''
@@ -26,7 +27,8 @@ resources:
   url: https://metadata.phila.gov/#home/datasetdetails/5543865d20583086178c4edb/representationdetails/55c3c71bea8fa7742f7dd107/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- Parking
 time_period: null
 title: 2015 Parking Meter & Kiosk Inventory
 usage: null

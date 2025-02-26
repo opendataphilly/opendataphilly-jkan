@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Transportation
 created: '2015-01-16T16:57:46.359102'
 license: City of Philadelphia License
 maintainer: ''
@@ -48,6 +49,8 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- snow
+- emergency
 time_period: null
 title: Snow Emergency Routes
 usage: null

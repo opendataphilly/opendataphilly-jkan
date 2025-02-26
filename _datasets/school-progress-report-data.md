@@ -69,7 +69,8 @@ resources:
   url: https://www.philasd.org/performance/programsservices/school-progress-reports/spr-faqs/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- schools
 time_period: null
 title: School Progress Report Data
 usage: null

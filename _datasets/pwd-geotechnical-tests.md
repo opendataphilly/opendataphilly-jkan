@@ -1,6 +1,9 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Environment
+- Planning / Zoning
+- Real Estate / Land Records
 created: '2022-11-28T22:53:18.634544'
 license: City of Philadelphia License
 maintainer: larry.szarek@phila.gov
@@ -43,7 +46,8 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Green Stormwater Infrastructure
+- green stormwater infrastructure
+- geotechnical
 - Philadelphia Water Department
 time_period: null
 title: PWD Geotechnical Tests

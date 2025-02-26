@@ -70,9 +70,24 @@
       {%- if description -%}
       "description": {{ description | jsonify }},
       {% endif %}
-      {%- if category -%}
-      "category": {{ category | jsonify }},
-      {% endif %}
+      "keyword":[
+      {%- for tag in dataset.tags -%}
+         {{ tag | jsonify }}{%- unless forloop.last -%},{%- endunless -%}
+      {%- endfor -%}
+      {%- if category -%},{%- endif -%}
+      {%- for cat in dataset.categories -%}
+         {%- assign cat_split = cat | split: " / " -%} 
+         {%- if cat_split.size > 1 -%}
+           {%- for cs in cat_split -%}
+              {{ cs | downcase | jsonify }}
+              {%- unless forloop.last -%},{%- endunless -%}
+           {%- endfor -%}
+         {%- else -%}
+            {{ cat | downcase | jsonify }}
+         {%- endif -%}
+         {%- unless forloop.last -%},{%- endunless -%}
+      {%- endfor -%}
+      ],
       "contactPoint": {
         "fn": {{ contact_point_fn | jsonify }},
         "hasEmail": {{ contact_point_has_email | prepend: "mailto:" | jsonify }}
@@ -130,7 +145,7 @@
                {% assign media_type = "application/zip" -%}
             {%- when "PDF" -%}
                {% assign media_type = "application/pdf" -%}
-            {%- when "XLSX" -%}
+            {%- when "XSLX" -%}
                {% assign media_type = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" -%}
             {%- when "DOCX" -%}
                {% assign media_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document" -%}

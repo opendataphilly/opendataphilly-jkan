@@ -36,7 +36,9 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_BirthCenters202308.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- birth centers
+- childbirth
 time_period: 2023
 title: PA Birth Centers
 usage: Public use; free

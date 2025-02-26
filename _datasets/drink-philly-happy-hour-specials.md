@@ -22,7 +22,9 @@ resources:
   url: https://philly.thedrinknation.com/specials
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- bars
+- restaurants
 time_period: null
 title: Drink Philly Happy Hour & Specials
 usage: Public Use; Adults Over the Age of 21
