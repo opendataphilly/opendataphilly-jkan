@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Public Safety
+- Transportation
 created: '2014-12-08T22:17:19.277559'
 license: City of Philadelphia License
 maintainer: ''
@@ -26,7 +27,9 @@ resources:
   url: http://metadata.phila.gov/#home/datasetdetails/5543864a20583086178c4e8d/representationdetails/55438a8b9b989a05172d0d0d/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- Philadelphia Parking Authority
+- traffic safety
 time_period: null
 title: Red Light Cameras
 usage: Public Use; Free

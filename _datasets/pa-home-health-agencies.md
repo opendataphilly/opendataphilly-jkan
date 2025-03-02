@@ -34,7 +34,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_HomeHealthAgencies202208.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- home health care
 time_period: 2022
 title: PA Home Health Agencies
 usage: 'Public Use; Free '

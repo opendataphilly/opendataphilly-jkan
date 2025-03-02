@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Environment
 created: '2015-03-30T06:06:05.081202'
 license: City of Philadelphia License
 maintainer: 'Max Steinbrenner '
@@ -35,6 +36,7 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- trash
 time_period: null
 title: Wire Waste Baskets (Trash Bins)
 usage: null

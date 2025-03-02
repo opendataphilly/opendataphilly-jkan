@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Food
+- Health / Human Services
 created: '2015-05-22T06:59:01.300783'
 license: City of Philadelphia License
 maintainer: ''
@@ -36,6 +38,10 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Department of Public Health
+- women
+- infants
+- WIC
+- nutrition
 time_period: null
 title: Women, Infants & Children (WIC) Offices
 usage: null

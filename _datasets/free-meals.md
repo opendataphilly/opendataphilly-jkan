@@ -1,7 +1,7 @@
 ---
 area_of_interest: null
 category:
-- Health and Human Services
+- Health / Human Services
 - Food
 license: City of Philadelphia License
 maintainer: ''

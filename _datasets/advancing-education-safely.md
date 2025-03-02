@@ -24,7 +24,9 @@ resources:
   url: https://dashboards.philasd.org/extensions/covid-dashboard/index.html#/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- hybrid learning
+- COVID
 time_period: null
 title: Advancing Education Safely
 usage: null

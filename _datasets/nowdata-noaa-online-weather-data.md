@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Environment
-- Uncategorized
 created: '2014-12-08T22:35:29.735905'
 license: License Not Specified
 maintainer: null
@@ -21,7 +20,9 @@ resources:
   url: https://www.weather.gov/wrh/Climate?wfo=phi
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- weather
+- climate
 time_period: null
 title: NOWData - NOAA Online Weather Data
 usage: Public Use; Free

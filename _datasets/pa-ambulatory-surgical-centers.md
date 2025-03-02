@@ -33,7 +33,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_Ambulatory_Surgery_Centers202311.xml
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- surgical centers
 time_period: 2023
 title: PA Ambulatory Surgical Centers
 usage: Public Use; Free

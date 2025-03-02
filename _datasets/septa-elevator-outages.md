@@ -18,7 +18,10 @@ resources:
   url: https://www3.septa.org/api/elevator/index.php
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- SEPTA
+- public transit
+- elevators
 time_period: Current
 title: SEPTA Elevator Outages
 usage: Public Use

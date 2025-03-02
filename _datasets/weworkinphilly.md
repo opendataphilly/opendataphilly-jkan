@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Arts / Culture / History
+- Economy
 created: '2014-12-08T22:10:26.021897'
 license: License Not Specified
 maintainer: null
@@ -25,7 +26,10 @@ resources:
   url: https://github.com/alexknowshtml/We-Work-In-Philly/wiki
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- technology
+- companies
+- business
 time_period: null
 title: WeWorkInPhilly
 usage: Free; Public Use;

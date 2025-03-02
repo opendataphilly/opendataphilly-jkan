@@ -25,7 +25,9 @@ resources:
   url: http://philapark.org/locator/
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- Philadelphia Parking Authority
+- parking
 time_period: null
 title: Parking Locator
 usage: Public Use; Free

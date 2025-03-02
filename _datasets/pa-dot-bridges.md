@@ -30,7 +30,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaBridges2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- bridges
 time_period: March 2024
 title: PA Bridges
 usage: Public Use; Free

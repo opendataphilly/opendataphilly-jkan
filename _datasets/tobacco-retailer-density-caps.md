@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Health / Human Services
+- Planning / Zoning
 license: City of Philadelphia License
 maintainer: epi@phila.gov
 maintainer_email: epi@phila.gov
@@ -39,8 +41,8 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- Tobacco
+- Department of Public Health
+- tobacco
 time_period: null
 title: Tobacco Retailer Density Caps
 usage: null

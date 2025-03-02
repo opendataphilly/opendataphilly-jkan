@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category:
+- Environment
+- Health / Human Services
 created: '2015-06-09T03:42:41.970072'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
@@ -62,6 +64,9 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- trash
+- recycling
+- rubbish
 time_period: null
 title: Sanitation Collection Day Boundary
 usage: null

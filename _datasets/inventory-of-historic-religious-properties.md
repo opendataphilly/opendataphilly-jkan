@@ -41,7 +41,12 @@ resources:
   url: http://www.preservationalliance.com/wp-content/uploads/2014/09/IHRPP_Lester.pdf
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- historic preservation
+- architecture
+- architects
+- churches
+- National Historic Register
 time_period: null
 title: Inventory of Historic Religious Properties
 usage: Public Use; Free

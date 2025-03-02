@@ -21,10 +21,12 @@ resources:
 - description: ''
   format: HTML
   name: Child Care Provider Search
-  url: https://www.compass.state.pa.us/compass.web/ProviderSearch/pgm/PSWEL.aspx
+  url: https://www.compass.dhs.pa.gov/providersearch/#/childcareprovidersearch
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- child care
+- early learning
 time_period: null
 title: Child Care Search
 usage: Public Use; Free

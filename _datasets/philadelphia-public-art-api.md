@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Arts / Culture / History
 created: '2016-01-29T20:35:19.245305'
 license: License Not Specified
 maintainer: ''
@@ -31,7 +32,7 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Arts
+- public art
 time_period: null
 title: Philadelphia Public Art API
 usage: null

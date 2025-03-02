@@ -20,7 +20,9 @@ resources:
   url: https://webapps.philasd.org/school_finder/
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- School District of Philadelphia
+- schools
 time_period: null
 title: School Finder
 usage: Public Use; Free

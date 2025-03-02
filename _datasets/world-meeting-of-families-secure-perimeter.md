@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Public Safety
+- Transportation
 created: '2015-08-28T19:32:20.815955'
 license: City of Philadelphia License
 maintainer: OEM
@@ -35,6 +37,8 @@ schema: philadelphia
 source: ''
 tags:
 - Office of Emergency Management
+- World Meeting of Families
+- security
 time_period: null
 title: World Meeting of Families Secure Perimeter
 usage: null

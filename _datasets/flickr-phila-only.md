@@ -28,16 +28,22 @@ resources:
   name: Flickr API Developer Documentation
   url: https://www.flickr.com/services/developer/api/
 - description: ''
-  format: HTML
-  name: Flickr (Phila. only)
-  url: http://www.flickr.com/places/United+States/Pennsylvania/Philadelphia
+  format: API
+  name: Flickr Feeds (JSON, RSS, ATOM, YAML, CSV)
+  url: https://www.flickr.com/services/feeds/
 - description: ''
   format: RSS
-  name: Flickr RSS feed (Phila. only)
-  url: http://api.flickr.com/services/feeds/geo/United+States/Pennsylvania/Philadelphia&format=rss_200
+  name: Flickr Geospatial RSS feed
+  url: https://api.flickr.com/services/feeds/geo
+- description: ''
+  format: HTML
+  name: Flickr (Phila. only)
+  url: https://www.flickr.com/places/United+States/Pennsylvania/Philadelphia
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- photographs
+- photography
 time_period: null
 title: Flickr (Phila. only)
 usage: "Non-commercial use"

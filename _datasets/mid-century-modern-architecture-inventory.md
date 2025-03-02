@@ -31,7 +31,11 @@ resources:
   url: http://www.preservationalliance.com/directory/mcmar/index.php
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- architecture
+- architects
+- buildings
+- historic preservation
 time_period: null
 title: Mid-Century Modern Architecture Inventory
 usage: Public Use; Free;

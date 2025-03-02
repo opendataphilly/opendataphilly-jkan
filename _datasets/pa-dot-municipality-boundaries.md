@@ -2,6 +2,7 @@
 area_of_interest: State of Pennsylvania
 category:
 - Transportation
+- Planning / Zoning
 created: '2024-03-01'
 license: License Not Specified
 maintainer: 'PA Department of Transportation Bureau of Planning and Research'
@@ -33,7 +34,9 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaMunicipalities2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- municipalities
+- boundaries
 time_period: March 2024
 title: PA Municipality Boundaries
 usage: Public Use; Free

@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category:
+- Transportation
 created: '2019-11-04T20:11:28.659833'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
@@ -38,7 +39,12 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- philadelphia streets department
+- Streets Department
+- railways
+- streets
+- boundaries
+- water
+- hydrography
 time_period: null
 title: Streets Composite Layer
 usage: null

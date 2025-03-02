@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Environment
 - Health / Human Services
-category: []
 license: City of Philadelphia License
 maintainer: null
 maintainer_email: null
@@ -41,6 +40,8 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- recycling
+- donations
 time_period: null
 title: Recycling and Donations Resources
 usage: null

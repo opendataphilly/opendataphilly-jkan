@@ -27,7 +27,10 @@ resources:
   url: http://www.zillow.com/howto/api/APIOverview.htm
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- Zillow
+- rent
+- home sales
 time_period: null
 title: Zillow (Phila. only)
 usage: Public Use; Free. Registration is free and entails saving/profile privileges
