@@ -31,34 +31,36 @@
     {% assign f_contact_point_fn = dataset_fields | where: "datajson", "contactPoint.fn" | first %}
     {% assign contact_point_fn = dataset[f_contact_point_fn[field_name]] %}
 
-    {% assign f_contact_point_has_email = dataset_fields | where: "datajson", "contactPoint.hasEmail" | first %}
-    {% assign contact_point_has_email = dataset[f_contact_point_has_email[field_name]] %}
+    {% assign f_contact_point_email = dataset_fields | where: "datajson", "contactPoint.hasEmail" | first %}
+    {% assign contact_point_email = dataset[f_contact_point_email[field_name]] %}
 
     {% assign f_dist_title = resource_fields | where: "datajson", "distribution.title" | first %}
     {% assign f_dist_download_url = resource_fields | where: "datajson", "distribution.downloadURL" | first %}
     {% assign f_dist_format = resource_fields | where: "datajson", "distribution.format" | first %}
    {%- endcapture -%}
 
+   {%- if contact_point_email != '' and contact_point_email != null -%}
+      {% assign is_email = true %}
+   {%- else -%}
+      {% assign is_email = false %}
+   {%- endif -%}
    {%- if publisher_name == "City of Philadelphia" -%}
-      {%- if contact_point_fn == '' -%}
+      {%- if contact_point_fn == '' or contact_point_fn == null -%}
          {% assign contact_point_fn = "City of Philadelphia Open Data Program" -%}
       {%- endif -%}
-      {%- if contact_point_has_email == '' -%}
-         {% assign contact_point_has_email = "maps@phila.gov" -%}
-      {%- endif -%}
+      {%- unless is_email -%}
+         {% assign contact_point_email = "maps@phila.gov" -%}
+      {%- endunless -%}
    {%- else -%}
-      {%- if contact_point_fn == '' -%}
+      {%- if contact_point_fn == '' or contact_point_fn == null -%}
          {% assign contact_point_fn = "OpenDataPhilly" -%}
       {%- endif -%}
-      {%- if contact_point_has_email == '' -%}
-         {% assign contact_point_has_email = "info@opendataphilly.org" -%}
-      {%- endif -%}
+      {%- unless is_email -%}
+         {% assign contact_point_email = "info@opendataphilly.org" -%}
+      {%- endunless -%}
    {%- endif -%}
 
-   
-
     {%- if title -%}
-
     {
       "title": {{ title | jsonify }},
      "identifier": {{ identifier | jsonify }},
@@ -75,7 +77,7 @@
       {% endif %}
       "contactPoint": {
         "fn": {{ contact_point_fn | jsonify }},
-        "hasEmail": {{ contact_point_has_email | prepend: "mailto:" | jsonify }}
+        "hasEmail": {{ contact_point_email | prepend: "mailto:" | jsonify }}
       },
       "license": {{ license_url | jsonify }},
       {% if publisher_name == "City of Philadelphia" %}
