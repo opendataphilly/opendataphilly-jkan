@@ -39,7 +39,7 @@
     {% assign f_dist_format = resource_fields | where: "datajson", "distribution.format" | first %}
    {%- endcapture -%}
 
-   {%- if contact_point_email != '' and contact_point_email != null -%}
+   {%- if contact_point_email contains '@' and contact_point_email != '' and contact_point_email != null -%}
       {% assign is_email = true %}
    {%- else -%}
       {% assign is_email = false %}
