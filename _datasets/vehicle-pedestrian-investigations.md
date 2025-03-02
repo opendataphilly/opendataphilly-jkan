@@ -138,7 +138,7 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=shp&skipfields=cartodb_id&q=SELECT
     * FROM car_ped_stops WHERE datetimeoccur >= '2014-01-01' AND datetimeoccur < '2015-01-01'
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Vehicle & Pedestrian Inv. (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#car_ped_stops
 - description: 2014-Present

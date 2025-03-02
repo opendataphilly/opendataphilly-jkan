@@ -30,7 +30,7 @@ resources:
   name: HIV Testing Sites (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/HIV_TESTING_SITES/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
-  format: Metadata
+  format: HTML
   name: HIV Testing Sites (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5bdb18d8ebc0c27822442a83/representationdetails/5bdb18d9ebc0c27822442a8a/
 schema: philadelphia

@@ -13,13 +13,11 @@ notes: "Data includes aerial photography of the City of Philadelphia."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
-- description: 'NOTE: To download shapefiles from PASDA, you need to copy the Download
-    link and paste in IE or Firefox.'
-  format: Imagery
-  name: 2022 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2022 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2052
-- description: 'NOTE: To download shapefiles from PASDA, you need to copy the Download
-    link and paste in IE or Firefox.'
+- description: ''
   format: SHP
   name: 2022 Imagery Tile Index (SHP)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2053
@@ -31,10 +29,9 @@ resources:
   format: JPEG
   name: 2022 AGO Aerial Imagery (JPEG)
   url: https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2022_2in/MapServer?cacheKey=a1db5313bb7cf328
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox. '
-  format: Imagery
-  name: 2020 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2020 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2050
 - description: 'ArcGIS Online (AGO) basemap of 2020 aerial imagery 3in. '
   format: JPEG
@@ -44,8 +41,7 @@ resources:
   format: HTML
   name: 2020 Imagery (Metadata)
   url: https://metadata.phila.gov/index.html#home/datasetdetails/569684f4c99154d56b426105/representationdetails/60a5277185fb37001beb8895/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
+- description: ''
   format: SHP
   name: 2020 Imagery Tile Index (SHP)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2051
@@ -57,10 +53,9 @@ resources:
   format: HTML
   name: 2020 Imagery Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/60ad5c3793f71d001ef76915/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
-  format: Imagery
-  name: 2019 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2019 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2048
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -70,8 +65,7 @@ resources:
   format: HTML
   name: 2019 Imagery (Metadata)
   url: https://metadata.phila.gov/index.html#home/datasetdetails/569684f4c99154d56b426105/representationdetails/60a52648038caf001b1eee60/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
+- description: ''
   format: SHP
   name: 2019 Imagery Tile Index (SHP)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2049
@@ -83,13 +77,11 @@ resources:
   format: HTML
   name: 2019 Imagery Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/60ad5bc50bb04f002067173c/
-- description: 'NOTE: To download shapefiles from PASDA, you need to copy the Download
-    link and paste in IE or Firefox to get to the files.'
-  format: Imagery
+- description: ''
+  format: TIF
   name: 2018 Aerial Photography (Imagery)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2019
-- description: 'NOTE: To download shapefiles from PASDA, you need to copy the Download
-    link and paste in IE or Firefox.'
+- description: ''
   format: SHP
   name: 2018 Imagery Tile Index (SHP)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2020
@@ -109,15 +101,13 @@ resources:
   format: HTML
   name: 2018 Imagery Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/60ad5b6754752b0020046f31/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
-  format: imagery
-  name: 2017 Aerial Photography Mosaics (Imagery)
+- description: ' '
+  format: ECW
+  name: 2017 Aerial Photography Mosaics (ECW and MrSID image)
   url: http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2015
-- description: 'NOTE: To download shapefiles from PASDA, you need to copy the Download
-    link and paste in IE or Firefox to get to the files.'
-  format: Imagery
-  name: 2017 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2017 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2013
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -139,10 +129,9 @@ resources:
   format: HTML
   name: 2017 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92dbe3a412c70a59599b7c/
-- description: '**NOTE**: To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files.'
-  format: HTML
-  name: 2016 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2016 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1020
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -164,10 +153,9 @@ resources:
   format: HTML
   name: 2016 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92db5aa7ba452d034c776e/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
-  format: Imagery
-  name: 2015 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2015 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1132
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -189,10 +177,9 @@ resources:
   format: HTML
   name: 2015 Aerial Imagery Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d9911f2a622cd17d4851/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
-  format: Imagery
-  name: 2014 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2014 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1128
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -214,10 +201,9 @@ resources:
   format: HTML
   name: 2014 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d93ccad229285ac9d2a0/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox. '
-  format: Imagery
-  name: 2012 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2012 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1127
 - description: ''
   format: SHP
@@ -239,10 +225,9 @@ resources:
   format: HTML
   name: 2012 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d8cb3030962c11ef21ad/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
-  format: Imagery
-  name: 2011 Aerial Photography (Imagery)
+- description: ''
+  format: JPEG
+  name: 2011 Aerial Photography (JPEG images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1040
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -264,10 +249,9 @@ resources:
   format: HTML
   name: 2011 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d85b707a6f2dda99261a/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox. '
-  format: Imagery
-  name: 2011 Aerial Imagery LeafOn (Imagery)
+- description: ''
+  format: JPEG
+  name: 2011 Aerial Imagery LeafOn (JPEG images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1129
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -281,10 +265,9 @@ resources:
   format: HTML
   name: 2011 Imagery Leaf-On (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/569684f4c99154d56b426105/representationdetails/569686ba3ef2f2a80de713b6/
-- description: '**NOTE**: To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files.'
-  format: Imagery
-  name: 2010 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2010 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1037
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -306,10 +289,9 @@ resources:
   format: HTML
   name: 2010 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d82ba418a229e006f40b/
-- description: '**NOTE**: To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files.'
-  format: Imagery
-  name: 2009 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2009 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1036
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -331,10 +313,9 @@ resources:
   format: HTML
   name: 2009 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d7fca7ba452d034c6a69/
-- description: '**NOTE**: To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files.'
-  format: Imagery
-  name: 2008 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2008 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1035
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -356,10 +337,9 @@ resources:
   format: HTML
   name: 2008 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d7c14bad6b0a66279246/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
-  format: Imagery
-  name: 2005 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2005 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1033
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -381,10 +361,9 @@ resources:
   format: HTML
   name: 2005 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d65a4bad6b0a66278dd5/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
-  format: Imagery
-  name: 2004 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2004 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1032
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
   format: JPEG
@@ -406,10 +385,9 @@ resources:
   format: HTML
   name: 2004 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d4bb1f2a622cd17d37c8/
-- description: '**NOTE: ** To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files. '
-  format: Imagery
-  name: 2000 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 2000 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1031
 - description: ''
   format: SHP
@@ -431,17 +409,16 @@ resources:
   format: HTML
   name: 2000 Aerial Photography Tile Index (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864c20583086178c4e94/representationdetails/5b92d24d9557a34616edd2ba/
-- description: '**NOTE**: To download shapefiles from PASDA, you need to copy the
-    Download link and paste in IE or Firefox to get to the files.'
-  format: HTML
-  name: 1996 Aerial Photography (Imagery)
+- description: ''
+  format: TIFF
+  name: 1996 Aerial Photography (TIFF images)
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1030
 - description: ''
   format: HTML
   name: 1996 Aerial Photography (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/569684f4c99154d56b426105/representationdetails/60da08bafaf828001e079a6c/
 - description: 'ArcGIS Online (AGO) basemap of this imagery. '
-  format: imagery
+  format: JPEG
   name: 1996 AGO Aerial Imagery (JPEG)
   url: https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_1996_6in/MapServer
 - description: ''

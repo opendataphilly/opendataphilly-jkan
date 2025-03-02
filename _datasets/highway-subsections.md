@@ -52,7 +52,7 @@ resources:
   name: Highway Subsections - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Highway_Subsections_arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
-  format: ''
+  format: HTML
   name: Highway Subsections - Line (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8128f15fcb6c6ed44103/representationdetails/5571b1b2e4fb1d91393c2136/
 schema: philadelphia

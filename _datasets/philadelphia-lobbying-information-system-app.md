@@ -2,7 +2,6 @@
 area_of_interest: Lobbying
 category:
 - Elections / Politics
-created: '2014-12-08T22:42:43.677672'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: Lobbying@phila.gov
@@ -24,19 +23,20 @@ resources:
 - description: ''
   format: HTML
   name: Philadelphia Lobbying Information System (PLIS)
-  url: http://plis.cloudapp.net/Public/wfSearch.aspx
+  url: https://www.pliscloudapp.net/
 - description: ''
   format: HTML
   name: Lobbyist Activity (Metadata)
-  url: http://cityofphiladelphia.github.io/metadata-catalog/#home/datasetdetails/5543868520583086178c4f80/
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/6427317e31ff2f0028344858/representationdetails/5571b1b7e4fb1d91393c2145/  
 - description: ''
   format: HTML
   name: Lobbyist Registration (Metadata)
-  url: http://cityofphiladelphia.github.io/metadata-catalog/#home/datasetdetails/5543868520583086178c4f81/
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/6427317e31ff2f0028344858/representationdetails/5571b1b7e4fb1d91393c2146/
 schema: philadelphia
 source: ''
 tags:
 - Board of Ethics
+- lobbying
 time_period: January 2014 - Present
 title: Philadelphia Lobbying Information System (App)
 usage: No limitations

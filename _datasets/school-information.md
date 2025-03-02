@@ -29,7 +29,7 @@ resources:
   name: Pre-School Information
   url: https://www.philasd.org/performance/programsservices/open-data/school-information/#preschool_information
 - description: ''
-  format: ''
+  format: CSV
   name: Catchment Feeder Schools
   url: https://www.philasd.org/performance/programsservices/open-data/school-information/#catchment_feeder_schools
 - description: SY 2012 - 2020

@@ -24,7 +24,7 @@ resources:
   name: Big Belly Waste Baskets (Trash Bins) (SHP)
   url: https://data.phila.gov/carto/api/v2/sql?q=SELECT+*+FROM+wastebaskets_big_belly&filename=wastebaskets_big_belly&format=shp&skipfields=cartodb_id
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Big Belly Waste Baskets (Trash Bins) (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#wastebaskets_big_belly
 - description: ''

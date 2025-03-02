@@ -158,7 +158,7 @@ resources:
   name: Voter Turnout 2016 Primary Election CSV
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+voter_turnout_primary_election_2016&format=csv&filename=voter_turnout_primary_election_2016&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api documentation
+  format: HTML
   name: Voter Turnout 2016 Primary Election API
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#voter_turnout_primary_election_2016
 - description: ''
@@ -166,7 +166,7 @@ resources:
   name: 'Voter Turnout 2016 General Election CSV '
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+voter_turnout_general_election_2016&format=csv&filename=voter_turnout_general_election_2016&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api documentation
+  format: HTML
   name: Voter Turnout 2016 General Election  API
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#voter_turnout_general_election_2016
 - description: ''

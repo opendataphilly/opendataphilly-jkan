@@ -18,7 +18,7 @@ resources:
   name: Election Board Who Worked on Election Day (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+election_worker_general&filename=election_worker_general&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Election Board Who Worked on Election Day (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#election_worker_general
 - description: ''

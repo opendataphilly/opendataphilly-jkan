@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2014-12-08T21:58:18.716956'
+created: '2005'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: brian.ivey@phila.gov
@@ -17,7 +17,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Multiple formats available for download, including SHP. '
-  format: imagery
+  format: SHP
   name: Planning Analysis Sections
   url: http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=344
 - description: ''

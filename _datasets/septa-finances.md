@@ -8,7 +8,7 @@ maintainer: SEPTA
 maintainer_email: septoid@gmail.com
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
-notes: ''
+notes: 'SEPTA financial data including expense by category and vendor and financial projections.'
 opendataphilly_rating: null
 organization: SEPTA
 resources:

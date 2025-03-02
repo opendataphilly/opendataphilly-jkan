@@ -25,7 +25,7 @@ resources:
   name: RecycleBank Participation (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+recyclebank_participation&filename=recyclebank_participation&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: API Documentation
+  format: HTML
   name: RecycleBank Participation (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#recyclebank_participation
 - description: ''

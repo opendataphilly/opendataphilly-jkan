@@ -141,7 +141,15 @@
                {% assign media_type = "image/tiff" -%}
             {%- when "PNG" -%}
                {% assign media_type = "image/png" -%}
-            {%- when "SHP", "GDB", "ZIP", "IMAGERY", "GTFS" -%}
+            {%- when "IMG", "IMAGINE", "HFA" -%}
+               {% assign media_type = "application/x-erdas-hfa" -%}
+            {%- when "ECW" -%}
+               {% assign media_type = "application/x-raster-ecw" -%}
+            {%- when "SID","MRSID" -%}
+               {% assign media_type = "application/x-raster-mrsid" -%}
+            {%- when "LAS" -%}
+               {% assign media_type = "application/vnd.las" -%}
+            {%- when "SHP", "GDB", "ZIP", "GTFS" -%}
                {% assign media_type = "application/zip" -%}
             {%- when "PDF" -%}
                {% assign media_type = "application/pdf" -%}
