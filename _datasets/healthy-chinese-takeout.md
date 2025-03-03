@@ -49,6 +49,6 @@ source: ''
 tags:
 - Philadelphia Department of Public Health
 time_period: 2015
-title: ARCHIVED - Healthy Chinese Takeout
+title: 'ARCHIVED: Healthy Chinese Takeout'
 usage: null
 ---
