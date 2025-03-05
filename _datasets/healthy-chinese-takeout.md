@@ -8,7 +8,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "This is archived and no longer an ongoing PDPH program. Data available as a point in time snapshot in 2015. 
-Healthy Chinese Takeout participants as of 2/5/15.The Philadelphia Healthy Chinese Take-out Initiative is working to prevent and control high blood pressure\
+Healthy Chinese Takeout participants as of 2/5/15.The Philadelphia Healthy Chinese Take-out Initiative worked to prevent and control high blood pressure\
   \ in Philadelphia residents by 1) reducing the sodium content in Chinese take-out\
   \ dishes by 10-15% and 2) decreasing access to tobacco products. The initiative\
   \ is a joint effort among Temple University\u2019s Center for Asian Health, the\
