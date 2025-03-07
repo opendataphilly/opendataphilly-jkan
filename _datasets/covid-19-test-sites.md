@@ -18,7 +18,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: APP
+  format: HTML
   name: COVID-19 Testing Sites (App)
   url: https://www.phila.gov/covid-testing-sites/#/
 - description: ''
