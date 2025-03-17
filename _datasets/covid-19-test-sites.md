@@ -14,9 +14,13 @@ notes: "A dataset of COVID-19 testing sites. A dataset of COVID-19 testing sites
   You will be asked for identification and will also be asked for health insurance information.
   Identification will be required to receive a test. If you don’t have health insurance,
   you may still be able to receive a test by paying out-of-pocket. Some sites may also:
+
    - Limit testing to people who meet certain criteria.
+
    - Require an appointment.
+
    - Require a referral from your doctor.
+
 
   Check a location’s specific details on the map. Then, call or visit the provider’s website before going for a test."
 opendataphilly_rating: null
