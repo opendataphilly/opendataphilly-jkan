@@ -23,7 +23,14 @@ resources:
   url: https://preservationalliance.com/wp-content/uploads/2023/01/African-American-Historic-Sites.pdf
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- historic preservation
+- architecture
+- architects
+- schools
+- churches
+- clubs
+- African American
 time_period: null
 title: Inventory of African American Historic Sites
 usage: Free

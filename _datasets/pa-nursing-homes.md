@@ -35,7 +35,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_NursingHome202206.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- nursing homes
 time_period: June 2022
 title: PA Nursing Homes
 usage: Public use; free

@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Public Safety
 created: '2015-06-09T20:36:49.446397'
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov

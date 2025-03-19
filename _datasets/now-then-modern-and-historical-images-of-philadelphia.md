@@ -21,7 +21,8 @@ resources:
   url: http://skookul.com/now-and-then/
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- photography
 time_period: null
 title: 'Now & Then: Modern and Historical Images of Philadelphia'
 usage: Public Use; Free

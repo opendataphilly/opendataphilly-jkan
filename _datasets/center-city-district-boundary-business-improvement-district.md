@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Economy
+- Planning / Zoning
 created: '2015-06-09T21:48:58.392460'
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov

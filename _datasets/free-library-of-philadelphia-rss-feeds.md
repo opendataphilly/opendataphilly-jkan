@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Education
+- Arts / Culture / History
 created: '2014-12-08T22:40:07.649199'
 license: License Not Specified
 maintainer: null
@@ -36,7 +37,10 @@ resources:
   url: http://libwww.freelibrary.org/diglib/rss.cfm
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- libraries
+- books
+- podcasts
 time_period: null
 title: Free Library of Philadelphia RSS Feeds
 usage: You are welcome to use Free Library of Philadelphia RSS feeds for personal

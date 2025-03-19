@@ -36,7 +36,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_PsychiatricResidentialTreatFacilities202311.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- psychiatric residential treatment
 time_period: November 2023
 title: PA Psychiatric Residential Treatment Facilities
 usage: Public use; free

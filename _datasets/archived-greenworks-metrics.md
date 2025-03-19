@@ -57,7 +57,14 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- environment
+- Greenworks
+- water
+- sustainabilty
+- climate change
+- trees
+- air quality
+- energy
+- SNAP
 time_period: null
 title: 'ARCHIVED: Greenworks Metrics'
 usage: null

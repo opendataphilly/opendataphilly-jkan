@@ -31,7 +31,8 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaHouse2024_03.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- State House of Representatives
 time_period: March 2024
 title: PA State House of Representatives Districts
 usage: Public Use; Free

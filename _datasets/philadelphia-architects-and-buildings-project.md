@@ -22,7 +22,10 @@ resources:
   url: http://www.philadelphiabuildings.org/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- architects
+- architecture
+- buildings
 time_period: null
 title: Philadelphia Architects and Buildings Project
 usage: Free guest access provided. Paid subscriptions support the project and provide

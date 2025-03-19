@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Planning / Zoning
+- Real Estate / Land Records
 created: '2015-06-02T02:57:53.351178'
 license: City of Philadelphia License
 maintainer: Mark Dodds

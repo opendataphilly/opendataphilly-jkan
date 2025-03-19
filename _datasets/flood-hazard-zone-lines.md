@@ -40,7 +40,13 @@ resources:
   url: https://www.pasda.psu.edu/download/fema/FEMA_NFHL_420757_Philadelphia_County_20190926.zip
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- FEMA
+- flooding
+- elevation
+- flood insurance
+- emergencies
+- hazards
 time_period: 06/02/2005
 title: Flood Hazard Zone Lines
 usage: Public Use; Free

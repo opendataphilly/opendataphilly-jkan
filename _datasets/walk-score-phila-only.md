@@ -33,7 +33,11 @@ resources:
   url: http://www.walkscore.com/professional/api.php
 schema: philadelphia
 source: https://www.walkscore.com/about.shtml
-tags: []
+tags: 
+- walkability
+- pedestrian
+- neighborhoods
+- accessibility
 time_period: null
 title: Walk Score (Phila. only)
 usage: Public Use; Free. API requires registration and key. Trial registration allows

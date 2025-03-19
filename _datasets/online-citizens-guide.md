@@ -25,7 +25,10 @@ resources:
   url: http://guide.seventy.org/
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- polling places
+- ballots
+- elected officials
 time_period: Current
 title: Online Citizen's Guide
 usage: Public Use; Free

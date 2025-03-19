@@ -128,7 +128,9 @@ resources:
 
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- SEPTA
+- public transit
 time_period: null
 title: SEPTA Routes, Stops, and Locations
 usage: Public Use; Free

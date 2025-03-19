@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Planning / Zoning
+- Real Estate / Land Records
 created: '2016-11-14T17:46:54.215540'
 license: City of Philadelphia License
 maintainer: ''
@@ -77,6 +79,7 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Licenses and Inspections
+- vacant property
 time_period: null
 title: Vacant Property Indicators
 usage: null

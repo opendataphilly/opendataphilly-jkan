@@ -50,7 +50,9 @@ resources:
   url: https://www3.septa.org/VIRegionalRail.html
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- SEPTA
+- public transit
 time_period: null
 title: SEPTA Regional Rail APIs
 usage: Public Use

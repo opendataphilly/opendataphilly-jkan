@@ -19,7 +19,9 @@ resources:
   url: https://www.septa.org/realtime-map/
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- SEPTA
+- public transit
 time_period: Current
 title: SEPTA Real-time Map
 usage: Public Use

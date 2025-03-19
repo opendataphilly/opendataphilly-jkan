@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category:
+- Environment
 created: '2015-06-25T17:21:24.464458'
 license: City of Philadelphia License
 maintainer: ''

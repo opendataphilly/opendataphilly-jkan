@@ -32,7 +32,8 @@ resources:
   url: https://metadata.phila.gov/#home/datasetdetails/63065d27c87ca20022c50942/representationdetails/63065d27c87ca20022c50951/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- civil service
 time_period: null
 title: Residency Waivers
 usage: null

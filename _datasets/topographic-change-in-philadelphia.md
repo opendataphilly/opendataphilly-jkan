@@ -56,7 +56,9 @@ resources:
 
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- topography
+- elevation
 time_period: 1901-2000
 title: Topographic Change in Philadelphia
 usage: Public Use; Free

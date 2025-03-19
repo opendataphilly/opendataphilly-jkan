@@ -30,7 +30,10 @@ resources:
   url: http://www.pasda.psu.edu/pasda/UCI_Metadata/MunicipalWasteOperations2011_04.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- landfills
+- composting
+- recycling
 time_period: null
 title: Municipal Waste Operations
 usage: Public Use; Free

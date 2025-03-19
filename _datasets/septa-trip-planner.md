@@ -18,7 +18,9 @@ resources:
   url: https://plan.septa.org/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- SEPTA
+- public transit
 time_period: null
 title: SEPTA Trip Planner
 usage: Public use

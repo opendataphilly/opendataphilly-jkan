@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Economy
 created: '2021-10-16T23:41:59.645713'
 license: License Not Specified
 maintainer: ''
@@ -32,7 +33,10 @@ resources:
 schema: philadelphia
 source: https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2021/pew-dashboard-tracks-philadelphias-economic-recovery-and-growth-in-the-age-of-covid
 tags:
-- Economy
+- business
+- bankruptcy
+- finance
+- jobs
 time_period: null
 title: Philadelphia Business Dashboard
 usage: null
