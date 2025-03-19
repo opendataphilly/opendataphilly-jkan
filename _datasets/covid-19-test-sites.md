@@ -3,24 +3,33 @@ area_of_interest: null
 category:
 - Economy
 - Health / Human Services
-created: '2020-09-21T11:44:46.978895'
 license: City of Philadelphia License
 maintainer: PublicHealthInfo@phila.gov
 maintainer_email: PublicHealthInfo@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "A dataset of free COVID-19 testing sites. \r\n\r\n__If looking for a test,\
-  \ please use the [Testing Sites locator app](https://www.phila.gov/covid-testing-sites/#/).__\
-  \ \u200BNo testing site will ask you for money. You will be asked for identification\
-  \ and may also be asked for health insurance information. If you don\u2019t have\
-  \ identification or health insurance, you can still get a test. In addition, some\
-  \ sites may:\r\n* Limit testing to people who meet certain criteria.\r\n* Require\
-  \ an appointment.\r\n* Require a referral from your doctor.\r\n* Ask you to stay\
-  \ in your car (for drive-thru sites).\r\n\r\nCheck a location\u2019s specific details\
-  \ on the map. Then, call or visit the provider's website before going for a test."
+notes: "A dataset of COVID-19 testing sites. A dataset of COVID-19 testing sites.
+
+  **If looking for a test, please use the [Testing Sites locator app](https://www.phila.gov/covid-testing-sites/#/)**. 
+  You will be asked for identification and will also be asked for health insurance information.
+  Identification will be required to receive a test. If you don’t have health insurance,
+  you may still be able to receive a test by paying out-of-pocket. Some sites may also:
+
+   - Limit testing to people who meet certain criteria.
+
+   - Require an appointment.
+
+   - Require a referral from your doctor.
+
+
+  Check a location’s specific details on the map. Then, call or visit the provider’s website before going for a test."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
+- description: ''
+  format: HTML
+  name: COVID-19 Testing Sites (App)
+  url: https://www.phila.gov/covid-testing-sites/#/
 - description: ''
   format: CSV
   name: COVID-19 Testing Sites (CSV)
