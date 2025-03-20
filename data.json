@@ -76,7 +76,6 @@
       {%- for tag in dataset.tags -%}
          {{ tag | jsonify }}{%- unless forloop.last -%},{%- endunless -%}
       {%- endfor -%}
-      {%- if category -%},{%- endif -%}
       {%- for cat in dataset.categories -%}
          {%- assign cat_split = cat | split: " / " -%} 
          {%- if cat_split.size > 1 -%}
