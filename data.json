@@ -73,22 +73,22 @@
       "description": {{ description | jsonify }},
       {% endif %}
       "keyword":[
-      {%- for tag in dataset.tags -%}
-         {{ tag | jsonify }}{%- unless forloop.last -%},{%- endunless -%}
-      {%- endfor -%}
-      {%- if category -%},{%- endif -%}
-      {%- for cat in dataset.categories -%}
-         {%- assign cat_split = cat | split: " / " -%} 
-         {%- if cat_split.size > 1 -%}
-           {%- for cs in cat_split -%}
-              {{ cs | downcase | jsonify }}
-              {%- unless forloop.last -%},{%- endunless -%}
-           {%- endfor -%}
-         {%- else -%}
-            {{ cat | downcase | jsonify }}
-         {%- endif -%}
-         {%- unless forloop.last -%},{%- endunless -%}
-      {%- endfor -%}
+         {%- for cat in dataset.categories -%}
+            {%- assign cat_split = cat | split: " / " -%} 
+            {%- if cat_split.size > 1 -%}
+              {%- for cs in cat_split -%}
+                 {{ cs | downcase | jsonify }}
+                 {%- unless forloop.last -%},{%- endunless -%}
+              {%- endfor -%}
+            {%- else -%}
+               {{ cat | downcase | jsonify }}
+            {%- endif -%}
+            {%- unless forloop.last -%},{%- endunless -%}
+         {%- endfor -%}
+         {%- for tag in dataset.tags -%}
+           {%- if category and forloop.first -%},{%- endif -%}
+           {{ tag | jsonify }}{%- unless forloop.last -%},{%- endunless -%}
+         {%- endfor -%}
       ],
       "contactPoint": {
         "fn": {{ contact_point_fn | jsonify }},
