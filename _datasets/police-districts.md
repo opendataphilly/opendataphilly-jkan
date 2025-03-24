@@ -2,7 +2,6 @@
 area_of_interest: City of Philadelphia
 category:
 - Public Safety
-created: '2014-12-08T22:12:33.763737'
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: Police Districts (CSV)
-  url: https://opendata.arcgis.com/datasets/62ec63afb8824a15953399b1fa819df2_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/62ec63afb8824a15953399b1fa819df2_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Police Districts (SHP)
-  url: https://opendata.arcgis.com/datasets/62ec63afb8824a15953399b1fa819df2_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/62ec63afb8824a15953399b1fa819df2_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Police Districts (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/62ec63afb8824a15953399b1fa819df2_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/62ec63afb8824a15953399b1fa819df2_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: api
   name: Police Districts (API)
