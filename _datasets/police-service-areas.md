@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Boundaries
 - Public Safety
-created: '2014-12-08T22:34:27.848090'
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Police Service Areas (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/8dc58605f9dd484295c7d065694cdc0f_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/8dc58605f9dd484295c7d065694cdc0f_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Police Service Areas (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/8dc58605f9dd484295c7d065694cdc0f_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/8dc58605f9dd484295c7d065694cdc0f_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Police Service Areas (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/8dc58605f9dd484295c7d065694cdc0f_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/8dc58605f9dd484295c7d065694cdc0f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: api
   name: Police Service Areas (API)
