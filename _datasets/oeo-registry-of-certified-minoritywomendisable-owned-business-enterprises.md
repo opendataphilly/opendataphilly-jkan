@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Economy
-created: '2015-01-21T19:19:30.024943'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -17,7 +16,7 @@ resources:
 - description: ''
   format: HTML
   name: OEO Search App (Application)
-  url: https://phila.mwdsbe.com/FrontEnd/VendorSearchPublic.asp
+  url: https://phila.mwdsbe.com/
 - description: ''
   format: CSV
   name: Registered MWD Owned Businesses (CSV)
