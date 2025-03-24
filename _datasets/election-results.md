@@ -18,7 +18,7 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Election Results 2013-present (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/fe3cb6babdb94583b16e3832070bf457_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/fe3cb6babdb94583b16e3832070bf457_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Election Results 2013-present (API)
