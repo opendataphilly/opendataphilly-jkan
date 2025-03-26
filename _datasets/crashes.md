@@ -15,6 +15,10 @@ notes: "This data set contains crash data for many years from the Pennsylvania\
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
+- description: Vision Zero dashboard on reducing traffic deaths. 
+  format: HTML
+  name: Reducing Traffic Deaths (Visualization)
+  url: https://storymaps.arcgis.com/stories/814b1b2ace6f46f7b7e470504ac08b5e
 - description: This is a subset of the annual Crash Data compiled and released by Penn DOT for the entire state. This data set contains only those crashes that occurred within the City limits.
   format: CSV
   name: Crash Data 2019-2023 (CSV)
@@ -159,6 +163,8 @@ schema: philadelphia
 source: ''
 tags:
 - Mayors Office of Transportation and Utilities
+- crashes
+- Vision Zero
 time_period: null
 title: Crashes data
 usage: null
