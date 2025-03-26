@@ -163,6 +163,8 @@ schema: philadelphia
 source: ''
 tags:
 - Mayors Office of Transportation and Utilities
+- crashes
+- Vision Zero
 time_period: null
 title: Crashes data
 usage: null
