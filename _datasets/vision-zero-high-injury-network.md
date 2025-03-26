@@ -6,7 +6,6 @@ category:
 - Planning / Zoning
 - Public Safety
 - Transportation
-created: '2017-10-02T18:07:13.814790'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -17,6 +16,10 @@ notes: "This data contains the High Injury Network. It is derived using spatial 
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
+- description: Vision Zero dashboard on reducing traffic deaths. 
+  format: HTML
+  name: Reducing Traffic Deaths (Visualization)
+  url: https://storymaps.arcgis.com/stories/814b1b2ace6f46f7b7e470504ac08b5e
 - description: Visualization and methodology for the 2020 High Injury Network.
   format: HTML
   name: High Injury Network - 2020 (Visualization)
