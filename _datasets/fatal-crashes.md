@@ -52,6 +52,9 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Police Department
+- crashes
+- accidents
+- Vision Zero
 time_period: null
 title: Fatal Crashes
 usage: null
