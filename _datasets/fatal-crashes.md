@@ -3,7 +3,6 @@ area_of_interest: null
 category: 
 - Transporation
 - Health / Human Services
-created: '2019-09-25T13:31:38.143475'
 license: City of Philadelphia License
 maintainer: Captain Heinzeroth
 maintainer_email: robert.heinzeroth@phila.gov
@@ -23,6 +22,10 @@ notes: "This data set shows all fatal crashes and their investigative outcomes f
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
+- description: Vision Zero dashboard on reducing traffic deaths. 
+  format: HTML
+  name: Reducing Traffic Deaths (Visualization)
+  url: https://storymaps.arcgis.com/stories/814b1b2ace6f46f7b7e470504ac08b5e
 - description: ''
   format: CSV
   name: Fatal Crashes (CSV)
@@ -49,6 +52,9 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Police Department
+- crashes
+- accidents
+- Vision Zero
 time_period: null
 title: Fatal Crashes
 usage: null
