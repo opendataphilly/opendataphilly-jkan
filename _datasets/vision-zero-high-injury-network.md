@@ -47,7 +47,7 @@ resources:
   name: High Injury Network - 2020 (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/59d24a6eb267a12113d99ba8/representationdetails/6054eed62a7ca3001b754011/
 - description: ''
-  format: visualization
+  format: HTML
   name: High Injury Network - 2017 (Visualization)
   url: https://cityofphiladelphia.carto.com/u/phl/builder/9f611db9-9184-4b97-81f6-e99edb8f8293/embed
 - description: ''
