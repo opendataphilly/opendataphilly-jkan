@@ -20,7 +20,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Annually'
-  format: visualization
+  format: HTML
   name: 2015 Releases (Visualization)
   url: https://data.phila.gov/visualizations/prison-releases/
 - description: 'Update Frequency: Annually'
