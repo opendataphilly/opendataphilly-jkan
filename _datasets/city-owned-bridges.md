@@ -26,7 +26,7 @@ resources:
   name: City Owned Bridges (GeoJSON)
   url: https://opendata.arcgis.com/datasets/da0aac472cc6431dbea2fc90ad3f7463_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: City Owned Bridges (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/City_Owned_Bridges/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

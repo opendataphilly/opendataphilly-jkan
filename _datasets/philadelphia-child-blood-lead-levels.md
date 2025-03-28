@@ -36,7 +36,7 @@ resources:
   name: Philadelphia Child Blood Lead Levels By Zip Code (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+child_blood_lead_levels_by_zip&filename=child_blood_lead_levels_by_zip&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: Philadelphia Child Blood Lead Levels By Zip Code (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#child_blood_lead_levels_by_zip
 - description: ''
@@ -56,7 +56,7 @@ resources:
   name: Philadelphia Child Blood Lead Levels By Census Tract (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+child_blood_lead_levels_by_ct&filename=child_blood_lead_levels_by_ct&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: Philadelphia Child Blood Lead Levels By Census Tract (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#child_blood_lead_levels_by_ct
 - description: ''

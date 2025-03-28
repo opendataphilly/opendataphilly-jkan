@@ -25,7 +25,7 @@ resources:
   name: 2015 FEMA 100 Flood Plain (GeoJSON)
   url: https://opendata.arcgis.com/datasets/1d6d353ab50b4884b586c05ee2a661db_0.geojson
 - description: 'Update Frequency: As released by FEMA'
-  format: api
+  format: API
   name: 2015 FEMA 100 Year Flood Plain (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/FEMA_100_flood_Plain/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -45,7 +45,7 @@ resources:
   name: 2015 FEMA 500 Year Flood Plain (GeoJSON)
   url: https://opendata.arcgis.com/datasets/1e6f6315225544c88549478d25cc5181_0.geojson
 - description: 'Update Frequency: As released by FEMA'
-  format: api
+  format: API
   name: 2015 FEMA 500 Year Flood Plain (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/FEMA_500_Flood_Plain/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -26,7 +26,7 @@ resources:
   name: Rain Check Installation Sites (GeoJSON)
   url: https://opendata.arcgis.com/datasets/df844a47a94941fea3c45b2cd60af5f9_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Rain Check Installation Sites (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/RainCheck_Installed/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

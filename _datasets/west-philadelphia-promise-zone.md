@@ -29,7 +29,7 @@ resources:
   name: West Philadelphia Promise Zone (GeoJSON)
   url: https://opendata.arcgis.com/datasets/3f82e6a185d8407b809117e254b9d0c8_0.geojson
 - description: ''
-  format: api
+  format: API
   name: West Philadelphia Promise Zone (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Philadelphia_Promise_Zone/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

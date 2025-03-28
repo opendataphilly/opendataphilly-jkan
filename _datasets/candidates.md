@@ -20,7 +20,7 @@ resources:
   name: 2015 Unofficial Candidates (CSV)
   url: ''
 - description: THIS DATASET IS UNDER CONSTRUCTION AND WILL BE RE-RELEASED SHORTLY
-  format: api
+  format: API
   name: 2015 Unofficial Candidates (API)
   url: ''
 - description: ''

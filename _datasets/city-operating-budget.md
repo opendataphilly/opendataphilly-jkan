@@ -34,7 +34,7 @@ resources:
   name: FY2017 Proposed (CSV)
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+operating_budget_fy_2017_proposed&format=csv&filename=operating_budget_fy_2017_proposed&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: FY2017 Proposed (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#operating_budget_fy_2017_proposed
 - description: ''
@@ -42,7 +42,7 @@ resources:
   name: FY2016 Adopted (CSV)
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+ operating_budget_fy_2016_adopted&format=csv&filename=operating_budget_fy_2016_adopted&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: FY2016 Adopted (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#operating_budget_fy_2016_adopted
 - description: ''
@@ -54,7 +54,7 @@ resources:
   name: FY2016 Proposed (CSV)
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+ operating_budget_fy_2016_proposed&format=csv&filename=operating_budget_fy_2016_proposed&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: FY2016 Proposed (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#operating_budget_fy_2016_proposed
 - description: ''
@@ -67,7 +67,7 @@ resources:
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+ operating_budget_fy_2015_adopted&format=csv&filename=
     operating_budget_fy_2015_adopted&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: FY2015 Adopted (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#operating_budget_fy_2015_adopted
 - description: ''
@@ -80,7 +80,7 @@ resources:
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+ operating_budget_fy_2015_current_estimate&format=csv&filename=
     operating_budget_fy_2015_current_estimate&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: as of 3/5/15
-  format: api
+  format: API
   name: FY2015 Current Estimate (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#operating_budget_fy_2015_current_estimate
 - description: as of 3/5/15

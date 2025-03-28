@@ -25,7 +25,7 @@ resources:
   name: 2024 Philadelphia Tree Inventory (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/503632092a0741bb92fbcde496722691_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2024 Philadelphia Tree Inventory (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/ppr_tree_inventory_2024/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -45,7 +45,7 @@ resources:
   name: 2023 Philadelphia Tree Inventory (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/bde5dd63e2464c3c94797f83c3076374_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2023 Philadelphia Tree Inventory (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/ppr_tree_inventory_2023/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -85,7 +85,7 @@ resources:
   name: 2021 Philadelphia Tree Inventory (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=geojson&spatialRefId=4326
 - description: ''
-  format: api
+  format: API
   name: 2021 Philadelphia Tree Inventory (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/PPR_Tree_Inventory_2021/FeatureServer/0/query?where=1%3D1
 - description: ""

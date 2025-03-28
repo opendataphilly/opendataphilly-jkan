@@ -17,7 +17,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: 2018 PPR Districts (Visualization)
   url: https://cityofphiladelphia.carto.com/u/phl/builder/d5b99ba8-bc72-460b-8d95-2c29c1efdeb8/embed
 - description: ''
@@ -53,7 +53,7 @@ resources:
   name: 2011 PPR Districts (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/d71cf86f5209459ba838995969f055f0_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2011 PPR Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PPR_Districts_2011/FeatureServer
 - description: ''

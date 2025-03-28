@@ -31,7 +31,7 @@ resources:
   name: Philadelphia Registered Historic Sites (SHP)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+historic_sites_philreg&filename=historic_sites_philreg&format=shp&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: Philadelphia Registered Historic Sites (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#historic_sites_philreg
 - description: ''

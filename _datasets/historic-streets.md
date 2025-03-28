@@ -26,7 +26,7 @@ resources:
   name: Historic Streets - Line (GeoJSON)
   url: https://opendata.arcgis.com/datasets/9409bce14c4e4768a11a8432e80bfa68_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Historic Streets - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Historic_Streets/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -46,7 +46,7 @@ resources:
   name: Historic Streets - Polygon (GeoJSON)
   url: https://opendata.arcgis.com/datasets/b2c418f6e531486283f0c35a1104faee_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Historic Streets - Polygon (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Historic_Streets_Poly/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

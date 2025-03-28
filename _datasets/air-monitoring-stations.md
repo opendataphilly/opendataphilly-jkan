@@ -26,7 +26,7 @@ resources:
   name: Air Monitoring Stations (GeoJSON)
   url: https://opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.geojson
 - description: "Update frequency: Yearly\r\n\r\n"
-  format: api
+  format: API
   name: Air Monitoring Stations (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Air_Monitoring_Stations/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: "Update frequency: Yearly\r\n"

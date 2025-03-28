@@ -28,7 +28,7 @@ resources:
   name: Highway Subsections (GeoJSON)
   url: https://opendata.arcgis.com/datasets/2693b2ecf87e4f789ec3f8901e939bcb_0.geojson
 - description: ''
-  format: api
+  format: API
   name: 'Highway Subsections (API) '
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Highway_Subsections_arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -48,7 +48,7 @@ resources:
   name: Highway Subsections - Line (GeoJSON)
   url: https://opendata.arcgis.com/datasets/a81285f4822241499255b4aa63b91d2b_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Highway Subsections - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Highway_Subsections_arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

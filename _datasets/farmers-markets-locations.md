@@ -25,7 +25,7 @@ resources:
   name: Farmers Markets Locations (GeoJSON)
   url: https://opendata.arcgis.com/datasets/0707c1f31e2446e881d680b0a5ee54bc_0.geojson
 - description: "\r\n"
-  format: api
+  format: API
   name: Farmers Markets Locations (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Farmers_Markets/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: "\r\n"

@@ -17,7 +17,7 @@ resources:
   name: Economic Opportunity Plans Public CSV
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+eop_avi_nonpubworks_pubprop_streets_water&format=csv&filename=eop_avi_nonpubworks_pubprop_streets_water&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: Economic Opportunity Plans Public Projects API
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#eop_avi_nonpubworks_pubprop_streets_water
 - description: ''
@@ -29,7 +29,7 @@ resources:
   name: Economic Opportunity Plans Private and Non-profit CSV
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+eop_private_np&format=csv&filename=eop_private_np&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: Economic Opportunity Plans Private and Non-profit API
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#eop_private_np
 - description: ''
@@ -41,7 +41,7 @@ resources:
   name: Economic Opportunity Plans OHCD & PIDC CSV
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+eop_ohcd_pidc&format=csv&filename=eop_ohcd_pidc&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: Economic Opportunity Plans OHCD & PIDC API
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#eop_ohcd_pidc
 - description: ''

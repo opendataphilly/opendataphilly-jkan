@@ -28,7 +28,7 @@ resources:
   name: Street Nodes (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/1c755104f5644b3ca83e770f684c8a37_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Street Nodes (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Street_Nodes/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

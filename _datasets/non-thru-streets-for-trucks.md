@@ -28,7 +28,7 @@ resources:
   name: Non-Thru Streets for Trucks (GeoJSON)
   url: https://opendata.arcgis.com/datasets/7d3d337cd35f4fd19ea9a52604a89bfe_0.geojson
 - description: ''
-  format: api
+  format: API
   name: No n-Thru Streets for Trucks (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/No_thru_Trucks/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

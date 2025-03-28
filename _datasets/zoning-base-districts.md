@@ -69,7 +69,7 @@ resources:
   name: 2023 Zoning Base Districts (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/c12ac152590e4f6e8b05f82b56e2efe0_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2023 Zoning Base Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/zoning_basedistricts_032023/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -109,7 +109,7 @@ resources:
   name: 2021 Zoning Base Districts (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/b0473d44b7b94bb6828aa81d853c56dc_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2021 Zoning Base Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/zoning_basedistricts_122021/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

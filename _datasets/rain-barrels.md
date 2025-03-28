@@ -26,7 +26,7 @@ resources:
   name: Rain Barrels (GeoJSON)
   url: https://opendata.arcgis.com/datasets/da8b20fb584f4dd58f28861c8f29311f_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Rain Barrels (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/RainBarrel_Installed/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

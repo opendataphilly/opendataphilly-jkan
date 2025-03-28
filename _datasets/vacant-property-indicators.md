@@ -28,7 +28,7 @@ resources:
   name: Vacant Property Indicators - Buildings (GeoJSON)
   url: https://opendata.arcgis.com/datasets/f7ed68293c5e40d58f1de9c8435c3e84_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Vacant Property Indicators - Buildings (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Vacant_Indicators_Bldg/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

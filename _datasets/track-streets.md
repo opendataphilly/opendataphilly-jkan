@@ -26,7 +26,7 @@ resources:
   name: Track Streets (GeoJSON)
   url: https://opendata.arcgis.com/datasets/474e6d9781a44135afa805fa985bc4ef_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Track Streets (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Tracks/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

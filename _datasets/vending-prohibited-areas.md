@@ -29,7 +29,7 @@ resources:
   name: Vending Prohibited Areas (GeoJSON)
   url: https://opendata.arcgis.com/datasets/ce24c5700c7b4c70bead03181934c573_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Vending Prohibited Areas (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Vending_Prohibited_Areas/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

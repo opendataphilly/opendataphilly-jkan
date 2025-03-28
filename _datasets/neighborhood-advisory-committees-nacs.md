@@ -48,7 +48,7 @@ resources:
   name: NAC Service Areas (GeoJSON)
   url: https://opendata.arcgis.com/datasets/d6e9e21e6c844fa5a94e928b39f02352_0.geojson
 - description: ''
-  format: api
+  format: API
   name: NAC Service Areas (GeoService)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/NeighborhoodAdvisoryCommittees/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

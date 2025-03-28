@@ -27,7 +27,7 @@ resources:
   name: Street Arterials (GeoJSON)
   url: https://opendata.arcgis.com/datasets/261eeb49dfd44ccb8a4b6a0af830fdc8_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: Street Arterials (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Streets_Arterials/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

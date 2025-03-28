@@ -63,7 +63,7 @@ resources:
   name: High Injury Network - 2017 (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+high_injury_network_2017&filename=high_injury_network_2017&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: High Injury Network - 2017 (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#high_injury_network_2017
 - description: ''

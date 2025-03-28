@@ -26,7 +26,7 @@ resources:
   name: Ryan White HIV Treatment Centers (GeoJSON)
   url: https://opendata.arcgis.com/datasets/35f143034f324ccdaf3a1a8a4c0e8f5f_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Ryan White HIV Treatment Centers (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/RW_HIV_Treatment_Centers/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

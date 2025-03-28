@@ -202,7 +202,7 @@ resources:
   name: Professional Services Contracts Metadata
   url: http://metadata.phila.gov/#home/datasetdetails/5543868420583086178c4f7c/
 - description: 'An app to view professional services contracts.  '
-  format: Application
+  format: HTML
   name: Procurement contracts application
   url: http://cityofphiladelphia.github.io/contracts/commodities/
 schema: philadelphia

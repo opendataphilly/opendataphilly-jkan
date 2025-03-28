@@ -433,7 +433,7 @@ resources:
   name: 2013 Properties Reported (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+energy_usage_large_commercial_buildings_reported_2013&filename=energy_usage_large_commercial_buildings_reported_2013&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: 2013 Properties Reported (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#energy_usage_large_commercial_buildings_reported_2013
 - description: ''
@@ -453,7 +453,7 @@ resources:
   name: '2013 Properties Not Reported (GeoJSON) '
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+energy_usage_large_commercial_buildings_not_reported_2013&filename=energy_usage_large_commercial_buildings_not_reported_2013&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: 2013 Properties Not Reported (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#energy_usage_large_commercial_buildings_not_reported_2013
 - description: ''

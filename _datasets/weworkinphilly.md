@@ -17,7 +17,7 @@ opendataphilly_rating: null
 organization: WeWorkInPhilly
 resources:
 - description: ''
-  format: api
+  format: API
   name: JSON API
   url: https://github.com/alexknowshtml/We-Work-In-Philly/wiki#api
 - description: ''

@@ -31,7 +31,7 @@ resources:
   name: Special Vending Districts (GeoJSON)
   url: https://opendata.arcgis.com/datasets/fc8edb9802c944ed809213b9942e67cf_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Special Vending Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Vending_Special_Districts/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

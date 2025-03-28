@@ -33,7 +33,7 @@ resources:
   name: Political Wards (GeoJSON)
   url: https://opendata.arcgis.com/datasets/d67c97376d18456d98e5fa6e00415ad4_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Political Wards (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Political_Wards/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: philadelphia
