@@ -30,7 +30,7 @@ resources:
   name: Street Poles (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/9059a7546b6a4d658bef9ce9c84e4b03_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Street Poles (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Street_Poles/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

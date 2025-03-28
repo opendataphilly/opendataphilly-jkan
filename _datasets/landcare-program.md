@@ -26,7 +26,7 @@ resources:
   name: Current LandCare Properties (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/8fc146b50f3a45edb8348e9b1ba52252_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Current LandCare Properties (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/phs_landcare/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

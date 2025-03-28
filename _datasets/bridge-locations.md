@@ -28,7 +28,7 @@ resources:
   name: Bridge Locations (GeoJSON)
   url: https://opendata.arcgis.com/datasets/86b01c9fd2224698a43ed8cebfac84ec_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: Bridge Locations (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Bridge_Locations/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

@@ -27,7 +27,7 @@ resources:
   name: RCO Boundaries (GeoJSON)
   url: https://opendata.arcgis.com/datasets/efbff0359c3e43f190e8c35ce9fa71d6_0.geojson
 - description: ''
-  format: api
+  format: API
   name: RCO Boundaries (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Zoning_RCO/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

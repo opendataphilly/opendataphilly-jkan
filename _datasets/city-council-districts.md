@@ -25,7 +25,7 @@ resources:
   name: City Council Districts - 2024 (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/1ba5a5d68f4a4c75806e78b1d9245924_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: City Council Districts - 2024 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Council_Districts_2024/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'
@@ -45,7 +45,7 @@ resources:
   name: City Council Districts - 2016 (GeoJSON)
   url: https://opendata.arcgis.com/datasets/9298c2f3fa3241fbb176ff1e84d33360_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: City Council Districts - 2016 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Council_Districts_2016/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'
@@ -65,7 +65,7 @@ resources:
   name: City Council Districts - 2000 (GeoJSON)
   url: https://opendata.arcgis.com/datasets/6221d40328a747ac95daa36e79a89bdd_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: City Council Districts - 2000 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Council_Districts_2000/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: Never'
@@ -85,7 +85,7 @@ resources:
   name: City Council Districts - 1990 (GeoJSON)
   url: https://opendata.arcgis.com/datasets/e1509fe9cd3c433a824305bcc7c84797_0.geojson
 - description: 'Update Frequency: As Needed '
-  format: api
+  format: API
   name: City Council Districts - 1990 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Council_Districts_1990/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

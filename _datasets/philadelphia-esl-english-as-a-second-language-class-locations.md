@@ -15,7 +15,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: Philadelphia ESL Class Locations (Map)
   url: http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
 - description: ''

@@ -130,7 +130,7 @@ resources:
   name: Voter Registry 2015 Special Election (CSV)
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+qualified_voter_listing_2015_special_election&format=csv&filename=qualified_voter_listing_2015_special_election&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: Voter Registry 2015 Special Election (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#qualified_voter_listing_2015_special_election
 - description: ''
@@ -138,7 +138,7 @@ resources:
   name: Voter Registry 2015 Primary (CSV)
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+qualified_voter_listing_2015_primary_election&format=csv&filename=qualified_voter_listing_2015_primary_election&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: Voter Registry 2015 Primary (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#qualified_voter_listing_2015_primary_election
 - description: ''
@@ -146,7 +146,7 @@ resources:
   name: Voter Registry 2014 General (CSV)
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+qualified_voter_listing_2014_general_election&format=csv&filename=qualified_voter_listing_2014_general_election&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: Voter Registry 2014 General (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#qualified_voter_listing_2014_general_election
 - description: ''
@@ -174,7 +174,7 @@ resources:
   name: Voter Turnout 2015 Special Election CSV
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+voter_turnout_special_election_2015&format=csv&filename=voter_turnout_special_election_2015&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: Voter Turnout 2015 Special Election API
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#voter_turnout_special_election_2015
 - description: ''
@@ -186,7 +186,7 @@ resources:
   name: Voter Turnout 2015 Primary Election CSV
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+voter_turnout_primary_election_2015&format=csv&filename=voter_turnout_primary_election_2015&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: Voter Turnout 2015 Primary Election API
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#voter_turnout_primary_election_2015
 - description: ''
@@ -198,7 +198,7 @@ resources:
   name: Voter Turnout 2014 General Election CSV
   url: https://phl.carto.com/api/v2/sql?q=select+*+from+voter_turnout_general_election_2014&format=csv&filename=voter_turnout_general_election_2014&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: api
+  format: API
   name: Voter Turnout 2014 General Election API
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#voter_turnout_general_election_2014
 - description: ''

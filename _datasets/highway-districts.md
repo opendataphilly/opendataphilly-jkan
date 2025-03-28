@@ -47,7 +47,7 @@ resources:
   name: Highway Districts - Line (GeoJSON)
   url: https://opendata.arcgis.com/datasets/68587b08a7d3491f99f83e380d85403c_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Highway Districts - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Highway_Districts_arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

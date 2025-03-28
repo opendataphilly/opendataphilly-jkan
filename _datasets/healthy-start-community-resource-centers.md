@@ -26,7 +26,7 @@ resources:
   name: Healthy Start CRCs (GeoJSON)
   url: https://opendata.arcgis.com/datasets/133a6c3a074843c6ab62b51f31a114a8_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Healthy Start CRCs (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Healthy_Start_CRCs/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

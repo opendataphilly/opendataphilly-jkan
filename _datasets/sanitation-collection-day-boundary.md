@@ -33,7 +33,7 @@ resources:
   name: Sanitation Collection Boundary - Polygon (GeoJSON)
   url: https://opendata.arcgis.com/datasets/9d5b4ec9b7a8498faa9a78ecbf6d9b32_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Sanitation Collection Boundary - Polygon (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Rubbish_Recyc_Coll_Bnd/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -53,7 +53,7 @@ resources:
   name: Sanitation Collection Boundary - Line (GeoJSON)
   url: https://opendata.arcgis.com/datasets/b8acf31c37db4459a113ebbccbb9b313_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Sanitation Collection Boundary - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Rubbish_Recyc_Coll_Bnd_Arcs/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

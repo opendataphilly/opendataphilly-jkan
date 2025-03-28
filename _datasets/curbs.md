@@ -27,7 +27,7 @@ resources:
   name: Curbs with Cartways (GeoJSON)
   url: https://opendata.arcgis.com/datasets/5d5a56685d32499d9c43a6d499864212_0.geojson
 - description: 'Update Frequency: Quarterly '
-  format: api
+  format: API
   name: Curbs with Cartways (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Curbs/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: Quarterly'
@@ -47,7 +47,7 @@ resources:
   name: Curbs No Cartways (GeoJSON)
   url: https://opendata.arcgis.com/datasets/0268272486bc4a4a88787d72e612c4f3_0.geojson
 - description: 'Update Frequency: Quarterly'
-  format: api
+  format: API
   name: Curbs No Cartways (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Curbs_No_Cartways/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: Quarterly '

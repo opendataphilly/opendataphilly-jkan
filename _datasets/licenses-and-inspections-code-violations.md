@@ -88,7 +88,7 @@ resources:
   name: L&I Violations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543ca7a5c4ae4cd66d3ff86/representationdetails/5e99bab227c80700158695b0/
 - description: ''
-  format: Visualization
+  format: HTML
   name: L&I Unsafe Buildings (Visualization)
   url: https://data.phila.gov/visualizations/li-unsafe
 - description: ''
@@ -112,7 +112,7 @@ resources:
   name: L&I Unsafe Buildings (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543ca7a5c4ae4cd66d3ff86/representationdetails/5e98b247c4d4770015ca69f7/
 - description: ''
-  format: Visualization
+  format: HTML
   name: L&I Imminently Dangerous (Visualization)
   url: https://data.phila.gov/visualizations/li-imminently-dangerous
 - description: ''

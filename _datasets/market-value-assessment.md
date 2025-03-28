@@ -29,7 +29,7 @@ resources:
   name: 2023 MVA (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/5a281d63b3df4be2b1e5ad6bf34c2717_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: 2023 MVA (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/mva_2023/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

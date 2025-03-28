@@ -25,7 +25,7 @@ resources:
   name: Health Centers (GeoJSON)
   url: https://opendata.arcgis.com/datasets/f87c257e1039470a8a472694c2cd2e4f_0.geojson
 - description: "\r\n"
-  format: api
+  format: API
   name: Health Centers (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Health_Centers/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: "\r\n"

@@ -32,7 +32,7 @@ resources:
   name: City Plan Boundary (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8126f15fcb6c6ed440f7/representationdetails/557f36507ff2c8d2215a8df8/
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: City Plan Boundary (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/City_Plan_Boundary/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: philadelphia

@@ -26,7 +26,7 @@ resources:
   name: Traffic Calming Devices (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/f9299b31b170484d9fff30b81014933f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Traffic Calming Devices (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/traffic_calming_devices/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

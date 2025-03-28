@@ -26,7 +26,7 @@ resources:
   name: Dams (GeoJSON)
   url: https://opendata.arcgis.com/datasets/63190d33b80e401db99cfba5b5faa125_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: Dams (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/DAMS/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

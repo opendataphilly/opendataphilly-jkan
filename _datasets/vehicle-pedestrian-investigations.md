@@ -23,11 +23,11 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: Guided tour of the data, contextualized with other datasets
-  format: Visualization
+  format: HTML
   name: Vehicle & Pedestrian Inv. (Map Journal)
   url: http://philadelphia.maps.arcgis.com/apps/MapJournal/index.html?appid=d498be2dde18426193679f5e9ce0e6e5
 - description: 'Interactive visualization of the data. '
-  format: Visualization
+  format: HTML
   name: Vehicle & Pedestrian Inv. (Visualization)
   url: https://data.phila.gov/visualizations/vehicle-pedestrian-investigations
 - description: ''

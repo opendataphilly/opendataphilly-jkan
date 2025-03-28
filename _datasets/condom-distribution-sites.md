@@ -26,7 +26,7 @@ resources:
   name: Condom Distribution Sites (GeoJSON)
   url: https://opendata.arcgis.com/datasets/85732a1de65741c0aadac960ef7f1ea3_0.geojson
 - description: "Update frequency: Biannually\r\n\r\n"
-  format: api
+  format: API
   name: Condom Distribution Sites (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Condom_distribution_sites/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: "Update frequency: Biannually\r\n"

@@ -28,7 +28,7 @@ resources:
   name: Police Service Areas (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/8dc58605f9dd484295c7d065694cdc0f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Police Service Areas (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Boundaries_PSA/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

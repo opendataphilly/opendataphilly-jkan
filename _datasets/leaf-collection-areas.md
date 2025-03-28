@@ -27,7 +27,7 @@ resources:
   name: Leaf Collection Areas - Polygon (GeoJSON)
   url: https://opendata.arcgis.com/datasets/c95723cd73884cfabe1ee70a12f82c2d_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Leaf Collection Areas - Polygon (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Leaf_Collection_Areas/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

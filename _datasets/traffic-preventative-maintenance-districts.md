@@ -37,7 +37,7 @@ resources:
   name: Traffic PM Districts (GeoJSON)
   url: https://opendata.arcgis.com/datasets/11c2040839a945cf8e3baaa7db35029f_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Traffic PM Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Traf_PM_Dist/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

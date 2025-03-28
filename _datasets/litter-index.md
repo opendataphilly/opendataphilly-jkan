@@ -27,7 +27,7 @@ resources:
   name: Litter Index Blocks Scores 2017 - 2018 (GeoJSON)
   url: https://opendata.arcgis.com/datasets/04fa63e09b284dbfbde1983eab367319_0.geojson
 - description: "\r\n"
-  format: api
+  format: API
   name: Litter Index Blocks Scores 2017 - 2018 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Litter_Index_Blocks/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
