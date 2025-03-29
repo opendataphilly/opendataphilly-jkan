@@ -37,8 +37,8 @@ resources:
   url: http://www.preservationalliance.com/inventory-historic-religious-properties-philadelphia/
 - description: By University of Pennsylvania graduate student, Molly Lester in 2011
   format: PDF
-  name: Summary Report - Inventory of Historic Religious Properties
-  url: http://www.preservationalliance.com/wp-content/uploads/2014/09/IHRPP_Lester.pdf
+  name: Inventory of Historic Religious Properties (PDF)
+  url: https://preservationalliance.com/wp-content/uploads/2023/01/Historic-Religious-Properties.pdf
 schema: philadelphia
 source: ''
 tags: 
