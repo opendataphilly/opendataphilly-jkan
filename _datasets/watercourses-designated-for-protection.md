@@ -32,7 +32,7 @@ resources:
   name: Protected Watercourses - Line (GeoJSON)
   url: https://opendata.arcgis.com/datasets/1058f654b82244de9a5b12d12c58279b_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Protected Watercourses - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Zoning_Hydrology_Line_2012/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -52,7 +52,7 @@ resources:
   name: ' Protected Watercourses - Polygon (GeoJSON)'
   url: https://opendata.arcgis.com/datasets/7c17a8e7685b404e8bcfbc7ae1b62de3_0.geojson
 - description: ''
-  format: api
+  format: API
   name: ' Protected Watercourses - Polygon (API)'
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Zoning_Hydrology_Poly_2012/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

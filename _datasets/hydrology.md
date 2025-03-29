@@ -28,7 +28,7 @@ resources:
   name: Hydrology - Line (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/a31f7d7469404e919517e038fc133a8e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Hydrology - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Hydrographic_Features_Arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -48,7 +48,7 @@ resources:
   name: Hydrology - Polygon (GeoJSON)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Hydrographic_Features_Poly/FeatureServer/1/query?outFields=*&where=1%3D1&f=geojson
 - description: ''
-  format: api
+  format: API
   name: Hydrology - Polygon (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Hydrographic_Features_Poly/FeatureServer/1/query?outFields=*&where=1%3D1
 - description: ''

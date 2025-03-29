@@ -23,7 +23,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: visualization
+  format: HTML
   name: PPR 2015 Tree Canopy Outlines (Visualization)
   url: https://cityofphiladelphia.carto.com/u/phl/builder/0869b21d-4b57-4910-9bb4-46a0509d6f14/embed
 - description: ''

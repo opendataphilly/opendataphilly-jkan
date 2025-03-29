@@ -26,7 +26,7 @@ resources:
   name: GSI Public Projects - Point (GeoJSON)
   url: https://opendata.arcgis.com/datasets/3803641418e847a0bf7e28cd124f768e_0.geojson
 - description: ''
-  format: api
+  format: API
   name: GSI Public Projects - Point (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/GSI_Public_Projects_Point/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -26,7 +26,7 @@ resources:
   name: PPR Out of School Time Programs (GeoJSON)
   url: https://opendata.arcgis.com/datasets/1f5d8108e06d457783538d4b7808c246_0.geojson
 - description: ''
-  format: api
+  format: API
   name: PPR Out of School Time Programs (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/OST_Points_pub/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

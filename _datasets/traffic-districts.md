@@ -32,7 +32,7 @@ resources:
   name: Traffic Districts (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8138f15fcb6c6ed44147/representationdetails/5571b1c8e4fb1d91393c21a7/
 - description: ''
-  format: api
+  format: API
   name: Traffic Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Traffic_Districts/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

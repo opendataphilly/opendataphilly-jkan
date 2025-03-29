@@ -25,7 +25,7 @@ resources:
   name: 2015  Wire Waste Baskets (GeoJSON)
   url: https://opendata.arcgis.com/datasets/5cf8e32c2b66433fabba15639f256006_0.geojson
 - description: ''
-  format: api
+  format: API
   name: 2015  Wire Waste Baskets (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/WasteBaskets_Wire/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -27,7 +27,7 @@ resources:
   name: WIC Offices (GeoJSON)
   url: https://opendata.arcgis.com/datasets/2458f233003e4d57be1aeff41abb0121_0.geojson
 - description: ''
-  format: api
+  format: API
   name: WIC Offices (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/WIC_Offices/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

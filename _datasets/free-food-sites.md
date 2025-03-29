@@ -14,7 +14,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'An online app to find free food and meal sites near the address you enter.'
-  format: Application
+  format: HTML
   name: Food and Meal Finder App (Application)
   url: https://www.phila.gov/food/
 - description: ''
@@ -30,7 +30,7 @@ resources:
   name: Food and Meal Sites (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/5825a32bb8844bb097f7a16d4fbf4f23_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Food and Meal Sites (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/free_meal_sites/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

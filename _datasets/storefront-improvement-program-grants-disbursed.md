@@ -29,7 +29,7 @@ resources:
   name: Storefront Improvement Grants (GeoJSON)
   url: https://opendata.arcgis.com/datasets/28c4de838632495fb90a6c58f266c47b_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Storefront Improvement Grants (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Storefront_Improvement/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

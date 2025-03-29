@@ -31,7 +31,7 @@ resources:
   name: Major Watersheds - Philadelphia (GeoJSON)
   url: https://opendata.arcgis.com/datasets/73f97f2c6c634469a81dd7721661b63f_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Major Watersheds - Philadelphia (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Major_Watersheds_Phila/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

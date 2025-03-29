@@ -30,7 +30,7 @@ resources:
   name: WMoF Authorized Vehicle Route (GeoJSON)
   url: https://opendata.arcgis.com/datasets/c2885f084fd74ecf945faadf666d6a75_0.geojson
 - description: ''
-  format: api
+  format: API
   name: WMoF Authorized Vehicle Route (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Authorized_Vehicle_Route_WMoF/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

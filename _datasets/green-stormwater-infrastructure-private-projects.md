@@ -28,7 +28,7 @@ resources:
   name: GSI Private Projects - Regulation (GeoJSON)
   url: https://opendata.arcgis.com/datasets/bc7f7d1135bd48aaba40e8ae1e7ae350_0.geojson
 - description: ''
-  format: api
+  format: API
   name: GSI Private Projects - Regulation (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/GSI_Private_Projects_Regs/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

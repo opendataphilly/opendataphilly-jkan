@@ -29,7 +29,7 @@ resources:
   name: L&I Districts - Broad (GeoJSON)
   url: https://opendata.arcgis.com/datasets/73e04569563546889df1bdc13360f88b_0.geojson
 - description: ''
-  format: api
+  format: API
   name: L&I Districts - Broad (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/DISTRICTS_BROAD/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -49,7 +49,7 @@ resources:
   name: L&I Districts (GeoJSON)
   url: https://opendata.arcgis.com/datasets/7275a4266f86471ca1d55a12e01b077e_0.geojson
 - description: ''
-  format: api
+  format: API
   name: L&I Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/LI_DISTRICTS/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -28,7 +28,7 @@ resources:
   name: Walk Score (Phila. only)
   url: http://www.walkscore.com/PA/Philadelphia
 - description: ''
-  format: api
+  format: API
   name: Walk Score API
   url: http://www.walkscore.com/professional/api.php
 schema: philadelphia

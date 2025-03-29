@@ -42,7 +42,7 @@ resources:
   url: https://opendata.arcgis.com/datasets/e9e2e152bc1644e2af84927a8f4c3c06_0.geojson
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
-  format: api
+  format: API
   name: Census Blocks - 2010 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Census_Blocks_2010/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
@@ -67,7 +67,7 @@ resources:
   url: https://opendata.arcgis.com/datasets/2b4c22ee057348e0af62f9363781eba2_0.geojson
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
-  format: api
+  format: API
   name: Census Blocks - 2000 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Census_Blocks_2000/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data

@@ -33,7 +33,7 @@ resources:
   name: 2017 Street Centerlines for HIN (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+streetcenterline_hin&filename=streetcenterline_hin&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: 2017 Street Centerlines for HIN (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#streetcenterline_hin
 - description: ''

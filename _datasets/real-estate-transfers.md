@@ -171,7 +171,7 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=RTT_SUMMARY&format=shp&skipfields=cartodb_id&q=SELECT
     * FROM RTT_SUMMARY WHERE display_date < '2002-01-01'
 - description: API Documentation for the Full Dataset
-  format: api
+  format: API
   name: Real Estate Transfers (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#RTT_SUMMARY
 - description: ''

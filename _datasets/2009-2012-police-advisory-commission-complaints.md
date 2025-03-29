@@ -27,7 +27,7 @@ resources:
   name: 2009-2012 PAC Complaints (GeoJSON)
   url: https://opendata.arcgis.com/datasets/c6e15e5d253346049892cb19224c742c_0.geojson
 - description: 'Update Frequency: Never'
-  format: api
+  format: API
   name: 2009-2012 PAC Complaints (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PAC_Complaints_2009_2012/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

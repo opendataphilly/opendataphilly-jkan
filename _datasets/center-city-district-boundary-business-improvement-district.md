@@ -29,7 +29,7 @@ resources:
   name: Center City Business Improvement District (GeoJSON)
   url: https://opendata.arcgis.com/datasets/95366b115d93443eae4cc6f498cb3ca3_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: Center City Business Improvement District (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/CCD_BOUNDARY/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

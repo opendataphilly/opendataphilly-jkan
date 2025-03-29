@@ -29,7 +29,7 @@ resources:
   name: Choice Neighborhoods (GeoJSON)
   url: https://opendata.arcgis.com/datasets/53d19a764ceb49ada5e4e903ab92fbd7_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: Choice Neighborhoods (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/ChoiceNeighborhoods/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

@@ -27,7 +27,7 @@ resources:
   name: Flu Shots (GeoJSON)
   url: https://opendata.arcgis.com/datasets/4914670b28fd45e28aaead7aef1ff0cd_0.geojson
 - description: 'Update Frequency: Annually'
-  format: api
+  format: API
   name: Flu Shots (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Flu_shot/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: Annually'

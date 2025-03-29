@@ -26,7 +26,7 @@ resources:
   name: Sanitation Districts - Polygon (GeoJSON)
   url: https://opendata.arcgis.com/datasets/dce9bf83c9734b45a30a71a636e01e0d_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Sanitation Districts - Polygon (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Sanitation_Districts/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -46,7 +46,7 @@ resources:
   name: Sanitation Districts - Line (GeoJSON)
   url: https://opendata.arcgis.com/datasets/d14e73c6bf4b417c8a0cc3fb241e07d2_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Sanitation Districts - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Sanitation_Districts_arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

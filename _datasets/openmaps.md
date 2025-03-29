@@ -29,7 +29,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Application
+  format: HTML
   name: OpenMaps
   url: https://openmaps.phila.gov/
 schema: philadelphia

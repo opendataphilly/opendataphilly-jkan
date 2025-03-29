@@ -29,7 +29,7 @@ resources:
   name: Commercial Corridors (GeoJSON)
   url: https://opendata.arcgis.com/datasets/f43e5f92d34e41249e7a11f269792d11_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: Commercial Corridors (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Commercial_Corridors/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

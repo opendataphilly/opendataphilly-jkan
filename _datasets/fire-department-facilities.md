@@ -26,7 +26,7 @@ resources:
   name: Fire Department Facilities (GeoJSON)
   url: https://opendata.arcgis.com/datasets/341526186e014aa0aa3ef7e08a394a78_0.geojson
 - description: "Update Frequency:  as needed\r\n\r\n"
-  format: api
+  format: API
   name: Fire Department Facilities (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Fire_Dept_Facilities/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency:  as needed'

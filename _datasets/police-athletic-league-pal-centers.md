@@ -26,7 +26,7 @@ resources:
   name: PAL Centers (GeoJSON)
   url: https://opendata.arcgis.com/datasets/63363998067d434c9b8c1e352fc54f38_0.geojson
 - description: ''
-  format: api
+  format: API
   name: PAL Centers (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PAL_Centers/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

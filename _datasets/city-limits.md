@@ -27,7 +27,7 @@ resources:
   name: City Limits (GeoJSON)
   url: https://opendata.arcgis.com/datasets/405ec3da942d4e20869d4e1449a2be48_0.geojson
 - description: 'Update Frequency: As Needed '
-  format: api
+  format: API
   name: City Limits (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/City_Limits/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

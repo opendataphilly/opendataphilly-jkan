@@ -35,7 +35,7 @@ resources:
   name: Housing Counseling Agencies (GeoJSON)
   url: https://opendata.arcgis.com/datasets/3265538198254e9fb6a8974745adab51_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Housing Counseling Agencies (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/HousingCounselingAgencies/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

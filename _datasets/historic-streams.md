@@ -26,7 +26,7 @@ resources:
   name: Historic Streams - Line (GeoJSON)
   url: https://opendata.arcgis.com/datasets/40816e75554f4d74991aaeca81b5bd26_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Historic Streams - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/HistoricStreams_Arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -46,7 +46,7 @@ resources:
   name: Historic Streams - Polygon (GeoJSON)
   url: https://opendata.arcgis.com/datasets/75caa1d4e8724a33b0eaac967271a9d4_0.geojson
 - description: ''
-  format: api
+  format: API
   name: 'Historic Streams - Polygon (API) '
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/HistoricStreams_Poly/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

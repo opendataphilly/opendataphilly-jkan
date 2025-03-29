@@ -16,7 +16,7 @@ opendataphilly_rating: '5'
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: Map of Bike Lanes (Visualization)
   url: https://phl.maps.arcgis.com/home/item.html?id=b5f660b9f0f44ced915995b6d49f6385#visualize
 - description: 'Update Frequency: As Needed'
@@ -32,7 +32,7 @@ resources:
   name: Bike Network (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: Bike Network (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Bike_Network/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

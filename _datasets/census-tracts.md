@@ -39,7 +39,7 @@ resources:
   url: https://opendata.arcgis.com/datasets/8bc0786524a4486bb3cf0f9862ad0fbf_0.geojson
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
-  format: api
+  format: API
   name: Census Tracts - 2010 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Census_Tracts_2010/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
@@ -64,7 +64,7 @@ resources:
   url: https://opendata.arcgis.com/datasets/a3c0cee49de447be9fd0d5820f9e930f_0.geojson
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
-  format: api
+  format: API
   name: Census Tracts - 2000 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Census_Tracts_2000/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
@@ -89,7 +89,7 @@ resources:
   url: https://opendata.arcgis.com/datasets/ccdc0d022f4949a7b11333bd37231aef_0.geojson
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
-  format: api
+  format: API
   name: Census Tracts - 1990 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Census_Tracts_1990/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data

@@ -27,7 +27,7 @@ resources:
   name: ZIP Codes - Polygon (GeoJSON)
   url: https://opendata.arcgis.com/datasets/b54ec5210cee41c3a884c9086f7af1be_0.geojson
 - description: ''
-  format: api
+  format: API
   name: ZIP Codes - Polygon (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Zipcodes_Poly/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -47,7 +47,7 @@ resources:
   name: ZIP Codes - Line (GeoJSON)
   url: https://opendata.arcgis.com/datasets/ad233733f89242af9a1f9e52d60d1e4e_0.geojson
 - description: ''
-  format: api
+  format: API
   name: ZIP Codes - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Zipcodes_Arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

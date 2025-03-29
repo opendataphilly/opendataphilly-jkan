@@ -40,7 +40,7 @@ resources:
   name: Big Belly Waste/Trash Bins ( GeoJSON)
   url: https://opendata.arcgis.com/datasets/f8309c5b19e147cea5cb4d83f3d0d85f_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Big Belly Waste/Trash Bins (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/WasteBaskets_Big_Belly/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

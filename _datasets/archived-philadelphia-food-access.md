@@ -34,7 +34,7 @@ resources:
   name: Low/No Access & High Poverty (GeoJSON)
   url: https://opendata.arcgis.com/datasets/709ac21724504bba8e2e899cf64eefda_0.geojson
 - description: 'Update Frequency: Archived'
-  format: api
+  format: API
   name: Low/No Access & High Poverty (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/LNA_HP_Food_Access/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: Archived'
@@ -54,7 +54,7 @@ resources:
   name: Walkable Access to Healthy Food (GeoJSON)
   url: https://opendata.arcgis.com/datasets/4748c96b9db444a48de1ae38ca93f554_0.geojson
 - description: 'Update Frequency: Archived'
-  format: api
+  format: API
   name: Walkable Access to Healthy Food (API)
   url: hhttps://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Walkable_Access_Healthy_Food/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: Archived'

@@ -26,7 +26,7 @@ resources:
   name: Street Lane Closure EUN (GeoJSON)
   url: https://opendata.arcgis.com/datasets/9010d26d9deb4cdb9bd8fbc45a8e55f5_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Street Lane Closure EUN (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/LaneClosure_EUN_XY/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

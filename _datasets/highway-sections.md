@@ -31,7 +31,7 @@ resources:
   name: Highway Sections (GeoJSON)
   url: https://opendata.arcgis.com/datasets/8f183dea97874cb6a1534bfe2d18a315_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Highway Sections (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Highway_Sections/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -30,7 +30,7 @@ resources:
   name: Schools Parcels (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/78f03f799a8948a3a305f5886dc25d8a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Schools Parcels (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Schools_Parcels/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

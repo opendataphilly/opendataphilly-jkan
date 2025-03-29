@@ -13,7 +13,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: 'An online app to find recylcing and donation resources near the address you enter.'
-  format: Application
+  format: HTML
   name: Recycling and Donations Resources Finder App (Application)
   url:
 - description: ''
@@ -29,7 +29,7 @@ resources:
   name: Recycling and Donations Resources (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+recycling_and_donations+WHERE+=&filename=recycling_and_donations&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: Recycling and Donations Resources (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#recycling_and_donations&_ga=2.189601774.417408942.1728562904-137199205.1728051629
 - description: ''

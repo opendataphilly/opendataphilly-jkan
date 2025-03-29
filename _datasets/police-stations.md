@@ -25,7 +25,7 @@ resources:
   name: Police Station (GeoJSON)
   url: https://opendata.arcgis.com/datasets/7e522339d7c24e8ea5f2c7780291c315_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Police Stations (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Police_Stations/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -29,7 +29,7 @@ resources:
   name: Sanitation Areas (GeoJSON)
   url: https://opendata.arcgis.com/datasets/472c504f650242f4be612d8320b89c86_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Sanitation Areas (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Sanitation_Areas/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -27,7 +27,7 @@ resources:
   name: Outdoor Advertising (GeoJSON)
   url: https://opendata.arcgis.com/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Outdoor Advertising (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/LI_OUTDOOR_ADVERTISING/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

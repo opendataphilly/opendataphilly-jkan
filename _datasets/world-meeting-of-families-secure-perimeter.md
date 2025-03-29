@@ -26,7 +26,7 @@ resources:
   name: WMoF Secure Perimeter (GeoJSON )
   url: https://opendata.arcgis.com/datasets/2225246fa1344b9f8ee34d60cca70962_0.geojson
 - description: ''
-  format: api
+  format: API
   name: WMoF Secure Perimeter (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Secure_Perimeter_WMoF/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -27,7 +27,7 @@ resources:
   name: WMoF Secure Vehicle Perimeter (GeoJSON)
   url: https://opendata.arcgis.com/datasets/0e8c67a7c17f47e4a9caec5c1b65a649_0.geojson
 - description: ''
-  format: api
+  format: API
   name: WMoF Secure Vehicle Perimeter (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Secure_Vehicle_Perimeter_WMoF/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -32,7 +32,7 @@ resources:
   name: Street Lane Closures (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f812af15fcb6c6ed44109/representationdetails/55846d21c5fd1f20526fba1d/
 - description: ''
-  format: api
+  format: API
   name: Street Lane Closures (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/LaneClosure_Master/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: philadelphia

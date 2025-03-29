@@ -29,7 +29,7 @@ resources:
   name: Existing Trails (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/5452afe978c64fc6a4508cbdd7e27903_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Existing Trails (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Existing_Trails/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

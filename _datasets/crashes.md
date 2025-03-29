@@ -38,7 +38,6 @@ resources:
 - description: This is a subset of the annual Crash Data compiled and released by
     Penn DOT for the entire state. This data set contains only those crashes that
     occurred within the City limits. 
-- description: ''
   format: HTML
   name: Crash Data 2019-2023 (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543865420583086178c4eba/representationdetails/66ed761b43967602c0cb98ed/

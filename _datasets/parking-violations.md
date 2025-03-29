@@ -17,7 +17,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: Parking Violations (Visualization)
   url: https://data.phila.gov/visualizations/parking-violations
 - description: ''

@@ -26,7 +26,7 @@ resources:
   name: Planning Districts (GeoJSON)
   url: https://opendata.arcgis.com/datasets/0960ea0f38f44146bb562f2b212075aa_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Planning Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Planning_Districts/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -30,7 +30,7 @@ resources:
   name: Street Centerlines (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/c36d828494cd44b5bd8b038be696c839_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Street Centerlines (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Street_Centerline/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

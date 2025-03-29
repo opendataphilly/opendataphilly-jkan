@@ -32,7 +32,7 @@ resources:
   name: School Facilities (GeoJSON)
   url: https://opendata.arcgis.com/datasets/d46a7e59e2c246c891fbee778759717e_0.geojson
 - description: ''
-  format: api
+  format: API
   name: School Facilities (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Schools/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

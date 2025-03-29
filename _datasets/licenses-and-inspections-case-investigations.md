@@ -20,7 +20,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: L&I Inspections (Visualization)
   url: https://data.phila.gov/visualizations/li-inspections
 - description: ''

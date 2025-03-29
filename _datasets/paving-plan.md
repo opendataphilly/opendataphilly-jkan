@@ -26,7 +26,7 @@ resources:
   name: Paving Plan - 2015 (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/87be1a70f9904a16921c6e343144ae5c_0/downloads/data?format=geojson&spatialRefId=4326
 - description: ''
-  format: api
+  format: API
   name: Paving Plan - 2015 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PavingPlan2015/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

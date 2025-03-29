@@ -28,7 +28,7 @@ resources:
   name: Recycling Diversion Rate (GeoJSON)
   url: https://opendata.arcgis.com/datasets/79c1c68097e641208ca7041251a87067_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Recycling Diversion Rate (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Recycling_Diversion_Rate/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

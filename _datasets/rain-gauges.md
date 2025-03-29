@@ -27,7 +27,7 @@ resources:
   name: Rain Gauge Network (GeoJSON)
   url: https://opendata.arcgis.com/datasets/63da9bd382e7497ca8ea8a01683cca6a_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Rain Gauge Network (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/RAINGAUGES/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

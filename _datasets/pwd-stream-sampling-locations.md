@@ -30,7 +30,7 @@ resources:
   name: PWD Stream Sampling Locations (GeoJSON)
   url: https://opendata.arcgis.com/datasets/b29467adc3294a54b8ba86bd66af13cd_0.geojson
 - description: ''
-  format: api
+  format: API
   name: PWD Stream Sampling Locations (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/StreamSamplingLocations/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

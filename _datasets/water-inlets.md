@@ -14,7 +14,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Application
+  format: HTML
   name: Map of Water Inlets (Visualization)
   url: https://cityofphiladelphia.carto.com/u/phl/builder/f6b161cf-b680-4dcd-b1f1-6d6472a2d436/embed
 - description: ''

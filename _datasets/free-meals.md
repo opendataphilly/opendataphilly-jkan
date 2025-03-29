@@ -13,7 +13,7 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: APP
+  format: HTML
   name: Free Food Finder (App)
   url: https://www.phila.gov/food/
 - description: ''

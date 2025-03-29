@@ -57,7 +57,7 @@ resources:
     \ that were removed from the full payments dataset. Please note that due to the\
     \ removed payments, totals from the two datasets will not match.\r\n\r\nPlease\
     \ see metadata for additional considerations."
-  format: api
+  format: API
   name: FY 2017 Detailed City Payments (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#city_payments_fy2017
 - description: ''

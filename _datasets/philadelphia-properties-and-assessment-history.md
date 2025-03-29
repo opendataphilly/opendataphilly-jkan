@@ -24,7 +24,7 @@ resources:
 - description: "***This data updates nightly. Please ignore the 'created by' date\
     \ below - that date of August 2015 shows when this webpage, not the data, was created.***\r\
     \n\r\n\r\n\r\n\r\n"
-  format: Visualization
+  format: HTML
   name: Properties (Visualization)
   url: https://data.phila.gov/visualizations/property-assessments
 - description: '***This data updates nightly. Please ignore the ''created by'' date

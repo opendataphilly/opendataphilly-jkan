@@ -27,7 +27,7 @@ resources:
   name: Zoning Steep Slope Protection Area (GeoJSON)
   url: https://opendata.arcgis.com/datasets/783380aca5ef4a678e1ab3bab5959946_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Zoning Steep Slope Protection Area (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Zoning_SteepSlopeProtectArea_r/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -27,7 +27,7 @@ resources:
   name: Court Locations (GeoJSON)
   url: https://opendata.arcgis.com/datasets/66f1ce835bb94d51913c5ccd69d0e868_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: Court Locations (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Courts/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'
