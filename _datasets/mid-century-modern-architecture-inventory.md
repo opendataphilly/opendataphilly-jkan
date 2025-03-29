@@ -23,8 +23,8 @@ organization: Preservation Alliance for Greater Philadelphia
 resources:
 - description: Report written by Malcolm Clendenin and edited by Emily T. Cooperman
   format: PDF
-  name: 'A Complicated Modernity: Philadelphia Architectural Design 1945-1980'
-  url: http://www.preservephiladelphia.org/wp-content/uploads/HCSModernism.pdf
+  name: 'Mid-Century Modern Architectural Resources (PDF)'
+  url: https://preservationalliance.com/wp-content/uploads/2023/01/Mid-Century-Modern.pdf
 - description: ''
   format: HTML
   name: Mid-Century Modern Architectural Resources Search Application
