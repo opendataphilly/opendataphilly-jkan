@@ -25,7 +25,7 @@ resources:
     (March 2020 to present
   format: HTML
   name: Dashboard of Philadelphia's Economic Recovery and Growth
-  url: ''
+  url: https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2021/pew-dashboard-tracks-philadelphias-economic-recovery-and-growth-in-the-age-of-covid
 - description: ''
   format: PDF
   name: Economic Recovery Dashboard Data Methodology
