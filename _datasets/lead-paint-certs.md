@@ -1,9 +1,7 @@
 ---
 area_of_interest: null
 category:
-- Education
 - Health / Human Services
-- Public Safety
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -40,6 +38,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Department of Public Health
+- Lead Paint
 time_period: null
 title: Lead Paint Certifications
 usage: null
