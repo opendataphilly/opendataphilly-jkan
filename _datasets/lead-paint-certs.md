@@ -22,19 +22,19 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: Philadelphia Child Blood Lead Levels By Zip Code (CSV)
+  name: Lead Paint Certifications (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/cc1703fe3a4c42adb519075d7bda5ba8_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
   format: GeoJSON
-  name: Philadelphia Child Blood Lead Levels By Zip Code (GeoJSON)
+  name: Lead Paint Certifications (GeoJSON)
   url: https://opendata.arcgis.com/api/v3/datasets/cc1703fe3a4c42adb519075d7bda5ba8_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
-  name: Philadelphia Child Blood Lead Levels By Zip Code (API)
+  name: Lead Paint Certifications (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/lhhp_lead_certifications/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
-  name: Philadelphia Child Blood Lead Levels By Zip Code (Metadata)
+  name: Lead Paint Certifications (Metadata)
   url: https://metadata.phila.gov/index.html#home/datasetdetails/67e305ddcd04851f076dc40f/representationdetails/67e305ddcd04851f076dc422/
 schema: philadelphia
 source: ''
