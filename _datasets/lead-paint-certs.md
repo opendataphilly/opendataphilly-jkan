@@ -10,7 +10,7 @@ maintainer_phone: null
 notes: "The Philadelphia Lead Paint Disclosure and Certification Law requires owners of property built before 1978 
   to provide a certification that a property is lead free or lead safe before it may be rented to a tenant (either 
   a new or renewed lease, formal or informal). This certification (or statement of exemption) must be submitted to 
-  the Lead and Healthy Homes Program through the Lead Certification Submission System](https://leadcertification.phila.gov/login
+  the Lead and Healthy Homes Program through the [Lead Certification Submission System](https://leadcertification.phila.gov/login)
   a requirement to obtain a rental license. This dataset provides the current certification status of each property 
   in the city by OPA account number, based on the information submitted to the Lead and Healthy Homes Program. Note 
   that the certification information must be consistent with the details of the rental license in order for the rental 
