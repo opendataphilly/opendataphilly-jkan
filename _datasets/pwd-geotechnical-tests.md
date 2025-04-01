@@ -4,7 +4,6 @@ category:
 - Environment
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2022-11-28T22:53:18.634544'
 license: City of Philadelphia License
 maintainer: larry.szarek@phila.gov
 maintainer_email: larry.szarek@phila.gov
@@ -26,15 +25,15 @@ resources:
 - description: ''
   format: CSV
   name: Geotechnical Tests (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Geotechnical Tests (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Geotechnical Tests (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Geotechnical Tests (API)
