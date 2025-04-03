@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Health / Human Services
-- Digital Equity
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -39,7 +38,8 @@ source: ''
 tags:
 - Wi-Fi
 - Digital Divide
-- Health and Human Services
+- Digital Equity
+- Department of Health and Human Services
 time_period: null
 title: Free Wi-Fi Locations
 usage: null
