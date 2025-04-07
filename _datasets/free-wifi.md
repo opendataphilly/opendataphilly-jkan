@@ -7,12 +7,19 @@ maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "This dataset identifies what city-owned sites have public Wi-Fi available. Between 2025 and 2026, all of these sites are slated 
-  to receive fiber install and Meraki Wi-Fi routers that greatly increase the speed and quality of available Wi-Fi. The dataset notes what 
-  sites have had this install completed, among other amenities available at the site."
+notes: "These dataset, dashboard and app tools identify what city-owned sites have free public Wi-Fi available. Between 2025 and 2026, all of    these sites are slated to receive fiber install and Meraki Wi-Fi routers that greatly increase the speed and quality of available Wi-Fi. The   
+ dataset and dashboard notes what sites have had this install completed, among other amenities available at each site."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
+- description: 'An app to find free Wi-fi at City-owned locations.'
+  format: HTML
+  name: Find Free Wi-Fi (App)
+  url: https://www.phila.gov/wifi/
+- description: 'An interactive dashboard to track the City's progress in expanding free high-speed Wi-Fi across City-owned locations.'
+  format: HTML
+  name: Free Wi-Fi Installation Dashboard (Visulation)
+  url: https://phl.maps.arcgis.com/apps/dashboards/580d9948b2e34f378921caf56cf1c925
 - description: 'A dataset on the availability of free Wi-fi at City-owned locations.'
   format: CSV
   name: Free Wi-Fi Locations (CSV)
