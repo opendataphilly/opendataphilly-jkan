@@ -24,7 +24,7 @@ notes: "Childcare Map helps Philadelphians make decisions about childcare.\r\n\r
   \ areas where shortages of high-quality childcare exist, policymakers and investors\
   \ can work towards increasing access for all."
 opendataphilly_rating: null
-organization: The Reinvestment Fund
+organization: Reinvestment Fund
 resources:
 - description: ''
   format: HTML
