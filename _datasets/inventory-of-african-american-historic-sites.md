@@ -6,8 +6,8 @@ category:
 created: '2014-12-08T22:01:11.368428'
 license: License Not Specified
 maintainer: ''
-maintainer_email: ''
-maintainer_link: http://www.preservationalliance.com/about/alliance-staff/
+maintainer_email: 'info@preservationalliance.com'
+maintainer_link: https://preservationalliance.com/about-us/staff-and-board/
 maintainer_phone: 215-546-1146
 notes: An inventory compiled by the Preservation Alliance for Greater Philadelphia
   containing all the known African American historic sites in Philadelphia. Data fields
