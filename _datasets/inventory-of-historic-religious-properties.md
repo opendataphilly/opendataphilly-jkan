@@ -7,7 +7,7 @@ created: '2015-01-02T23:03:27.458077'
 license: License Not Specified
 maintainer: Ben Leech
 maintainer_email: info@preservationalliance.org
-maintainer_link: null
+maintainer_link: https://preservationalliance.com/about-us/staff-and-board/
 maintainer_phone: 215-546-1146
 notes: "Founded as William Penn's \"Holy Experiment,\" Philadelphia has a centuries-long\
   \ history of fostering and constructing prominent houses of worship throughout the\
@@ -30,11 +30,6 @@ notes: "Founded as William Penn's \"Holy Experiment,\" Philadelphia has a centur
 opendataphilly_rating: null
 organization: Preservation Alliance for Greater Philadelphia
 resources:
-- description: searchable online database with downloads of search results available
-    as Excel, CSV, and PDF.
-  format: HTML
-  name: Online App - Inventory of Historic Religious Properties
-  url: http://www.preservationalliance.com/inventory-historic-religious-properties-philadelphia/
 - description: By University of Pennsylvania graduate student, Molly Lester in 2011
   format: PDF
   name: Inventory of Historic Religious Properties (PDF)
