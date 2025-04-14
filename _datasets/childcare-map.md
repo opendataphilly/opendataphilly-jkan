@@ -5,8 +5,8 @@ category:
 created: '2014-12-08T22:46:07.610642'
 license: License Not Specified
 maintainer: null
-maintainer_email: 215-574-5866
-maintainer_link: http://www.trfund.com/childcaremap/
+maintainer_email: null
+maintainer_link: https://www.reinvestment.com/childcaremap/
 maintainer_phone: 215-574-5866
 notes: "Childcare Map helps Philadelphians make decisions about childcare.\r\n\r\n\
   Collection Process: TRF culled childcare data for the City of Philadelphia from\
@@ -24,16 +24,17 @@ notes: "Childcare Map helps Philadelphians make decisions about childcare.\r\n\r
   \ areas where shortages of high-quality childcare exist, policymakers and investors\
   \ can work towards increasing access for all."
 opendataphilly_rating: null
-organization: The Reinvestment Fund
+organization: Reinvestment Fund
 resources:
 - description: ''
   format: HTML
   name: Childcare Map
-  url: http://www.childcaremap.org/tool.html
+  url: https://www.childcaremap.org/newmaps/e/childcaremap
 schema: philadelphia
 source: null
-tags: []
+tags:
+- Child Care
 time_period: Varies by dataset
 title: Childcare Map
-usage: No Usage Limitations.
+usage: No Usage Limitations
 ---
