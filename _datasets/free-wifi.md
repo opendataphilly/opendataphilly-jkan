@@ -16,9 +16,9 @@ resources:
   format: HTML
   name: Find Free Wi-Fi (App)
   url: https://www.phila.gov/wifi/
-- description: 'An interactive dashboard to track the City's progress in expanding free high-speed Wi-Fi across City-owned locations.'
+- description: "An interactive dashboard to track the City's progress in expanding free high-speed Wi-Fi across City-owned locations."
   format: HTML
-  name: Free Wi-Fi Installation Dashboard (Visulation)
+  name: Free Wi-Fi Installation Dashboard (Visualization)
   url: https://phl.maps.arcgis.com/apps/dashboards/580d9948b2e34f378921caf56cf1c925
 - description: 'A dataset on the availability of free Wi-fi at City-owned locations.'
   format: CSV
