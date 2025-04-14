@@ -6,8 +6,8 @@ category:
 created: '2014-12-08T22:44:19.744996'
 license: License Not Specified
 maintainer: Ben Leech
-maintainer_email: advocacy@preservationalliance.com
-maintainer_link: null
+maintainer_email: info@preservationalliance.com
+maintainer_link: https://preservationalliance.com/about-us/staff-and-board/
 maintainer_phone: 215-546-1146
 notes: Mid-century modern architecture and buildings of the recent past are enjoying
   a resurgence of appreciation and interest nationwide, but here in Philadelphia,
@@ -25,10 +25,6 @@ resources:
   format: PDF
   name: 'Mid-Century Modern Architectural Resources (PDF)'
   url: https://preservationalliance.com/wp-content/uploads/2023/01/Mid-Century-Modern.pdf
-- description: ''
-  format: HTML
-  name: Mid-Century Modern Architectural Resources Search Application
-  url: http://www.preservationalliance.com/directory/mcmar/index.php
 schema: philadelphia
 source: ''
 tags: 
