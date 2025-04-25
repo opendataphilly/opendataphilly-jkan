@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Transportation
-created: '2015-06-09T07:08:34.582261'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
@@ -32,7 +31,7 @@ resources:
 - description: ''
   format: HTML
   name: Street Lane Closure EUN (Metadata)
-  url: https://www.arcgis.com/home/item.html?id=9010d26d9deb4cdb9bd8fbc45a8e55f5
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/555f812af15fcb6c6ed44109/representationdetails/557f3547959b78676555c6d9/
 schema: philadelphia
 source: ''
 tags:
