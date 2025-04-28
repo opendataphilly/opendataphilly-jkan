@@ -1,8 +1,7 @@
 ---
 area_of_interest: null
 category:
-  - Environment
-  - Health / Human Services
+  - Public Safety
   - Parks / Recreation
 license: City of Philadelphia License
 maintainer: Chris Park
@@ -10,8 +9,7 @@ maintainer_email: chris.park@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes:
-  Displays the locations of adult exercise equipment located within or maintained
-  by Philadelphia Parks and Recreation (PPR).
+  Point representations of help locators that provide location information to use when calling for emergency services
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
@@ -39,6 +37,8 @@ schema: philadelphia
 source: ''
 tags:
   - Philadelphia Parks and Recreation
+  - help locators
+  - emergency services
 time_period: null
 title: PPR Help Locators
 usage: null
