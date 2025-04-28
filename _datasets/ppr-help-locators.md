@@ -29,7 +29,7 @@ resources:
     format: API
     name: PPR Help Locators (API)
     url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/ppr_help_locators/FeatureServer/0/query?outFields=*&where=1%3D1
-- description: ''
+  - description: ''
     format: HTML
     name: PPR Help Locators (Metadata)
     url: https://metadata.phila.gov/index.html#home/datasetdetails/63f7a3977f13210029c1bba4/representationdetails/63f7a3977f13210029c1bbb5/
