@@ -1,18 +1,15 @@
 ---
 area_of_interest: null
 category:
-  - Environment
-  - Health / Human Services
+  - Public Safety
   - Parks / Recreation
-created: '2019-06-18T15:51:31.276548'
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes:
-  Displays the locations of adult exercise equipment located within or maintained
-  by Philadelphia Parks and Recreation (PPR).
+  Point representations of help locators that provide location information to use when calling for emergency services
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
@@ -32,10 +29,16 @@ resources:
     format: API
     name: PPR Help Locators (API)
     url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/ppr_help_locators/FeatureServer/0/query?outFields=*&where=1%3D1
+  - description: ''
+    format: HTML
+    name: PPR Help Locators (Metadata)
+    url: https://metadata.phila.gov/index.html#home/datasetdetails/63f7a3977f13210029c1bba4/representationdetails/63f7a3977f13210029c1bbb5/
 schema: philadelphia
 source: ''
 tags:
   - Philadelphia Parks and Recreation
+  - help locators
+  - emergency services
 time_period: null
 title: PPR Help Locators
 usage: null
