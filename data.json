@@ -176,11 +176,55 @@
             {% assign access_flag = true -%}
          {%- endif -%}
 
+         {%- if dist_download_url contains "|asc" or dist_download_url contains "|desc" -%}
+            {%- assign dist_download_url = dist_download_url | replace: "|", "%7C" -%}
+         {%- endif -%}
+         
          {%- if dist_download_url contains "phl.carto.com" -%}
-           {%- assign url_parts = dist_download_url | split: "q=" -%}
-           {%- if url_parts.size > 1 and url_parts[1] contains "SELECT * " -%}
-             {%- assign encoded_query = url_parts[1] | url_encode -%}
-             {%- assign dist_download_url = url_parts[0] | append: "q=" | append: encoded_query -%}
+           {%- assign url_parts = dist_download_url | split: "?" -%}
+           {%- if url_parts.size > 1 -%}
+             {%- assign query_string = url_parts[1] -%}
+             {%- assign query_params = query_string | split: "&" -%}
+             {%- assign encoded_params = "" -%}
+             {%- for param in query_params -%}
+               {%- assign param_parts = param | split: "=" -%}
+               {%- if param_parts.size > 1 -%}
+                 {%- assign param_name = param_parts[0] -%}
+                 {%- assign param_value = param_parts[1] -%}
+                 {%- if param_parts.size > 2 -%}
+                   {%- for i in (2..param_parts.size) -%}
+                     {%- if forloop.first -%}
+                       {%- assign param_value = param_value | append: "=" | append: param_parts[i] -%}
+                     {%- else -%}
+                       {%- assign param_value = param_value | append: param_parts[i] -%}
+                     {%- endif -%}
+                   {%- endfor -%}
+                 {%- endif -%}
+                 {%- if param_name == "q" -%}
+                   {%- assign is_encoded = false -%}
+                   {%- if param_value contains "%" or param_value contains "+" -%}
+                     {%- assign decoded_value = param_value | url_decode -%}
+                     {%- if decoded_value != param_value -%}
+                       {%- assign is_encoded = true -%}
+                     {%- endif -%}
+                   {%- endif -%}
+                   {%- unless is_encoded -%}
+                     {%- assign encoded_value = param_value | url_encode -%}
+                   {%- else -%}
+                     {%- assign encoded_value = param_value -%}
+                   {%- endunless -%}
+                 {%- else -%}
+                   {%- assign encoded_value = param_value -%}
+                 {%- endif -%}
+                 {%- assign encoded_param = param_name | append: "=" | append: encoded_value -%}
+                 {%- if forloop.first -%}
+                   {%- assign encoded_params = encoded_param -%}
+                 {%- else -%}
+                   {%- assign encoded_params = encoded_params | append: "&" | append: encoded_param -%}
+                 {%- endif -%}
+               {%- endif -%}
+             {%- endfor -%}
+             {%- assign dist_download_url = url_parts[0] | append: "?" | append: encoded_params -%}
            {%- endif -%}
          {%- endif -%}
 
