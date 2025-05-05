@@ -1,5 +1,27 @@
 <tr>
     <th>{{ include.field.label }}</th>
     <td>
-      {{ include.value | date: "%B %e, %Y" }}
+      {%- if include.value contains "R/P" -%}
+        {%- case include.value -%}
+          {%- when "R/P1D" -%}
+            Updated daily
+          {%- when "R/P1W" -%}
+            Updated weekly
+          {%- when "R/P1M" -%}
+            Updated monthly
+          {%- when "R/P1Q" -%}
+            Updated quarterly
+          {%- when "R/P1Y" -%}
+            Updated annually
+          {%- else -%}
+            {{ include.value }}
+        {%- endcase -%}
+      {%- else -%}
+        {%- assign date_parts = include.value | split: "-" -%}
+        {%- if date_parts.size >= 3 -%}
+          {{ include.value | date: "%B %e, %Y" }}
+        {%- else -%}
+          {{ include.value }}
+        {%- endif -%}
+      {%- endif -%}
     </td>

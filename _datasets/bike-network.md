@@ -12,7 +12,7 @@ maintainer_link: http://www.phila.gov/streets/
 maintainer_phone: 215-686-5560
 notes: "Line data includes the network of both streets with bike lanes and streets\
   \ considered bicycle-friendly. Also known as the bicycle network. "
-modified: '5'
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

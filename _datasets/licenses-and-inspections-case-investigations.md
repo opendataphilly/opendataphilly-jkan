@@ -16,7 +16,7 @@ notes: "All investigations completed on a property with property maintenance vio
   \ the API links to access this data. You can learn more about how to use the API\
   \ at Carto\u2019s SQL API site and in the Carto guide in the section on making calls\
   \ to the API.**"
-modified: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -25,10 +25,22 @@ resources:
   url: https://data.phila.gov/visualizations/li-inspections
 - description: ''
   format: CSV
-  name: L&I Case investigations - 2019 to present (CSV)
+  name: L&I Case investigations - 2025 to present (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=case_investigations&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
     *, ST_Y(the_geom) AS lat, ST_X(the_geom) AS lng FROM case_investigations WHERE
-    investigationcompleted >= '2019-01-01'
+    investigationcompleted >= '2025-01-01'
+- description: ''
+  format: CSV
+  name: L&I Case investigations - 2022 to 2024 (CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=case_investigations&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
+    *, ST_Y(the_geom) AS lat, ST_X(the_geom) AS lng FROM case_investigations WHERE
+    investigationcompleted >= '2022-01-01' AND investigationcompleted < '2025-01-01'
+- description: ''
+  format: CSV
+  name: L&I Case investigations - 2019 to 2021 (CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=case_investigations&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
+    *, ST_Y(the_geom) AS lat, ST_X(the_geom) AS lng FROM case_investigations WHERE
+    investigationcompleted >= '2019-01-01' AND investigationcompleted < '2022-01-01'
 - description: ''
   format: CSV
   name: L&I Case investigations - 2016 to 2018 (CSV)

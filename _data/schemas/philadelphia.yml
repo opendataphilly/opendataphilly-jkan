@@ -32,7 +32,9 @@ dataset_fields:
   - field_name: maintainer_phone
     label: Maintainer Phone
   - field_name: modified
-    label: Dataset Modified
+    label: Last Updated
+    datajson: modified
+    display_template: display/date.html
   - field_name: source
     label: Source
   - field_name: time_period
