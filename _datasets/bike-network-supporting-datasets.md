@@ -15,7 +15,7 @@ notes: "This dataset combines data from various City of Philadelphia departments
    paths. Each dataset has its own parameters, dates, and sources, and individuals
    are encouraged to view the metadata associated with this data. 
    <i>This dataset is experimental and remains a work in progress. Please use with caution.</i>"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

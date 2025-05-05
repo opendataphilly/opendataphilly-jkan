@@ -9,7 +9,7 @@ maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This represents waterway structures that may require pier certifications."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

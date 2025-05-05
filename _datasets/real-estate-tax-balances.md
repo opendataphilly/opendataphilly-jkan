@@ -10,7 +10,7 @@ maintainer_email: 	roman.strakovsky@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Data about real estate accounts with tax balances. The aggregated datasets include both accounts with overdue balances  (property owner owes a late balance in the current tax year but it is not yet considered delinquent) and tax delinquencies. Tax delinquencies are accounts with outstanding balances for previous tax years. A past due account becomes delinquent when the real estate tax is still unpaid on January 1 of the following year that the tax was due."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 

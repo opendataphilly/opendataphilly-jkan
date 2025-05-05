@@ -21,7 +21,7 @@ notes: "This layer was developed to aid the Traffic Division in planning, organi
   \ labeling the polygon borders.  Contact the Streets GIS unit for public consumption\
   \ of the corresponding arc layer.\r\
   \n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

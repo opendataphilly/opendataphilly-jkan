@@ -12,7 +12,7 @@ notes: "This layer was developed to aid the Surveys Division in planning, modify
   \ and referencing the streets within a city plan of the City of Philadelphia.  Examples\
   \ include:  building new streets, modifying existing streets, or observing current\
   \ streets."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

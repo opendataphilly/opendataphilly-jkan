@@ -10,7 +10,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: 717-772-3305
 notes: 'School districts as defined by Pennsylvania Department of Transportation, Bureau of Planning and Research, Cartographic Information Division'
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Transportation
 resources:
 - description: ''

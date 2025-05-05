@@ -20,7 +20,7 @@ notes: "DRB2070 Version 1.0 represents a baseline forecast of urban land cover i
   \n - https://drbproject.org/wp-content/uploads/sites/101/2017/03/DRB2070_v1.pdf\
   \ - March 2017\r\n - https://drbproject.org/wp-content/uploads/2017/07/DRB2070_v2.pdf\
   \ - July 2017\r\n"
-opendataphilly_rating: null
+modified: null
 organization: Shippensburg University of Pennsylvania
 resources:
 - description: The 2070 forecast is summarized as NHDPlus catchments (2001, 2011,

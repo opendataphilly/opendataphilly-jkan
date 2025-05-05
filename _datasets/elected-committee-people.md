@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "This data set is a list of elected Committee People by ward, division, and\
   \ party."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Visit this site to download excel files for Democratic and Republican

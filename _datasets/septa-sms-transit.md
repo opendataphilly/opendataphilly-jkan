@@ -67,7 +67,7 @@ notes: 'SEPTA SMS Transit enables users to request scheduled trip information vi
 
   </ol>
    '
-opendataphilly_rating: null
+modified: null
 organization: SEPTA
 resources:
 - description: ''

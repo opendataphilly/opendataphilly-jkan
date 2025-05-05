@@ -18,7 +18,7 @@ notes: "***Some of the information in the open data files below may not yet refl
   \ on the quality of assessments. \r\n\r\n***This data updates nightly. Please ignore\
   \ the 'created by' date below - the date of August 2015 shows when this webpage,\
   \ not the data, was created.*** "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: "***This data updates nightly. Please ignore the 'created by' date\

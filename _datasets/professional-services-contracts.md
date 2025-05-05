@@ -20,7 +20,7 @@ notes: "The entire dataset for Professional Services Contracts by fiscal quarter
   \ a breakdown of contract dollars by vendor, department and service type. It also\
   \ features a \u201Cfrequently asked questions\u201D section to help users understand\
   \ the available data: http://cityofphiladelphia.github.io/contracts/.  "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: '***To download:  click on the dataset url, which will open in a new

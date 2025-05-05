@@ -22,7 +22,7 @@ notes: "From the Streets Department snow emergency route page\r\n\r\nWhen snow a
   \ emergency routes. The snow emergency routes shapefile/geojson is built by filtering\
   \ the street centerline layer to include only those rows where the seg_id is contained\
   \ in this list."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

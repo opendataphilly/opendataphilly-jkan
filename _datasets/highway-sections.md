@@ -15,7 +15,7 @@ notes: "This layer delineates the fifty-six sections of the Highway Division of 
   \ and maintaining of the streets within each of the six districts. Examples of maintenance\
   \ include: paving, snow removal, concrete maintenance, and the monitoring/repairing\
   \ of ditches and potholes.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

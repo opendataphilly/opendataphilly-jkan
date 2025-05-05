@@ -17,7 +17,7 @@ notes: PhilaPlace is an online interactive database of both contemporary and his
   communities. Entries in the database are visualized as feature markers in an interactive
   map tool, accompanying the search.  PhilaPlace was developed by the Historical Society
   of Pennsylvania.
-opendataphilly_rating: null
+modified: null
 organization: Historical Society of Pennsylvania
 resources:
 - description: ''

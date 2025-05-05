@@ -16,7 +16,7 @@ notes: 'Election results are published at the Ward and Ward-Division levels.
   In addition, some results from open records requests to teh City of Philadelphia.
   Data has been collected for 2003 to 2020.
   Attribute tables were modified to match across all years.'
-opendataphilly_rating: null
+modified: null
 organization: OpenDataPhilly
 resources:
 - description: ''

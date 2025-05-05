@@ -14,7 +14,7 @@ notes: In the Summer of 2018, PhillyStewards released the Philly Artist Census f
   assemble this information was and continues to be to clarify myths from truths about
   the greater Philly artist community.  We received over 500 responses from the Philadelphia
   artist community.
-opendataphilly_rating: null
+modified: null
 organization: Philly Stewards
 resources:
 - description: ''

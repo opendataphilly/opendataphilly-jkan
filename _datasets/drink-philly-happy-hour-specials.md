@@ -13,7 +13,7 @@ notes: 'Drink Philly provides listings of happy hours and drink and food special
   a list of featured specials sorted by day of the week and can be searched by neighborhood,
   type of special, type of bar, atmosphere, and drink prices. Profiles and reviews
   are available for many bars. '
-opendataphilly_rating: null
+modified: null
 organization: Drink Philly
 resources:
 - description: ''

@@ -12,7 +12,7 @@ notes: School progress report, district scorecard, PSSA & Keystone, district gra
   rate, school graduation rate, aimsweb-star, attendance, out-of-school suspensions,
   serious incidents, NSC student tracker reports, college matriculation, end-of-year
   report
-opendataphilly_rating: null
+modified: null
 organization: School District of Philadelphia
 resources:
 - description: SY 2012 - 2019

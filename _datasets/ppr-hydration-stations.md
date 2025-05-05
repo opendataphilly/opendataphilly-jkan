@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: Locations of hydration station and water fountains on or near Philadelphia
   Parks and Recreation (PPR) assets.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -16,7 +16,7 @@ notes: "A digital soil survey and generally is the most detailed level of soil
   use and management. The soil map units are linked to attributes in the National Soil Information System
   relational database, which gives the proportionate extent of the component soils and their properties."
 
-opendataphilly_rating: null
+modified: null
 organization: Natural Resources Conservation Service
 resources:
 - description: ''

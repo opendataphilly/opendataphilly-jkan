@@ -13,7 +13,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Polygon description of use rights for ingress/egress, driveways, alleyways,\
   \ utilities, drainage and subsurface areas."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

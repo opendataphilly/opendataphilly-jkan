@@ -9,7 +9,7 @@ maintainer_email: septoid@gmail.com
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'Returns a list of all elevator outages. The API does not require any paramters.'
-opendataphilly_rating: null
+modified: null
 organization: SEPTA
 resources:
 - description: ''

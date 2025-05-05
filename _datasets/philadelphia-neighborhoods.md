@@ -12,7 +12,7 @@ maintainer_phone: null
 notes: 'This dataset includes neighborhood boundaries for 150+ neighborhoods in Philadelphia.
   The data was gathered from a mix of publicly available maps, including from the City of Philadelphia,
   the City Archives, the Philadelphia Inquirer, and user feedback.'
-opendataphilly_rating: null
+modified: null
 organization: OpenDataPhilly
 resources:
 - description: ''

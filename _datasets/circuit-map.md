@@ -10,7 +10,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: Map of the existing and planning segments of the regional trail network
-opendataphilly_rating: null
+modified: null
 organization: Bicycle Coalition of Greater Philadelphia
 resources:
 - description: ''

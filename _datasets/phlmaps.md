@@ -26,7 +26,7 @@ notes: "The City of Philadelphia's ArcGIS Online organization that hosts referen
   \ to open data releases as feature services and AGO map applications shared with\
   \ the public.  Maintained by the City's Office of Innovation and Technology's CityGeo\
   \ team."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -27,7 +27,7 @@ notes: "Overview:\r\nThe School Progress Report (SPR) is an innovative tool desi
   \ renewal, and expansion\r\n\u2022 To strategically focus resources for greatest\
   \ impact on students\r\n\u2022 To track progress against the Action Plan anchor\
   \ goals"
-opendataphilly_rating: null
+modified: null
 organization: School District of Philadelphia
 resources:
 - description: "As part of our effort to build a System of Great Schools, below is\

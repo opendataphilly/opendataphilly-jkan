@@ -19,7 +19,7 @@ notes: "Choices & Voices version 2.1 allows you to participate in developing a v
   \ 2040 Plan for Greater Philadelphia. This amendment reflects transportation increased\
   \ funding levels in Pennsylvania from the passage of Act 89 of 2013. \r\n\r\nChoices\
   \ & Voices was a winner of the U.S. DOT 2014 Data Innovation Challenge. "
-opendataphilly_rating: null
+modified: null
 organization: Delaware Valley Regional Planning Commission (DVRPC)
 resources:
 - description: "Choices & Voices version 2.1 allows you to participate in developing\

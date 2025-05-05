@@ -11,7 +11,7 @@ maintainer_phone: null
 notes: "Boundaries of the City's Steep Slope Overlay district enacted under Section\
   \ 14-704(2) of the Zoning Code of December 2011 and made effective August 22, 2012.\
   \ See code for further details. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

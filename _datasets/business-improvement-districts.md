@@ -14,7 +14,7 @@ as well the University City District and Sports Complex District. More informati
 This data set may be helpful to property owners, property purchasers or title companies seeking to know if a property exists within a BID. 
 Note that this dataset may include errors or outdated information. Therefore, it is strongly recommended that interested parties contact BID 
 organizations directly with inquiries.'
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

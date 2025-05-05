@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly
   Discussion Group](http://www.phila.gov/data/discuss/)
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

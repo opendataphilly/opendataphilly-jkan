@@ -13,7 +13,7 @@ notes: "The Choice Neighborhoods program is administered by the U.S. Department 
   \ Housing and Urban Development (HUD).  It supports locally driven strategies to\
   \ address struggling neighborhoods with distressed public or HUD-assisted housing\
   \ through a comprehensive approach to neighborhood transformation. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

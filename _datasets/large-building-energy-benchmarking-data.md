@@ -12,7 +12,7 @@ notes: "This dataset contains annual building and performance data for those pro
   \ required to report. Property data is pulled from the Office of Property Assessment.\
   \ Energy and water data is self-reported by building owners using the EPA Portfolio\
   \ Manager tool. This data will be updated annually.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: Mapping and visualization application developed by the Office

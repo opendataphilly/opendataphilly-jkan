@@ -13,7 +13,7 @@ notes: 'Polygon boundaries of Zoning Base Districts based on existing City zonin
   districts with revised codes applied per enactment of the new Zoning Code of December\
   2011, made effective August 22, 2012. District boundaries are unchanged from the previous\
   zoning with the exception of certain CMX2 / CMX2.5 splits.'
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

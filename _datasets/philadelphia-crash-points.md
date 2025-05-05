@@ -11,7 +11,7 @@ maintainer_phone: null
 notes: Reported crashes in the city of Philadelphia from 2008-2012. Original data
   source is  PennDOT, the data was geocoded and flag table merged with crash locations
   to provide a more complete dataset with incident information.
-opendataphilly_rating: null
+modified: null
 organization: Azavea
 resources:
 - description: "# Philadelphia Crashes - 2012\r\n\r\n### Description  \r\n\r\nCrash\

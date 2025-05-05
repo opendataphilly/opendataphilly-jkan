@@ -10,7 +10,7 @@ maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: "Geographic data for SEPTA routes, stops, and locations is available from both
   APIs and GIS data."
-opendataphilly_rating: null
+modified: null
 organization: SEPTA
 resources:
 - description: 'A list of bus and trolley stop locations for each route returned in JSON format. A list of route IDs can be found at https://www3.septa.org/VIBusAndTrolley.html and in GTFS files.'

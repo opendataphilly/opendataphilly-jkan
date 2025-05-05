@@ -12,7 +12,7 @@ notes: 'The City of Philadelphia is launching Boost Your Business, a fund for eq
   Businesses owned by people of color face unique barriers in accessing resources and opportunities, which
   was only worsened by the COVID-19 pandemic. Boost Your Business will provide funding to help diverse
   entrepreneurs in Philadelphia scale their businesses.'
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

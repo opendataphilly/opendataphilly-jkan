@@ -15,7 +15,7 @@ notes: "Population metrics are provided at the census tract, planning district, 
   \ at the city and planning district levels of geography.  Please refer to the metadata\
   \ links below for variable definitions and [the technical notes document](https://metadata.phila.gov/index.html#home/datasetdetails/61c23fb963d616001ef54695/)\
   \ to access detailed technical notes and variable definitions.\r\n\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: Interactive maps and charts of vital statistics and trends in natality (births), mortality (deaths), and population for Philadelphia residents.

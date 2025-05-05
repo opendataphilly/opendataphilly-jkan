@@ -18,7 +18,7 @@ notes: "As part of the Philadelphia Police Department's (PPD) accountability pro
   \ sex, and age of each person who filed a complaint against a police officer by\
   \ complaint number. \r\n\r\nSee metadata links below for dataset and field descriptions.\r\
   \n\r\nIncludes data from the past five years. Updated monthly. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Updated monthly. '

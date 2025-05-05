@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "LiDAR and LAS data was gathered for the City of Philadelphia in April 2008,\
   \ April 2010, 2015, April 2018, and 2022."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

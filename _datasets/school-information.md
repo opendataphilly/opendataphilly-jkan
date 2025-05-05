@@ -9,7 +9,7 @@ maintainer_email: opendata@philasd.org
 maintainer_link: null
 maintainer_phone: null
 notes: School lists, enrollment, demographics, pre-school, catchments; surveys, reopening
-opendataphilly_rating: null
+modified: null
 organization: School District of Philadelphia
 resources:
 - description: 2001 - 2021

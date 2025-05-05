@@ -21,7 +21,7 @@ notes: "***As of May 2022, these datasets moved from daily updates to weekly upd
   \ tests by date, zip, and outcome and cases by race, age or sex.  To protect the\
   \ confidentiality of residents, PDPH suppresses the exact data for any categories\
   \ that have less than 6 counts (i.e. of tests or fatalities).\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

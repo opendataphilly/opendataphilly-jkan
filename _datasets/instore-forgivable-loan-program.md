@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Contains information about the applicant, business, project, and costs. Used\
   \ for tracking completed projects; including tracking amounts paid."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

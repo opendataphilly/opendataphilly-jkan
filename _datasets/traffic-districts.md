@@ -12,7 +12,7 @@ notes: "This layer was developed to aid the Traffic Division in planning, organi
   \ and maintaining traffic flow within the City of Philadelphia.  Examples include:\
   \  the maintenance and placing of stop signs and signals and monitoring street travel\
   \ direction. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

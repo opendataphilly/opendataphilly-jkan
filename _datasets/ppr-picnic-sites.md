@@ -12,7 +12,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: Displays the locations of picnic sites located within Philadelphia Parks and
   Recreation boundaries. Picnic sites are denoted as any location with a picnic table.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

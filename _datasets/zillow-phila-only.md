@@ -14,7 +14,7 @@ notes: 'Searchable online database of homes for sale, rent, and not currently on
   specifications, pricing, and keyword. Registration allows for favorite listing saving,
   customized property e-mail alerts, and other privileges. Users can also access real-estate
   listing data through an API. '
-opendataphilly_rating: null
+modified: null
 organization: Zillow
 resources:
 - description: ''

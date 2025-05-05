@@ -17,7 +17,7 @@ notes: "This dataset maps tree canopy for the state Pennsylvania at a 1m resolut
   \ etc.   Please note that this dataset is independent from those areas we have mapped\
   \ for Urban Tree Canopy (UTC) assessments.  Future releases will integrate these\
   \ two projects."
-opendataphilly_rating: null
+modified: null
 organization: University of Vermont Spatial Analysis Lab
 resources:
 - description: 2.3 GB zip file of tree canopy as a 1m resolution raster data set

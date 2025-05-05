@@ -19,7 +19,7 @@ notes: "2018 data: This dataset was developed as part of an Urban Tree Canopy (U
   \ off the 2015 Leaf-Off 3\" AccuPLUS Imagery representing changes in tree canopy\
   \ visible within the imagery. Heights have been derived separately for each tree\
   \ canopy outline from 2015 LiDAR data capture."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

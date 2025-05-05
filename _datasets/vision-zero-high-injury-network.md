@@ -13,7 +13,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "This data contains the High Injury Network. It is derived using spatial data\
   \ analysis of crash data for years 2012-2016 from Pennsylvania Department of Transportation."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: Vision Zero dashboard on reducing traffic deaths. 

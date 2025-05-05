@@ -30,7 +30,7 @@ notes: "Freight Data Portal for the Delaware Valley.\r\n\r\nThe Delaware Valley 
   \ across the country. Open Freight App would serve as a self-hosted solution to\
   \ offer these datasets to other planners, economic developers, public officials,\
   \ decision-makers and the general public."
-opendataphilly_rating: null
+modified: null
 organization: Delaware Valley Regional Planning Commission (DVRPC)
 resources:
 - description: Freight mapping and data platform for the Delaware Valley

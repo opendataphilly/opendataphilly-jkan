@@ -16,7 +16,7 @@ notes: 'An online polling place and elected official look-up tool that enables u
   can also download results as text files. Data is drawn from the Committee of Seventy
   as well as the Philadelphia City Council, the Philadelphia City Planning Commission
   (PCPC), and other city of Philadelphia agencies. '
-opendataphilly_rating: null
+modified: null
 organization: Committee of Seventy
 resources:
 - description: ''

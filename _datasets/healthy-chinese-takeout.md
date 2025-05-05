@@ -22,7 +22,7 @@ Healthy Chinese Takeout participants as of 2/5/15.The Philadelphia Healthy Chine
   \ other retailers. To date, 200 Chinese take-out restaurants have enrolled in the\
   \ initiative, participated in a low-sodium healthy cooking training with a professional\
   \ chef, and received education about complying with the Tobacco Youth Sales Law."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

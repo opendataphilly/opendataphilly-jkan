@@ -16,7 +16,7 @@ notes: "Please note that the enterprise zones expired in the early 2000s, theref
   \ businesses in blighted areas. Blighted areas are defined as meeting one of seven\
   \ city mandated criteria, including unsafe, unsanitary and inadequate conditions;\
   \ economically or socially undesirable land use; and faulty street and lot layout."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

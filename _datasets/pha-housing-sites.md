@@ -14,7 +14,7 @@ notes: 'The Philadelphia Housing Authority Housing Sites application is a map of
   by type of development, number of bedrooms, and units with accessibility features.
   The information for each housing site includes the name, location, an image, and
   a link to a fact sheet with additional details. '
-opendataphilly_rating: null
+modified: null
 organization: Philadelphia Housing Authority
 resources:
 - description: ''

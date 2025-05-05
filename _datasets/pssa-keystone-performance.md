@@ -18,7 +18,7 @@ notes: "\u2022 Actual Performance files: calculated using actual student perform
   \ up the Keystone end-of-course assessments. Results are reported for All Students,\
   \ and are also broken down by Gender, Ethnicity, English Language Learner (ELL)\
   \ status, Special Education (IEP) status, and Economically Disadvantaged status."
-opendataphilly_rating: null
+modified: null
 organization: School District of Philadelphia
 resources:
 - description: ''

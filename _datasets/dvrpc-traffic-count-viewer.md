@@ -21,7 +21,7 @@ notes: 'Traffic Count Viewer is an online mapping application, which users can u
   are available for export in multiple formats (including basic .doc and .rtf outputs.)
   Traffic count data is collected by the Delaware Valley Regional Planning Commission
   and other agencies. '
-opendataphilly_rating: null
+modified: null
 organization: Delaware Valley Regional Planning Commission (DVRPC)
 resources:
 - description: ''

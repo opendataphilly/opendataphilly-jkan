@@ -16,7 +16,7 @@ notes: "This dataset includes the number of newly identified (incident) children
   \ is for 2015 and the census tract data is for 2013-2015.\r\n\r\nCell counts with\
   \ missing values are those with less than six observations, which was truncated\
   \ to ensure confidentiality. Cells with values of zero were included."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

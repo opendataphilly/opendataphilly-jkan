@@ -19,7 +19,7 @@ notes: "This data set shows all fatal crashes and their investigative outcomes f
   \ involves further investigation to confirm initial reports. If you want to analyze\
   \ the location of crashes in Philadelphia, use OTIS' dataset. If you want to understand\
   \ the investigative outcomes of crashes, use the PPD dataset.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: Vision Zero dashboard on reducing traffic deaths. 

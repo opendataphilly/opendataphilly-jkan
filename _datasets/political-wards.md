@@ -13,7 +13,7 @@ notes: "Boundaries of wards (political units) in the City of Philadelphia. Data 
   \ than 10 and no more than 50 divisions. Ward leaders are elected by their party's\
   \ committeepeople. Learn more about Democratic Ward Leaders and Committeepeople\
   \ : http://www.seventy.org/Resources_Ward_Leaders_and_Committeepeople.aspx"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -12,7 +12,7 @@ maintainer_email: ligisteam@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: A layer providing exceptions to the vending prohibition streets layer as indicated by the City of Philadelphia's legislative process. Features represent streets or intersections whereby the City has made exceptions to certain or all vending restrictions. Specific exception parameters are summarized in the "REMARKS" column and can be found in full detail by accessing specific sections/subsections of the Philadelphia Code.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

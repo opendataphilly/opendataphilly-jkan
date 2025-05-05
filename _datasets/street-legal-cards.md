@@ -16,7 +16,7 @@ maintainer_phone: null
 notes: "Street Centerline Arcs with link to legal cards, which are a collection of\
   \ cards containing the official record of the legal description and drawings of\
   \ city streets."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

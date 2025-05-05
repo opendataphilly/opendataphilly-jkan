@@ -8,7 +8,7 @@ maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null
 maintainer_phone: 215-686-8287
 notes: "Police division boundaries.  Divisions are aggregations of police districts."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

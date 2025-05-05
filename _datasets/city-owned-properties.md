@@ -11,7 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Web application displaying properties owned by the City, PHDC/RDA or other\
   \ public entities.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: A map of all properties in public ownership that are available. It

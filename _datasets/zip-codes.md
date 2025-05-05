@@ -11,7 +11,7 @@ maintainer_phone: 215-686-8287
 notes: "The purpose of this dataset is to represent the Zip Code areas for the City\
   \ of Philadelphia.  The edges of Zip Codes are slightly modified for logical and\
   \ cartographic purposes.\r\n\r\n"
-opendataphilly_rating: '4'
+modified: '4'
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -15,7 +15,7 @@ notes: 'Data developed by the Federal Emergency Management Agency (FEMA) with in
   digital maps and attribute data.  Risk classifications used in the data are: 1%
   annual-chance flood event; 0.2% annual-chance flood event; and areas of minimal
   flood risk. '
-opendataphilly_rating: null
+modified: null
 organization: Federal Insurance and Mitigation Administration (FEMA)
 resources:
 - description: ''

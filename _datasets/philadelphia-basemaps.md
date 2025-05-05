@@ -10,7 +10,7 @@ maintainer_email: maps@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Basemaps of the Philadelphia area, including from the Department of Records."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

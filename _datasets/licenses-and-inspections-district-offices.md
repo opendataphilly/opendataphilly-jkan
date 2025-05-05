@@ -13,7 +13,7 @@ notes: "Location and contact information for the L&I district offices.\r\n\r\nFo
   \ all L&I data related inquiries contact ligisteam@phila.gov. For all other L&I\
   \ related services (including eCLIPSE troubleshooting) please contact Philly311:\r\
   \n*Inside City Limits: 311\r\n*Outside City Limits: 215-686-8686"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

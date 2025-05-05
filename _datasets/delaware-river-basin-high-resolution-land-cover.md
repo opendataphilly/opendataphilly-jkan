@@ -21,7 +21,7 @@ notes: "High-resolution land cover dataset for the Delaware River Basin develope
   \ over Structures\r\n11 - Tree Canopy over Other Impervious Surfaces\r\n12 - Tree\
   \ Canopy over Roads\r\n\r\nUVM Spatial Analysis Lab request attribution in any publications,\
   \ reports, derivative datasets, etc."
-opendataphilly_rating: null
+modified: null
 organization: University of Vermont Spatial Analysis Lab
 resources:
 - description: One raster dataset for each county that intersects with Delaware River

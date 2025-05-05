@@ -9,7 +9,7 @@ maintainer_email: darshna.patel@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "City Council Districts for a variety of different years."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed '
