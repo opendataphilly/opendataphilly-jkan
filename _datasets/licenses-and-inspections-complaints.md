@@ -1,7 +1,7 @@
 ---
 area_of_interest: null
 category: 
-- Planning / Zonng
+- Planning / Zoning
 - Real Estate / Land Records
 - Environment
 created: '2016-09-22T14:31:12.542396'

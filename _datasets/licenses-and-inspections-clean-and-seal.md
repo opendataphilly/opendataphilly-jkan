@@ -1,7 +1,7 @@
 ---
 area_of_interest: null
 category: 
-- Planning / Zonng
+- Planning / Zoning
 - Real Estate / Land Records
 created: '2016-09-22T18:07:28.682465'
 license: City of Philadelphia License
