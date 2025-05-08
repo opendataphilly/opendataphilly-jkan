@@ -14,42 +14,42 @@ organization: PA Department of Transportation
 resources:
 - description: ''
   format: SHP
-  name: PA Transporation Improvement Projects Lines Shapefile
+  name: PA Transportation Improvement Projects Lines Shapefile
   url: https://www.pasda.psu.edu/download/padot/state/PA_TransportationImprovementProjects_Line2024_03.zip
 - description: ''
   format: GeoJSON
-  name: PA Transporation Improvement Projects Lines GeoJSON
+  name: PA Transportation Improvement Projects Lines GeoJSON
   url: https://www.pasda.psu.edu/json/PA_TransportationImprovementProjects_Line2024_03.geojson
 - description: ''
   format: API
-  name: PA Transporation Improvement Projects Lines REST API
+  name: PA Transportation Improvement Projects Lines REST API
   url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/PennDOT/MapServer
 - description: ''
   format: HTML
-  name: PA Transporation Improvement Projects Lines Metadata
+  name: PA Transportation Improvement Projects Lines Metadata
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PA_TransportationImprovementProjects_Line2024_03.xml
 - description: ''
   format: SHP
-  name: PA Transporation Improvement Projects Points Shapefile
+  name: PA Transportation Improvement Projects Points Shapefile
   url: https://www.pasda.psu.edu/download/padot/state/PA_TransportationImprovementProjects_Point2024_03.zip
 - description: ''
   format: GeoJSON
-  name: PA Transporation Improvement Projects Points GeoJSON
+  name: PA Transportation Improvement Projects Points GeoJSON
   url: https://www.pasda.psu.edu/json/PA_TransportationImprovementProjects_Point2024_03.geojson
 - description: ''
   format: API
-  name: PA Transporation Improvement Projects Points REST API
+  name: PA Transportation Improvement Projects Points REST API
   url: https://mapservices.pasda.psu.edu/server/rest/services/pasda/PennDOT/MapServer
 - description: ''
   format: HTML
-  name: PA Transporation Improvement Projects Points Metadata
+  name: PA Transportation Improvement Projects Points Metadata
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PA_TransportationImprovementProjects_Point2024_03.xml
 schema: philadelphia
 source: null
 tags: 
 - infrastructure
 time_period: March 2024
-title: PA Transporation Improvement Projects
+title: PA Transportation Improvement Projects
 usage: Public Use; Free
 ---
 
