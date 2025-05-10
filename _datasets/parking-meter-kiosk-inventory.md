@@ -1,7 +1,7 @@
 ---
 area_of_interest: null
 category: 
-- Planning / Zonng
+- Planning / Zoning
 created: '2015-01-21T14:17:47.544851'
 license: City of Philadelphia License
 maintainer: ''

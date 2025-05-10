@@ -3,7 +3,7 @@ area_of_interest: "\tDelaware Valley (Camden; Gloucester; Mercer; Bucks; Chester
   \ Delaware; Montgomery; Philadelphia counties)"
 category: 
 - Parks / Recreation
-- Health / Humans Services
+- Health / Human Services
 - Transportation
 created: '2017-06-27T15:13:17.062929'
 license: License Not Specified
