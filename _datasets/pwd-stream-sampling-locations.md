@@ -4,7 +4,6 @@ category:
 - Environment
 - Health / Human Services
 - Public Safety
-created: '2015-10-14T16:40:42.512184'
 license: City of Philadelphia License
 maintainer: Raymond Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -20,15 +19,15 @@ resources:
 - description: ''
   format: CSV
   name: PWD Stream Sampling Locations (CSV)
-  url: https://opendata.arcgis.com/datasets/b29467adc3294a54b8ba86bd66af13cd_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/b29467adc3294a54b8ba86bd66af13cd_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: PWD Stream Sampling Locations (SHP)
-  url: https://opendata.arcgis.com/datasets/b29467adc3294a54b8ba86bd66af13cd_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/b29467adc3294a54b8ba86bd66af13cd_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PWD Stream Sampling Locations (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/b29467adc3294a54b8ba86bd66af13cd_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/b29467adc3294a54b8ba86bd66af13cd_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PWD Stream Sampling Locations (API)
