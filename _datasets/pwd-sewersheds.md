@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Environment
-- Health / Human Services
 - Planning / Zoning
 license: City of Philadelphia License
 maintainer: Raymond Pierdomenico
