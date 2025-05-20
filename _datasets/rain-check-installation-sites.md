@@ -23,7 +23,7 @@ resources:
 - description: ''
   format: GeoJSON
   name: Rain Check Installation Sites (GeoJSON)
-  url: https://hub.arcgis.com/api/v3/datasets/df844a47a94941fea3c45b2cd60af5f9_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/df844a47a94941fea3c45b2cd60af5f9_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Rain Check Installation Sites (API)
