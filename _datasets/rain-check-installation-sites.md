@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Environment
-created: '2015-10-14T17:45:31.340108'
 license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: Rain Check Installation Sites (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/df844a47a94941fea3c45b2cd60af5f9_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/df844a47a94941fea3c45b2cd60af5f9_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Rain Check Installation Sites (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/df844a47a94941fea3c45b2cd60af5f9_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/df844a47a94941fea3c45b2cd60af5f9_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Rain Check Installation Sites (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/df844a47a94941fea3c45b2cd60af5f9_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/df844a47a94941fea3c45b2cd60af5f9_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: API
   name: Rain Check Installation Sites (API)
