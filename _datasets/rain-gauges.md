@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Environment
-created: '2015-10-07T17:42:05.363372'
 license: City of Philadelphia License
 maintainer: Edward Lennon, Jr.
 maintainer_email: edward.lennonjr@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: Rain Gauge Network (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/63da9bd382e7497ca8ea8a01683cca6a_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/63da9bd382e7497ca8ea8a01683cca6a_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Rain Gauge Network (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/63da9bd382e7497ca8ea8a01683cca6a_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/63da9bd382e7497ca8ea8a01683cca6a_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Rain Gauge Network (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/63da9bd382e7497ca8ea8a01683cca6a_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/63da9bd382e7497ca8ea8a01683cca6a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Rain Gauge Network (API)
