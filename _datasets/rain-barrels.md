@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Environment
-created: '2015-09-14T18:29:03.311187'
 license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: Rain Barrels (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/da8b20fb584f4dd58f28861c8f29311f_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/da8b20fb584f4dd58f28861c8f29311f_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Rain Barrels (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/da8b20fb584f4dd58f28861c8f29311f_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/da8b20fb584f4dd58f28861c8f29311f_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Rain Barrels (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/da8b20fb584f4dd58f28861c8f29311f_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/da8b20fb584f4dd58f28861c8f29311f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Rain Barrels (API)
