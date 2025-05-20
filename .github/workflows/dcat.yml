@@ -40,6 +40,10 @@ jobs:
           git clone https://github.com/nasa/DCATUS-Validator.git
           npm --prefix ./DCATUS-Validator install
 
+      - name: Modify DCATUS-Validator schema
+        run: |
+          mv .github/dcat-workflow-non-federal-schema.json ./DCATUS-Validator/schemas/gsa-dcat.json
+
       - name: Run dcat-validator
         run: |
           cd ./DCATUS-Validator
