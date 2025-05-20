@@ -2,9 +2,7 @@
 area_of_interest: null
 category:
 - Environment
-- Health / Human Services
 - Planning / Zoning
-created: '2019-11-26T17:13:06.948288'
 license: City of Philadelphia License
 maintainer: Raymond Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -20,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Sewersheds (CSV)
-  url: https://opendata.arcgis.com/datasets/393744b2244c4e558b49cac4c156a417_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/393744b2244c4e558b49cac4c156a417_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: ' Sewersheds (SHP)'
-  url: https://opendata.arcgis.com/datasets/393744b2244c4e558b49cac4c156a417_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/393744b2244c4e558b49cac4c156a417_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: ' Sewersheds (GeoJSON)'
-  url: https://opendata.arcgis.com/datasets/393744b2244c4e558b49cac4c156a417_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/393744b2244c4e558b49cac4c156a417_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: ' Sewersheds (API)'
