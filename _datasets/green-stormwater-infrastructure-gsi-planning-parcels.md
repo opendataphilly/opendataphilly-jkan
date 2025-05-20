@@ -4,7 +4,6 @@ category:
 - Boundaries
 - Environment
 - Real Estate / Land Records
-created: '2021-08-12T16:07:13.462234'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: GSI Planning Parcels (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/7e4c7735e58b4e128540ffdb86f02ebe_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/7e4c7735e58b4e128540ffdb86f02ebe_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: GSI Planning Parcels (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/7e4c7735e58b4e128540ffdb86f02ebe_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/7e4c7735e58b4e128540ffdb86f02ebe_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: GSI Planning Parcels (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/7e4c7735e58b4e128540ffdb86f02ebe_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/7e4c7735e58b4e128540ffdb86f02ebe_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: GSI Planning Parcels (API)
