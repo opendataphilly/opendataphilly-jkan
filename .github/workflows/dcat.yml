@@ -1,0 +1,47 @@
+name: CI
+
+on:
+  pull_request:
+
+jobs:
+  dcat:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout the current repository
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4 # v1.207.0
+        with:
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Write metadata to a file Jekyll can use
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          echo "branch: $BRANCH" > _config.ci.yml
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build --baseurl "https://opendataphilly.org" --config _config.ci.yml,_config.yml
+        env:
+          JEKYLL_ENV: production
+          PAGES_REPO_NWO: ${{ github.repository }}
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Clone DCATUS-Validator repository
+        run: |
+          git clone https://github.com/nasa/DCATUS-Validator.git
+          npm --prefix ./DCATUS-Validator install
+
+      - name: Run dcat-validator
+        run: |
+          cd ./DCATUS-Validator
+          node dcat-validator.js ../_site/data.json
+          cat ./validation-results.json
