@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Environment
-created: '2016-04-25T23:23:45.371317'
 license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: GSI Public Projects - Point (CSV)
-  url: https://opendata.arcgis.com/datasets/3803641418e847a0bf7e28cd124f768e_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/3803641418e847a0bf7e28cd124f768e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: GSI Public Projects - Point (SHP)
-  url: https://opendata.arcgis.com/datasets/3803641418e847a0bf7e28cd124f768e_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/3803641418e847a0bf7e28cd124f768e_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: GSI Public Projects - Point (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/3803641418e847a0bf7e28cd124f768e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/3803641418e847a0bf7e28cd124f768e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: GSI Public Projects - Point (API)
@@ -36,15 +35,15 @@ resources:
 - description: ''
   format: CSV
   name: GSI Public Projects - Line (CSV)
-  url: https://opendata.arcgis.com/datasets/fbb666987cd9404a9b74ac7234e73514_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/fbb666987cd9404a9b74ac7234e73514_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: GSI Public Projects - Line (SHP)
-  url: https://opendata.arcgis.com/datasets/fbb666987cd9404a9b74ac7234e73514_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/fbb666987cd9404a9b74ac7234e73514_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: GSI Public Projects - Line (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/fbb666987cd9404a9b74ac7234e73514_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/fbb666987cd9404a9b74ac7234e73514_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: GSI Public Projects - Line (API)
