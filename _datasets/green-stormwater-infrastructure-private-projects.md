@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Environment
-created: '2016-05-11T17:06:36.367742'
 license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -18,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: GSI Private Projects - Regulation (CSV)
-  url: https://opendata.arcgis.com/datasets/bc7f7d1135bd48aaba40e8ae1e7ae350_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/bc7f7d1135bd48aaba40e8ae1e7ae350_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: GSI Private Projects - Regulation (SHP)
-  url: https://opendata.arcgis.com/datasets/bc7f7d1135bd48aaba40e8ae1e7ae350_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/bc7f7d1135bd48aaba40e8ae1e7ae350_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: GSI Private Projects - Regulation (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/bc7f7d1135bd48aaba40e8ae1e7ae350_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/bc7f7d1135bd48aaba40e8ae1e7ae350_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: GSI Private Projects - Regulation (API)
@@ -38,15 +37,15 @@ resources:
 - description: ''
   format: CSV
   name: GSI Private Projects - Retrofit (CSV)
-  url: https://opendata.arcgis.com/datasets/66c9704654a0423382ee82bc4741d3ca_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/66c9704654a0423382ee82bc4741d3ca_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: GSI Private Projects - Retrofit (SHP)
-  url: https://opendata.arcgis.com/datasets/66c9704654a0423382ee82bc4741d3ca_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/66c9704654a0423382ee82bc4741d3ca_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: GSI Private Projects - Retrofit (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/66c9704654a0423382ee82bc4741d3ca_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/66c9704654a0423382ee82bc4741d3ca_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: GSI Private Projects - Retrofit (API)
