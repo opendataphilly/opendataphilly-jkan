@@ -7,7 +7,7 @@ maintainer:
 maintainer_email: 
 maintainer_link: null
 maintainer_phone: null
-notes: "This is the h3 (https://h3geo.org/) hex grid covering Philadelphia. H3 indexes points and shapes into a hexagonal grid.
+notes: "This is the H3 (https://h3geo.org/) hex grid covering Philadelphia. H3 indexes points and shapes into a hexagonal grid.
   It is meant to be used as a standardized grid for aggregating data at different resolutions. Grids exist for resolution
   levels 7-10. Any cells that overlap the city limits were included."
 opendataphilly_rating: null
@@ -97,6 +97,8 @@ schema: philadelphia
 source: ''
 tags:
 - boundaries
+- H3
+- hexagons
 time_period: null
 title: Philadelphia Basemaps
 usage: Public Use; Free
