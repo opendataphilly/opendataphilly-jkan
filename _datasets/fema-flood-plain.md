@@ -2,16 +2,37 @@
 area_of_interest: null
 category:
 - Environment
-created: '2015-06-09T21:06:44.713244'
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "Federal Emergency Management Administration (FEMA) data clipped to Philadelphia.\r\n"
+notes: "Federal Emergency Management Administration (FEMA) data clipped to Philadelphia. Please note, FEMA is moving away from solely using "100-year" and "500-year"
+  flood terminology by emphasizing the more accurate and technical phrase "1-percent annual chance flood" for a 100-year flood and "0.2-percent annual chance flood"
+  for a 500-year flood, focusing on the probability of occurrence rather than the time frame implied by the "year" designation."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
+- description: '' 
+  format: CSV
+  name: 2023 FEMA Flood Plain (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/16fe94b76e49481dae55702b2a8d671a_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2023 FEMA Flood Plain (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/16fe94b76e49481dae55702b2a8d671a_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: 'Update Frequency: As released by FEMA'
+  format: GeoJSON
+  name: 2023 FEMA Flood Plain (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/16fe94b76e49481dae55702b2a8d671a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: '' 
+  format: API
+  name: 2023 FEMA Flood Plain (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/fema_floodplain_2023/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2023 FEMA Flood Plain (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/55773916220d94f32b210704/representationdetails/6581c735cf51d4002704547d/
 - description: 'Update Frequency: As released by FEMA'
   format: CSV
   name: 2015 FEMA 100 Year Flood Plain (CSV)
