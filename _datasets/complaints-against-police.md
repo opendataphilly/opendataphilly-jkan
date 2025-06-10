@@ -3,21 +3,21 @@ area_of_interest: null
 category:
 - Health / Human Services
 - Public Safety
-created: '2017-11-01T14:14:34.042338'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "As part of the Philadelphia Police Department's (PPD) accountability processes,\
-  \ PPD publishes three datasets: The Complaints Against Police (CAP) dataset documents\
-  \ the civilian complaints alleging police misconduct; the CAP Findings dataset provides\
-  \ demographic details of the police officer involved, the allegations, and the status\
-  \ of the PPD's Internal Affairs Division's investigation of and findings (if available)\
-  \ about the allegation; and the Complainant Demographics dataset shows the race,\
-  \ sex, and age of each person who filed a complaint against a police officer by\
-  \ complaint number. \r\n\r\nSee metadata links below for dataset and field descriptions.\r\
-  \n\r\nIncludes data from the past five years. Updated monthly. "
+notes: "As part of the Philadelphia Police Department's (PPD) accountability processes,
+  PPD publishes four datasets: The Complaints Against Police (CAP) dataset documents
+  the civilian complaints alleging police misconduct; the CAP Findings dataset provides
+  demographic details of the police officer involved, the allegations, and the status
+  of the PPD's Internal Affairs Division's investigation of and findings (if available)
+  about the allegation; the Complainant Demographics dataset shows the race, sex, and age of
+  each person who filed a complaint against a police officer by complaint number, and CAP
+  History dataset details the timeline by which PPD released the complaint, concluded the
+  investigation, and determined any resulting discipline. See metadata links below
+  for dataset and field descriptions. Includes data from the past five years. Updated monthly."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
