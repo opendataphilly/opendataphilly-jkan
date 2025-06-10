@@ -43,7 +43,7 @@ resources:
   url: https://opendata.arcgis.com/datasets/1d6d353ab50b4884b586c05ee2a661db_0.zip
 - description: 'Update Frequency: As released by FEMA'
   format: GeoJSON
-  name: 2015 FEMA 100 Flood Plain (GeoJSON)
+  name: 2015 FEMA 100 Year Flood Plain (GeoJSON)
   url: https://opendata.arcgis.com/datasets/1d6d353ab50b4884b586c05ee2a661db_0.geojson
 - description: 'Update Frequency: As released by FEMA'
   format: API
@@ -117,6 +117,9 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Planning and Development
+- Flooding
+- Disaster Planning
+- Climate Change
 time_period: null
 title: FEMA Flood Plain
 usage: null
