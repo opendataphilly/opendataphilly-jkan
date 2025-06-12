@@ -96,6 +96,7 @@ resources:
 schema: philadelphia
 source: ''
 tags:
+- Philly Stat 360
 - boundaries
 - H3
 - hexagons
