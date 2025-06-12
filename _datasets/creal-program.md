@@ -16,23 +16,23 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: CREAL Program Grants (CSV)
+  name: CREAL Program (CSV)
   url: https://hub.arcgis.com/api/v3/datasets/eb1114e256d149668ce30d1488297e97_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
-  name: CREAL Program Grants (SHP)
+  name: CREAL Program (SHP)
   url: https://hub.arcgis.com/api/v3/datasets/eb1114e256d149668ce30d1488297e97_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
-  name: CREAL Program Grants (GeoJSON)
+  name: CREAL Program (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/eb1114e256d149668ce30d1488297e97_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
-  name: CREAL Program Grants (API)
+  name: CREAL Program (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/commercial_real_estate_acquisition_loan_program/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
-  name: CREAL Program Grants (Metadata)
+  name: CREAL Program (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/6841f4f00a303102cebacd0f/representationdetails/6841f4f00a303102cebacd27/
 schema: philadelphia
 source: ''
