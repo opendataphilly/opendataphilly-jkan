@@ -40,6 +40,8 @@ schema: philadelphia
 source: ''
 tags:
 - Commerce Department
+- grants
+- manufacturing
 time_period: null
 title: PHL Made Grant Program
 usage: null
