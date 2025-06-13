@@ -2,7 +2,6 @@
 area_of_interest: null
 category: 
 - Environment
-created: '2015-10-05T20:54:30.050561'
 license: City of Philadelphia License
 maintainer: Larry Szarek
 maintainer_email: larry.szarek@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Dams (CSV)
-  url: https://opendata.arcgis.com/datasets/63190d33b80e401db99cfba5b5faa125_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/63190d33b80e401db99cfba5b5faa125_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Dams (SHP)
-  url: https://opendata.arcgis.com/datasets/63190d33b80e401db99cfba5b5faa125_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/63190d33b80e401db99cfba5b5faa125_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Dams (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/63190d33b80e401db99cfba5b5faa125_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/63190d33b80e401db99cfba5b5faa125_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Dams (API)
