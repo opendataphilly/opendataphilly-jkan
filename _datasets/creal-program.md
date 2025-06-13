@@ -38,6 +38,8 @@ schema: philadelphia
 source: ''
 tags:
 - Commerce Department
+- loans
+- small business
 time_period: null
 title: 
 usage: null
