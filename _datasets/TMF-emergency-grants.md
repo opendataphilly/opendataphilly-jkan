@@ -39,6 +39,8 @@ schema: philadelphia
 source: ''
 tags:
 - Commerce Department
+- grants
+- small business
 time_period: null
 title: TMF Emergency Grant Program
 usage: null
