@@ -39,6 +39,9 @@ schema: philadelphia
 source: ''
 tags:
 - Commerce Department
+- grants
+- startups
+- small business
 time_period: null
 title: Philadelphia Business Lending Network Incentive Grant Program
 usage: null
