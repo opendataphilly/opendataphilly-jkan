@@ -14,6 +14,10 @@ opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
 - description: ''
+  format: APPLICATION
+  name: Traffic Calming Devices Map
+  url: https://phl.maps.arcgis.com/apps/webappviewer/index.html?id=76001d31f9dd408284d095216093c961
+- description: ''
   format: CSV
   name: Traffic Calming Devices (CSV)
   url: https://opendata.arcgis.com/api/v3/datasets/f9299b31b170484d9fff30b81014933f_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
