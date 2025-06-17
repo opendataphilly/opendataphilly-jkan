@@ -27,6 +27,8 @@ schema: philadelphia
 source: ''
 tags:
 - PHDC
+- city assets
+- municipal assets
 time_period: null
 title: City Owned Properties
 usage: null
