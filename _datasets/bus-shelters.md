@@ -37,6 +37,7 @@ schema: philadelphia
 source: ''
 tags:
 - Office of Transportation & Infrastructure Systems
+- public transit
 time_period: null
 title: Bus Shelters
 usage: null
