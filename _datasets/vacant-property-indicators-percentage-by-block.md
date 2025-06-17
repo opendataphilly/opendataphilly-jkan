@@ -78,6 +78,8 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Licenses and Inspections
+- vacant land
+- vacant properties
 time_period: null
 title: Vacant Property Indicators Percentage by Block
 usage: null
