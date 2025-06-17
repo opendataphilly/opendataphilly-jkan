@@ -18,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Vacant Property Indicators - Buildings (CSV)
-  url: https://opendata.arcgis.com/datasets/f7ed68293c5e40d58f1de9c8435c3e84_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/f7ed68293c5e40d58f1de9c8435c3e84_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Vacant Property Indicators - Buildings (SHP)
-  url: https://opendata.arcgis.com/datasets/f7ed68293c5e40d58f1de9c8435c3e84_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/f7ed68293c5e40d58f1de9c8435c3e84_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Vacant Property Indicators - Buildings (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/f7ed68293c5e40d58f1de9c8435c3e84_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/f7ed68293c5e40d58f1de9c8435c3e84_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Vacant Property Indicators - Buildings (API)
@@ -38,15 +38,15 @@ resources:
 - description: ''
   format: CSV
   name: Vacant Property Indicators - Land (CSV)
-  url: https://opendata.arcgis.com/datasets/19c35fb02d544a9bad0032b58268c9f9_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/19c35fb02d544a9bad0032b58268c9f9_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Vacant Property Indicators - Land (SHP)
-  url: https://opendata.arcgis.com/datasets/19c35fb02d544a9bad0032b58268c9f9_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/19c35fb02d544a9bad0032b58268c9f9_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Vacant Property Indicators - Land (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/19c35fb02d544a9bad0032b58268c9f9_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/19c35fb02d544a9bad0032b58268c9f9_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Vacant Property Indicators - Land (API)
@@ -58,15 +58,15 @@ resources:
 - description: ''
   format: CSV
   name: Vacant Property Indicators - Points (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/b990222a527849229b4192feb4c42dc0_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/b990222a527849229b4192feb4c42dc0_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Vacant Property Indicators - Points (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/b990222a527849229b4192feb4c42dc0_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/b990222a527849229b4192feb4c42dc0_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Vacant Property Indicators - Points (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/b990222a527849229b4192feb4c42dc0_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/b990222a527849229b4192feb4c42dc0_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Vacant Property Indicators - Points (API)
