@@ -18,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Hydrology - Line (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/a31f7d7469404e919517e038fc133a8e_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/a31f7d7469404e919517e038fc133a8e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Hydrology - Line (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/a31f7d7469404e919517e038fc133a8e_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/a31f7d7469404e919517e038fc133a8e_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Hydrology - Line (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/a31f7d7469404e919517e038fc133a8e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/a31f7d7469404e919517e038fc133a8e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Hydrology - Line (API)
@@ -38,15 +38,15 @@ resources:
 - description: ''
   format: CSV
   name: Hydrology - Polygon (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/2b10034796f34c81a0eb44c676d86729_1/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/2b10034796f34c81a0eb44c676d86729_1/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Hydrology - Polygon (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/2b10034796f34c81a0eb44c676d86729_1/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/2b10034796f34c81a0eb44c676d86729_1/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Hydrology - Polygon (GeoJSON)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Hydrographic_Features_Poly/FeatureServer/1/query?outFields=*&where=1%3D1&f=geojson
+  url: https://hub.arcgis.com/api/v3/datasets/2b10034796f34c81a0eb44c676d86729_1/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Hydrology - Polygon (API)
