@@ -2,7 +2,6 @@
 area_of_interest: Grants
 category:
 - Environment
-created: '2014-12-08T22:47:01.762609'
 license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -45,15 +44,15 @@ resources:
 - description: ''
   format: CSV
   name: GSI SoakItUp Adoption Sites (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/98b55cc5364349b283f895e389fd6d25_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/98b55cc5364349b283f895e389fd6d25_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: GSI SoakItUp Adoption Sites (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/98b55cc5364349b283f895e389fd6d25_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/98b55cc5364349b283f895e389fd6d25_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: GSI SoakItUp Adoption Sites (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/98b55cc5364349b283f895e389fd6d25_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/98b55cc5364349b283f895e389fd6d25_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: GSI SoakItUp Adoption Sites (API)
@@ -66,7 +65,6 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Water Department
-time_period: FY 2014 to FY 2014
 title: Water Department Grants Disbursed
 usage: No limitations.
 ---
