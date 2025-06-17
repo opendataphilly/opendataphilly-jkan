@@ -2,9 +2,7 @@
 area_of_interest: null
 category:
 - Environment
-- Health / Human Services
 - Planning / Zoning
-created: '2015-01-21T15:14:44.855872'
 license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -22,15 +20,15 @@ resources:
 - description: ''
   format: CSV
   name: Protected Watercourses - Line (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/1058f654b82244de9a5b12d12c58279b_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/1058f654b82244de9a5b12d12c58279b_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Protected Watercourses - Line (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/1058f654b82244de9a5b12d12c58279b_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/1058f654b82244de9a5b12d12c58279b_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Protected Watercourses - Line (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/1058f654b82244de9a5b12d12c58279b_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/1058f654b82244de9a5b12d12c58279b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Protected Watercourses - Line (API)
@@ -42,15 +40,15 @@ resources:
 - description: ''
   format: CSV
   name: ' Protected Watercourses - Polygon (CSV)'
-  url: https://opendata.arcgis.com/api/v3/datasets/7c17a8e7685b404e8bcfbc7ae1b62de3_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/7c17a8e7685b404e8bcfbc7ae1b62de3_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: ' Protected Watercourses - Polygon (SHP)'
-  url: https://opendata.arcgis.com/api/v3/datasets/7c17a8e7685b404e8bcfbc7ae1b62de3_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/7c17a8e7685b404e8bcfbc7ae1b62de3_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: ' Protected Watercourses - Polygon (GeoJSON)'
-  url: https://opendata.arcgis.com/datasets/7c17a8e7685b404e8bcfbc7ae1b62de3_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/7c17a8e7685b404e8bcfbc7ae1b62de3_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: ' Protected Watercourses - Polygon (API)'
@@ -63,6 +61,9 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Water Department
+- streams
+- rivers
+- stormwater
 time_period: null
 title: Watercourses Designated for Protection
 usage: null
