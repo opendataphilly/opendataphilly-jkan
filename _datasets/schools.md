@@ -2,6 +2,7 @@
 area_of_interest: City of Philadelphia
 category:
 - Education
+- Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -42,6 +43,7 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Planning and Development
+- schools
 time_period: null
 title: Schools
 usage: Public Use; Free
