@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2017-03-08T17:08:45.582983'
 license: City of Philadelphia License
 maintainer: maps@phila.gov 
 maintainer_email: ''
@@ -18,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: VPI Percentage by Block - Building (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/35ee75560f3743b0bf832da2d977af43_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/35ee75560f3743b0bf832da2d977af43_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: VPI Percentage by Block - Building (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/35ee75560f3743b0bf832da2d977af43_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/35ee75560f3743b0bf832da2d977af43_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: VPI Percentage by Block - Building (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/35ee75560f3743b0bf832da2d977af43_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/35ee75560f3743b0bf832da2d977af43_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: VPI Percentage by Block - Building (API)
@@ -38,15 +37,15 @@ resources:
 - description: ''
   format: CSV
   name: VPI Percentage by Block - Land (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/04d1d36d88624e6e98ea626b5a16cecf_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/04d1d36d88624e6e98ea626b5a16cecf_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: VPI Percentage by Block - Land (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/04d1d36d88624e6e98ea626b5a16cecf_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/04d1d36d88624e6e98ea626b5a16cecf_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: VPI Percentage by Block - Land (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/04d1d36d88624e6e98ea626b5a16cecf_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/04d1d36d88624e6e98ea626b5a16cecf_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: VPI Percentage by Block - Land (API)
@@ -58,15 +57,15 @@ resources:
 - description: ''
   format: CSV
   name: VPI Percentage by Block - Combined (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/025e46045d644325b6ad66b12f90bb81_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/025e46045d644325b6ad66b12f90bb81_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: VPI Percentage by Block - Combined (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/025e46045d644325b6ad66b12f90bb81_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/025e46045d644325b6ad66b12f90bb81_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: VPI Percentage by Block - Combined (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/025e46045d644325b6ad66b12f90bb81_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/025e46045d644325b6ad66b12f90bb81_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: VPI Percentage by Block - Combined (API)
@@ -79,6 +78,8 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Licenses and Inspections
+- vacant land
+- vacant properties
 time_period: null
 title: Vacant Property Indicators Percentage by Block
 usage: null
