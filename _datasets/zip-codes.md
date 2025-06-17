@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Boundaries
-created: '2014-12-08T22:19:07.861855'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: ZIP Codes - Polygon (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/b54ec5210cee41c3a884c9086f7af1be_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/b54ec5210cee41c3a884c9086f7af1be_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: ZIP Codes - Polygon (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/b54ec5210cee41c3a884c9086f7af1be_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/b54ec5210cee41c3a884c9086f7af1be_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: ZIP Codes - Polygon (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/b54ec5210cee41c3a884c9086f7af1be_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/b54ec5210cee41c3a884c9086f7af1be_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: ZIP Codes - Polygon (API)
@@ -37,15 +36,15 @@ resources:
 - description: ''
   format: CSV
   name: ZIP Codes - Line (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/ad233733f89242af9a1f9e52d60d1e4e_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://opendata.arcgis.com/api/v3/datasets/b54ec5210cee41c3a884c9086f7af1be_0/downloads/data?format=csv&spatialRefId=4326
 - description: ''
   format: SHP
   name: ZIP Codes - Line (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/ad233733f89242af9a1f9e52d60d1e4e_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/ad233733f89242af9a1f9e52d60d1e4e_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: ZIP Codes - Line (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/ad233733f89242af9a1f9e52d60d1e4e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/ad233733f89242af9a1f9e52d60d1e4e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: ZIP Codes - Line (API)
