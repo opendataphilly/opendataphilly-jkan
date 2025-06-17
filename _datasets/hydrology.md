@@ -59,6 +59,9 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Water Department
+- water
+- streams
+- rivers
 time_period: null
 title: Hydrology
 usage: Public Use; Free
