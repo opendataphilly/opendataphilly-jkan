@@ -4,7 +4,6 @@ category:
 - Budget / Finance
 - Parks / Recreation
 - Real Estate / Land Records
-created: '2016-01-20T16:03:45.901452'
 license: City of Philadelphia License
 maintainer: Rich Quodomine
 maintainer_email: richard.quodomine@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: City Facilities (CSV)
-  url: https://opendata.arcgis.com/datasets/b3c133c3b15d4c96bcd4d5cc09f19f4e_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/b3c133c3b15d4c96bcd4d5cc09f19f4e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: City Facilities (SHP)
-  url: https://opendata.arcgis.com/datasets/b3c133c3b15d4c96bcd4d5cc09f19f4e_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/b3c133c3b15d4c96bcd4d5cc09f19f4e_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: City Facilities (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/b3c133c3b15d4c96bcd4d5cc09f19f4e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/b3c133c3b15d4c96bcd4d5cc09f19f4e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: City Facilities (API)
@@ -40,6 +39,9 @@ schema: philadelphia
 source: ''
 tags:
 - OIT
+- municipal assets
+- city assets
+- real estate
 time_period: null
 title: City Facilities (Master Facilities Database)
 usage: null
