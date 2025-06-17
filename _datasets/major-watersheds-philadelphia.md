@@ -41,6 +41,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Water Department
+- watersheds
 time_period: null
 title: Major Watersheds - Philadelphia
 usage: Public Use; Free
