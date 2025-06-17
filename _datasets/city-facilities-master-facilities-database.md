@@ -39,6 +39,9 @@ schema: philadelphia
 source: ''
 tags:
 - OIT
+- municipal assets
+- city assets
+- real estate
 time_period: null
 title: City Facilities (Master Facilities Database)
 usage: null
