@@ -2,7 +2,6 @@
 area_of_interest: City of Philadelphia
 category:
 - Education
-created: '2014-12-08T21:57:28.065312'
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -22,15 +21,15 @@ resources:
 - description: ''
   format: CSV
   name: School Facilities (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/d46a7e59e2c246c891fbee778759717e_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d46a7e59e2c246c891fbee778759717e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: School Facilities (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/d46a7e59e2c246c891fbee778759717e_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d46a7e59e2c246c891fbee778759717e_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: School Facilities (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/d46a7e59e2c246c891fbee778759717e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/d46a7e59e2c246c891fbee778759717e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: School Facilities (API)
@@ -38,7 +37,7 @@ resources:
 - description: ''
   format: HTML
   name: School Facilities (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5543866320583086178c4ef1/
+  url: https://metadata.phila.gov/#home/datasetdetails/5543866320583086178c4ef1/representationdetails/55438aa49b989a05172d0d37/
 schema: philadelphia
 source: ''
 tags:
