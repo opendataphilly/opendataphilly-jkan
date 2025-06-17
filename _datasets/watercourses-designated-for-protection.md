@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Environment
-- Health / Human Services
 - Planning / Zoning
 license: City of Philadelphia License
 maintainer: Phil Pierdomenico
@@ -62,6 +61,9 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Water Department
+- streams
+- rivers
+- stormwater
 time_period: null
 title: Watercourses Designated for Protection
 usage: null
