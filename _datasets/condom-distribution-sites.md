@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Health / Human Services
-created: '2015-04-24T13:50:17.907822'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -16,15 +15,15 @@ resources:
 - description: "Update frequency: Biannually\r\n\r\n"
   format: CSV
   name: Condom Distribution Sites (CSV)
-  url: https://opendata.arcgis.com/datasets/85732a1de65741c0aadac960ef7f1ea3_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/85732a1de65741c0aadac960ef7f1ea3_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: "Update frequency: Biannually\r\n"
   format: SHP
   name: Condom Distribution Sites (SHP)
-  url: https://opendata.arcgis.com/datasets/85732a1de65741c0aadac960ef7f1ea3_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/85732a1de65741c0aadac960ef7f1ea3_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: "Update frequency: Biannually\r\n"
   format: GeoJSON
   name: Condom Distribution Sites (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/85732a1de65741c0aadac960ef7f1ea3_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/85732a1de65741c0aadac960ef7f1ea3_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: "Update frequency: Biannually\r\n\r\n"
   format: API
   name: Condom Distribution Sites (API)
