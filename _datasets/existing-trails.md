@@ -19,15 +19,15 @@ resources:
 - description: ''
   format: CSV
   name: Existing Trails (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/5452afe978c64fc6a4508cbdd7e27903_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/5452afe978c64fc6a4508cbdd7e27903_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Existing Trails (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/5452afe978c64fc6a4508cbdd7e27903_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/5452afe978c64fc6a4508cbdd7e27903_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Existing Trails (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/5452afe978c64fc6a4508cbdd7e27903_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/5452afe978c64fc6a4508cbdd7e27903_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Existing Trails (API)
@@ -35,7 +35,7 @@ resources:
 - description: ''
   format: HTML
   name: Existing Trails (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/562799b5897abe296aa188a5/
+  url: https://metadata.phila.gov/#home/datasetdetails/562799b5897abe296aa188a5/representationdetails/56279d34861b441e2c36986f/
 schema: philadelphia
 source: ''
 tags:
