@@ -20,15 +20,15 @@ resources:
 - description: ''
   format: CSV
   name: TCB Clean Corridors Program (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/8bceace250414953a3c69a47bff6febc_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/8bceace250414953a3c69a47bff6febc_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: TCB Clean Corridors Program  (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/8bceace250414953a3c69a47bff6febc_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/8bceace250414953a3c69a47bff6febc_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: TCB Clean Corridors Program (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/8bceace250414953a3c69a47bff6febc_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1  
+  url: https://hub.arcgis.com/api/v3/datasets/8bceace250414953a3c69a47bff6febc_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1  
 - description: ''
   format: API
   name: TCB Clean Corridors Program (API)
