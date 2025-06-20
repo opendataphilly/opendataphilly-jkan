@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Health / Human Services
-created: '2021-01-29T17:01:49.626615'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -15,15 +14,15 @@ resources:
 - description: ''
   format: CSV
   name: PrEP Providers (CSV)
-  url: https://opendata.arcgis.com/datasets/9be64625837b4290bc9063d75be1b27a_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/9be64625837b4290bc9063d75be1b27a_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: PrEP Providers (SHP)
-  url: https://opendata.arcgis.com/datasets/9be64625837b4290bc9063d75be1b27a_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/9be64625837b4290bc9063d75be1b27a_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PrEP Providers (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/9be64625837b4290bc9063d75be1b27a_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/9be64625837b4290bc9063d75be1b27a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PrEP Providers (API)
