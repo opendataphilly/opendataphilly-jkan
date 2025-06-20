@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Health / Human Services
-created: '2015-04-24T13:52:21.286438'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: Ryan White HIV Treatment Centers (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/35f143034f324ccdaf3a1a8a4c0e8f5f_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/35f143034f324ccdaf3a1a8a4c0e8f5f_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Ryan White HIV Treatment Centers (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/35f143034f324ccdaf3a1a8a4c0e8f5f_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/35f143034f324ccdaf3a1a8a4c0e8f5f_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Ryan White HIV Treatment Centers (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/35f143034f324ccdaf3a1a8a4c0e8f5f_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/35f143034f324ccdaf3a1a8a4c0e8f5f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Ryan White HIV Treatment Centers (API)
