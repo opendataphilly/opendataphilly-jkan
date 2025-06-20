@@ -2,7 +2,6 @@
 area_of_interest: City of Philadelphia
 category:
 - Elections / Politics
-created: '2014-12-08T22:53:33.227657'
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -23,15 +22,15 @@ resources:
 - description: ''
   format: CSV
   name: Political Wards (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/d67c97376d18456d98e5fa6e00415ad4_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d67c97376d18456d98e5fa6e00415ad4_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Political Wards (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/d67c97376d18456d98e5fa6e00415ad4_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d67c97376d18456d98e5fa6e00415ad4_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Political Wards (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/d67c97376d18456d98e5fa6e00415ad4_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/d67c97376d18456d98e5fa6e00415ad4_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Political Wards (API)
