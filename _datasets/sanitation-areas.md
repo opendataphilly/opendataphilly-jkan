@@ -5,7 +5,6 @@ category:
 - Environment
 - Health / Human Services
 - Planning / Zoning
-created: '2014-12-08T22:49:48.724091'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Sanitation Areas (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/472c504f650242f4be612d8320b89c86_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://metadata.phila.gov/#home/datasetdetails/555f812ff15fcb6c6ed4411f/representationdetails/55438a869b989a05172d0d02/
 - description: ''
   format: SHP
   name: Sanitation Areas (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/472c504f650242f4be612d8320b89c86_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/472c504f650242f4be612d8320b89c86_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Sanitation Areas (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/472c504f650242f4be612d8320b89c86_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/472c504f650242f4be612d8320b89c86_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Sanitation Areas (API)
