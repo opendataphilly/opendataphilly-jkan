@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Transportation
-created: '2014-12-08T22:42:15.275162'
 license: City of Philadelphia License
 maintainer: Michael Matela
 maintainer_email: michael.matela@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: Highway Districts (CSV)
-  url: https://opendata.arcgis.com/datasets/0a0d06a0c78e47c5bb73cde26630db07_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/0a0d06a0c78e47c5bb73cde26630db07_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Highway Districts (SHP)
-  url: https://opendata.arcgis.com/datasets/0a0d06a0c78e47c5bb73cde26630db07_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/0a0d06a0c78e47c5bb73cde26630db07_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Highway Districts (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/0a0d06a0c78e47c5bb73cde26630db07_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/0a0d06a0c78e47c5bb73cde26630db07_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Highway Districts (API)
@@ -37,15 +36,15 @@ resources:
 - description: ''
   format: CSV
   name: Highway Districts - Line (CSV)
-  url: https://opendata.arcgis.com/datasets/68587b08a7d3491f99f83e380d85403c_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/68587b08a7d3491f99f83e380d85403c_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: ZIP
   name: Highway Districts - Line (SHP)
-  url: https://opendata.arcgis.com/datasets/68587b08a7d3491f99f83e380d85403c_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/68587b08a7d3491f99f83e380d85403c_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: JSON
   name: Highway Districts - Line (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/68587b08a7d3491f99f83e380d85403c_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/68587b08a7d3491f99f83e380d85403c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Highway Districts - Line (API)
