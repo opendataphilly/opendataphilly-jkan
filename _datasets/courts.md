@@ -2,7 +2,6 @@
 area_of_interest: null
 category: 
 - Public Safety
-created: '2015-06-09T20:36:49.446397'
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Court Locations (CSV)
-  url: https://opendata.arcgis.com/datasets/66f1ce835bb94d51913c5ccd69d0e868_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/66f1ce835bb94d51913c5ccd69d0e868_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Court Locations (SHP)
-  url: https://opendata.arcgis.com/datasets/66f1ce835bb94d51913c5ccd69d0e868_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/66f1ce835bb94d51913c5ccd69d0e868_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Court Locations (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/66f1ce835bb94d51913c5ccd69d0e868_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/66f1ce835bb94d51913c5ccd69d0e868_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Court Locations (API)
@@ -33,7 +32,7 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: HTML
   name: Court Locations (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/557f30c6dcec614c29ce8b70/
+  url: https://metadata.phila.gov/#home/datasetdetails/557f30c6dcec614c29ce8b70/representationdetails/557f30e4c579ea311699bb4d/
 schema: philadelphia
 source: http://www.courts.phila.gov/locations.asp
 tags:
