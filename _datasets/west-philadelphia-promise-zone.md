@@ -5,7 +5,6 @@ category:
 - Education
 - Health / Human Services
 - Planning / Zoning
-created: '2015-02-26T17:33:19.437078'
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: West Philadelphia Promise Zone (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/3f82e6a185d8407b809117e254b9d0c8_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/3f82e6a185d8407b809117e254b9d0c8_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: West Philadelphia Promise Zone (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/3f82e6a185d8407b809117e254b9d0c8_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/3f82e6a185d8407b809117e254b9d0c8_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: West Philadelphia Promise Zone (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/3f82e6a185d8407b809117e254b9d0c8_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/3f82e6a185d8407b809117e254b9d0c8_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: West Philadelphia Promise Zone (API)
