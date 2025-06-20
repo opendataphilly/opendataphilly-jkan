@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Health / Human Services
-created: '2021-01-29T17:15:05.779170'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: Sharps Drop Boxes (CSV)
-  url: https://opendata.arcgis.com/datasets/bc4ab22bdbfe4cec8aa374ff7d5cec81_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/bc4ab22bdbfe4cec8aa374ff7d5cec81_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Sharps Drop Boxes (SHP)
-  url: https://opendata.arcgis.com/datasets/bc4ab22bdbfe4cec8aa374ff7d5cec81_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/bc4ab22bdbfe4cec8aa374ff7d5cec81_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Sharps Drop Boxes (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/bc4ab22bdbfe4cec8aa374ff7d5cec81_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/bc4ab22bdbfe4cec8aa374ff7d5cec81_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Sharps Drop Boxes (API)
