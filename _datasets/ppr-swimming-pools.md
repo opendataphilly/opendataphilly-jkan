@@ -4,7 +4,6 @@ category:
 - Environment
 - Parks / Recreation
 - Planning / Zoning
-created: '2019-08-26T18:31:03.560839'
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: PPR Swimming Pools (CSV)
-  url: https://opendata.arcgis.com/datasets/c6f6176968f04d3f88adbc4c362af55d_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/c6f6176968f04d3f88adbc4c362af55d_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: PPR Swimming Pools (SHP)
-  url: https://opendata.arcgis.com/datasets/c6f6176968f04d3f88adbc4c362af55d_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/c6f6176968f04d3f88adbc4c362af55d_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PPR Swimming Pools (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/c6f6176968f04d3f88adbc4c362af55d_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/c6f6176968f04d3f88adbc4c362af55d_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PPR Swimming Pools (API)
