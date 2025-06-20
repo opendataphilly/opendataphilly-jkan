@@ -36,15 +36,15 @@ resources:
 - description: 'Update Frequency: As released by FEMA'
   format: CSV
   name: 2015 FEMA 100 Year Flood Plain (CSV)
-  url: https://opendata.arcgis.com/datasets/1d6d353ab50b4884b586c05ee2a661db_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/1d6d353ab50b4884b586c05ee2a661db_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: SHP
   name: 2015 FEMA 100 Year Flood Plain (SHP)
-  url: https://opendata.arcgis.com/datasets/1d6d353ab50b4884b586c05ee2a661db_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/1d6d353ab50b4884b586c05ee2a661db_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: GeoJSON
   name: 2015 FEMA 100 Year Flood Plain (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/1d6d353ab50b4884b586c05ee2a661db_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/1d6d353ab50b4884b586c05ee2a661db_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: API
   name: 2015 FEMA 100 Year Flood Plain (API)
@@ -56,15 +56,15 @@ resources:
 - description: 'Update Frequency: As released by FEMA'
   format: CSV
   name: 2015 FEMA 500 Year Flood Plain (CSV)
-  url: https://opendata.arcgis.com/datasets/1e6f6315225544c88549478d25cc5181_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/1e6f6315225544c88549478d25cc5181_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: SHP
   name: 2015 FEMA 500 Year Flood Plain (SHP)
-  url: https://opendata.arcgis.com/datasets/1e6f6315225544c88549478d25cc5181_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/1e6f6315225544c88549478d25cc5181_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: GeoJSON
   name: 2015 FEMA 500 Year Flood Plain (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/1e6f6315225544c88549478d25cc5181_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/1e6f6315225544c88549478d25cc5181_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: API
   name: 2015 FEMA 500 Year Flood Plain (API)
@@ -76,15 +76,15 @@ resources:
 - description: 'Update Frequency: As released by FEMA'
   format: CSV
   name: 2007 FEMA 100 Year Flood Plain (CSV)
-  url: https://opendata.arcgis.com/datasets/02729e8f94954f71b95b40288f1aca3f_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/02729e8f94954f71b95b40288f1aca3f_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: SHP
   name: 2007 FEMA 100 Year Flood Plain (SHP)
-  url: https://opendata.arcgis.com/datasets/02729e8f94954f71b95b40288f1aca3f_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/02729e8f94954f71b95b40288f1aca3f_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: GeoJSON
   name: 2007 FEMA 100 Year Flood Plain (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/02729e8f94954f71b95b40288f1aca3f_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/02729e8f94954f71b95b40288f1aca3f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: API
   name: 2007 FEMA 100 Year Flood Plain (API)
@@ -96,15 +96,15 @@ resources:
 - description: 'Update Frequency: As released by FEMA'
   format: CSV
   name: 2007 FEMA 500 Year Flood Plain (CSV)
-  url: https://opendata.arcgis.com/datasets/79b6bd1910b646d8bb2d78dbc92424cf_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/79b6bd1910b646d8bb2d78dbc92424cf_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: SHP
   name: 2007 FEMA 500 Year Flood Plain (SHP)
-  url: https://opendata.arcgis.com/datasets/79b6bd1910b646d8bb2d78dbc92424cf_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/79b6bd1910b646d8bb2d78dbc92424cf_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: GeoJSON
   name: 2007 FEMA 500 Year Flood Plain (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/79b6bd1910b646d8bb2d78dbc92424cf_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/79b6bd1910b646d8bb2d78dbc92424cf_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As released by FEMA'
   format: GeoService
   name: 2007 FEMA 500 Year Flood Plain (API)
