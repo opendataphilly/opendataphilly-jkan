@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Boundaries
-created: '2015-06-09T08:14:26.747951'
 license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
@@ -18,15 +17,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: City Plan Boundary (CSV)
-  url: https://opendata.arcgis.com/datasets/063f5f85ef17468ebfebc1d2498b7daf_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/063f5f85ef17468ebfebc1d2498b7daf_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: City Plan Boundary (SHP)
-  url: https://opendata.arcgis.com/datasets/063f5f85ef17468ebfebc1d2498b7daf_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/063f5f85ef17468ebfebc1d2498b7daf_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: City Plan Boundary (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/063f5f85ef17468ebfebc1d2498b7daf_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/063f5f85ef17468ebfebc1d2498b7daf_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: HTML
   name: City Plan Boundary (Metadata)
