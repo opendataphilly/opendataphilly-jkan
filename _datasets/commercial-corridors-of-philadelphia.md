@@ -4,7 +4,6 @@ category:
 - Economy
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2016-01-20T20:04:40.350818'
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Commercial Corridors (CSV)
-  url: https://opendata.arcgis.com/datasets/f43e5f92d34e41249e7a11f269792d11_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/f43e5f92d34e41249e7a11f269792d11_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Commercial Corridors (SHP)
-  url: https://opendata.arcgis.com/datasets/f43e5f92d34e41249e7a11f269792d11_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/f43e5f92d34e41249e7a11f269792d11_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Commercial Corridors (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/f43e5f92d34e41249e7a11f269792d11_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/f43e5f92d34e41249e7a11f269792d11_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Commercial Corridors (API)
