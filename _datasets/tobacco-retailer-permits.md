@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Economy
 - Health / Human Services
-created: '2019-11-27T14:45:38.457626'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -20,15 +19,15 @@ resources:
 - description: ''
   format: CSV
   name: Tobacco Retailer Permits (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/853a1421e738471b8cc0d6ff755d47ff_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/853a1421e738471b8cc0d6ff755d47ff_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Tobacco Retailer Permits (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/853a1421e738471b8cc0d6ff755d47ff_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/853a1421e738471b8cc0d6ff755d47ff_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Tobacco Retailer Permits (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/853a1421e738471b8cc0d6ff755d47ff_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/853a1421e738471b8cc0d6ff755d47ff_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Tobacco Retailer Permits (API)
