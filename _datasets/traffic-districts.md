@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Transportation
-created: '2015-06-09T05:14:12.280148'
 license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
@@ -18,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: Traffic Districts (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/7a619f26e76b4c29abdc102219b6e7b0_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/7a619f26e76b4c29abdc102219b6e7b0_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Traffic Districts (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/7a619f26e76b4c29abdc102219b6e7b0_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/7a619f26e76b4c29abdc102219b6e7b0_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Traffic Districts (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/7a619f26e76b4c29abdc102219b6e7b0_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/7a619f26e76b4c29abdc102219b6e7b0_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: HTML
   name: Traffic Districts (Metadata)
@@ -38,15 +37,15 @@ resources:
 - description: ''
   format: CSV
   name: Traffic Districts Arcs (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/7b2f0c712d0540aa894098084d050d5c_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/7b2f0c712d0540aa894098084d050d5c_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
   format: SHP
   name: Traffic Districts Arcs (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/7b2f0c712d0540aa894098084d050d5c_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/7b2f0c712d0540aa894098084d050d5c_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Traffic Districts Arcs (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/7b2f0c712d0540aa894098084d050d5c_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/7b2f0c712d0540aa894098084d050d5c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Traffic Districts Arcs (API)
