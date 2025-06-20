@@ -2,7 +2,6 @@
 area_of_interest: null
 category: 
 - Transportation
-created: '2014-12-08T22:39:10.474966'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
@@ -18,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: Street Lane Closures (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/e10172ebe7964f63830505457c0d7c2a_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/e10172ebe7964f63830505457c0d7c2a_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Street Lane Closures (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/e10172ebe7964f63830505457c0d7c2a_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/e10172ebe7964f63830505457c0d7c2a_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Street Lane Closures (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/e10172ebe7964f63830505457c0d7c2a_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/e10172ebe7964f63830505457c0d7c2a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: HTML
   name: Street Lane Closures (Metadata)
