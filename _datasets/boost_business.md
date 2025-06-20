@@ -18,19 +18,19 @@ resources:
 - description: ''
   format: CSV
   name: Boost Your Business Program (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/334387363a5e4ccc8d5e7f5e556192fc_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/334387363a5e4ccc8d5e7f5e556192fc_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Boost Your Business Program (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/334387363a5e4ccc8d5e7f5e556192fc_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/334387363a5e4ccc8d5e7f5e556192fc_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Boost Your Business Program (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/334387363a5e4ccc8d5e7f5e556192fc_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1  
+  url: https://hub.arcgis.com/api/v3/datasets/334387363a5e4ccc8d5e7f5e556192fc_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1  
 - description: ''
   format: API
   name: Boost Your Business Program (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/boost_your_business/FeatureServer/0/query?outFields=*&where=1%3D1  
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/boost_your_business/FeatureServer/0/query?outFields=*&where=1%3D1 
 - description:
   format: HTML
   name: Boost Your Business Program (Metadata)
