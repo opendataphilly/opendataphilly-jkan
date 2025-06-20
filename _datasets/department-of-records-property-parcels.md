@@ -2,7 +2,6 @@
 area_of_interest: City of Philadelphia
 category:
 - Real Estate / Land Records
-created: '2014-12-08T21:56:54.780656'
 license: City of Philadelphia License
 maintainer: Tracy Dandridge
 maintainer_email: tracy.dandridge@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: 'Update Frequency: Weekly'
   format: CSV
   name: DOR Property Parcels (CSV)
-  url: https://opendata.arcgis.com/datasets/1c57dd1b3ff84449a4b0e3fb29d3cafd_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/1c57dd1b3ff84449a4b0e3fb29d3cafd_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: Weekly'
   format: SHP
   name: DOR Property Parcels (SHP)
-  url: https://opendata.arcgis.com/datasets/1c57dd1b3ff84449a4b0e3fb29d3cafd_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/1c57dd1b3ff84449a4b0e3fb29d3cafd_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: Weekly'
   format: GeoJSON
   name: DOR Property Parcels (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/1c57dd1b3ff84449a4b0e3fb29d3cafd_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/1c57dd1b3ff84449a4b0e3fb29d3cafd_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: Weekly'
   format: API
   name: DOR Property Parcels (API)
