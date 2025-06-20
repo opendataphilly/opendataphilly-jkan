@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Boundaries
 - Environment
-- Health / Human Services
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
