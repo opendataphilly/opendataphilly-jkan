@@ -1,10 +1,7 @@
 ---
 area_of_interest: City of Philadelphia
 category:
-- Planning / Zoning
-- Real Estate / Land Records
 - Transportation
-created: '2023-27-10T22:09:40.503423'
 license: City of Philadelphia License
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
@@ -20,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: Traffic Calming Devices (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/f9299b31b170484d9fff30b81014933f_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/f9299b31b170484d9fff30b81014933f_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Traffic Calming Devices (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/f9299b31b170484d9fff30b81014933f_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/f9299b31b170484d9fff30b81014933f_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Traffic Calming Devices (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/f9299b31b170484d9fff30b81014933f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/f9299b31b170484d9fff30b81014933f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Traffic Calming Devices (API)
@@ -41,6 +38,9 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- traffic calming
+- speed cushions
+- speed bumps
 time_period: null
 title: Traffic Calming Devices
 usage: Public Use; Free
