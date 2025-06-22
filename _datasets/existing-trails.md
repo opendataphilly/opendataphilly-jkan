@@ -3,6 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Transportation
 - Environment
+- Parks / Recreation
 license: City of Philadelphia License
 maintainer: David Kanthor
 maintainer_email: david.kanthor@phila.gov
