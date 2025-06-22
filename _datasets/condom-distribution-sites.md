@@ -36,6 +36,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Department of Public Health
+- birth control
 time_period: null
 title: Condom Distribution Sites
 usage: null
