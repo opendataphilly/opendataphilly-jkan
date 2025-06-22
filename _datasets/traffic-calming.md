@@ -1,8 +1,6 @@
 ---
 area_of_interest: City of Philadelphia
 category:
-- Planning / Zoning
-- Real Estate / Land Records
 - Transportation
 license: City of Philadelphia License
 maintainer: Mike Matela
@@ -40,6 +38,9 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- traffic calming
+- speed cushions
+- speed bumps
 time_period: null
 title: Traffic Calming Devices
 usage: Public Use; Free
