@@ -30,15 +30,15 @@ resources:
 - description: ''
   format: CSV
   name: Big Belly Waste/Trash Bins (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/f8309c5b19e147cea5cb4d83f3d0d85f_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/f8309c5b19e147cea5cb4d83f3d0d85f_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Big Belly Waste/Trash Bins (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/f8309c5b19e147cea5cb4d83f3d0d85f_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/f8309c5b19e147cea5cb4d83f3d0d85f_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
-  name: Big Belly Waste/Trash Bins ( GeoJSON)
-  url: https://opendata.arcgis.com/datasets/f8309c5b19e147cea5cb4d83f3d0d85f_0.geojson
+  name: Big Belly Waste/Trash Bins (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/f8309c5b19e147cea5cb4d83f3d0d85f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Big Belly Waste/Trash Bins (API)
@@ -51,6 +51,7 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- trash
 time_period: null
 title: Big Belly Waste Baskets (Trash Bins)
 usage: null
