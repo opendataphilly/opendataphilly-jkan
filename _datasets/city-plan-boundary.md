@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Boundaries
+- Planning / Zoning
 license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
@@ -38,6 +39,7 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- municipal boundary
 time_period: null
 title: City Plan Boundary
 usage: null
