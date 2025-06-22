@@ -2,6 +2,7 @@
 area_of_interest: null
 category: 
 - Transportation
+- Boundaries
 license: City of Philadelphia License
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
