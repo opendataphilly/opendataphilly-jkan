@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Transportation
-created: '2015-09-01T14:57:48.780192'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: City Owned Bridges (CSV)
-  url: https://opendata.arcgis.com/datasets/da0aac472cc6431dbea2fc90ad3f7463_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/da0aac472cc6431dbea2fc90ad3f7463_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: City Owned Bridges (SHP)
-  url: https://opendata.arcgis.com/datasets/da0aac472cc6431dbea2fc90ad3f7463_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/da0aac472cc6431dbea2fc90ad3f7463_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: City Owned Bridges (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/da0aac472cc6431dbea2fc90ad3f7463_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/da0aac472cc6431dbea2fc90ad3f7463_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: City Owned Bridges (API)
