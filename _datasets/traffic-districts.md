@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Transportation
+- Boundaries
 license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
