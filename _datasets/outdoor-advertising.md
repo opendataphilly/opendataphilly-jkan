@@ -3,7 +3,6 @@ area_of_interest: null
 category: 
 - Planning / Zoning
 - Environment
-created: '2016-04-25T22:09:17.756565'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: LIGISTEAM@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: Outdoor Advertising (CSV)
-  url: https://opendata.arcgis.com/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Outdoor Advertising (SHP)
-  url: https://opendata.arcgis.com/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Outdoor Advertising (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Outdoor Advertising (API)
