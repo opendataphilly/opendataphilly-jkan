@@ -2,7 +2,6 @@
 area_of_interest: City of Philadelphia
 category:
 - Parks / Recreation
-- Real Estate / Land Records
 - Transportation
 license: City of Philadelphia License
 maintainer: Streets Department
@@ -42,6 +41,7 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- bicycle network
 time_period: null
 title: Bike Network
 usage: Public Use; Free
