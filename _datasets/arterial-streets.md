@@ -2,7 +2,6 @@
 area_of_interest: null
 category: 
 - Transportation
-created: '2015-06-09T05:53:41.054908'
 license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Street Arterials (CSV)
-  url: https://opendata.arcgis.com/datasets/261eeb49dfd44ccb8a4b6a0af830fdc8_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/261eeb49dfd44ccb8a4b6a0af830fdc8_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Street Arterials (SHP)
-  url: https://opendata.arcgis.com/datasets/261eeb49dfd44ccb8a4b6a0af830fdc8_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/261eeb49dfd44ccb8a4b6a0af830fdc8_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Street Arterials (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/261eeb49dfd44ccb8a4b6a0af830fdc8_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/261eeb49dfd44ccb8a4b6a0af830fdc8_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Street Arterials (API)
@@ -33,11 +32,12 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: HTML
   name: Street Arterials (Metadata)
-  url: https://www.arcgis.com/home/item.html?id=261eeb49dfd44ccb8a4b6a0af830fdc8
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/555f8124f15fcb6c6ed440f2/representationdetails/5571b1a5e4fb1d91393c2105/
 schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- arterials
 time_period: null
 title: Arterial Streets
 usage: null
