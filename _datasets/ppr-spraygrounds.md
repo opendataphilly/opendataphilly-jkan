@@ -1,10 +1,7 @@
 ---
 area_of_interest: null
 category:
-- Environment
 - Parks / Recreation
-- Planning / Zoning
-created: '2019-08-26T17:59:57.415901'
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
@@ -17,15 +14,15 @@ resources:
 - description: ''
   format: CSV
   name: PPR Spraygrounds (CSV)
-  url: https://opendata.arcgis.com/datasets/a148cc904d374b22bd456e44a044d554_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/a148cc904d374b22bd456e44a044d554_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: PPR Spraygrounds (SHP)
-  url: https://opendata.arcgis.com/datasets/a148cc904d374b22bd456e44a044d554_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/a148cc904d374b22bd456e44a044d554_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PPR Spraygrounds (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/a148cc904d374b22bd456e44a044d554_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/a148cc904d374b22bd456e44a044d554_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PPR Spraygrounds (API)
