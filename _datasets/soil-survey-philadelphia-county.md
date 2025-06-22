@@ -2,7 +2,7 @@
 area_of_interest: Philadelphia County (City of Philadelphia)
 category:
 - Environment
-created: '2022'
+created: '2024'
 license: License Not Specified
 maintainer: U.S. Department of Agriculture, Natural Resources Conservation Service, National Soil Survey Center
 maintainer_email: SoilsHotline@usda.gov
@@ -26,15 +26,15 @@ resources:
 - description: ''
   format: XML
   name: Philadelphia County Soils XML Metadata
-  url: http://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PA_Soils2022.xml
+  url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=wss_SSA_PA101_soildb_Philadelphia_PA_2003_%5B2024-09-04%5D.xml
 - description: ''
   format: SHP
   name: Philadelphia County Soils Shapefile
-  url: https://www.pasda.psu.edu/download/soils/wss_SSA_PA101_soildb_Philadelphia_PA_2003_[2022-09-06].zip
+  url: https://www.pasda.psu.edu/download/soils/wss_SSA_PA101_soildb_Philadelphia_PA_2003_%5B2024-09-04%5D.zip
 - description: ''
   format: GeoJSON
   name: Philadelphia County Soils GeoJSON
-  url: https://www.pasda.psu.edu/json/PA_Soils2022.geojson
+  url: url: https://www.pasda.psu.edu/json/PA_Soils2024.geojson
 - description: ''
   format: API
   name: Philadelphia County Soils ArcGIS REST API
