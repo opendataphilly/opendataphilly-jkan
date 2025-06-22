@@ -3,6 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Economy
 - Planning / Zoning
+- Boundaries
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: brian.ivey@phila.gov
