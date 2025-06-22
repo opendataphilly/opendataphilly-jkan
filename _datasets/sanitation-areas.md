@@ -1,17 +1,15 @@
 ---
 area_of_interest: City of Philadelphia
 category:
-- Economy
 - Environment
-- Health / Human Services
-- Planning / Zoning
+- Boundaries
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: http://www.phila.gov/streets
 maintainer_phone: 215-686-8287
 notes: "Data includes the boundaries for city sanitation areas (which are aggregations\
-  \ of Sanitation Districts).\r\n\r\n"
+  \ of Sanitation Districts)."
 opendataphilly_rating: null
 organization: City of Philadelphia
 resources:
