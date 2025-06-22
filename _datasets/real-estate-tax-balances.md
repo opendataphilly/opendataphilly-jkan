@@ -16,7 +16,7 @@ resources:
 - description: 
   format: CSV
   name: Tax Balances by ZIP Code (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/8f5495a86fb240e49928478218b78cfe_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/8f5495a86fb240e49928478218b78cfe_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 
   format: API
   name: Tax Balances by ZIP Code (API)
@@ -28,7 +28,7 @@ resources:
 - description: 
   format: CSV
   name: Tax Balances by Council District (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/43cec2d1eb59476eb0c263e90ddfc805_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/43cec2d1eb59476eb0c263e90ddfc805_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 
   format: API
   name: Tax Balances by Council District (API)
@@ -40,7 +40,7 @@ resources:
 - description: 
   format: CSV
   name: Tax Balances by Census Tract (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/153100f3c4f347fcabc680e9d62fbad4_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/153100f3c4f347fcabc680e9d62fbad4_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 
   format: API
   name: Tax Balances by Census Tract (API)
