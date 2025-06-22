@@ -51,6 +51,7 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- trash
 time_period: null
 title: Big Belly Waste Baskets (Trash Bins)
 usage: null
