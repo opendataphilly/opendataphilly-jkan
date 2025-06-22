@@ -13,7 +13,7 @@ notes: "The Center City District (CCD) is a business improvement district. The m
   \ is to keep Center City clean, safe, and fun. CCD also makes phyiscal improvements\
   \ to center city by installing and maintain lighting, signs, banners trees and landscape.\
   \ This layer displays their policing boundary.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

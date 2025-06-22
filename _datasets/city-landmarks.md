@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "An inventory of cultural landmarks found within the borders of the City of\
   \ Philadelphia. This data is used to populate the [City's basemap](https://opendataphilly.org/datasets/philadelphia-basemaps/)."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: "Give feedback on and submit missing landmarks of cultural, historical\

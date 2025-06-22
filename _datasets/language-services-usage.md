@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "This dataset tracks usage of the City's language access services through contracts\
   \ with external vendors for translation and interpretation."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

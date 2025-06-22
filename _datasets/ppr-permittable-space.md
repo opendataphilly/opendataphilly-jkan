@@ -11,7 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Locations within PPR that are permittable based on PPR team. Feature designed\
   \ to link with Permitting Application for PPR. BETA Version.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

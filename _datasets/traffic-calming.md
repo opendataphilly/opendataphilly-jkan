@@ -7,7 +7,7 @@ maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
 maintainer_link: http://www.phila.gov/streets/
 notes: "Point-based dataset showing the approximate locations where Traffic Calming Devices exist in the street to reduce speeding of motor vehicles. Traffic Calming Devices examples are speed cushions, speed humps, and speed tables. These devices could be made of asphalt or rubber materials."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

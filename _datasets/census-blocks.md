@@ -19,7 +19,7 @@ notes: "The basic unit of aggregation published by the US Census Bureau.  Popula
   \ an urban area, this corresponds to approximately one city block.  This block map\
   \ has been altered to improve accuracy and align with the City of Philadelphia's\
   \ street centerline.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: For matching and analyzing demographic data collected and compiled

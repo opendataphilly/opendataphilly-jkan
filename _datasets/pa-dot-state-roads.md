@@ -12,7 +12,7 @@ notes: 'State-owned and maintained public roads within Pennsylvania as extracted
 the PENNDOT Roadway Management System (RMS). Includes fields describing pavement type, 
 traffic volumes and other information. The Administrative version is used for reporting 
 purposeslike the federal aid system and federal functional classification.'
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Transportation
 resources:
 - description: ''

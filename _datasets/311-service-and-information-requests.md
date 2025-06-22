@@ -19,7 +19,7 @@ notes: "This represents all service and information requests since December 8th,
   \ links to access this data. You can learn more about how to use the API at [Carto\u2019\
   s SQL API site](https://carto.com/developers/sql-api/)  and in the [CARTO guide\
   \ in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''

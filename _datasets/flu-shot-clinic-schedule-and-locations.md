@@ -10,7 +10,7 @@ maintainer_phone: 215-685-6458
 notes: "Flu shot clinic schedule and locations for the City of Philadelphia. Locations\
   \ include Philadelphia Department of Public Health District Health Centers, federally\
   \ qualified health centers and community flu clinics.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Annually'

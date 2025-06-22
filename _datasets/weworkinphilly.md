@@ -13,7 +13,7 @@ notes: WeWorkInPhilly is a community-edited guide to the People, Companies, Grou
   Projects, Products, and Resources that make up the creative, technology, and business
   community in Philadelphia.  The project, launched in July 2011 as a joint effort
   across the local tech community, is "owned by none and supported by all."
-opendataphilly_rating: null
+modified: null
 organization: WeWorkInPhilly
 resources:
 - description: ''

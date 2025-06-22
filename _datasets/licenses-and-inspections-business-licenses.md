@@ -18,7 +18,7 @@ notes: "Information regarding applications for licenses required by the City to 
   \ includes license application type, applicant, property for which the license would\
   \ be issued, application date, issue date, and expiration date. Data is accurate;\
   \ however, it may be misinterpreted by an unfamiliar user.\r\n\r\n"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''

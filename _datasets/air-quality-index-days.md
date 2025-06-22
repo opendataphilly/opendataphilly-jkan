@@ -9,7 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Number of bad AQI (air quality index) days, dating back to 1990."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

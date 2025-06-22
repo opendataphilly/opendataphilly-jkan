@@ -11,7 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Table to display street names which have aliased street names associated with\
   \ them."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

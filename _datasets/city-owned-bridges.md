@@ -9,7 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "This layer identifies the point locations of the city owned bridges that are\
   \ maintained by the Bridge Division of the City of Philadelphia Streets Department."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

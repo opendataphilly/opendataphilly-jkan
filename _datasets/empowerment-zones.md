@@ -14,7 +14,7 @@ notes: "Data includes commercial and industrial zones, i.e. areas with specific 
   \ businesses in blighted areas. Blighted areas are defined as meeting one of seven\
   \ city mandated criteria, including unsafe, unsanitary and inadequate conditions;\
   \ economically or socially undesirable land use; and faulty street and lot layout."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

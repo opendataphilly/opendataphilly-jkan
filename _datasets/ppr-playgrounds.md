@@ -10,7 +10,7 @@ maintainer_phone: null
 notes: Displays the locations of playgrounds within PPR Boundaries. Playgrounds ARE
   designated as similar age range equipment within a definable distance (not each
   piece of equipment).
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

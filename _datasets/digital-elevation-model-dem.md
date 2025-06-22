@@ -9,7 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "A digital elevation model (DEM) is a 3D representation of\
   \ the Earth's surface, created from terrain elevation data. These DEMs were generated from LiDAR and LAS data was gathered for the City of Philadelphia"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

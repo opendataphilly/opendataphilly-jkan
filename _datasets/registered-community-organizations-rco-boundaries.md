@@ -11,7 +11,7 @@ maintainer_phone: null
 notes: "Boundaries of Registered Community Organizations (RCO) as established under\
   \ the City of Philadelphia Zoning Code enacted December 15, 2011 and made effective\
   \ August 22, 2012.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

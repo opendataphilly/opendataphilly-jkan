@@ -23,7 +23,7 @@ notes: "Childcare Map helps Philadelphians make decisions about childcare.\r\n\r
   \ is important for the well-being of neighborhoods and families.  By identifying\
   \ areas where shortages of high-quality childcare exist, policymakers and investors\
   \ can work towards increasing access for all."
-opendataphilly_rating: null
+modified: null
 organization: Reinvestment Fund
 resources:
 - description: ''

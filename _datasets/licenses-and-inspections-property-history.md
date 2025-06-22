@@ -9,7 +9,7 @@ maintainer_email: null
 maintainer_link: null
 maintainer_phone: null
 notes: "This dataset documents the history of permits, licenses, violations, and appeals for each property in the City."
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''

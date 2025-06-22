@@ -20,7 +20,7 @@ notes: 'An online application, which enables users to view calculated walkabilit
   which measure the convenience/proximity to bikability and public transit opportunities.
   Users can also access walking, biking, and transit score through an API.  More information
   about the Walk Score is available [through Redfin](https://www.redfin.com/how-walk-score-works). '
-opendataphilly_rating: null
+modified: null
 organization: Walk Score
 resources:
 - description: ''

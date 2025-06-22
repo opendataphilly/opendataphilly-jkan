@@ -10,7 +10,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: 717-772-3305
 notes: 'Locations and attributes of drainage pipe structures that intersect with a state route'
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Transportation
 resources:
 - description: ''

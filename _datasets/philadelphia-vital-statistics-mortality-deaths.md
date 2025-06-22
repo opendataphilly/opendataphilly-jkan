@@ -15,7 +15,7 @@ notes: "Vital Statistics tables that contain aggregate metrics on the mortality 
   \ are provided at the city, planning district, and census tract levels of geography.\
   \ Please refer to [this technical notes document](https://metadata.phila.gov/index.html#home/datasetdetails/61c23fb963d616001ef54695/)\
   \ to access detailed technical notes and variable definitions.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: Interactive maps and charts of vital statistics and trends in natality (births), mortality (deaths), and population for Philadelphia residents.

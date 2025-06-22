@@ -9,7 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: 215-686-5259
 notes: "Locations of farmers markets in Philadelphia.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: "\r\n"

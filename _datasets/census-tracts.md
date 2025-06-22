@@ -19,7 +19,7 @@ notes: "For matching and analyzing demographic data collected and compiled by th
   \ Block Group boundaries within the City of Philadelphia. These boundaries can change\
   \ every ten years when the decennial census is conducted. Adjusted to City's Standard\
   \ Boundary Format.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: When the Census changes boundaries for each data

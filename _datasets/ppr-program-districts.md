@@ -11,7 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Polygon boundaries of PPR's program districts as established by PPR's GIS\
   \ staff and reviewed, revised, and approved by PPR's executive staff."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

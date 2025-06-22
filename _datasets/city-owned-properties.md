@@ -14,7 +14,7 @@ notes: "The application below was a point-in-time analysis and has been archived
   If you're instead looking for an inventory of buildings and other fixed assets owned, leased, or operated by the
   City, please see the [City Facilities dataset]([https://www.opendataphilly.org/datasets/litter-index]
   (https://opendataphilly.org/datasets/city-facilities-master-facilities-database/)."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: A map of all properties in 2015 in public ownership that are available. It

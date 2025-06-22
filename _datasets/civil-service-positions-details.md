@@ -12,7 +12,7 @@ maintainer_phone: null
 notes: "These datasets show job classification and pay ranges details about Civil\
   \ Service positions approved by the Civil Service commission and Administrative\
   \ board."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

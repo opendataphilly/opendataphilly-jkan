@@ -31,8 +31,10 @@ dataset_fields:
     label: Maintainer Link
   - field_name: maintainer_phone
     label: Maintainer Phone
-  - field_name: opendataphilly_rating
-    label: OpenDataPhilly Rating
+  - field_name: modified
+    label: Last Updated
+    datajson: modified
+    display_template: display/date.html
   - field_name: source
     label: Source
   - field_name: time_period

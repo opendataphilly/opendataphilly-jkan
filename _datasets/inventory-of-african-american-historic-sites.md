@@ -14,7 +14,7 @@ notes: An inventory compiled by the Preservation Alliance for Greater Philadelph
   for each site include Site Name, Address, Neighborhood, Significance, Site Type,
   Date Built, and Architect.   This inventory of 400+ structures includes churches,
   schools, businesses, homes, clubs, benevolent associations, and more.
-opendataphilly_rating: null
+modified: null
 organization: Preservation Alliance for Greater Philadelphia
 resources:
 - description: Report including a table of African American Historic Sites

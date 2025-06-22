@@ -10,7 +10,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Philadelphia Parks and Recreation out-of-school time afterschool programs."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

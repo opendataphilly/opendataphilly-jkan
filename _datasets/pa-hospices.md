@@ -11,7 +11,7 @@ maintainer_phone: 717-782-2448
 notes: "Locations of Pennsylvania hospices, according to the PA Department of Health's
   quality assurance database. A hospice is a home providing care for the sick or terminally ill."
 
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Health
 resources:
 - description: ''

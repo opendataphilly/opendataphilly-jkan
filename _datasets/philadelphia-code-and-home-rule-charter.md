@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Raw text and other formats available of the City of Philadelphia Municipal\
   \ Code and City Charter.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

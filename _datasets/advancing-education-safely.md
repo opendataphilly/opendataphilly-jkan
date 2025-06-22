@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: The Advancing Education Safely dashboard includes information about COVID-19
   testing and confirmed cases for SDP students and staff in 2021-22.
-opendataphilly_rating: null
+modified: null
 organization: School District of Philadelphia
 resources:
 - description: 2020-2021

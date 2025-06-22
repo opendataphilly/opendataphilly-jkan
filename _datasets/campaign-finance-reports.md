@@ -17,7 +17,7 @@ notes: "Campaign finance reports from 2019 to the present: The tables below show
   \ to understand how we compiled the data and dashboard. \r\n\r\nIf you want to use\
   \ the raw, unfiltered data, please visit the [searchable database](https://apps.phila.gov/search/all).\
   \ Filers can submit reports on via the [campaign finance filing system](https://apps.phila.gov/auth)."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

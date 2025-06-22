@@ -9,7 +9,7 @@ maintainer_email: nicholas.jann@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Economic Opportunity Plans (EOP)\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

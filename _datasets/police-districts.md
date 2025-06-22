@@ -9,7 +9,7 @@ maintainer_link: http://www.phillypolice.com/
 maintainer_phone: 215-686-1577
 notes: "Police district boundaries. A police Captain is responsible for each district.\
   \ Districts are subdivided into sectors. Several districts are aggregated into divisions."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

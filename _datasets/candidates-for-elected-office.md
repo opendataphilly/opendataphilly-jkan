@@ -9,7 +9,7 @@ maintainer_email: seth.bluestein@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Candidates for elected off from past elections since 2011 as well as candidates for the next election"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

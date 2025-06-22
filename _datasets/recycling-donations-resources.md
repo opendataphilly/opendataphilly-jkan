@@ -9,7 +9,7 @@ maintainer_email: null
 maintainer_link: null
 maintainer_phone: null
 notes: "A dataset of the places to donate or recycle items in Philadelphia."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'An online app to find recylcing and donation resources near the address you enter.'

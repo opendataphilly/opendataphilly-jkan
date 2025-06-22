@@ -13,7 +13,7 @@ notes: "This dataset is a contour data line segments representing the elevation 
   \ Data is typically collected during the month of April. Data Development: Vector\
   \ (line) data representing the elevation of natural and artificial features in the\
   \ project area."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

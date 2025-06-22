@@ -12,7 +12,7 @@ notes: "This data describes proposals for future monuments collected from Philad
   residents and visitors to during Monument Lab events in May 2015 and Autumn 2017. Each proposal was transcribed
   and analyzed by the Monument Lab team, and is identified with the location of the
   proposed monument. In May 2015, 450 proposals were collected from residents and visitors during a three week exhibition in the City Hall courtyard. In Autumn 2017, 4,500 proposals were collected from residents and visitors during a citywide exhibition held at 10 sites. Each proposal is identified by the location of the proposed monutment and include age and zip code of the proposer."
-opendataphilly_rating: null
+modified: null
 organization: Monument Lab
 resources:
 - description: ''

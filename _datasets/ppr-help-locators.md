@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes:
   Point representations of help locators that provide location information to use when calling for emergency services
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
   - description: ''

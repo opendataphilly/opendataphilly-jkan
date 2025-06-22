@@ -12,7 +12,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "The street nodes layer was developed for use by agencies citywide including\
   \ PWD, PCPC, Police, BRT, Health, etc. \r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

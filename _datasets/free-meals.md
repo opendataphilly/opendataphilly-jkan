@@ -9,7 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "This dataset and app provide the locations of sites where the public can access free food, nutrition services, and public benefits. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

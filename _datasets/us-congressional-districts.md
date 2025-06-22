@@ -9,7 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Please refer to PA's open data for the [United States Congressional Districts](https://data.pa.gov/Geospatial-Data/Pennsylvania-Congressional-District-Boundaries/3b9u-tn7c)."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources: []
 schema: philadelphia

@@ -15,7 +15,7 @@ notes: Child Care Search is a searchable database, which yields results on child
   closely. In addition to location and contact information, qualitative information
   about care centers (STAR rating system ran) are also available. All information
   results are freely viewable and printable, but not exportable.
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Human Services
 resources:
 - description: ''

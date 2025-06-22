@@ -12,7 +12,7 @@ notes: "Data includes location points of Pennsylvania ambulatory surgical center
 facilities for surgeries to be performed on a person who is admitted to and
 discharged from the location on the same day."
 
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Health
 resources:
 - description: ''

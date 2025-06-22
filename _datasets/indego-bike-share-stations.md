@@ -13,7 +13,7 @@ maintainer_phone: null
 notes: "Data relating to the Indego BikeShare program, including station locations\
   \ and the number of available bikes. More information about the program is available\
   \ at:\r\nhttps://www.rideindego.com/about/data/"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

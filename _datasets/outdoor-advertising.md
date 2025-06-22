@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Locational and relevant attribute data pertaining to billboard and outdoor\
   \ advertising locations throughout the City of Philadelphia.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

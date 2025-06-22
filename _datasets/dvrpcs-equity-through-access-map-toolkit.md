@@ -20,7 +20,7 @@ notes: As part of the Equity Through Acesss project, DVRPC created the ETA Map T
   and areas where transit access is low. These three variables were combined to create
   the Priority Score map, which visualizes areas where new public transit connections
   could be made, changed, or improved to bridge access gaps in the future.
-opendataphilly_rating: null
+modified: null
 organization: Delaware Valley Regional Planning Commission (DVRPC)
 resources:
 - description: ''

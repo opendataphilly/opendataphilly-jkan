@@ -15,7 +15,7 @@ notes: "The Health of the City report summarizes data on community health in Phi
   \ through interactive charts and maps. The Health of the City table contains aggregate\
   \ metrics on population statistics, social determinants of health, and health outcomes\
   \ that were used to build this report."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'An app of maps and charts showing the health of the city data.'

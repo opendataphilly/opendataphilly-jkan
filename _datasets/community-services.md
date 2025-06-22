@@ -11,7 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: A list of humanitarian resources within Philadelphia. Includes homeless shelters,
   health clinics, food pantries, soup kitchens, women and children shelters, etc.
-opendataphilly_rating: null
+modified: null
 organization: Code for Philly
 resources:
 - description: A list of homeless shelters, women and family shelters, health clinics,

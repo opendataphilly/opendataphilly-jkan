@@ -12,7 +12,7 @@ maintainer_phone: null
 notes: "Locations of surface water features (rivers, creeks, ponds, reservoirs) and\
   \ water beneath city bridges and adjacent to city borders. Separate files are available\
   \ for each waterbody (and watershed) in KML form, or as a whole in Shapefile form."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

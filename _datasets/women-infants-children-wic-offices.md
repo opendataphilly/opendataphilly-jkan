@@ -11,7 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "The Special Supplemental Nutrition Program for Women, Infants, and Children\
   \ (WIC) ."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

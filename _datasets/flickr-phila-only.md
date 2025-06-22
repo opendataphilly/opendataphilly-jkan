@@ -16,7 +16,7 @@ notes: 'Flick is an online, interactive photo database, where users can search f
   and an API. With free registration, users can also upload their own photos, create
   profiles, edit, comment, and participate in forum/group culture for non-commercial use.
   Commercial use requires a negotiated agreement.'
-opendataphilly_rating: null
+modified: null
 organization: Flickr
 resources:
 - description: ''

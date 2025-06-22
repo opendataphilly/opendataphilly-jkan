@@ -14,7 +14,7 @@ This feature class was used to create maps, graphics, and inform analysis as par
 Planning Commission in July 2013. Please refer to the Philadelphia Trail Master Plan for further detail on the descriptions of the attributes
 described in the metadata. Inventory includes both existing trails and existing sidepaths, as defined in the metadata. Sidepaths are designated
 by the Streets Department with advisory approval from the Planning Commission, with the exception of side paths on Philadelphia Parks and Recreation property.'
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

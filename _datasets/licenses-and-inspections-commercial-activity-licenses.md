@@ -11,7 +11,7 @@ maintainer_phone: null
 notes: "Commercial Activity Licenses are required by entities doing business in the\
   \ City of Philadelphia. Information includes license number, application date, issuance\
   \ date, applicant information, business entity name and other related information."
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''
