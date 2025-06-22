@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Health / Human Services
-created: '2014-12-08T22:26:22.755417'
 license: City of Philadelphia License
 maintainer: Public Health
 maintainer_email: ''
@@ -17,15 +16,15 @@ resources:
 - description: 'Update Frequency: Annually'
   format: CSV
   name: Flu Shots (CSV)
-  url: https://opendata.arcgis.com/datasets/4914670b28fd45e28aaead7aef1ff0cd_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/4914670b28fd45e28aaead7aef1ff0cd_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: Annually'
   format: SHP
   name: Flu Shots (SHP)
-  url: https://opendata.arcgis.com/datasets/4914670b28fd45e28aaead7aef1ff0cd_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/4914670b28fd45e28aaead7aef1ff0cd_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: Annually'
   format: GeoJSON
   name: Flu Shots (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/4914670b28fd45e28aaead7aef1ff0cd_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/4914670b28fd45e28aaead7aef1ff0cd_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: Annually'
   format: API
   name: Flu Shots (API)
