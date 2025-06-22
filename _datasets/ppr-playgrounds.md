@@ -1,9 +1,7 @@
 ---
 area_of_interest: null
 category:
-- Health / Human Services
 - Parks / Recreation
-- Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
