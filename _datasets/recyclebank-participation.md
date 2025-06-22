@@ -8,7 +8,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Please note that the RecyleBank Program no longer exists, therefore this dataset has been archived, and will not be updated, but remains for historical analysis purposes. Dataset shows the count of residents participating in the RecycleBank program by street segment in 2015."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

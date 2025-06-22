@@ -34,6 +34,9 @@
     {% assign f_contact_point_email = dataset_fields | where: "datajson", "contactPoint.hasEmail" | first %}
     {% assign contact_point_email = dataset[f_contact_point_email[field_name]] %}
 
+    {% assign f_modified = dataset_fields | where: "datajson", "modified" | first %}
+    {% assign modified = dataset[f_modified[field_name]] %}
+
     {% assign f_dist_title = resource_fields | where: "datajson", "distribution.title" | first %}
     {% assign f_dist_download_url = resource_fields | where: "datajson", "distribution.downloadURL" | first %}
     {% assign f_dist_format = resource_fields | where: "datajson", "distribution.format" | first %}
@@ -72,6 +75,7 @@
       {%- if description -%}
       "description": {{ description | jsonify }},
       {% endif %}
+      "modified": {{ modified | jsonify }},
       "keyword":[
          {%- for cat in dataset.categories -%}
             {%- assign cat_split = cat | split: " / " -%} 

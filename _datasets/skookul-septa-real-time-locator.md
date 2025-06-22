@@ -14,7 +14,7 @@ notes: 'The SEPTA Real Time Locator on Skookul Philadelphia provides real time a
   accessed via mobile, desktop, and laptop devices. Users can bookmark specific data
   requests such as a bus route (http://skookul.com/transportation/#bus-9) or train
   route (http://skookul.com/transportation/#train-airport).   '
-opendataphilly_rating: '4'
+modified: null
 organization: Skookul.com
 resources:
 - description: ''

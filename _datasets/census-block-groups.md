@@ -18,7 +18,7 @@ notes: "For matching and analyzing demographic data collected and compiled by th
   \ U.S. Census Bureau & American Community Survey(ACS) to the geography of Census\
   \ Block Group boundaries within the City of Philadelphia. These boundaries can change\
   \ every ten years when the decennial census is conducted."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

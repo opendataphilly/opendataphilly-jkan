@@ -14,7 +14,7 @@ notes: 'Philadelphia Taking Care of Business (PHL TCB) Clean Corridors Program f
   PHL TCB seeks to 1-Maintain clean commercial districts, 2-Promote the economic success of neighborhood businesses by
   creating an inviting environment for shoppers, 3-Create work opportunities for Philadelphians, 4-Grow
   the capacity of local small businesses and organizations that provide cleaning services.'
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

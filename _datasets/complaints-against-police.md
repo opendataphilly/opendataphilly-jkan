@@ -18,7 +18,7 @@ notes: "As part of the Philadelphia Police Department's (PPD) accountability pro
   History dataset details the timeline by which PPD released the complaint, concluded the
   investigation, and determined any resulting discipline. See metadata links below
   for dataset and field descriptions. Includes data from the past five years. Updated monthly."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Updated monthly. '

@@ -23,7 +23,7 @@ notes: "A dataset of COVID-19 testing sites. A dataset of COVID-19 testing sites
 
 
   Check a location’s specific details on the map. Then, call or visit the provider’s website before going for a test."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

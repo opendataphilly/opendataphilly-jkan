@@ -12,7 +12,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Area designated by the U.S. Department of Housing and Urban Development deeming\
   \ West Philadelphia as a Promise Zone. Click here to learn more about promise zones."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

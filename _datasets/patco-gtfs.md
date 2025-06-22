@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: '[General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/)
   for the PATCO train schedule.'
-opendataphilly_rating: null
+modified: null
 organization: Port Authority Transit Corporation (PATCO)
 resources:
 - description: GTFS data as a zip file.

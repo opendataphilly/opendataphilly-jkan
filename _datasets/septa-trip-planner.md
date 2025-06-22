@@ -9,7 +9,7 @@ maintainer_email: septoid@gmail.com
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'Trip planner for finding SEPTA routes and times between an origin and destination.' 
-opendataphilly_rating: null
+modified: null
 organization: SEPTA
 resources:
 - description: ''

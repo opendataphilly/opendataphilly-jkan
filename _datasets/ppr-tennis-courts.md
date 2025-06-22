@@ -11,7 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: Displays the locations of tennis courts located within properties maintained
   by Philadelphia Parks and Recreation (PPR).
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

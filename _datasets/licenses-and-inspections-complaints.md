@@ -16,7 +16,7 @@ notes: "Complaints that were entered via 311 or by an individual in the departme
   \ table represents a single 'call'. Calls are sometimes bunched into one 'Complaint'\
   \ all sharing the same unique number.\r\n\r\n\r\
   \n"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''

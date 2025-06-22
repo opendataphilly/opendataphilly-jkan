@@ -8,7 +8,7 @@ maintainer_email: 'vote@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Certified election results for both primary and general elections.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description:

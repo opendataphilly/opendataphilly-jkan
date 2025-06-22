@@ -29,7 +29,7 @@ notes: '
   Please refer to the Regional Rail Inputs page (see below) to see all valid inputs.
 '
 
-opendataphilly_rating: null
+modified: null
 organization: SEPTA
 resources:
 - description: 'Creates a list of all Regional Rail trains on the system. Showing the trains ID number, its starting location, its destination, and if its late or not'

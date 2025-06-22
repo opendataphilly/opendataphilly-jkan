@@ -11,7 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: Locations and boundaries for properties that Philadelphia Parks and Recreation
   (PPR) has responsibility for or has a distinct role in the maintenance or management.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

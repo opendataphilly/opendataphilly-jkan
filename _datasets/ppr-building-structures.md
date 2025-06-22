@@ -12,7 +12,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Footprints of buildings and structures located on Philadelphia Parks and Recreation\
   \ (PPR) properties or utilized directly by PPR.\t\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

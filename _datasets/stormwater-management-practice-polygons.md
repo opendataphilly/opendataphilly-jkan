@@ -12,7 +12,7 @@ notes: "This layer represents Green Stormwater Infrastructure Stormwater Managem
   \ Practice types. Integrating Green Stormwater Infrastructure (GSI) into a highly\
   \ developed area such as Philadelphia requires a decentralized and creative approach\
   \ to planning and design.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

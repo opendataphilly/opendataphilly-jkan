@@ -12,7 +12,7 @@ maintainer_phone: null
 notes: "***As of May 2022, these datasets moved from daily updates to weekly updates\
   \ every Monday.***\r\n\r\nA break down by census categories of the hospitalizations\
   \ to date within the city limits."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

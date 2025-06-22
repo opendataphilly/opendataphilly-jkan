@@ -10,7 +10,7 @@ maintainer_phone: null
 notes: "The current dataset captures voter registration counts and voter 'turnout', or the percentage of registered voters who voted in each election, since 2015.
   The data is aggregated at various levels including the political precinct (division), political ward, and city-wide and shows results for different elections (primary, general,
   special). Historical releases of this data prior to 2015 were separate datasets, one for voter turnout and one for voter registration."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'This data is aggregated city-wide from 2015 to the current available year.'

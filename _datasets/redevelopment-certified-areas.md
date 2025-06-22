@@ -15,7 +15,7 @@ notes: "Development certified areas, i.e. areas deemed blighted and eligible for
   \ Urban Redevelopment Law. Blighted areas are defined as meeting one of seven city\
   \ mandated criteria, including unsafe, unsanitary and inadequate conditions; economically\
   \ or socially undesirable land use; and faulty street and lot layout."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

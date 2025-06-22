@@ -10,7 +10,7 @@ maintainer_email: brian.ivey@phila.gov
 maintainer_link: null
 maintainer_phone: 215-686-8287
 notes: "Data includes aerial photography of the City of Philadelphia."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

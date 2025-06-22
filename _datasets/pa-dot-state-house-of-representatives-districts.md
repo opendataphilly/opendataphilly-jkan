@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: 717-772-3305
 notes: 'Data includes boundaries of Pennsylvania House of Representatives Legislative
   Districts, along with name and party affiliation of each district''s legislator.'
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Transportation
 resources:
 - description: ''

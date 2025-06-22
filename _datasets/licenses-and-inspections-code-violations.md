@@ -17,7 +17,7 @@ notes: "Violations issued by the Department of Licenses and Inspections in refer
   \ use the API at Carto\u2019s SQL API site and in the Carto guide in the section\
   \ on making calls to the API.**\r\
   \n"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''

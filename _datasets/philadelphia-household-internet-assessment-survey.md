@@ -11,7 +11,7 @@ maintainer_email: juliet.fink-yates@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "A survey assessment on home broadband and device access in the City of Philadelphia."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

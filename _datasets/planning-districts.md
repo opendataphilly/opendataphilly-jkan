@@ -10,7 +10,7 @@ maintainer_link: http://www.philaplanning.org
 maintainer_phone: null
 notes: "To illustrate the outlines of the 18 Districts for Philadelphia2035 District\
   \ Plans."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

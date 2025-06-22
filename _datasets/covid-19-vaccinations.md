@@ -14,7 +14,7 @@ notes: "***As of May 2022, these datasets moved from daily updates to weekly upd
   \ well as total dose information for all vaccinations performed by the health department.\
   \ Also provides vaccinations by census tract, ZIP code, date, age, race, and sex.\
   \ Vaccinations include residents and non-residents of Philadelphia. Updates daily."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

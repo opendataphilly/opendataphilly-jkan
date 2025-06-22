@@ -14,7 +14,7 @@ notes: "This layer highlights the authorized vehicle routes for the 2015 World M
   \ and other mission critical traffic. Regular traffic will not be permitted on the\
   \ routes. Check for updates frequently as information is subject to change. For\
   \ a more detailed description of the event and operations: http://www.phila.gov/informationcenters/pope/."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

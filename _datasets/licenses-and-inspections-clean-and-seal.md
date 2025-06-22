@@ -12,7 +12,7 @@ maintainer_phone: null
 notes: "Address, date of abatement, and more for properties that have been cleaned\
   \ and sealed by the L&I Clean & Seal Unit.\r\n\r\n\r\
   \n"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''

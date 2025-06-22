@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "These layers illustrate 10 correctional facilities in the City, administered\
   \ by the Philadelphia Prisons System.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

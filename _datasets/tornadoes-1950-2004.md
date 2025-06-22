@@ -13,7 +13,7 @@ notes: 'Data includes location touchdown points and corresponding dates of Torna
   in Pennsylvania from 1950 to 2004, according to the National Weather Service''s
   Storm Prediction Center (SPC). Data originates from the Severe Thunderstorm Database
   and the National Oceanic and Atmosphere Administration Storm Data publication. '
-opendataphilly_rating: null
+modified: null
 organization: Storm Prediction Center
 resources:
 - description: ''

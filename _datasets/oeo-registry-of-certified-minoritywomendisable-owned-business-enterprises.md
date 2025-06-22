@@ -10,7 +10,7 @@ maintainer_phone: null
 notes: "A database of all Minority/Women/Disable Owned (MWD) owned businesses that\
   \ are registered with the City of Philadelphia's Office of Economic Opportunity\
   \ (OEO)."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

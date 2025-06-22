@@ -9,7 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: 717-772-3305
 notes: 'Traffic volumes; measured and calculated amounts of vehicle traffic that travel the sections of road.'
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Transportation
 resources:
 - description: ''

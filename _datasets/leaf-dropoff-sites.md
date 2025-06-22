@@ -8,7 +8,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: 'Bagged leaf dropoff locations operated by the Streets Department during 7-week period in autumn.'
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

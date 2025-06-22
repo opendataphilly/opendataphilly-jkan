@@ -13,7 +13,7 @@ notes: "An online database of architectural and historical information and image
   \ for 35,000+ structures, 110,000 images+ images and maps and biographies of 5,000+\
   \ architects in the 5 county region around Philadelphia.  Development was a collaboration\
   \ between private, academic, and public entities led by the Athen\xE6um of Philadelphia."
-opendataphilly_rating: null
+modified: null
 organization: "Athen\xE6um of Philadelphia"
 resources:
 - description: ''

@@ -14,7 +14,7 @@ rooftop location of each medical marijuana dispensary. The accuracy of geocoding
 available in Geocoding Certainty attribute field (Geocoding Certainty: Rooftop="00", 
 Street="01", Zip Centroid="04", Not geocoded="99").'
 
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Health
 resources:
 - description: ''

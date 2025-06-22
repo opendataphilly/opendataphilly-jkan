@@ -8,7 +8,7 @@ maintainer_email: chris.park@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "The location of spraygrounds in Philadelphia run by Parks and Recreation."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

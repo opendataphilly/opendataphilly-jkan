@@ -13,7 +13,7 @@ notes: "Information regarding individuals who have applied for trades licenses s
   \ as General Contractor, Master Plumber, and more. Information includes the individual's\
   \ name, license number, license status issue date, expiration date, company name,\
   \ and revenue code.\r\n\r\n"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -18,7 +18,7 @@ notes: 'Areas of stream bank sections (including main stem, tributaries and smal
   Pennsylvania Stream ReLeaf programs. For the followup work in 2012, only three counties
   were completed with Heritage Conservancy performing the work in
   Philadelphia and Bucks counties, and Montgomery County mapped by the county.'
-opendataphilly_rating: '3'
+modified: null
 organization: Heritage Conservancy
 resources:
 - description: ''

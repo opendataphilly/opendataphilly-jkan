@@ -26,7 +26,7 @@ notes: "The Department of Records (DOR) published data for all documents recorde
   If you are comfortable with APIs, you could also use the API links to access this\
   \ data. You can learn more about how to use the API at [Carto\u2019s SQL API site](https://carto.com/developers/sql-api/)\
   \  and in the [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -9,7 +9,7 @@ maintainer_email: Chris.Park@Phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "A comprehensive inventory of all trees within the limits of the City of Philadelphia. This dataset is a snapshot in time from 2021 and will update yearly."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

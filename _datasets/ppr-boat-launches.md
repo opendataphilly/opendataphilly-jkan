@@ -13,7 +13,7 @@ notes: "Boat launches across the city are places where boats (kayaks, canoes, an
   \ or motorboats) can be launched onto the Schuylkill River or Delaware River. This\
   \ dataset identifies the boat launches/ramps located on PPR property or boat launches\
   \ PPR administers directly. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

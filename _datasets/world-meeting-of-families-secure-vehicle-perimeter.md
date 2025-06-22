@@ -11,7 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Secure vehicle perimeter for the 2015 World Meeting of Families in Philadelphia,\
   \ PA."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

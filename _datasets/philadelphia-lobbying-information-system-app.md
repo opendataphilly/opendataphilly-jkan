@@ -17,7 +17,7 @@ notes: "The Philadelphia Lobbying Information System is a searchable database of
   \ The data collected by PLIS is a public record intended to make the legislative\
   \ and executive process more transparent by providing the public with a clear picture\
   \ of all of the outside interests involved in policy discussions."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

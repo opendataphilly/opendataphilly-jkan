@@ -12,7 +12,7 @@ notes: A sewershed is the area of land where all the sewers flow to a single end
   in most cases it is a regulator/permitted outfall, but in cases when the flow can
   be split between multiple regulators/permitted outfalls, the area above the point
   of split is treated as a separate sewershed.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

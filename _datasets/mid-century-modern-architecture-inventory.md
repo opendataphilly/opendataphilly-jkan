@@ -18,7 +18,7 @@ notes: Mid-century modern architecture and buildings of the recent past are enjo
   or other purposes, nor does its absence imply a lack of significance. Rather, the
   list is meant to illustrate the breadth and depth of design from an era often overshadowed
   by earlier periods and styles.
-opendataphilly_rating: null
+modified: null
 organization: Preservation Alliance for Greater Philadelphia
 resources:
 - description: Report written by Malcolm Clendenin and edited by Emily T. Cooperman

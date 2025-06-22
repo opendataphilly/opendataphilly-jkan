@@ -17,7 +17,7 @@ accurate assessment of the impervious area on the parcel, and that there is owne
 associated with the parcel. Over the past 5 years, PWD has made corrections based off deeds
 on file with DOR, BRT information, and other City records. PWD also matched up each DOR parcel
 to a corresponding BRT record that contained the owner information for that parcel."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

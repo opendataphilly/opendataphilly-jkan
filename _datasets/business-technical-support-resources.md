@@ -8,7 +8,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Services and support available to businesses in Philadelphia. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

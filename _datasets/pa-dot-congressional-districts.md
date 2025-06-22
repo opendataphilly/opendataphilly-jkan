@@ -14,7 +14,7 @@ notes: 'Boundaries of United States Congressional legislative boundaries for Pen
   Commissions, Elections and Legislation Pennsylvania Dept. of State.
   The current layers are attributed with the current legislator name, party affiliation and home county.'
   
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Transportation
 resources:
 - description: ''

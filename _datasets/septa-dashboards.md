@@ -9,7 +9,7 @@ maintainer_email: septoid@gmail.com
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'Visual dashboards that describe ridership and performance metrics.'
-opendataphilly_rating: null
+modified: null
 organization: SEPTA
 resources:
 - description: ''

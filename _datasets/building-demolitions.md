@@ -15,7 +15,7 @@ notes: "Inventory of building demolitions occurring within the City of Philadelp
   \ This includes both demolitions performed by private owners/contractors and by\
   \ the Department of Licenses and Inspections due to dangerous building conditions.\
   \ \r\n\r\nUpdated daily."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

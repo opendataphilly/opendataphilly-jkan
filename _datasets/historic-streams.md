@@ -9,7 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Philadelphia streams as mapped by Charles Ellet in 1842 and Previous study\
   \ of historic streams conducted by PWD.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

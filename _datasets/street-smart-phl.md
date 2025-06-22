@@ -10,7 +10,7 @@ maintainer_link: https://www.phila.gov/departments/department-of-streets/
 maintainer_phone: 215-686-5560
 notes: "This interactive mapping application displays current/future street closures, trash/recycling days, street sweeping plans,
 snow plowing info (during a snow event) and paving plans."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

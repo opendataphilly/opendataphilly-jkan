@@ -10,7 +10,7 @@ maintainer_phone: null
 notes: "The purpose of this data is to describe the Rain Gauges both locationally\
   \ and via their attributes. This data shows the location and attributes of Rain\
   \ Gauges throughout the City of Philadelphia."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

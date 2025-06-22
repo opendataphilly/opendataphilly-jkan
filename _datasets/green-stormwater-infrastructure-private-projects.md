@@ -11,7 +11,7 @@ notes: "Private Green Stormwater Infrastructure Project data in a tabular relati
   \ database. Location point data is digitized manually with a tracking number. Tabular\
   \ data is queried and joined to point feature class before export to GEODB2 SDE\
   \ databases."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

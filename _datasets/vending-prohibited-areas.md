@@ -12,7 +12,7 @@ maintainer_email: ligisteam@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Areas where vending is prohibited in the city of Philadelphia.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

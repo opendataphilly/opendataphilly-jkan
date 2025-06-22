@@ -9,7 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Street location, contact information and hours of PDPH-funded HIV Treatment\
   \ Centers."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

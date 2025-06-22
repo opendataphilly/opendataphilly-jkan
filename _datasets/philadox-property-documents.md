@@ -16,7 +16,7 @@ notes: "PhilaDox is an online database of documents filed with the City of Phila
   \ can be downloaded as PDFs.\r\n\r\nFull access to PhilaDox records is available\
   \ with a daily, weekly, monthly, or annual subscription. More limited search for\
   \ names and address is available for free public access.\r\n\r\n"
-opendataphilly_rating: '1'
+modified: null
 organization: City of Philadelphia
 resources:
 - description: Searchable database of deed and mortgage recordings.  Actual deeds

@@ -15,7 +15,7 @@ notes: "Tobacco Retailer Density Caps for each planning district included in the
   \ estimates. For more information visit: [Tobacco Retailing](http://www.phila.gov/health/Commissioner/regulationtobaccoretailing.html).\r\
   \n\r\nVisit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
   \n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

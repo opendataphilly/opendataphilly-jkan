@@ -11,7 +11,7 @@ maintainer_phone: null
 notes: "The datasets below show information about Complaints filed with the Police\
   \ Advisory Commission against Philadelphia Police officers. The information comes\
   \ directly from Police Advisory Commission Complaint Database."
-opendataphilly_rating: '6'
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Never'

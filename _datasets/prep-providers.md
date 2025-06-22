@@ -8,7 +8,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: This point layer contains the locations of PrEP providers in the City of Philadelphia.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

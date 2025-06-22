@@ -14,7 +14,7 @@ notes: "The streets (at the center of platystreet blocks) involved in the PPR Pl
   \ a safe place to play when school is out. A key feature of the program are the\
   \ nutritious meals and snacks provided to children. This is important during the\
   \ summer months when school meals are not available.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

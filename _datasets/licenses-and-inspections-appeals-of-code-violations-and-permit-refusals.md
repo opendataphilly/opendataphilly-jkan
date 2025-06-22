@@ -19,7 +19,7 @@ notes: "The Department of Licenses and Inspections accepts applications for appe
   \ could have multiple appeal types, so those are provided as a dataset below as\
   \ well. \r\n\r\nThe Board Decisions datasets shows the decisions made by the Appeal\
   \ Boards (LIRB, ZBA, BBS).\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

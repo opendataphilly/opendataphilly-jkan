@@ -15,7 +15,7 @@ notes: "The Philadelphia Lead Paint Disclosure and Certification Law requires ow
   in the city by OPA account number, based on the information submitted to the Lead and Healthy Homes Program. Note 
   that the certification information must be consistent with the details of the rental license in order for the rental 
   license to be granted."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Street location and types of pollutants sampled at each PDPH air monitoring\
   \ station."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: "Update frequency: Yearly\r\n"

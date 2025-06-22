@@ -9,7 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Point and line geometric features representing planned and completed Green\
   \ Stormwater Infrastructure (GSI).\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

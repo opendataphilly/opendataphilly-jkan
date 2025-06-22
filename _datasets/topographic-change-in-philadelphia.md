@@ -26,7 +26,7 @@ of uncertainties. The following report is in fulfillment of the tasks outlined i
 this scope of work and was performed by the U. S. Geological Survey for the U. S.
 Army Corps of Engineers, Philadelphia District under MIPR agreement number: W25PHS93358288.'
 
-opendataphilly_rating: null
+modified: null
 organization: US Geological Survey
 resources:
 - description: ''

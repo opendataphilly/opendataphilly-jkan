@@ -13,7 +13,7 @@ notes: "Center City District encompasses 120 blocks and more than 4500 individua
   \ properties. The mission is to keep Center City clean, safe, and fun.  CCD also\
   \ makes phyiscal improvements to center city by installing and maintain lighting,\
   \ signs, banners trees and landscape.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

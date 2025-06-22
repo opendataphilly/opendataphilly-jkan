@@ -11,7 +11,7 @@ maintainer_phone: null
 notes: "Please note that the dataset below is a snapshot of data captured at one time\
   \ and does not receive regular updates.\r\n\r\nThe Highway Districts dataset shows\
   \ the boundaries of highway districts used for managing maintenance of roads. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

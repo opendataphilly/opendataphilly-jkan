@@ -12,7 +12,7 @@ maintainer_phone: null
 notes: "These are commercial corridors, centers, districts, and projects that provide\
   \ consumer-oriented goods and services, including retail, food and beverage, and\
   \ personal, professional, and business services. \r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'

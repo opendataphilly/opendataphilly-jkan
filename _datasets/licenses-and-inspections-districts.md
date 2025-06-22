@@ -13,7 +13,7 @@ maintainer_phone: null
 notes: "District Boundaries for the Department of Licenses & Inspections are pre 2014.\r\
   \nDistricts Broad refers to the five districts which contain their own district\
   \ offices and are a method the department uses to assign and analyze work."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
