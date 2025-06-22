@@ -2,7 +2,7 @@
 area_of_interest: null
 category: 
 - Transportation
-created: '2015-06-09T07:31:26.896114'
+- Boundaries
 license: City of Philadelphia License
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
@@ -21,15 +21,15 @@ resources:
 - description: ''
   format: CSV
   name: Highway Sections (CSV)
-  url: https://opendata.arcgis.com/datasets/8f183dea97874cb6a1534bfe2d18a315_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/8f183dea97874cb6a1534bfe2d18a315_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Highway Sections (SHP)
-  url: https://opendata.arcgis.com/datasets/8f183dea97874cb6a1534bfe2d18a315_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/8f183dea97874cb6a1534bfe2d18a315_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Highway Sections (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/8f183dea97874cb6a1534bfe2d18a315_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/8f183dea97874cb6a1534bfe2d18a315_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Highway Sections (API)
