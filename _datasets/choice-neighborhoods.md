@@ -3,6 +3,7 @@ area_of_interest: null
 category: 
 - Planning / Zoning
 - Real Estate / Land Records
+- Boundaries
 license: City of Philadelphia License
 maintainer: Mark Dodds
 maintainer_email: mark.dodds@phila.gov
@@ -39,6 +40,7 @@ schema: philadelphia
 source: ''
 tags:
 - Office of Housing and Community Development
+- neighborhoods
 time_period: null
 title: Choice Neighborhoods
 usage: null
