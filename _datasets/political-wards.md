@@ -1,6 +1,7 @@
 ---
 area_of_interest: City of Philadelphia
 category:
+- Boundaries
 - Elections / Politics
 license: City of Philadelphia License
 maintainer: Darshna Patel
