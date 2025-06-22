@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Environment
 - Parks / Recreation
-- Planning / Zoning
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
@@ -37,6 +36,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Parks and Recreation
+- swimming pools
 time_period: null
 title: PPR Swimming Pools
 usage: null
