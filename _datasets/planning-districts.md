@@ -2,6 +2,7 @@
 area_of_interest: City of Philadelphia
 category:
 - Planning / Zoning
+- Boundaries
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
