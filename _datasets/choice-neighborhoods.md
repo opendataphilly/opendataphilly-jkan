@@ -3,7 +3,7 @@ area_of_interest: null
 category: 
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2015-06-02T02:57:53.351178'
+- Boundaries
 license: City of Philadelphia License
 maintainer: Mark Dodds
 maintainer_email: mark.dodds@phila.gov
@@ -19,15 +19,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Choice Neighborhoods (CSV)
-  url: https://opendata.arcgis.com/datasets/53d19a764ceb49ada5e4e903ab92fbd7_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/53d19a764ceb49ada5e4e903ab92fbd7_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Choice Neighborhoods (SHP)
-  url: https://opendata.arcgis.com/datasets/53d19a764ceb49ada5e4e903ab92fbd7_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/53d19a764ceb49ada5e4e903ab92fbd7_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Choice Neighborhoods (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/53d19a764ceb49ada5e4e903ab92fbd7_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/53d19a764ceb49ada5e4e903ab92fbd7_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Choice Neighborhoods (API)
@@ -40,6 +40,7 @@ schema: philadelphia
 source: ''
 tags:
 - Office of Housing and Community Development
+- neighborhoods
 time_period: null
 title: Choice Neighborhoods
 usage: null
