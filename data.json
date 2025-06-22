@@ -183,6 +183,9 @@
          {
             {%- assign dist_download_url = dist_download_url | replace: " ", "%20" -%}
             {%- assign dist_download_url = dist_download_url | replace: "|", "%7C" -%}
+            {%- assign dist_download_url = dist_download_url | replace: "*", "%2A" -%}
+            {%- assign dist_download_url = dist_download_url | replace: "<", "%3C" -%}
+            {%- assign dist_download_url = dist_download_url | replace: ">", "%3E" -%}
             "title": {{ dist_title | jsonify }},
             {%- if access_flag %}
             "accessURL": {{ dist_download_url | jsonify }},
