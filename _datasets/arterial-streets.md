@@ -37,6 +37,7 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- arterials
 time_period: null
 title: Arterial Streets
 usage: null
