@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Environment
+- Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
