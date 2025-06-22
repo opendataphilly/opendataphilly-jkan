@@ -2,6 +2,7 @@
 area_of_interest: City of Philadelphia
 category:
 - Boundaries
+- Environment
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
