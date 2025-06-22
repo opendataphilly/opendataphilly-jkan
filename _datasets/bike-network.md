@@ -2,9 +2,7 @@
 area_of_interest: City of Philadelphia
 category:
 - Parks / Recreation
-- Real Estate / Land Records
 - Transportation
-created: '2014-12-08T22:33:41.160825'
 license: City of Philadelphia License
 maintainer: Streets Department
 maintainer_email: ''
@@ -22,15 +20,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Bike Network (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Bike Network (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Bike Network (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b5f660b9f0f44ced915995b6d49f6385_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Bike Network (API)
@@ -38,11 +36,12 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: HTML
   name: Bike Network (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5543867620583086178c4f44/?view_219_sort=field_15|asc
+  url: https://metadata.phila.gov/#home/datasetdetails/5543867620583086178c4f44/representationdetails/55438ac89b989a05172d0d77/
 schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- bicycle network
 time_period: null
 title: Bike Network
 usage: Public Use; Free
