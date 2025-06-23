@@ -15,7 +15,7 @@ resources:
 - description: 'An online app to find recylcing and donation resources near the address you enter.'
   format: HTML
   name: Recycling and Donations Resources Finder App (Application)
-  url:
+  url: https://www.phila.gov/recycling-donation-finder/
 - description: ''
   format: CSV
   name: Recycling and Donations Resources (CSV)
