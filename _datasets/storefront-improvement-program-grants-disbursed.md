@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Economy
 - Real Estate / Land Records
-created: '2015-05-19T20:19:20.668577'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Storefront Improvement Grants (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/28c4de838632495fb90a6c58f266c47b_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/28c4de838632495fb90a6c58f266c47b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Storefront Improvement Grants (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/28c4de838632495fb90a6c58f266c47b_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/28c4de838632495fb90a6c58f266c47b_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Storefront Improvement Grants (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/28c4de838632495fb90a6c58f266c47b_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/28c4de838632495fb90a6c58f266c47b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Storefront Improvement Grants (API)
