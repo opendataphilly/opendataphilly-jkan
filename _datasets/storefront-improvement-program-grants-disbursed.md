@@ -39,6 +39,9 @@ schema: philadelphia
 source: ''
 tags:
 - Commerce Department
+- grants
+- financial assistance
+- small business
 time_period: null
 title: Storefront Improvement Program Grants Disbursed
 usage: null
