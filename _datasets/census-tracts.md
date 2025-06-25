@@ -8,7 +8,6 @@ category:
 - Health / Human Services
 - Planning / Zoning
 - Public Safety
-created: '2015-06-09T19:36:14.934174'
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -26,17 +25,17 @@ resources:
     release, new layers will be added to reflect those boundaries.'
   format: CSV
   name: Census Tracts- 2010 (CSV)
-  url: https://opendata.arcgis.com/datasets/8bc0786524a4486bb3cf0f9862ad0fbf_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/8bc0786524a4486bb3cf0f9862ad0fbf_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: SHP
   name: Census Tracts - 2010 (SHP)
-  url: https://opendata.arcgis.com/datasets/8bc0786524a4486bb3cf0f9862ad0fbf_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/8bc0786524a4486bb3cf0f9862ad0fbf_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: GeoJSON
   name: Census Tracts - 2010 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/8bc0786524a4486bb3cf0f9862ad0fbf_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/8bc0786524a4486bb3cf0f9862ad0fbf_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: API
@@ -51,17 +50,17 @@ resources:
     release, new layers will be added to reflect those boundaries.'
   format: CSV
   name: Census Tracts - 2000 (CSV)
-  url: https://opendata.arcgis.com/datasets/a3c0cee49de447be9fd0d5820f9e930f_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/a3c0cee49de447be9fd0d5820f9e930f_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: SHP
   name: Census Tracts - 2000 (SHP)
-  url: https://opendata.arcgis.com/datasets/a3c0cee49de447be9fd0d5820f9e930f_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/a3c0cee49de447be9fd0d5820f9e930f_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: GeoJSON
   name: Census Tracts - 2000 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/a3c0cee49de447be9fd0d5820f9e930f_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/a3c0cee49de447be9fd0d5820f9e930f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: API
@@ -76,17 +75,17 @@ resources:
     release, new layers will be added to reflect those boundaries.'
   format: CSV
   name: Census Tracts - 1990 (CSV)
-  url: https://opendata.arcgis.com/datasets/ccdc0d022f4949a7b11333bd37231aef_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/ccdc0d022f4949a7b11333bd37231aef_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: SHP
   name: Census Tracts - 1990 (SHP)
-  url: https://opendata.arcgis.com/datasets/ccdc0d022f4949a7b11333bd37231aef_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/ccdc0d022f4949a7b11333bd37231aef_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: GeoJSON
   name: Census Tracts - 1990 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/ccdc0d022f4949a7b11333bd37231aef_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/ccdc0d022f4949a7b11333bd37231aef_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: API
