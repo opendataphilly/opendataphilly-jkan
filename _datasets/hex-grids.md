@@ -3,8 +3,8 @@ area_of_interest: City of Philadelphia
 category:
 - Boundaries
 license: City of Philadelphia License
-maintainer: 
-maintainer_email: 
+maintainer: Philly Stat 360
+maintainer_email: henry.bernberg@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This is the H3 (https://h3geo.org/) hex grid covering Philadelphia. H3 indexes points and shapes into a hexagonal grid.
