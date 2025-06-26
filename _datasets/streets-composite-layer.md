@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Transportation
-created: '2019-11-04T20:11:28.659833'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Streets Composite (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/aa70b3eedd4846f582a95ddf0239dd49_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/aa70b3eedd4846f582a95ddf0239dd49_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Streets Composite (SHP)
-  url: https://opendata.arcgis.com/datasets/aa70b3eedd4846f582a95ddf0239dd49_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/aa70b3eedd4846f582a95ddf0239dd49_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Streets Composite (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/aa70b3eedd4846f582a95ddf0239dd49_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/aa70b3eedd4846f582a95ddf0239dd49_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Streets Composite (API)
