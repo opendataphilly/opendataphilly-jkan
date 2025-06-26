@@ -36,7 +36,7 @@ resources:
 - description: ''
   format: CSV
   name: ZIP Codes - Line (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/b54ec5210cee41c3a884c9086f7af1be_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/ad233733f89242af9a1f9e52d60d1e4e_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: ZIP Codes - Line (SHP)
