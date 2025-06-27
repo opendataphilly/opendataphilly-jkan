@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Environment
 - Health / Human Services
-created: '2015-01-16T16:46:17.148739'
 license: City of Philadelphia License
 maintainer: cleanphl@phila.gov
 maintainer_email: cleanphl@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: Litter Index Blocks Scores 2017 - 2018 (CSV)
-  url: https://opendata.arcgis.com/datasets/04fa63e09b284dbfbde1983eab367319_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/04fa63e09b284dbfbde1983eab367319_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Litter Index Blocks Scores 2017 - 2018 (SHP)
-  url: https://opendata.arcgis.com/datasets/04fa63e09b284dbfbde1983eab367319_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/04fa63e09b284dbfbde1983eab367319_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Litter Index Blocks Scores 2017 - 2018 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/04fa63e09b284dbfbde1983eab367319_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/04fa63e09b284dbfbde1983eab367319_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: "\r\n"
   format: API
   name: Litter Index Blocks Scores 2017 - 2018 (API)
@@ -37,15 +36,15 @@ resources:
 - description: ''
   format: CSV
   name: Litter Index Neighborhood Scores 2017-2018 (CSV)
-  url: https://opendata.arcgis.com/datasets/e1ec1f8db88e455ea301167c2b20d081_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Litter Index Neighborhood Scores 2017-2018 (SHP)
-  url: https://opendata.arcgis.com/datasets/e1ec1f8db88e455ea301167c2b20d081_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Litter Index  Neighborhood Scores 2017-2018 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/e1ec1f8db88e455ea301167c2b20d081_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Litter Index Neighborhood Scores 2017-2018 (API)
@@ -57,15 +56,15 @@ resources:
 - description: ''
   format: CSV
   name: ' Litter Index Surveys 2017-2018 (CSV)'
-  url: https://opendata.arcgis.com/datasets/2a91440bfec64743b620cbde062817b0_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Litter Index Surveys 2017-2018 (SHP)
-  url: https://opendata.arcgis.com/datasets/2a91440bfec64743b620cbde062817b0_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Litter Index Surveys 2017-2018 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/2a91440bfec64743b620cbde062817b0_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Litter Index Surveys 2017-2018 (API)
@@ -78,6 +77,7 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- litter
 time_period: null
 title: Litter Index
 usage: null
