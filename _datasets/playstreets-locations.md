@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Health / Human Services
 - Parks / Recreation
-created: '2020-09-24T18:53:23.511759'
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
@@ -20,15 +19,15 @@ resources:
 - description: ''
   format: CSV
   name: Playstreet Locations (CSV)
-  url: https://opendata.arcgis.com/datasets/8b08befed2df467bb4156b0ae7a11a5e_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/8b08befed2df467bb4156b0ae7a11a5e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Playstreet Locations (SHP)
-  url: https://opendata.arcgis.com/datasets/8b08befed2df467bb4156b0ae7a11a5e_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/8b08befed2df467bb4156b0ae7a11a5e_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Playstreet Locations (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/8b08befed2df467bb4156b0ae7a11a5e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/8b08befed2df467bb4156b0ae7a11a5e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Playstreet Locations (API)
