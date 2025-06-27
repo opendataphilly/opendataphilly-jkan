@@ -4,10 +4,8 @@ category:
 - Boundaries
 - Economy
 - Education
-- Elections / Politics
 - Health / Human Services
 - Planning / Zoning
-- Public Safety
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -100,6 +98,7 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Planning and Development
+- demographics
 time_period: null
 title: Census Tracts
 usage: null
