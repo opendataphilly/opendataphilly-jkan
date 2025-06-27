@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Budget / Finance
 - Economy
-created: '2022-08-26T12:24:44.345925'
 license: City of Philadelphia License
 maintainer: Jerome Lomax
 maintainer_email: jerome.lomax@phila.gov
@@ -21,11 +20,11 @@ resources:
 - description: ''
   format: CSV
   name: Residency Waivers (CSV)
-  url: https://phl.carto.com/api/v2/sql?filename=residency_waiver&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*%20FROM%20residency_waiver
+  url: https://phl.carto.com/api/v2/sql?filename=residency_waiver&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*%20FROM%20hr_residency_waiver
 - description: ''
   format: API
   name: Residency Waivers (API)
-  url: https://cityofphiladelphia.github.io/carto-api-explorer/#residency_waiver&_ga=2.65066478.1515099794.1661192637-1072789116.1634663221
+  url: https://cityofphiladelphia.github.io/carto-api-explorer/#hr_residency_waiver&_ga=2.65066478.1515099794.1661192637-1072789116.1634663221
 - description: ''
   format: HTML
   name: Residency Waivers (Metadata)
