@@ -77,6 +77,7 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- litter
 time_period: null
 title: Litter Index
 usage: null
