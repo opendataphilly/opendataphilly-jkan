@@ -35,15 +35,15 @@ resources:
 - description: ''
   format: CSV
   name: 2023 Philadelphia Tree Inventory (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/bde5dd63e2464c3c94797f83c3076374_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: 2023 Philadelphia Tree Inventory (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/bde5dd63e2464c3c94797f83c3076374_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/bde5dd63e2464c3c94797f83c3076374_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 2023 Philadelphia Tree Inventory (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/bde5dd63e2464c3c94797f83c3076374_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2023 Philadelphia Tree Inventory (API)
@@ -55,15 +55,15 @@ resources:
 - description: ''
   format: CSV
   name: 2022 Philadelphia Tree Inventory (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/5abe042f2927486891c049cf064338cb_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/5abe042f2927486891c049cf064338cb_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: 2022 Philadelphia Tree Inventory (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/5abe042f2927486891c049cf064338cb_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/5abe042f2927486891c049cf064338cb_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 2022 Philadelphia Tree Inventory (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/5abe042f2927486891c049cf064338cb_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/5abe042f2927486891c049cf064338cb_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2022 Philadelphia Tree Inventory (API)
@@ -75,15 +75,15 @@ resources:
 - description: ''
   format: CSV
   name: 2021 Philadelphia Tree Inventory (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: 2021 Philadelphia Tree Inventory (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 2021 Philadelphia Tree Inventory (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=geojson&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2021 Philadelphia Tree Inventory (API)
@@ -94,7 +94,10 @@ resources:
   url: http://metadata.phila.gov/#home/datasetdetails/57a0e1d5aa8882104134830e/representationdetails/57a0e1d6aa88821041348312/
 schema: philadelphia
 source: ''
-tags: [Philadelphia Parks and Recreation]
+tags:
+- Philadelphia Parks and Recreation
+- street trees
+- municipal forest
 time_period: null
 title: Philadelphia Tree Inventory
 usage: null
