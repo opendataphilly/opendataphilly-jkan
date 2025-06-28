@@ -16,7 +16,7 @@ resources:
 - description: 'This data is aggregated city-wide from 2015 to the current available year.'
   format: CSV
   name: City-wide Election Turnout & Registration (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/c768d2802da940c8b631d8e4ef9f403b_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/c768d2802da940c8b631d8e4ef9f403b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'This data is aggregated city-wide from 2015 to the current available year.'
   format: API
   name: Current Citywide Election Turnout & Registration (API)
@@ -28,7 +28,7 @@ resources:
 - description: 'This data is aggregated at the political ward level from 2015 to the current available year.'
   format: CSV
   name: Current Wards Election Turnout & Registration (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/e864188e5aa54aeb9b1406b4e2e2505d_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/e864188e5aa54aeb9b1406b4e2e2505d_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'This data is aggregated at the political ward level from 2015 to the current available year.'
   format: API
   name: Current Wards Election Turnout & Registration (API)
@@ -40,7 +40,7 @@ resources:
 - description: 'This data is aggregated at the political ward level and displays the Top 5 and Bottom 5 political wards by turnout for each election from 2015 to the current available year.'
   format: CSV
   name: Current Wards Rank Election Turnout & Registration (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/51f9f31165464025b399a2f98d0c2f4f_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/51f9f31165464025b399a2f98d0c2f4f_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'This data is aggregated at the political ward level and displays the Top 5 and Bottom 5 political wards by turnout for each election from 2015 to the current available year.'
   format: API
   name: Current Wards Rank Election Turnout & Registration (API)
@@ -52,7 +52,7 @@ resources:
 - description: 'This data is aggregated at the political division (aka precinct) level from 2015 to the current available year.'
   format: CSV
   name: Current Precinct Election Turnout & Registration (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/218a797676f74ee694dc7a49e5360870_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/218a797676f74ee694dc7a49e5360870_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'This data is aggregated at the political division (aka precinct) level from 2015 to the current available year.'
   format: API
   name: Current Precinct Election Turnout & Registration (API)
@@ -89,6 +89,8 @@ schema: philadelphia
 source: ''
 tags:
 - City Commissioners
+- Voter Registration
+- Voter Turnout
 time_period: null
 title: Voter Election Registration and Turnout
 usage: null
