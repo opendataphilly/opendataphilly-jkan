@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Public Safety
 - Real Estate / Land Records
-created: '2015-05-27T17:25:21.594800'
 license: City of Philadelphia License
 maintainer: LIGISTEAM@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
@@ -138,19 +137,11 @@ resources:
 - description: ''
   format: CSV
   name: L&I Violation Definition (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/d9753daaefcb47cebabbfb9f9f344a91_0/downloads/data?format=csv&spatialRefId=4326
-- description: ''
-  format: SHP
-  name: L&I Violation Definition (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/d9753daaefcb47cebabbfb9f9f344a91_0/downloads/data?format=shp&spatialRefId=4326
-- description: ''
-  format: GeoJSON
-  name: L&I Violation Definition (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/d9753daaefcb47cebabbfb9f9f344a91_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/d9753daaefcb47cebabbfb9f9f344a91_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: API
   name: L&I Violation Definition (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/VIOLATION_DEFINITION/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/VIOLATION_DEFINITION/FeatureServer/0/query?where=1%3D1
 - description: ''
   format: HTML
   name: L&I Violation Definition (Metadata)
@@ -158,15 +149,7 @@ resources:
 - description: ''
   format: CSV
   name: L&I Contractor Violations (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/dbc8c4b06d3c40aab87d48a5fcdafc58_0/downloads/data?format=csv&spatialRefId=4326
-- description: ''
-  format: SHP
-  name: L&I Contractor Violations (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/dbc8c4b06d3c40aab87d48a5fcdafc58_0/downloads/data?format=shp&spatialRefId=4326
-- description: ''
-  format: GeoJSON
-  name: L&I Contractor Violations (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/dbc8c4b06d3c40aab87d48a5fcdafc58_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/dbc8c4b06d3c40aab87d48a5fcdafc58_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: API
   name: L&I Contractor Violations (API)
@@ -179,6 +162,9 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Licenses and Inspections
+- code violations
+- contractors
+- dangerous buildings
 time_period: null
 title: Licenses and Inspections Code Violations
 usage: null
