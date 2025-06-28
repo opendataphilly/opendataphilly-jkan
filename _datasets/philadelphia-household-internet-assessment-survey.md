@@ -4,7 +4,6 @@ category:
 - Economy
 - Education
 - Health / Human Services
-created: '2022-09-21T12:26:59.144264'
 license: City of Philadelphia License
 maintainer: Juliet Fink-Yates
 maintainer_email: juliet.fink-yates@phila.gov
@@ -17,7 +16,7 @@ resources:
 - description: ''
   format: CSV
   name: PHL Internet Assessment (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/680b093be7274fc8a2b92756c38499bd_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/680b093be7274fc8a2b92756c38499bd_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: API
   name: PHL Internet Assessment (API)
