@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Education
-created: '2017-06-22T13:16:48.459471'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -18,19 +17,19 @@ resources:
 - description: ''
   format: CSV
   name: Universities and Colleges (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/8ad76bc179cf44bd9b1c23d6f66f57d1_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/8ad76bc179cf44bd9b1c23d6f66f57d1_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Universities and Colleges (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/8ad76bc179cf44bd9b1c23d6f66f57d1_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/8ad76bc179cf44bd9b1c23d6f66f57d1_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: Universities and Colleges (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/8ad76bc179cf44bd9b1c23d6f66f57d1_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: GeoService
   name: Universities and Colleges (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Universities_Colleges/FeatureServer/0/query?outFields=*&where=1%3D1
-- description: ''
-  format: GeoJSON
-  name: Universities and Colleges (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/8ad76bc179cf44bd9b1c23d6f66f57d1_0/downloads/data?format=geojson&spatialRefId=4326
 - description: 'Update Frequency: As needed'
   format: HTML
   name: Universities and Colleges (Metadata)
