@@ -162,6 +162,9 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Licenses and Inspections
+- code violations
+- contractors
+- dangerous buildings
 time_period: null
 title: Licenses and Inspections Code Violations
 usage: null
