@@ -2,6 +2,7 @@
 area_of_interest: City of Philadelphia
 category:
 - Education
+- Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -20,15 +21,15 @@ resources:
 - description: ''
   format: CSV
   name: Schools Parcels (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/78f03f799a8948a3a305f5886dc25d8a_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/78f03f799a8948a3a305f5886dc25d8a_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Schools Parcels (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/78f03f799a8948a3a305f5886dc25d8a_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/78f03f799a8948a3a305f5886dc25d8a_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Schools Parcels (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/78f03f799a8948a3a305f5886dc25d8a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/78f03f799a8948a3a305f5886dc25d8a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Schools Parcels (API)
