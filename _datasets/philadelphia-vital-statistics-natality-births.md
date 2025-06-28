@@ -26,15 +26,15 @@ resources:
 - description: '2011 to current available year '
   format: CSV
   name: Natality by Planning District (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: '2011 to current available year '
   format: SHP
   name: Natality by Planning District (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: '2011 to current available year '
   format: GeoJSON
   name: Natality by Planning District (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=geojson&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: '2011 to current available year '
   format: API
   name: Natality by Planning District (API)
@@ -46,7 +46,7 @@ resources:
 - description: '2011 to current available year '
   format: CSV
   name: Natality Citywide (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/dfda3f89aa3145c1973f995dfd781dd5_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/dfda3f89aa3145c1973f995dfd781dd5_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: "2011 to current available year \r\n"
   format: API
   name: Natality Citywide (API)
