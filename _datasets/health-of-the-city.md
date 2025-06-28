@@ -5,7 +5,6 @@ category:
 - Education
 - Food
 - Health / Human Services
-created: '2023-12-20T14:04:47.073232'
 license: City of Philadelphia License
 maintainer: 'Philadelphia Department of Public Health'
 maintainer_email: 'epi@phila.gov'
@@ -25,7 +24,7 @@ resources:
 - description: ''
   format: CSV
   name: Health of the City (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/f054dcfeefa84ba6a0af90b4325561c3_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/f054dcfeefa84ba6a0af90b4325561c3_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: API
   name: Health of the City (API)
