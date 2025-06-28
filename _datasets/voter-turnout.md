@@ -89,6 +89,8 @@ schema: philadelphia
 source: ''
 tags:
 - City Commissioners
+- Voter Registration
+- Voter Turnout
 time_period: null
 title: Voter Election Registration and Turnout
 usage: null
