@@ -16,15 +16,15 @@ resources:
 - description: 'Update Frequency: Weekly'
   format: CSV
   name: Building Footprints (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/ab9e89e1273f445bb265846c90b38a96_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/ab9e89e1273f445bb265846c90b38a96_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: Weekly'
   format: SHP
   name: Building Footprints (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/ab9e89e1273f445bb265846c90b38a96_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/ab9e89e1273f445bb265846c90b38a96_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: Weekly'
   format: GeoJSON
   name: Building Footprints (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/ab9e89e1273f445bb265846c90b38a96_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/ab9e89e1273f445bb265846c90b38a96_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: Weekly'
   format: API
   name: Building Footprints (API)
