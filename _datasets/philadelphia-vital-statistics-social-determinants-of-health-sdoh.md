@@ -26,15 +26,15 @@ resources:
 - description: Social Determinants of Health (SDOH) from 2010 to the current available year
   format: CSV
   name: SDOH by Planning District (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/b6acfe906bbc421fb23889b9c444b42b_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/b6acfe906bbc421fb23889b9c444b42b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: Social Determinants of Health (SDOH) from 2010 to the current available year
   format: SHP
   name: SDOH by Planning District (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/b6acfe906bbc421fb23889b9c444b42b_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/b6acfe906bbc421fb23889b9c444b42b_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: Social Determinants of Health (SDOH) from 2010 to the current available year
   format: GeoJSON
   name: SDOH by Planning District (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/b6acfe906bbc421fb23889b9c444b42b_0/downloads/data?format=geojson&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/b6acfe906bbc421fb23889b9c444b42b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: Social Determinants of Health (SDOH) from 2010 to the current available year
   format: API
   name: SDOH by Planning District (API)
@@ -46,7 +46,7 @@ resources:
 - description: Social Determinants of Health (SDOH) from 2010 to the current available year
   format: CSV
   name: 'SDOH Citywide (CSV) '
-  url: https://opendata.arcgis.com/api/v3/datasets/3fbec99c5502466495d353fd5eac35c2_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/3fbec99c5502466495d353fd5eac35c2_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: Social Determinants of Health (SDOH) from 2010 to the current available year
   format: API
   name: SDOH Citywide (API)
