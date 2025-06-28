@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Health / Human Services
 - Parks / Recreation
-created: '2020-01-29T21:11:25.970210'
 license: City of Philadelphia License
 maintainer: Andy Viren
 maintainer_email: andy.viren@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: PPR Permittable Space (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/9bb441566e1349debbeb1a3f128eed4c_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/9bb441566e1349debbeb1a3f128eed4c_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: PPR Permittable Space (SHP)
-  url: 	https://opendata.arcgis.com/api/v3/datasets/9bb441566e1349debbeb1a3f128eed4c_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: 	https://hub.arcgis.com/api/v3/datasets/9bb441566e1349debbeb1a3f128eed4c_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PPR Permittable Space (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/9bb441566e1349debbeb1a3f128eed4c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/9bb441566e1349debbeb1a3f128eed4c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PPR Permittable Space (API)
