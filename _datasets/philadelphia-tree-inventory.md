@@ -35,7 +35,7 @@ resources:
 - description: ''
   format: CSV
   name: 2023 Philadelphia Tree Inventory (CSV)
-  url: https://hub.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/bde5dd63e2464c3c94797f83c3076374_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: 2023 Philadelphia Tree Inventory (SHP)
@@ -43,7 +43,8 @@ resources:
 - description: ''
   format: GeoJSON
   name: 2023 Philadelphia Tree Inventory (GeoJSON)
-  url: https://hub.arcgis.com/api/v3/datasets/30ef36e9e880468fa74e2d5b18da4cfb_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: 
+https://hub.arcgis.com/api/v3/datasets/bde5dd63e2464c3c94797f83c3076374_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2023 Philadelphia Tree Inventory (API)
