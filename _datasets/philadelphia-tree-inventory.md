@@ -43,8 +43,7 @@ resources:
 - description: ''
   format: GeoJSON
   name: 2023 Philadelphia Tree Inventory (GeoJSON)
-  url: 
-https://hub.arcgis.com/api/v3/datasets/bde5dd63e2464c3c94797f83c3076374_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/bde5dd63e2464c3c94797f83c3076374_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2023 Philadelphia Tree Inventory (API)
