@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Economy
-- Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
