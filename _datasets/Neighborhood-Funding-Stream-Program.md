@@ -39,7 +39,7 @@ source: ''
 tags:
 - Commerce Department
 - grants
-- manufacturing
+- economic development
 time_period: null
 title: Neighborhood Funding Stream Program
 usage: null
