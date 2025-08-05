@@ -8,10 +8,10 @@ maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "This dataset reflects the businesses that received emergency grant funding through The Merchants Fund Emergency Grant 
+notes: 'This dataset reflects the businesses that received emergency grant funding through The Merchants Fund Emergency Grant 
   Program. The program is administered by The Merchants Fund and funded by the Philadelphia Department of Commerce to support 
   businesses experiencing unexpected emergencies. Grants are designed to help small businesses recover from emergencies, 
-  stabilize their operations, and continue serving their communities."
+  stabilize their operations, and continue serving their communities.'
 modified: null
 organization: City of Philadelphia
 resources:
