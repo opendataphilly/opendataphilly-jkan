@@ -8,11 +8,11 @@ maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "The purpose of this grant program is to support and encourage the growth of manufacturing companies
+notes: 'The purpose of this grant program is to support and encourage the growth of manufacturing companies
   located in Philadelphia and to promote innovation in the industry. The program is open to all eligible
   manufacturing companies in the city. For the purpose of this grant program, the manufacturing industry is
   defined as companies engaged in the production of goods through the use of tools, labor, and machinery.
-  This includes but is not limited to companies producing consumer goods, industrial goods, and medical devices."
+  This includes but is not limited to companies producing consumer goods, industrial goods, and medical devices.'
 modified: null
 organization: City of Philadelphia
 resources:
