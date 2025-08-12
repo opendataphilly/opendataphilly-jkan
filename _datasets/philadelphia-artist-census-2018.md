@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Arts / Culture / History
 created: '2020-05-04T04:56:10.834513'
 license: License Not Specified
 maintainer: Peter Erickson
@@ -13,7 +14,7 @@ notes: In the Summer of 2018, PhillyStewards released the Philly Artist Census f
   assemble this information was and continues to be to clarify myths from truths about
   the greater Philly artist community.  We received over 500 responses from the Philadelphia
   artist community.
-opendataphilly_rating: null
+modified: null
 organization: Philly Stewards
 resources:
 - description: ''
@@ -22,7 +23,8 @@ resources:
   url: https://www.phillystewards.art/s/Philly-Artist-Census-Processed-Data-5_4_19.xlsx
 schema: philadelphia
 source: https://www.phillystewards.art/pac
-tags: []
+tags:
+- artists
 time_period: null
 title: Philadelphia Artist Census 2018
 usage: null

@@ -17,7 +17,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2018-04-30T13:27:10.098614'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: CityGeo
 maintainer_email: maps@phila.gov
 maintainer_link: null
@@ -25,11 +25,11 @@ maintainer_phone: null
 notes: "Explore Philadelphia's most popular open geographic data in one easy to use\
   \ mapping tool. This tool was built by the City's Office of Innovation and Technology's\
   \ CityGeo team."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Application
+  format: HTML
   name: OpenMaps
   url: https://openmaps.phila.gov/
 schema: philadelphia

@@ -14,7 +14,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2019-03-13T21:17:04.722160'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Catherine Lamb
 maintainer_email: catherine.lamb@phila.gov
 maintainer_link: null
@@ -25,11 +25,11 @@ notes: "This dataset includes checks and ACH (direct deposit) payments made by t
   \ to learn more detail about important notes to this data, such as:\r\n\r\n- This\
   \ data cannot be compared with other financial and accounting reports released by\
   \ the City.\r\n- Legal and security-sensitive data has been rolled up to the aggregate\
-  \ dataset.\r\n- This dataset does not include [salary](https://www.opendataphilly.org/dataset/employee-salaries-overtime)\
+  \ dataset.\r\n- This dataset does not include [salary](https://www.opendataphilly.org/datasets/employee-salaries-overtime)\
   \ and benefits data or payments the City makes to fund the operations of the First\
   \ Judicial District.\r\n- Vendors should use the [vendor payment website](https://secure.phila.gov/finance/vendorpayments/),\
   \ not this dataset, to track payments."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: A data visualization of the City of Philadelphia's FY2017 payments.
@@ -57,7 +57,7 @@ resources:
     \ that were removed from the full payments dataset. Please note that due to the\
     \ removed payments, totals from the two datasets will not match.\r\n\r\nPlease\
     \ see metadata for additional considerations."
-  format: api
+  format: API
   name: FY 2017 Detailed City Payments (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#city_payments_fy2017
 - description: ''

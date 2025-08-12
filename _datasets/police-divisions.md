@@ -2,28 +2,27 @@
 area_of_interest: City of Philadelphia
 category:
 - Public Safety
-created: '2014-12-08T22:55:37.589873'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null
 maintainer_phone: 215-686-8287
 notes: "Police division boundaries.  Divisions are aggregations of police districts."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: Police Divisions (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/4333983fd1e1449ca7fc2d63ad7e0076_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/4333983fd1e1449ca7fc2d63ad7e0076_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Police Divisions (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/4333983fd1e1449ca7fc2d63ad7e0076_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/4333983fd1e1449ca7fc2d63ad7e0076_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Police Divisions (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/4333983fd1e1449ca7fc2d63ad7e0076_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/4333983fd1e1449ca7fc2d63ad7e0076_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Police Divisions (API)

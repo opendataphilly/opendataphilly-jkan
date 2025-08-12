@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Parks / Recreation
+- Environment
 created: '2016-12-01T22:09:27.452175'
 license: License Not Specified
 maintainer: ''
@@ -12,7 +14,7 @@ notes: "This is a map of trails in Pennypack Park, Lorimer Park and Pennypack Tr
   \ and collected using common GPS watches (Garmin, Polar, etc) GPX data and verifying\
   \ trails visually using high res aerial imagery to accurately adjust to trails.\r\
   \n"
-opendataphilly_rating: null
+modified: null
 organization: Volunteer
 resources:
 - description: "This is a map of trails in Pennypack Park, Lorimer Park and Pennypack\

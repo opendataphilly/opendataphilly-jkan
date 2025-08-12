@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 created: '2015-10-07T18:24:09.439881'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null
@@ -12,7 +12,7 @@ notes: "This layer represents Green Stormwater Infrastructure Stormwater Managem
   \ Practice types. Integrating Green Stormwater Infrastructure (GSI) into a highly\
   \ developed area such as Philadelphia requires a decentralized and creative approach\
   \ to planning and design.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -28,7 +28,7 @@ resources:
   name: 'Stormwater Management Practice Polygons (GeoJSON) '
   url: https://opendata.arcgis.com/datasets/dd72ac67ed2b4176afdcb60051334c83_0.geojson
 - description: ''
-  format: ''
+  format: API
   name: Stormwater Management Practice Polygons (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/GSI_SMP_TYPES/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -5,8 +5,7 @@ category:
 - Health / Human Services
 - Parks / Recreation
 - Transportation
-created: '2015-04-22T14:43:42.484908'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -14,21 +13,21 @@ maintainer_phone: null
 notes: "Data relating to the Indego BikeShare program, including station locations\
   \ and the number of available bikes. More information about the program is available\
   \ at:\r\nhttps://www.rideindego.com/about/data/"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: API
-  name: Indego Bikeshare Station (API)
-  url: https://api.phila.gov/bike-share-stations/v1
+  format: HTML
+  name: Indego Bikeshare Stations
+  url: https://www.rideindego.com/about/data/
 - description: ''
   format: HTML
-  name: Indego Bikeshare Station (Metadata)
+  name: Indego Bikeshare Stations (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555a509d0ae7565761d9578c/representationdetails/5592d91f57efad1c29b97937/
 schema: philadelphia
 source: ''
 tags:
-- Mayors Office of Transportation and Utilities
+- Office of Transportation and Infrastructure System
 time_period: null
 title: Indego Bike Share Stations
 usage: null

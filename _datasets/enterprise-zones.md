@@ -3,8 +3,8 @@ area_of_interest: City of Philadelphia
 category:
 - Economy
 - Planning / Zoning
-created: '2014-12-08T22:50:30.915944'
-license: Other (City of Philadelphia)
+created: '2012'
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: http://www.philaplanning.org
@@ -16,11 +16,11 @@ notes: "Please note that the enterprise zones expired in the early 2000s, theref
   \ businesses in blighted areas. Blighted areas are defined as meeting one of seven\
   \ city mandated criteria, including unsafe, unsanitary and inadequate conditions;\
   \ economically or socially undesirable land use; and faulty street and lot layout."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: imagery
+  format: SHP
   name: 'Enterprise Zones '
   url: http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=342
 - description: ''

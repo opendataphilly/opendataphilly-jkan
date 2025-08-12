@@ -5,7 +5,7 @@ category:
 - Health / Human Services
 - Public Safety
 created: '2017-09-29T14:10:55.762595'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -16,7 +16,7 @@ notes: "This dataset includes the number of newly identified (incident) children
   \ is for 2015 and the census tract data is for 2013-2015.\r\n\r\nCell counts with\
   \ missing values are those with less than six observations, which was truncated\
   \ to ensure confidentiality. Cells with values of zero were included."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -36,7 +36,7 @@ resources:
   name: Philadelphia Child Blood Lead Levels By Zip Code (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+child_blood_lead_levels_by_zip&filename=child_blood_lead_levels_by_zip&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: Philadelphia Child Blood Lead Levels By Zip Code (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#child_blood_lead_levels_by_zip
 - description: ''
@@ -56,7 +56,7 @@ resources:
   name: Philadelphia Child Blood Lead Levels By Census Tract (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+child_blood_lead_levels_by_ct&filename=child_blood_lead_levels_by_ct&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: Philadelphia Child Blood Lead Levels By Census Tract (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#child_blood_lead_levels_by_ct
 - description: ''

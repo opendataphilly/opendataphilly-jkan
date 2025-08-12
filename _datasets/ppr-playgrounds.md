@@ -1,11 +1,8 @@
 ---
 area_of_interest: null
 category:
-- Health / Human Services
 - Parks / Recreation
-- Real Estate / Land Records
-created: '2020-01-29T20:24:59.915600'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null
@@ -13,21 +10,21 @@ maintainer_phone: null
 notes: Displays the locations of playgrounds within PPR Boundaries. Playgrounds ARE
   designated as similar age range equipment within a definable distance (not each
   piece of equipment).
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: PPR Playgrounds (CSV)
-  url: https://opendata.arcgis.com/datasets/899c807e205244278b3f39421be8489c_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/899c807e205244278b3f39421be8489c_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: PPR Playgrounds (SHP)
-  url: https://opendata.arcgis.com/datasets/899c807e205244278b3f39421be8489c_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/899c807e205244278b3f39421be8489c_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PPR Playgrounds (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/899c807e205244278b3f39421be8489c_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/899c807e205244278b3f39421be8489c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PPR Playgrounds (API)

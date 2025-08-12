@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Education
 created: '2018-05-16T20:57:19.387125'
 license: License Not Specified
 maintainer: ''
@@ -8,7 +9,7 @@ maintainer_email: opendata@philasd.org
 maintainer_link: null
 maintainer_phone: null
 notes: School lists, enrollment, demographics, pre-school, catchments; surveys, reopening
-opendataphilly_rating: null
+modified: null
 organization: School District of Philadelphia
 resources:
 - description: 2001 - 2021
@@ -28,7 +29,7 @@ resources:
   name: Pre-School Information
   url: https://www.philasd.org/performance/programsservices/open-data/school-information/#preschool_information
 - description: ''
-  format: ''
+  format: CSV
   name: Catchment Feeder Schools
   url: https://www.philasd.org/performance/programsservices/open-data/school-information/#catchment_feeder_schools
 - description: SY 2012 - 2020
@@ -63,7 +64,9 @@ resources:
   url: https://www.philasd.org/performance/programsservices/open-data/school-information/#school_selection
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- School District of Philadelphia
+- schools
 time_period: null
 title: School Information
 usage: null

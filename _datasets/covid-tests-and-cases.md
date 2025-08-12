@@ -4,7 +4,7 @@ category:
 - Economy
 - Health / Human Services
 created: '2020-04-24T15:21:21.961405'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: PublicHealthInfo@phila.gov
 maintainer_email: PublicHealthInfo@phila.gov
 maintainer_link: null
@@ -21,7 +21,7 @@ notes: "***As of May 2022, these datasets moved from daily updates to weekly upd
   \ tests by date, zip, and outcome and cases by race, age or sex.  To protect the\
   \ confidentiality of residents, PDPH suppresses the exact data for any categories\
   \ that have less than 6 counts (i.e. of tests or fatalities).\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,7 +33,7 @@ resources:
   name: COVID Tests by Outcome (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_cases_by_outcome
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Tests by Outcome (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5ea725f6890f920015c17af8/representationdetails/5eda5c1bfcec2f0015af6656/
 - description: '**For greatest accuracy, please use the latest dataset for all analysis
@@ -120,7 +120,7 @@ resources:
   name: COVID Cases by Race (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_cases_by_race
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Cases by Race (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5ea725f6890f920015c17af8/representationdetails/5f0db610b084460016abaf14/
 schema: philadelphia

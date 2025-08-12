@@ -4,7 +4,7 @@ category:
 - Environment
 - Health / Human Services
 created: '2019-05-22T17:46:14.482318'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Portia Egan
 maintainer_email: portia.egan@phila.gov
 maintainer_link: null
@@ -13,7 +13,7 @@ notes: "DHCD supports the Energy Coordinating Agency\u2019s (ECA) Neighborhood E
   \ Centers, through which residents can complete applications to seek bill payment\
   \ assistance, learn how to conserve water, gas and electricity, and obtain energy\
   \ counseling."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -38,7 +38,13 @@ resources:
   url: https://metadata.phila.gov/index.html#home/datasetdetails/5cdace7d97ffd6000baedab5/representationdetails/5cdace7f97ffd6000baedab9/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- neighborhoods
+- energy
+- utilities
+- water
+- gas
+- electricity
 time_period: null
 title: Neighborhood Energy Centers
 usage: null

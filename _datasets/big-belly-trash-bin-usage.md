@@ -1,15 +1,16 @@
 ---
 area_of_interest: null
-category: []
+category:
+- Environment
 created: '2015-06-25T17:21:24.464458'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly
   Discussion Group](http://www.phila.gov/data/discuss/)
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -17,7 +18,7 @@ resources:
   name: 2014 Big Belly Trash Bin Usage (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+big_belly_trash_bin_usage&filename=big_belly_trash_bin_usage&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: 2014 Big Belly Trash Bin Usage (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#big_belly_trash_bin_usage
 - description: 'Update Frequency: As Needed'

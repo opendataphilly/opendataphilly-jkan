@@ -1,9 +1,9 @@
 ---
 description: PATCO operates a train service between southern New Jersey and Philadelphia.
-logo: http://www.ridepatco.org/images/header_logo.png
+logo: img/organizations/logo-patco.svg
 schema: default
 tags:
 - gtfs
-- transporation
+- transportation
 title: Port Authority Transit Corporation (PATCO)
 ---

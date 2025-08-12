@@ -3,14 +3,14 @@ area_of_interest: null
 category:
 - Health / Human Services
 created: '2021-01-29T17:24:22.489258'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: This point layer contains the locations of HIV testing sites in the City of
   Philadelphia.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -30,7 +30,7 @@ resources:
   name: HIV Testing Sites (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/HIV_TESTING_SITES/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
-  format: Metadata
+  format: HTML
   name: HIV Testing Sites (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5bdb18d8ebc0c27822442a83/representationdetails/5bdb18d9ebc0c27822442a8a/
 schema: philadelphia

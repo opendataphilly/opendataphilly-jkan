@@ -4,14 +4,14 @@ category:
 - Environment
 - Parks / Recreation
 created: '2014-12-08T22:48:52.339357'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Linear representation of Philadelphia Parks and Recreation (PPR) trails. Not\
   \ designed for networking."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

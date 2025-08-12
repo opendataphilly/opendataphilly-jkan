@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Education
 created: '2018-05-18T19:45:33.567212'
 license: License Not Specified
 maintainer: ''
@@ -9,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: Expenditures, employee information, teacher attendance, teacher demographics,
   budgets, and full-time employees
-opendataphilly_rating: null
+modified: null
 organization: School District of Philadelphia
 resources:
 - description: 2015-2022 budget

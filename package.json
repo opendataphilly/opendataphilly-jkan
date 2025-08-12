@@ -10,11 +10,6 @@
       "engines": {
         "browsers": "defaults"
       }
-    },
-    "legacy": {
-      "engines": {
-        "browsers": "ie 11"
-      }
     }
   },
   "license": "MIT",
@@ -29,9 +24,8 @@
     "process": "^0.11.10"
   },
   "dependencies": {
-    "bootstrap": "^5.0.2",
-    "jquery": "^3.4.1",
-    "jquery-deparam": "^0.5.3",
-    "lodash": "^4.17.11"
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
   }
 }

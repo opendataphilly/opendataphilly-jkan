@@ -5,7 +5,7 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 created: '2018-01-31T15:35:22.145778'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Alex Waldman
 maintainer_email: alex.waldman@phila.gov
 maintainer_link: null
@@ -26,7 +26,7 @@ notes: "The Department of Records (DOR) published data for all documents recorde
   If you are comfortable with APIs, you could also use the API links to access this\
   \ data. You can learn more about how to use the API at [Carto\u2019s SQL API site](https://carto.com/developers/sql-api/)\
   \  and in the [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -171,7 +171,7 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=RTT_SUMMARY&format=shp&skipfields=cartodb_id&q=SELECT
     * FROM RTT_SUMMARY WHERE display_date < '2002-01-01'
 - description: API Documentation for the Full Dataset
-  format: api
+  format: API
   name: Real Estate Transfers (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#RTT_SUMMARY
 - description: ''

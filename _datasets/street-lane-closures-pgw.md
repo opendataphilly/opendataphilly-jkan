@@ -15,16 +15,18 @@ notes: "This is an API for querying street lane closures made by PGW for mainten
   \ closures.  Both methods return data for the Project Number, Address, EUN Number,\
   \ Construction Start/End date, reason for the work, degree of closure, and contact\
   \ information for the responsible party at PGW.\r\n"
-opendataphilly_rating: null
+modified: null
 organization: Philadelphia Gas Works
 resources:
 - description: ''
-  format: api
+  format: API
   name: PGW Street Lane Closure API
   url: https://opendata.pgworks.com/EUN/
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- PGW
+- streets
 time_period: 12/10/2009 - Present
 title: Street Lane Closures - PGW
 usage: No limitations

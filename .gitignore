@@ -7,3 +7,6 @@ node_modules
 _config.ci.yml
 .parcel-cache
 vendor
+linters_logs/
+megalinter-reports/
+*.code-workspace

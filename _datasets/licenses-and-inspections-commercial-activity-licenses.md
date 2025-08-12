@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Economy
 created: '2016-09-22T15:36:26.156628'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
@@ -11,7 +11,7 @@ maintainer_phone: null
 notes: "Commercial Activity Licenses are required by entities doing business in the\
   \ City of Philadelphia. Information includes license number, application date, issuance\
   \ date, applicant information, business entity name and other related information."
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''

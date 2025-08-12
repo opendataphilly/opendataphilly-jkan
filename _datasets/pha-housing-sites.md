@@ -4,7 +4,7 @@ category:
 - Health / Human Services
 - Real Estate / Land Records
 created: '2014-12-08T22:03:35.055765'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: info@pha.phila.gov
 maintainer_link: http://www.pha.phila.gov/contact-us/contact-us.aspx
@@ -14,7 +14,7 @@ notes: 'The Philadelphia Housing Authority Housing Sites application is a map of
   by type of development, number of bedrooms, and units with accessibility features.
   The information for each housing site includes the name, location, an image, and
   a link to a fact sheet with additional details. '
-opendataphilly_rating: null
+modified: null
 organization: Philadelphia Housing Authority
 resources:
 - description: ''

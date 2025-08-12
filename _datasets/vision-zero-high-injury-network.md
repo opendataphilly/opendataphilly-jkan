@@ -6,17 +6,20 @@ category:
 - Planning / Zoning
 - Public Safety
 - Transportation
-created: '2017-10-02T18:07:13.814790'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "This data contains the High Injury Network. It is derived using spatial data\
   \ analysis of crash data for years 2012-2016 from Pennsylvania Department of Transportation."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
+- description: Vision Zero dashboard on reducing traffic deaths. 
+  format: HTML
+  name: Reducing Traffic Deaths (Visualization)
+  url: https://storymaps.arcgis.com/stories/814b1b2ace6f46f7b7e470504ac08b5e
 - description: Visualization and methodology for the 2020 High Injury Network.
   format: HTML
   name: High Injury Network - 2020 (Visualization)
@@ -44,7 +47,7 @@ resources:
   name: High Injury Network - 2020 (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/59d24a6eb267a12113d99ba8/representationdetails/6054eed62a7ca3001b754011/
 - description: ''
-  format: visualization
+  format: HTML
   name: High Injury Network - 2017 (Visualization)
   url: https://cityofphiladelphia.carto.com/u/phl/builder/9f611db9-9184-4b97-81f6-e99edb8f8293/embed
 - description: ''
@@ -60,7 +63,7 @@ resources:
   name: High Injury Network - 2017 (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+high_injury_network_2017&filename=high_injury_network_2017&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: High Injury Network - 2017 (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#high_injury_network_2017
 - description: ''

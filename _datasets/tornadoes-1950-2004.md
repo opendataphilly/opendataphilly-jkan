@@ -2,6 +2,7 @@
 area_of_interest: State of Pennsylvania
 category:
 - Environment
+- Public Safety
 created: '2014-12-08T22:06:06.256161'
 license: License Not Specified
 maintainer: null
@@ -12,7 +13,7 @@ notes: 'Data includes location touchdown points and corresponding dates of Torna
   in Pennsylvania from 1950 to 2004, according to the National Weather Service''s
   Storm Prediction Center (SPC). Data originates from the Severe Thunderstorm Database
   and the National Oceanic and Atmosphere Administration Storm Data publication. '
-opendataphilly_rating: null
+modified: null
 organization: Storm Prediction Center
 resources:
 - description: ''
@@ -29,7 +30,10 @@ resources:
   url: http://www.pasda.psu.edu/pasda/UCI_Metadata/Tornados_Pennsylvania.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- tornadoes
+- emergency management
+- weather
 time_period: 01/01/1950 - 12/31/2004
 title: Tornadoes, 1950-2004
 usage: Public Use; Free

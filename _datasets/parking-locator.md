@@ -16,7 +16,7 @@ notes: 'An online parking facility information and look-up tool developed by the
   and popular destination markers. Clicking on each location-point, yields information
   about different rates, type of facility (garage/lot), total spaces, distance to
   entered destination, and operator name. '
-opendataphilly_rating: '7'
+modified: null
 organization: Philadelphia Parking Authority
 resources:
 - description: ''
@@ -25,7 +25,9 @@ resources:
   url: http://philapark.org/locator/
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- Philadelphia Parking Authority
+- parking
 time_period: null
 title: Parking Locator
 usage: Public Use; Free

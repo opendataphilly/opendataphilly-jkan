@@ -4,14 +4,14 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 created: '2015-09-22T15:39:56.329223'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Table to display street names which have aliased street names associated with\
   \ them."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

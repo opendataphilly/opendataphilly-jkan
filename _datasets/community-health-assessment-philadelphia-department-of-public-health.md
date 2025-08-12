@@ -1,14 +1,11 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category:
-- Economy
-- Education
-- Food
 - Health / Human Services
 created: '2015-10-07T13:29:47.073232'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'epi@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The Community Health Assessment (CHA) is a systematic assessment of population\
@@ -19,15 +16,15 @@ notes: "The Community Health Assessment (CHA) is a systematic assessment of popu
   \ of Public Health publishes an annual report of the analyses, linked to under the\
   \ 'Related' tab. Additionally, they have released an online, interactive version\
   \ of the CHA, known as the Community Health Explorer, to make the data more accessible\
-  \ to a broader audience: http://cityofphiladelphia.github.io/community-health-explorer/\r\n\r\n\r\n"
-opendataphilly_rating: null
+  \ to a broader audience."
+modified: null
 organization: City of Philadelphia
 resources:
-- description: 'Interactive web application to see charts and maps of the community
+- description: 'Interactive web application with charts and maps of the community
     health assessment data for Philadelphia. '
   format: HTML
-  name: Community Health Explorer (Visualization)
-  url: http://cityofphiladelphia.github.io/community-health-explorer/
+  name: Community Health Exporer (Visualization)
+  url: https://healthexplorer.phila.gov/
 - description: ''
   format: CSV
   name: Planning Districts 2017 (CSV)
@@ -47,7 +44,7 @@ resources:
 - description: ''
   format: HTML
   name: Community Health Assessment (Metadata)
-  url: http://metadata.phila.gov/#home/datasetdetails/56142af5210dfc8711e84a7f/
+  url: https://metadata.phila.gov/#home/datasetdetails/56142af5210dfc8711e84a7f/
 schema: philadelphia
 source: ''
 tags:

@@ -3,14 +3,14 @@ area_of_interest: null
 category:
 - Real Estate / Land Records
 created: '2015-01-14T21:19:00.141192'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Dates and locations of when lots were cleaned (removing weeds, debris, etc.)\
   \ through the City of Philadelphia's Community Life Improvement Program."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

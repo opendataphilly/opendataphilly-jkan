@@ -3,14 +3,14 @@ area_of_interest: null
 category:
 - Transportation
 created: '2015-06-02T18:35:01.828590'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: Trouble downloading or have questions about this City dataset? Visit the [OpenDataPhilly
   Discussion Group](http://www.phila.gov/data/discuss/)
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -26,7 +26,7 @@ resources:
   name: Residential Parking Permit Blocks (SHP)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+residential_parking_permit_blocks&filename=residential_parking_permit_blocks&format=shp&skipfields=cartodb_id
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Residential Parking Permit Blocks (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#residential_parking_permit_blocks
 - description: ''

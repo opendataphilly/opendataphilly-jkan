@@ -1,16 +1,13 @@
-FROM ruby:3.1-bullseye
+FROM ruby:3.3-bookworm
 
-ENV NODE_MAJOR_VERSION 18
-
-RUN curl --silent --show-error --location --retry 5 --retry-connrefuse --retry-delay 4 https://deb.nodesource.com/setup_${NODE_MAJOR_VERSION}.x | bash - \
-  && apt-get update \
-  && apt-get install -y --quiet --no-install-recommends \
-  nodejs
+RUN apt-get update \
+ && apt-get install -y --quiet --no-install-recommends \
+ nodejs npm
 
 ENV GEM_HOME=/usr/gem
 ENV PATH="$GEM_HOME/bin/:$PATH" 
 
-RUN gem install bundler -v '2.4.3'
+RUN gem install bundler -v '2.6.3'
 # throw errors if Gemfile has been modified since Gemfile.lock
 RUN bundle config --global frozen 1
 

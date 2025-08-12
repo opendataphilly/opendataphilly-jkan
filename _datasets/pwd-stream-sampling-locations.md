@@ -4,8 +4,7 @@ category:
 - Environment
 - Health / Human Services
 - Public Safety
-created: '2015-10-14T16:40:42.512184'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Raymond Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null
@@ -14,23 +13,23 @@ notes: "Locations where PWD has conducted surface water quality sampling and oth
   \ types of stream assessments. Sampling activities may include water quality grab\
   \ sampling, habitat assessment, and sampling of invertebrates, fish and algae from\
   \ wadeable streams. Not all assessment activities are performed at all sites."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: PWD Stream Sampling Locations (CSV)
-  url: https://opendata.arcgis.com/datasets/b29467adc3294a54b8ba86bd66af13cd_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/b29467adc3294a54b8ba86bd66af13cd_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: PWD Stream Sampling Locations (SHP)
-  url: https://opendata.arcgis.com/datasets/b29467adc3294a54b8ba86bd66af13cd_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/b29467adc3294a54b8ba86bd66af13cd_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PWD Stream Sampling Locations (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/b29467adc3294a54b8ba86bd66af13cd_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/b29467adc3294a54b8ba86bd66af13cd_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: PWD Stream Sampling Locations (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/StreamSamplingLocations/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

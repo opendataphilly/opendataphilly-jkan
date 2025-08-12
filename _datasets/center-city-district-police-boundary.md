@@ -4,7 +4,7 @@ category:
 - Boundaries
 - Public Safety
 created: '2020-09-30T20:47:49.439841'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null
@@ -13,7 +13,7 @@ notes: "The Center City District (CCD) is a business improvement district. The m
   \ is to keep Center City clean, safe, and fun. CCD also makes phyiscal improvements\
   \ to center city by installing and maintain lighting, signs, banners trees and landscape.\
   \ This layer displays their policing boundary.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -1,14 +1,16 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Public Safety
+- Transportation
 created: '2015-08-28T19:32:20.815955'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: OEM
 maintainer_email: oem@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Secure perimeter for the 2015 World Meeting of Families in Philadelphia, PA."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -24,7 +26,7 @@ resources:
   name: WMoF Secure Perimeter (GeoJSON )
   url: https://opendata.arcgis.com/datasets/2225246fa1344b9f8ee34d60cca70962_0.geojson
 - description: ''
-  format: api
+  format: API
   name: WMoF Secure Perimeter (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Secure_Perimeter_WMoF/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -35,6 +37,8 @@ schema: philadelphia
 source: ''
 tags:
 - Office of Emergency Management
+- World Meeting of Families
+- security
 time_period: null
 title: World Meeting of Families Secure Perimeter
 usage: null

@@ -4,14 +4,14 @@ category:
 - Health / Human Services
 - Parks / Recreation
 created: '2019-06-18T15:06:01.708170'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: Displays the locations of tennis courts located within properties maintained
   by Philadelphia Parks and Recreation (PPR).
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

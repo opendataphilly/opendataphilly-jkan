@@ -4,7 +4,7 @@ category:
 - Budget / Finance
 - Economy
 created: '2014-12-08T22:38:54.946558'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: T. David Williams
 maintainer_email: t.david.williams@phila.gov
 maintainer_link: null
@@ -20,7 +20,7 @@ notes: "The entire dataset for Professional Services Contracts by fiscal quarter
   \ a breakdown of contract dollars by vendor, department and service type. It also\
   \ features a \u201Cfrequently asked questions\u201D section to help users understand\
   \ the available data: http://cityofphiladelphia.github.io/contracts/.  "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: '***To download:  click on the dataset url, which will open in a new
@@ -202,12 +202,15 @@ resources:
   name: Professional Services Contracts Metadata
   url: http://metadata.phila.gov/#home/datasetdetails/5543868420583086178c4f7c/
 - description: 'An app to view professional services contracts.  '
-  format: Application
+  format: HTML
   name: Procurement contracts application
   url: http://cityofphiladelphia.github.io/contracts/commodities/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- procurement
+- contracts
+- professional services
 time_period: null
 title: Professional Services Contracts
 usage: null

@@ -6,30 +6,29 @@ category:
 - Environment
 - Food
 - Planning / Zoning
-created: '2015-09-02T19:46:51.028464'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: ligisteam@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Areas where vending is prohibited in the city of Philadelphia.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: Vending Prohbitied Areas (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/ce24c5700c7b4c70bead03181934c573_0/downloads/data?format=csv&spatialRefId=4326
+  name: Vending Prohibited Areas (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/ce24c5700c7b4c70bead03181934c573_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Vending Prohibited Areas (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/ce24c5700c7b4c70bead03181934c573_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/ce24c5700c7b4c70bead03181934c573_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Vending Prohibited Areas (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/ce24c5700c7b4c70bead03181934c573_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/ce24c5700c7b4c70bead03181934c573_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Vending Prohibited Areas (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Vending_Prohibited_Areas/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

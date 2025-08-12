@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Environment
 created: '2014-12-08T22:22:40.010029'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: http://www.phila.gov/water
@@ -13,7 +13,7 @@ notes: "This dataset is a contour data line segments representing the elevation 
   \ Data is typically collected during the month of April. Data Development: Vector\
   \ (line) data representing the elevation of natural and artificial features in the\
   \ project area."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

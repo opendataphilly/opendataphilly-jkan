@@ -2,31 +2,30 @@
 area_of_interest: null
 category:
 - Environment
-created: '2016-04-25T23:23:45.371317'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Point and line geometric features representing planned and completed Green\
   \ Stormwater Infrastructure (GSI).\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: GSI Public Projects - Point (CSV)
-  url: https://opendata.arcgis.com/datasets/3803641418e847a0bf7e28cd124f768e_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/3803641418e847a0bf7e28cd124f768e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: GSI Public Projects - Point (SHP)
-  url: https://opendata.arcgis.com/datasets/3803641418e847a0bf7e28cd124f768e_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/3803641418e847a0bf7e28cd124f768e_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: GSI Public Projects - Point (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/3803641418e847a0bf7e28cd124f768e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/3803641418e847a0bf7e28cd124f768e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: GSI Public Projects - Point (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/GSI_Public_Projects_Point/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -36,15 +35,15 @@ resources:
 - description: ''
   format: CSV
   name: GSI Public Projects - Line (CSV)
-  url: https://opendata.arcgis.com/datasets/fbb666987cd9404a9b74ac7234e73514_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/fbb666987cd9404a9b74ac7234e73514_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: GSI Public Projects - Line (SHP)
-  url: https://opendata.arcgis.com/datasets/fbb666987cd9404a9b74ac7234e73514_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/fbb666987cd9404a9b74ac7234e73514_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: GSI Public Projects - Line (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/fbb666987cd9404a9b74ac7234e73514_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/fbb666987cd9404a9b74ac7234e73514_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: GSI Public Projects - Line (API)

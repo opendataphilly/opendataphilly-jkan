@@ -3,18 +3,18 @@ area_of_interest: City of Philadelphia
 category:
 - Environment
 created: '2014-12-08T22:15:36.513147'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Larry Szarek
 maintainer_email: Larry.Szarek@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This point layer contains all the wastewater and stormwater inlets in Philadelphia\
   \ with latitude and longitude coordinates. \r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Application
+  format: HTML
   name: Map of Water Inlets (Visualization)
   url: https://cityofphiladelphia.carto.com/u/phl/builder/f6b161cf-b680-4dcd-b1f1-6d6472a2d436/embed
 - description: ''

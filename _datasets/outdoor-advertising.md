@@ -1,31 +1,32 @@
 ---
 area_of_interest: null
-category: []
-created: '2016-04-25T22:09:17.756565'
-license: Other (City of Philadelphia)
+category: 
+- Planning / Zoning
+- Environment
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Locational and relevant attribute data pertaining to billboard and outdoor\
   \ advertising locations throughout the City of Philadelphia.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: Outdoor Advertising (CSV)
-  url: https://opendata.arcgis.com/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Outdoor Advertising (SHP)
-  url: https://opendata.arcgis.com/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Outdoor Advertising (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/5eb34bd14d3e4cc996168a1a1c026e0e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Outdoor Advertising (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/LI_OUTDOOR_ADVERTISING/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

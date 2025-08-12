@@ -2,14 +2,15 @@
 area_of_interest: null
 category:
 - Parks / Recreation
+- Education
 created: '2015-05-22T04:58:38.912312'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Philadelphia Parks and Recreation out-of-school time afterschool programs."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -25,7 +26,7 @@ resources:
   name: PPR Out of School Time Programs (GeoJSON)
   url: https://opendata.arcgis.com/datasets/1f5d8108e06d457783538d4b7808c246_0.geojson
 - description: ''
-  format: api
+  format: API
   name: PPR Out of School Time Programs (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/OST_Points_pub/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

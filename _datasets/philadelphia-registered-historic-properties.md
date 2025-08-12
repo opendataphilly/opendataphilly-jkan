@@ -6,7 +6,7 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 created: '2014-12-08T21:51:59.418960'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: http://www.philaplanning.org
@@ -14,8 +14,8 @@ maintainer_phone: null
 notes: "Historic sites listed on the Philadelphia Register. Data was updated by the\
   \ Philadelphia City Planning Commission in July 2017.  The public should confirm\
   \ a property\u2019s historic status by contacting the Historical Commission at 215-686-7660.\r\
-  \n\r\nYou can also download a dataset of the [Historic districts](https://www.opendataphilly.org/dataset/philadelphia-registered-historic-districts)."
-opendataphilly_rating: null
+  \n\r\nYou can also download a dataset of the [Historic districts](https://www.opendataphilly.org/datasets/philadelphia-registered-historic-districts)."
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -31,7 +31,7 @@ resources:
   name: Philadelphia Registered Historic Sites (SHP)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+historic_sites_philreg&filename=historic_sites_philreg&format=shp&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: Philadelphia Registered Historic Sites (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#historic_sites_philreg
 - description: ''

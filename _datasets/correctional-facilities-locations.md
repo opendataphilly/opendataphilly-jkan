@@ -1,15 +1,16 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Public Safety
 created: '2015-06-09T20:24:46.113866'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "These layers illustrate 10 correctional facilities in the City, administered\
   \ by the Philadelphia Prisons System.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -25,7 +26,7 @@ resources:
   name: Correctional Facilities - Points (GeoJSON)
   url: https://opendata.arcgis.com/datasets/955eb7bc845d4b16ade05924fb235cf2_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: 'Correctional Facilities - Points (API) '
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Correctional_Pts/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'
@@ -45,7 +46,7 @@ resources:
   name: Correctional Facilities - Polygons (GeoJSON)
   url: https://opendata.arcgis.com/datasets/f2ed9ba05302412991176013eda47007_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: Correctional Facilities - Polygons (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Correctional_Facilities/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

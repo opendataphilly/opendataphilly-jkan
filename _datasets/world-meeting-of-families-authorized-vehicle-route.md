@@ -1,8 +1,10 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Transportation
+- Public Safety
 created: '2015-09-10T16:10:13.993575'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: OEM
 maintainer_email: oem@phila.gov
 maintainer_link: null
@@ -12,7 +14,7 @@ notes: "This layer highlights the authorized vehicle routes for the 2015 World M
   \ and other mission critical traffic. Regular traffic will not be permitted on the\
   \ routes. Check for updates frequently as information is subject to change. For\
   \ a more detailed description of the event and operations: http://www.phila.gov/informationcenters/pope/."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -28,7 +30,7 @@ resources:
   name: WMoF Authorized Vehicle Route (GeoJSON)
   url: https://opendata.arcgis.com/datasets/c2885f084fd74ecf945faadf666d6a75_0.geojson
 - description: ''
-  format: api
+  format: API
   name: WMoF Authorized Vehicle Route (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Authorized_Vehicle_Route_WMoF/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -39,6 +41,8 @@ schema: philadelphia
 source: ''
 tags:
 - Office of Emergency Management
+- World Meeting of Families
+- emergency
 time_period: null
 title: World Meeting of Families Authorized Vehicle Route
 usage: null

@@ -1,15 +1,16 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Transportation
 created: '2015-09-22T18:27:21.085648'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This layer identifies the active intersection controls for the Street Lighting\
   \ and Traffic Engineering Divisions of the City of Philadelphia Streets Department."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -25,7 +26,7 @@ resources:
   name: Intersection Controls (GeoJSON)
   url: https://opendata.arcgis.com/datasets/cc0e1bfe7a3d4814a0a0329c2650c62e_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Intersection Controls (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Intersection_Controls/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

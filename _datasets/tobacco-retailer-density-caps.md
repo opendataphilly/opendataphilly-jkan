@@ -1,10 +1,11 @@
 ---
 area_of_interest: null
-category: []
-created: '2022-11-28T22:30:28.388509'
-license: Other (City of Philadelphia)
-maintainer: nykesha.johnson@phila.gov
-maintainer_email: nykesha.johnson@phila.gov
+category: 
+- Health / Human Services
+- Planning / Zoning
+license: City of Philadelphia License
+maintainer: epi@phila.gov
+maintainer_email: epi@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Tobacco Retailer Density Caps for each planning district included in the tobacco\
@@ -14,21 +15,21 @@ notes: "Tobacco Retailer Density Caps for each planning district included in the
   \ estimates. For more information visit: [Tobacco Retailing](http://www.phila.gov/health/Commissioner/regulationtobaccoretailing.html).\r\
   \n\r\nVisit the [OpenDataPhilly Discussion Group](http://www.phila.gov/data/discuss/)\r\
   \n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: Tobacco Retailer Density Caps (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/dd85d1bf45cd43d5a02b9b58eed01c02_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/dd85d1bf45cd43d5a02b9b58eed01c02_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Tobacco Retailer Density Caps (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/dd85d1bf45cd43d5a02b9b58eed01c02_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/dd85d1bf45cd43d5a02b9b58eed01c02_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Tobacco Retailer Density Caps (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/dd85d1bf45cd43d5a02b9b58eed01c02_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/dd85d1bf45cd43d5a02b9b58eed01c02_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Tobacco Retailer Density Caps (API)
@@ -40,8 +41,8 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- Tobacco
+- Department of Public Health
+- tobacco
 time_period: null
 title: Tobacco Retailer Density Caps
 usage: null

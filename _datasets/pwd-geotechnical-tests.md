@@ -1,8 +1,10 @@
 ---
 area_of_interest: null
-category: []
-created: '2022-11-28T22:53:18.634544'
-license: Other (City of Philadelphia)
+category: 
+- Environment
+- Planning / Zoning
+- Real Estate / Land Records
+license: City of Philadelphia License
 maintainer: larry.szarek@phila.gov
 maintainer_email: larry.szarek@phila.gov
 maintainer_link: null
@@ -17,21 +19,21 @@ notes: "BACKGROUND - The objective of geotechnical testing is to help determine 
   \ and subsurface lithology results such as depth to bedrock and depth to groundwater\
   \ may be helpful for other users of this layer, but it is important to note that\
   \ these values can vary widely from location to location, even for nearby sites."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: Geotechnical Tests (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Geotechnical Tests (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Geotechnical Tests (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b6fa77c0783d4d6c82697ef8cadcaa09_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Geotechnical Tests (API)
@@ -43,7 +45,8 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Green Stormwater Infrastructure
+- green stormwater infrastructure
+- geotechnical
 - Philadelphia Water Department
 time_period: null
 title: PWD Geotechnical Tests

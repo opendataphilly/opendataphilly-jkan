@@ -13,7 +13,7 @@ notes: Data includes point-locations and names of Municipal Waster Operations, o
   Waste Management Municipal Waste Program. Related subtypes included are composting
   facilities, abandoned landfills, active landfills, and transfer stations.  Originally
   released in 2006.  Updated quarterly.
-opendataphilly_rating: null
+modified: null
 organization: PA Department of Environmental Protection
 resources:
 - description: ''
@@ -30,7 +30,10 @@ resources:
   url: http://www.pasda.psu.edu/pasda/UCI_Metadata/MunicipalWasteOperations2011_04.xml
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- landfills
+- composting
+- recycling
 time_period: null
 title: Municipal Waste Operations
 usage: Public Use; Free

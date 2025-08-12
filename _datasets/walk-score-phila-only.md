@@ -20,7 +20,7 @@ notes: 'An online application, which enables users to view calculated walkabilit
   which measure the convenience/proximity to bikability and public transit opportunities.
   Users can also access walking, biking, and transit score through an API.  More information
   about the Walk Score is available [through Redfin](https://www.redfin.com/how-walk-score-works). '
-opendataphilly_rating: null
+modified: null
 organization: Walk Score
 resources:
 - description: ''
@@ -28,12 +28,16 @@ resources:
   name: Walk Score (Phila. only)
   url: http://www.walkscore.com/PA/Philadelphia
 - description: ''
-  format: api
+  format: API
   name: Walk Score API
   url: http://www.walkscore.com/professional/api.php
 schema: philadelphia
 source: https://www.walkscore.com/about.shtml
-tags: []
+tags: 
+- walkability
+- pedestrian
+- neighborhoods
+- accessibility
 time_period: null
 title: Walk Score (Phila. only)
 usage: Public Use; Free. API requires registration and key. Trial registration allows

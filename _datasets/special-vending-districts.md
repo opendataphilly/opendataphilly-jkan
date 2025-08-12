@@ -7,7 +7,7 @@ category:
 - Food
 - Planning / Zoning
 created: '2015-09-01T17:35:27.182500'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: 'ligisteam@phila.gov '
 maintainer_email: ligisteam@phila.gov
 maintainer_link: null
@@ -15,7 +15,7 @@ maintainer_phone: null
 notes: "Districts with special sidewalk vending rules pursuant to Sections 9-204 (Sidewalk\
   \ Vendors in Center City) and 9-206 (Sidewalk Vendors in Neighborhood Business Districts)\
   \ of The Philadelphia Code.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -31,7 +31,7 @@ resources:
   name: Special Vending Districts (GeoJSON)
   url: https://opendata.arcgis.com/datasets/fc8edb9802c944ed809213b9942e67cf_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Special Vending Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Vending_Special_Districts/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

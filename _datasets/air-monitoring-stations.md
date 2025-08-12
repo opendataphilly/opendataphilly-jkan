@@ -3,14 +3,14 @@ area_of_interest: null
 category:
 - Health / Human Services
 created: '2015-04-24T13:46:27.485493'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Street location and types of pollutants sampled at each PDPH air monitoring\
   \ station."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: "Update frequency: Yearly\r\n"
@@ -26,7 +26,7 @@ resources:
   name: Air Monitoring Stations (GeoJSON)
   url: https://opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.geojson
 - description: "Update frequency: Yearly\r\n\r\n"
-  format: api
+  format: API
   name: Air Monitoring Stations (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Air_Monitoring_Stations/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: "Update frequency: Yearly\r\n"

@@ -6,7 +6,7 @@ category:
 - Health / Human Services
 - Real Estate / Land Records
 created: '2015-12-03T14:42:25.321720'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -18,7 +18,7 @@ notes: "To prevent homeowners from becoming homeless due to foreclosure, the Cit
   \ to foreclosure with City-funded housing counseling, outreach, a hotline and legal\
   \ assistance. Working together, the City and the Court have created and implemented\
   \ a national model.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -26,7 +26,7 @@ resources:
   name: Homes Saved (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+homes_saved&filename=homes_saved&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Homes Saved (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#homes_saved
 - description: Aggregated to census tract

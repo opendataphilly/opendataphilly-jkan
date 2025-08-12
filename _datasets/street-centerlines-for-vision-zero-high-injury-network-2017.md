@@ -4,7 +4,7 @@ category:
 - Public Safety
 - Transportation
 created: '2017-10-02T18:20:34.562755'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -13,7 +13,7 @@ notes: "This dataset contains a modified version of street centerlines used for 
   \ analysis to derive the High Injury Network (HIN). This version has been arrived\
   \ at, using steps described in the methodology for High Injury Network. See the\
   \ Metadata link for an attached PDF describing the methodology.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -33,7 +33,7 @@ resources:
   name: 2017 Street Centerlines for HIN (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+streetcenterline_hin&filename=streetcenterline_hin&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: 2017 Street Centerlines for HIN (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#streetcenterline_hin
 - description: ''

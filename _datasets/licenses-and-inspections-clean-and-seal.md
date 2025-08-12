@@ -1,8 +1,10 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Planning / Zoning
+- Real Estate / Land Records
 created: '2016-09-22T18:07:28.682465'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
@@ -10,7 +12,7 @@ maintainer_phone: null
 notes: "Address, date of abatement, and more for properties that have been cleaned\
   \ and sealed by the L&I Clean & Seal Unit.\r\n\r\n\r\
   \n"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''

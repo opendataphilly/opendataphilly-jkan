@@ -1,8 +1,10 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Transportation
+- Public Safety
 created: '2015-08-19T13:53:00.447412'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: OEM
 maintainer_email: oem@phila.gov
 maintainer_link: null
@@ -10,7 +12,7 @@ maintainer_phone: null
 notes: "Traffic box for the 2015 World Meeting of Families in Philadelphia, PA.  The\
   \ boundaries and bordering streets were released during a press conference at City\
   \ Hall on August 5th, 2015.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -37,6 +39,9 @@ schema: philadelphia
 source: ''
 tags:
 - Office of Emergency Management
+- World Meeting of Families
+- security
+- traffic
 time_period: null
 title: World Meeting of Families Traffic Box
 usage: null

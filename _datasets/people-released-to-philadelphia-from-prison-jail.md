@@ -4,7 +4,7 @@ category:
 - Health / Human Services
 - Public Safety
 created: '2018-03-08T20:43:51.618312'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Aviva Tevah
 maintainer_email: Aviva.Tevah@Phila.gov
 maintainer_link: null
@@ -16,11 +16,11 @@ notes: "This dataset includes people released to Philadelphia from the Philadelp
   \ the year analyzed. The dataset also only includes people released to Philadelphia\
   \ who have been charged with a criminal non-summary type offense in the Philadelphia\
   \ adult criminal justice system."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Annually'
-  format: visualization
+  format: HTML
   name: 2015 Releases (Visualization)
   url: https://data.phila.gov/visualizations/prison-releases/
 - description: 'Update Frequency: Annually'

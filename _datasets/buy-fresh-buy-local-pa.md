@@ -5,9 +5,9 @@ category:
 - Food
 created: '2014-12-08T22:53:45.097684'
 license: License Not Specified
-maintainer: null
+maintainer: Pennsylvania Sustainable Agriculture (PASA)
 maintainer_email: ''
-maintainer_link: http://www.buylocalpa.org/contact
+maintainer_link: https://pasafarming.org/
 maintainer_phone: null
 notes: Buy Fresh, Buy Local is an online application that enables users to access
   locations and information on the network of PA local farmers and locally grown food
@@ -18,16 +18,23 @@ notes: Buy Fresh, Buy Local is an online application that enables users to acces
   a map visualization. The application is maintained by the Pennsylvania Association
   for Sustainable Agriculture. Free registration enables commenting, blogging, uploading
   recipes and other interactive features.
-opendataphilly_rating: '5'
-organization: Buy Fresh Buy Local PA
+modified: null
+organization: Pasa Sustainable Agriculture
 resources:
 - description: Map of locally produced food locations
   format: HTML
-  name: 'Buy Fresh Buy Local PA '
-  url: http://www.buylocalglv.org/local-food-map/
-schema: philadelphia
+  name: 'Buy Fresh Buy Local PA'
+  url: https://buyfreshbuylocal.org/pennsylvania/
+schema: default
 source: null
-tags: []
+tags: 
+- farms
+- farmers markets
+- restaurants
+- wineries
+- breweries
+- retail
+- sustainability
 time_period: null
 title: Buy Fresh, Buy Local PA
 usage: 'Public Use; Free '

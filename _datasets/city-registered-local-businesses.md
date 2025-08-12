@@ -4,7 +4,7 @@ category:
 - Budget / Finance
 - Economy
 created: '2021-05-14T12:44:05.002185'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -13,7 +13,7 @@ notes: "The City of Philadelphia gives preference to certified local businesses 
   \ its Local Business Entity program. This dataset provides a list of currently certified\
   \ local businesses registered with the City of Philadelphia.\r\n\r\nFor more information,\
   \ visit:\r\nhttps://www.phila.gov/departments/procurement-department/local-preference/"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

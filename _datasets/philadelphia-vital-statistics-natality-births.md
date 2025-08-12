@@ -1,53 +1,40 @@
 ---
 area_of_interest: null
 category:
-- Arts / Culture / History
-- Economy
-- Education
-- Elections / Politics
-- Environment
-- Food
 - Health / Human Services
-- Parks / Recreation
-- Planning / Zoning
-- Public Safety
-- Transportation
-created: '2015-06-02T19:29:35.792848'
-license: Other (City of Philadelphia)
-maintainer: publichealthdatalab@phila.gov
-maintainer_email: publichealthdatalab@phila.gov
+license: City of Philadelphia License
+maintainer: Philadelphia Department of Public Health
+maintainer_email: epi@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Vital Statistics tables that contain aggregate metrics on the natality (births)\
   \  of Philadelphia residents. Included in these datasets are natality metrics by\
-  \ planning district or citywide. You can find [mortality (deaths) metrics](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-mortality-deaths),\
-  \ and [social determinants of health metrics](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-social-determinants-of-health-sdoh)\
-  \ at the city and planning district levels of geography as well. [Population metrics](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-population-metrics)\
+  \ planning district or citywide. You can find [mortality (deaths) metrics](https://www.opendataphilly.org/datasets/philadelphia-vital-statistics-mortality-deaths),\
+  \ and [social determinants of health metrics](https://www.opendataphilly.org/datasets/philadelphia-vital-statistics-social-determinants-of-health-sdoh)\
+  \ at the city and planning district levels of geography as well. [Population metrics](https://www.opendataphilly.org/datasets/philadelphia-vital-statistics-population-metrics)\
   \ are provided at the city, planning district, and census tract levels of geography.\
   \ Please refer to the metadata links below for variable definitions and [this technical\
-  \ notes document](https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/624cb0c4782b6a001ebc26f3/kn-asset/142-534-251-6279872beb52cc001e87008f/technicalnotesformetadata5.9.22.pdf)\
+  \ notes document](https://metadata.phila.gov/index.html#home/datasetdetails/61c23fb963d616001ef54695/)\
   \ to access detailed technical notes about the datasets.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
-- description: Interactive maps and charts of vital statistics and trends in natality
-    (births), mortality (deaths), and population for Philadelphia residents between
-    2011 and 2019.
+- description: Interactive maps and charts of vital statistics and trends in natality (births), mortality (deaths), and population for Philadelphia residents.
   format: HTML
   name: PhilaStats Dashboard (Visualization)
   url: https://philadelphiapublichealth.shinyapps.io/philastats/
 - description: '2011 to current available year '
   format: CSV
   name: Natality by Planning District (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: '2011 to current available year '
   format: SHP
   name: Natality by Planning District (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: '2011 to current available year '
   format: GeoJSON
   name: Natality by Planning District (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=geojson&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d37c12521a1f432eb00b5896a19c79b8_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: '2011 to current available year '
   format: API
   name: Natality by Planning District (API)
@@ -59,7 +46,7 @@ resources:
 - description: '2011 to current available year '
   format: CSV
   name: Natality Citywide (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/dfda3f89aa3145c1973f995dfd781dd5_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/dfda3f89aa3145c1973f995dfd781dd5_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: "2011 to current available year \r\n"
   format: API
   name: Natality Citywide (API)

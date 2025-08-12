@@ -4,7 +4,7 @@ category:
 - Planning / Zoning
 - Transportation
 created: '2014-12-08T22:07:56.196014'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -15,7 +15,7 @@ notes: "The Complete Streets Layer combines the Street Types developed by the Ci
   \ developers, planners, engineers and community groups to easily identify their\
   \ street type and associated pedestrian, bicycle and other travel priorities to\
   \ be included during the planning of new streets or large developments."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

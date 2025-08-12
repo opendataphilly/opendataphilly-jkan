@@ -3,8 +3,7 @@ area_of_interest: null
 category:
 - Environment
 - Real Estate / Land Records
-created: '2015-01-21T02:53:15.458779'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: benchmarkinghelp@phila.gov
 maintainer_email: benchmarkinghelp@phila.gov
 maintainer_link: null
@@ -13,15 +12,114 @@ notes: "This dataset contains annual building and performance data for those pro
   \ required to report. Property data is pulled from the Office of Property Assessment.\
   \ Energy and water data is self-reported by building owners using the EPA Portfolio\
   \ Manager tool. This data will be updated annually.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
-- description: Mapping and visualization application developed by the Mayor's Office
-    of Sustainability. The application includes both [city-owned properties](/dataset/city-building-energy-benchmarking
-    "City-owned Properties Energy Usage") and large building data
+- description: Mapping and visualization application developed by the Office
+    of Sustainability. 
   format: HTML
-  name: Energy Benchmarking Visualization and Mapping Application
-  url: http://visualization.phillybuildingbenchmarking.com/
+  name: PHL Building Energy Programs Visualization and Mapping Application
+  url: https://experience.arcgis.com/experience/52c8a3b10e8c465eab723f04dbcb2a4d/page/Buildings/
+- description: ''
+  format: CSV
+  name: 2023 Properties Reported (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/87c5a0361d24449c9ab5e159daa6607c_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2023 Properties Reported (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/87c5a0361d24449c9ab5e159daa6607c_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2023 Properties Reported (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/87c5a0361d24449c9ab5e159daa6607c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: ' 2023 Properties Reported (API)'
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/properties_reported_2023/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2023 Properties Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/673f8b8123af7d02aff55188/
+- description: ''
+  format: CSV
+  name: 2023 Properties Not Reported (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/e1216f27c3a041679fdb44e799ff4fb1_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2023 Properties Not Reported (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/e1216f27c3a041679fdb44e799ff4fb1_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2023 Properties Not Reported (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/e1216f27c3a041679fdb44e799ff4fb1_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: ' 2023 Properties Not Reported (API)'
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/properties_not_reported_2023/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2023 Properties Not Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/673f8d4cccf16f02d4335554/
+- description: ''
+  format: CSV
+  name: 2022 Properties Reported (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/0c68fdcdf8794a848c65f6d868ea6983_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2022 Properties Reported (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/0c68fdcdf8794a848c65f6d868ea6983_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2022 Properties Reported (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/0c68fdcdf8794a848c65f6d868ea6983_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: ' 2022 Properties Reported (API)'
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Properties_Reported_2022/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2022 Properties Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/6657364b4eae4200286abd41/
+- description: ''
+  format: CSV
+  name: 2022 Properties Not Reported (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/7b932ffc5a3043a6a164f11a8ed7562b_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2022 Properties Not Reported (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/7b932ffc5a3043a6a164f11a8ed7562b_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2022 Properties Not Reported (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/7b932ffc5a3043a6a164f11a8ed7562b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: ' 2022 Properties Not Reported (API)'
+  url: 	https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Properties_Not_Reported_2022/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2022 Properties Not Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/66573e0d2a193b0029e38a1c/
+- description: ''
+  format: CSV
+  name: 2021 Properties Reported (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/e274dd8edce34c138f4c9263e316a187_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2021 Properties Reported (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/e274dd8edce34c138f4c9263e316a187_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2021 Properties Reported (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/e274dd8edce34c138f4c9263e316a187_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: ' 2021 Properties Reported (API)'
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Properties_Reported_2021/FeatureServer
+- description: ''
+  format: HTML
+  name: 2021 Properties Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/63e568e5b9520600110c3ead/
 - description: ''
   format: CSV
   name: 2020 Properties Reported (CSV)
@@ -42,6 +140,26 @@ resources:
   format: HTML
   name: 2020 Properties Reported (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/61fc1605b2fcf2001e7e0f28/
+- description: ''
+  format: CSV
+  name: 2021 Properties Not Reported (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/129ce9aed3d143eb8cfb1d9861b31702_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2021 Properties Not Reported (SHP)
+  url: https://opendata.arcgis.com/api/v3/datasets/129ce9aed3d143eb8cfb1d9861b31702_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2021 Properties Not Reported (GeoJSON)
+  url: https://opendata.arcgis.com/api/v3/datasets/129ce9aed3d143eb8cfb1d9861b31702_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: 2021 Properties Not Reported (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Properties_Not_Reported_2021/FeatureServer
+- description: ''
+  format: HTML
+  name: 2021 Properties Not Reported (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865220583086178c4eb2/representationdetails/63e6b2d0a0991b00100bef5f/
 - description: ''
   format: CSV
   name: 2020 Properties Not Reported (CSV)
@@ -315,7 +433,7 @@ resources:
   name: 2013 Properties Reported (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+energy_usage_large_commercial_buildings_reported_2013&filename=energy_usage_large_commercial_buildings_reported_2013&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: 2013 Properties Reported (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#energy_usage_large_commercial_buildings_reported_2013
 - description: ''
@@ -335,7 +453,7 @@ resources:
   name: '2013 Properties Not Reported (GeoJSON) '
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+energy_usage_large_commercial_buildings_not_reported_2013&filename=energy_usage_large_commercial_buildings_not_reported_2013&format=geojson&skipfields=cartodb_id
 - description: ''
-  format: api
+  format: API
   name: 2013 Properties Not Reported (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#energy_usage_large_commercial_buildings_not_reported_2013
 - description: ''

@@ -1,8 +1,9 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Transportation
 created: '2015-01-16T16:57:46.359102'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -21,7 +22,7 @@ notes: "From the Streets Department snow emergency route page\r\n\r\nWhen snow a
   \ emergency routes. The snow emergency routes shapefile/geojson is built by filtering\
   \ the street centerline layer to include only those rows where the seg_id is contained\
   \ in this list."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -37,7 +38,7 @@ resources:
   name: Snow Emergency Routes (GeoJSON)
   url: https://opendata.arcgis.com/datasets/cf149f735ffd4b298b824bf42a1f7cb3_0.geojson
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Snow Emergency Routes (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/SNOW_EMERGENCY_ROUTES/FeatureServer/0/query?where=1%3D1
 - description: ''
@@ -48,6 +49,8 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- snow
+- emergency
 time_period: null
 title: Snow Emergency Routes
 usage: null

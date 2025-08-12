@@ -4,39 +4,38 @@ category:
 - Economy
 - Health / Human Services
 created: '2020-05-05T17:48:08.839201'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: PublicHealthInfo@phila.gov
 maintainer_email: PublicHealthInfo@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "***As of May 2022, these datasets moved from daily updates to weekly updates\
-  \ every Monday.***\r\n\r\n**For greatest accuracy, please use the latest dataset\
+notes: "***As of May 2022, these datasets moved from daily updates to weekly updates.\
+  \ ***\r\n\r\n**For greatest accuracy, please use the latest dataset\
   \ for all analysis and reporting as opposed to any data you downloaded prior to\
   \ September 29, 2020. All datasets now reflect counts from test collection dates\
   \ instead of the previously displayed result dates.  These changes will adjust,\
   \ for example, the count of cases for each day. PDPH has also added 376 confirmed\
   \ COVID-19 cases (positive tests) that were previously missing from the data.**\r\
   \n\r\nDeidentified, aggregate datasets showing COVID deaths by date, zip, race,\
-  \ or age. You can [find COVID cases datasets here](https://www.opendataphilly.org/dataset/covid-cases).\
+  \ or age. You can [find COVID cases datasets here](https://www.opendataphilly.org/datasets/covid-cases).\
   \ To protect the confidentiality of residents, PDPH suppresses the exact data for\
   \ any categories that have less than 6 counts (i.e. of cases or fatalities)."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: COVID Deaths by Date (CSV)
-  url: https://phl.carto.com/api/v2/sql?filename=covid_deaths_by_date&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
-    * FROM covid_deaths_by_date
-- description: ''
+  name: COVID Deaths by Week 03/2020 - Current week (CSV)
+  url: https://opendata.arcgis.com/api/v3/datasets/239350d1b4894f0c979e5cede159628b_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+- description: 
   format: API
-  name: COVID Deaths by Date (API)
-  url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_deaths_by_date
-- description: ''
-  format: Metadata
-  name: COVID Deaths by Date (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/5eb30f63d4c4600016078ab3/
-- description: ''
+  name: COVID Deaths by Week 03/2020 - Current week (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/covid_deaths_by_week/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: 
+  format: HTML
+  name: COVID Deaths by Week 03/2020 - Current week (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/64592eca487f170028f8ed68/
+- description: 
   format: CSV
   name: COVID Deaths by ZIP (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=covid_deaths_by_zip&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
@@ -54,7 +53,7 @@ resources:
   name: COVID Deaths by ZIP (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_deaths_by_zip
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Deaths by ZIP (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/5ed10dae6ab1ff00174a54c9/
 - description: ''
@@ -67,7 +66,7 @@ resources:
   name: COVID Deaths by Race (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_deaths_by_race
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Deaths by Race (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/5efb45f7862e1c001a29864a/
 - description: ''
@@ -80,7 +79,7 @@ resources:
   name: COVID Deaths by Age (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_deaths_by_age
 - description: ''
-  format: Metadata
+  format: HTML
   name: COVID Deaths by Age (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5eb30f62d4c4600016078aad/representationdetails/5ed10dcbfcaa5a001553c1d4?ref=ref%3Dview_280_search%253Dcovid%252520deaths%2526view_280_page%253D1
 schema: philadelphia

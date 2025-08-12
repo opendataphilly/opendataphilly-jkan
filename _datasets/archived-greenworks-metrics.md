@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 created: '2016-11-10T05:47:25.073084'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -19,7 +19,7 @@ notes: "The following datasets are no longer maintained and will not receive fur
   \n*Have access to safe, affordable, and low-carbon transportation.\r\n*Waste less\
   \ and keep our neighborhoods clean.\r\n*Benefit from sustainability education, employment,\
   \ and business opportunities."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -57,7 +57,14 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- environment
+- Greenworks
+- water
+- sustainabilty
+- climate change
+- trees
+- air quality
+- energy
+- SNAP
 time_period: null
 title: 'ARCHIVED: Greenworks Metrics'
 usage: null

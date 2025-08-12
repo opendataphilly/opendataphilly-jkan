@@ -20,6 +20,7 @@ dataset_fields:
   - field_name: license
     label: License
     datajson: license
+    display_template: display/license.html
   - field_name: maintainer
     label: Maintainer
     datajson: contactPoint.fn
@@ -30,8 +31,10 @@ dataset_fields:
     label: Maintainer Link
   - field_name: maintainer_phone
     label: Maintainer Phone
-  - field_name: opendataphilly_rating
-    label: OpenDataPhilly Rating
+  - field_name: modified
+    label: Last Updated
+    datajson: modified
+    display_template: display/date.html
   - field_name: source
     label: Source
   - field_name: time_period

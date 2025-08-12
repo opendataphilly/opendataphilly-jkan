@@ -3,13 +3,13 @@ area_of_interest: null
 category:
 - Health / Human Services
 created: '2014-12-08T22:25:05.490132'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "A list of hospitals and their location in Philadelphia."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

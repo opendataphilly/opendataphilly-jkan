@@ -2,16 +2,19 @@
 area_of_interest: null
 category:
 - Economy
-created: '2022-08-30T17:37:40.434047'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Services and support available to businesses in Philadelphia. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
+- description: ''
+  format: HTML
+  name: Resources for Business Finder (App)
+  url: https://www.phila.gov/commerce/business-resource-finder/
 - description: ''
   format: CSV
   name: Business Support (CSV)
@@ -33,7 +36,7 @@ resources:
 - description: ''
   format: HTML
   name: Business Support (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/63a5df407c825c001258de37/
+  url: https://metadata.phila.gov/#home/datasetdetails/63a5df407c825c001258de37/representationdetails/63a5df407c825c001258de49/
 schema: philadelphia
 source: ''
 tags:

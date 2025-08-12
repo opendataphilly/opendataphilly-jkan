@@ -1,9 +1,10 @@
 ---
 area_of_interest: null
-category: []
-created: '2015-01-16T16:55:08.083099'
-license: Other (City of Philadelphia)
-maintainer: Max Steinbrenne
+category:
+- Environment
+- Health / Human Services
+license: City of Philadelphia License
+maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
@@ -11,7 +12,7 @@ notes: "Rate of recycling per rubbish/recycling district in total tons of recycl
   \ divided by the total tons of rubbish (garbage) collected during the given time\
   \ period, either fiscal year, a fiscal year through a given quarter, or within one\
   \ quarter."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -27,7 +28,7 @@ resources:
   name: Recycling Diversion Rate (GeoJSON)
   url: https://opendata.arcgis.com/datasets/79c1c68097e641208ca7041251a87067_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Recycling Diversion Rate (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Recycling_Diversion_Rate/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

@@ -1,8 +1,8 @@
 ---
 area_of_interest: null
-category: []
-created: '2019-11-04T20:11:28.659833'
-license: Other (City of Philadelphia)
+category:
+- Transportation
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
@@ -12,21 +12,21 @@ notes: The composite layer is an arc layer, consisting of street centerline arcs
   a layer used by many departments to create boundaries. Used for viewing and analysis
   puposes. The composite layer is available for reference purposes only and does not
   represent exact engineering specifications.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: Streets Composite (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/aa70b3eedd4846f582a95ddf0239dd49_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/aa70b3eedd4846f582a95ddf0239dd49_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Streets Composite (SHP)
-  url: https://opendata.arcgis.com/datasets/aa70b3eedd4846f582a95ddf0239dd49_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/aa70b3eedd4846f582a95ddf0239dd49_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Streets Composite (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/aa70b3eedd4846f582a95ddf0239dd49_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/aa70b3eedd4846f582a95ddf0239dd49_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Streets Composite (API)
@@ -38,7 +38,12 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- philadelphia streets department
+- Streets Department
+- railways
+- streets
+- boundaries
+- water
+- hydrography
 time_period: null
 title: Streets Composite Layer
 usage: null

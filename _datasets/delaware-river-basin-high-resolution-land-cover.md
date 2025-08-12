@@ -1,6 +1,8 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Environment
+- Planning / Zoning
 created: '2019-06-22T21:26:59.466035'
 license: License Not Specified
 maintainer: ''
@@ -19,7 +21,7 @@ notes: "High-resolution land cover dataset for the Delaware River Basin develope
   \ over Structures\r\n11 - Tree Canopy over Other Impervious Surfaces\r\n12 - Tree\
   \ Canopy over Roads\r\n\r\nUVM Spatial Analysis Lab request attribution in any publications,\
   \ reports, derivative datasets, etc."
-opendataphilly_rating: null
+modified: null
 organization: University of Vermont Spatial Analysis Lab
 resources:
 - description: One raster dataset for each county that intersects with Delaware River
@@ -33,7 +35,12 @@ resources:
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=3208
 schema: philadelphia
 source: https://www.uvm.edu/rsenr/sal/
-tags: []
+tags: 
+- land cover
+- Delaware River
+- tree canopy
+- vegetatin
+- impervious surface
 time_period: null
 title: Delaware River Basin High-Resolution Land Cover
 usage: null

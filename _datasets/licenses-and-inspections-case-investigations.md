@@ -1,8 +1,10 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Planning / Zoning
+- Real Estate / Land Records
 created: '2016-09-22T16:17:08.376879'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
@@ -14,11 +16,11 @@ notes: "All investigations completed on a property with property maintenance vio
   \ the API links to access this data. You can learn more about how to use the API\
   \ at Carto\u2019s SQL API site and in the Carto guide in the section on making calls\
   \ to the API.**"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: L&I Inspections (Visualization)
   url: https://data.phila.gov/visualizations/li-inspections
 - description: ''

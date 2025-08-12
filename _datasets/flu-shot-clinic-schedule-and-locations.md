@@ -2,8 +2,7 @@
 area_of_interest: null
 category:
 - Health / Human Services
-created: '2014-12-08T22:26:22.755417'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Public Health
 maintainer_email: ''
 maintainer_link: null
@@ -11,23 +10,23 @@ maintainer_phone: 215-685-6458
 notes: "Flu shot clinic schedule and locations for the City of Philadelphia. Locations\
   \ include Philadelphia Department of Public Health District Health Centers, federally\
   \ qualified health centers and community flu clinics.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Annually'
   format: CSV
   name: Flu Shots (CSV)
-  url: https://opendata.arcgis.com/datasets/4914670b28fd45e28aaead7aef1ff0cd_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/4914670b28fd45e28aaead7aef1ff0cd_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: Annually'
   format: SHP
   name: Flu Shots (SHP)
-  url: https://opendata.arcgis.com/datasets/4914670b28fd45e28aaead7aef1ff0cd_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/4914670b28fd45e28aaead7aef1ff0cd_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: Annually'
   format: GeoJSON
   name: Flu Shots (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/4914670b28fd45e28aaead7aef1ff0cd_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/4914670b28fd45e28aaead7aef1ff0cd_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: Annually'
-  format: api
+  format: API
   name: Flu Shots (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Flu_shot/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: Annually'

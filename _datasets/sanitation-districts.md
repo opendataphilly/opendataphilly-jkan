@@ -2,31 +2,31 @@
 area_of_interest: City of Philadelphia
 category:
 - Boundaries
-created: '2014-12-08T22:02:45.194282'
-license: Other (City of Philadelphia)
+- Environment
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: http://www.phila.gov/streets/
 maintainer_phone: 215-686-8287
 notes: "Boundaries of city sanitation districts.  Collection areas are subdivisions\
   \ of districts.  Districts are aggregated up to Sanitation Areas. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: Sanitation Districts - Polygon (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/dce9bf83c9734b45a30a71a636e01e0d_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/dce9bf83c9734b45a30a71a636e01e0d_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Sanitation Districts - Polygon (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/dce9bf83c9734b45a30a71a636e01e0d_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/dce9bf83c9734b45a30a71a636e01e0d_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Sanitation Districts - Polygon (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/dce9bf83c9734b45a30a71a636e01e0d_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/dce9bf83c9734b45a30a71a636e01e0d_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Sanitation Districts - Polygon (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Sanitation_Districts/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -36,17 +36,17 @@ resources:
 - description: ''
   format: CSV
   name: Sanitation Districts - Line (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/d14e73c6bf4b417c8a0cc3fb241e07d2_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d14e73c6bf4b417c8a0cc3fb241e07d2_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Sanitation Districts - Line (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/d14e73c6bf4b417c8a0cc3fb241e07d2_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d14e73c6bf4b417c8a0cc3fb241e07d2_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Sanitation Districts - Line (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/d14e73c6bf4b417c8a0cc3fb241e07d2_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/d14e73c6bf4b417c8a0cc3fb241e07d2_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Sanitation Districts - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Sanitation_Districts_arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

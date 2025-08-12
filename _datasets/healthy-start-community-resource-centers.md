@@ -3,14 +3,14 @@ area_of_interest: null
 category:
 - Health / Human Services
 created: '2015-04-24T13:51:21.670646'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Street location, hours and contact information of PDPH-affiliated HealthyStart\
   \ Community Resource Centers."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -26,7 +26,7 @@ resources:
   name: Healthy Start CRCs (GeoJSON)
   url: https://opendata.arcgis.com/datasets/133a6c3a074843c6ab62b51f31a114a8_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Healthy Start CRCs (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Healthy_Start_CRCs/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

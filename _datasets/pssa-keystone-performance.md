@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Education
 created: '2018-06-08T17:37:22.164681'
 license: License Not Specified
 maintainer: ''
@@ -17,7 +18,7 @@ notes: "\u2022 Actual Performance files: calculated using actual student perform
   \ up the Keystone end-of-course assessments. Results are reported for All Students,\
   \ and are also broken down by Gender, Ethnicity, English Language Learner (ELL)\
   \ status, Special Education (IEP) status, and Economically Disadvantaged status."
-opendataphilly_rating: null
+modified: null
 organization: School District of Philadelphia
 resources:
 - description: ''
@@ -59,7 +60,10 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- education
+- PSSA
+- students
+- science
+- math
 time_period: null
 title: PSSA & Keystone Performance
 usage: null

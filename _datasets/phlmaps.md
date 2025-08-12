@@ -17,7 +17,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2018-04-30T16:07:10.734070'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: CityGeo
 maintainer_email: maps@phila.gov
 maintainer_link: null
@@ -26,7 +26,7 @@ notes: "The City of Philadelphia's ArcGIS Online organization that hosts referen
   \ to open data releases as feature services and AGO map applications shared with\
   \ the public.  Maintained by the City's Office of Innovation and Technology's CityGeo\
   \ team."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

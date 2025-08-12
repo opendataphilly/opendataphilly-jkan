@@ -1,17 +1,18 @@
-# JKAN 
+# OpenDataPhilly
+
+[OpenDataPhilly](https://opendataphilly.org/) is a regional open data catalog, providing a repository for information about open data available from the City of Philadelphia, non-profit organizations, university research projects, and other publishers of open data about the region.
+While most open data catalogs are maintained by a single government entity, we believe that a diverse array of open data is more useful to the community than many repositories with discrete collections. Up to this point, ODP has relied on pro bono support from single organizations (Azavea and Element 84); in the long run, we seek to grow the project's community of contributors in order to improve its resilience and sustainability, while still maintaining its regional character.
+
+
+## [JKAN](https://github.com/timwis/jkan)
 A lightweight, backend-free open data portal, powered by Jekyll
 
-Open-source data portals can be really hard to install and maintain. But their
-basic purpose of providing links to download data really isn't that complicated. JKAN is a proof-of-concept
-that allows a small, resource-strapped government agency to stand-up an open data portal by simply
-[clicking the fork button](https://help.github.com/articles/fork-a-repo/).
+## How to Contribute
+- Join our [Element](https://matrix.to/#/#opendataphilly:matrix.org)!
+- Take a look at our [issues](https://github.com/azavea/opendataphilly-jkan/issues) to get started. Additionally there are [good first issues](https://github.com/azavea/opendataphilly-jkan/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) for newcomers to get acquainted with the codebase.
+- Workflows for forking repository and creating pull requests:
+    - [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)
+    - [Create a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
-[Demo site](https://demo.jkan.io)
+## [How to Build](docs/running-locally.md)
 
-## Documentation
-* [Installation](docs/installation.md)
-* [Upgrading](docs/upgrading.md)
-* [Schema customization](docs/schema-customization.md)
-* [Running locally](docs/running-locally.md)
-* [Adding and editing content](docs/content.md)
-* [Architecture](docs/architecture.md)

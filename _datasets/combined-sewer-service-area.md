@@ -4,7 +4,7 @@ category:
 - Environment
 - Real Estate / Land Records
 created: '2014-12-08T22:40:36.589956'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null
@@ -15,7 +15,7 @@ notes: "This layer is dissolved and queried from PWD's internal sewer shed featu
   \ models. Data DevelopmentBase Modelsheds are maintained regularly and delineate\
   \ waste water and stormwater and combined sewer catchments in Philadelphia. Storm\
   \ water and waste water pipe flow are analyzed to delineate the shed boundaries."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: As Needed'
@@ -31,7 +31,7 @@ resources:
   name: Combined Sewer Service Area (GeoJSON)
   url: https://opendata.arcgis.com/datasets/18bfad528ccf4f7b9ec0d7f03a9a786f_0.geojson
 - description: 'Update Frequency: As Needed'
-  format: api
+  format: API
   name: Combined Sewer Service Area (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Combined_Sewer_Service_Area/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: As Needed'

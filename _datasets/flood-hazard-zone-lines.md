@@ -15,7 +15,7 @@ notes: 'Data developed by the Federal Emergency Management Agency (FEMA) with in
   digital maps and attribute data.  Risk classifications used in the data are: 1%
   annual-chance flood event; 0.2% annual-chance flood event; and areas of minimal
   flood risk. '
-opendataphilly_rating: null
+modified: null
 organization: Federal Insurance and Mitigation Administration (FEMA)
 resources:
 - description: ''
@@ -40,7 +40,13 @@ resources:
   url: https://www.pasda.psu.edu/download/fema/FEMA_NFHL_420757_Philadelphia_County_20190926.zip
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- FEMA
+- flooding
+- elevation
+- flood insurance
+- emergencies
+- hazards
 time_period: 06/02/2005
 title: Flood Hazard Zone Lines
 usage: Public Use; Free

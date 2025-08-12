@@ -6,14 +6,14 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2015-09-01T16:02:19.223971'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "Polygon description of use rights for ingress/egress, driveways, alleyways,\
   \ utilities, drainage and subsurface areas."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -29,7 +29,7 @@ resources:
   name: DOR Easement (GeoJSON)
   url: https://opendata.arcgis.com/datasets/cd0d4e03737f4f4a81833f87e0c2f66d_0.geojson
 - description: ''
-  format: api
+  format: API
   name: DOR Easement (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/DOR_Easement/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

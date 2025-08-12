@@ -5,7 +5,7 @@ category:
 - Public Safety
 - Real Estate / Land Records
 created: '2016-09-22T14:01:30.276425'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
@@ -19,7 +19,7 @@ notes: "The Department of Licenses and Inspections accepts applications for appe
   \ could have multiple appeal types, so those are provided as a dataset below as\
   \ well. \r\n\r\nThe Board Decisions datasets shows the decisions made by the Appeal\
   \ Boards (LIRB, ZBA, BBS).\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

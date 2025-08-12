@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Arts / Culture / History
+- Economy
 created: '2014-12-08T22:10:26.021897'
 license: License Not Specified
 maintainer: null
@@ -12,11 +13,11 @@ notes: WeWorkInPhilly is a community-edited guide to the People, Companies, Grou
   Projects, Products, and Resources that make up the creative, technology, and business
   community in Philadelphia.  The project, launched in July 2011 as a joint effort
   across the local tech community, is "owned by none and supported by all."
-opendataphilly_rating: null
+modified: null
 organization: WeWorkInPhilly
 resources:
 - description: ''
-  format: api
+  format: API
   name: JSON API
   url: https://github.com/alexknowshtml/We-Work-In-Philly/wiki#api
 - description: ''
@@ -25,7 +26,10 @@ resources:
   url: https://github.com/alexknowshtml/We-Work-In-Philly/wiki
 schema: philadelphia
 source: null
-tags: []
+tags: 
+- technology
+- companies
+- business
 time_period: null
 title: WeWorkInPhilly
 usage: Free; Public Use;

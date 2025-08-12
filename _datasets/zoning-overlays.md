@@ -2,29 +2,28 @@
 area_of_interest: null
 category:
 - Planning / Zoning
-created: '2015-08-19T14:41:17.540141'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Boundaries of the City of Philadelphia Zoning Overlay Districts enacted December\
   \ 15, 2011 and made effective August 22, 2012."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: Zoning Overlays (CSV)
-  url: https://opendata.arcgis.com/datasets/04fd29a8c022471994900cb0fd791bfc_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/04fd29a8c022471994900cb0fd791bfc_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Zoning Overlays (SHP)
-  url: https://opendata.arcgis.com/datasets/04fd29a8c022471994900cb0fd791bfc_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/04fd29a8c022471994900cb0fd791bfc_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Zoning Overlays (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/04fd29a8c022471994900cb0fd791bfc_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/04fd29a8c022471994900cb0fd791bfc_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Zoning Overlays (API)

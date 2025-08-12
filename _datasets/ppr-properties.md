@@ -4,29 +4,28 @@ category:
 - Parks / Recreation
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2020-01-29T20:30:49.330744'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: Locations and boundaries for properties that Philadelphia Parks and Recreation
   (PPR) has responsibility for or has a distinct role in the maintenance or management.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: PPR Properties (CSV)
-  url: https://opendata.arcgis.com/datasets/d52445160ab14380a673e5849203eb64_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/d52445160ab14380a673e5849203eb64_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: PPR Properties (SHP)
-  url: https://opendata.arcgis.com/datasets/d52445160ab14380a673e5849203eb64_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/d52445160ab14380a673e5849203eb64_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PPR Properties (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/d52445160ab14380a673e5849203eb64_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/d52445160ab14380a673e5849203eb64_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PPR Properties (API)

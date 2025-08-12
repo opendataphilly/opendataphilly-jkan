@@ -6,7 +6,7 @@ category:
 - Food
 - Planning / Zoning
 created: '2015-01-21T03:56:30.894181'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: ligisteam@phila.gov
 maintainer_link: null
@@ -15,7 +15,7 @@ notes: Streets where vending is prohibited.  Used citywide as base layer for man
   purposes/applications. The street centerline is available for reference purposes
   only and does not represent exact engineering specifications. The Philadelphia Streets
   Department makes no guarantees as to the accuracy of the layer.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

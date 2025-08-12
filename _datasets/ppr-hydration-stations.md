@@ -1,15 +1,16 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Parks / Recreation
 created: '2019-04-05T18:39:30.196007'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: Locations of hydration station and water fountains on or near Philadelphia
   Parks and Recreation (PPR) assets.
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

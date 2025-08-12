@@ -4,7 +4,7 @@ category:
 - Boundaries
 - Health / Human Services
 created: '2014-12-08T22:04:14.942294'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Brian Ivey
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: http://www.phila.gov/mdo/phillyrising
@@ -12,7 +12,7 @@ maintainer_phone: null
 notes: "The boundaries of the four designated pilot areas included in the Philly Rising\
   \ program. Philly Rising focuses on areas with chronic quality of life concerns\
   \ and works with residents and community groups to address neighborhood issues."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

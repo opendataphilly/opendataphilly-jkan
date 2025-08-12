@@ -5,7 +5,7 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 created: '2016-09-22T21:14:38.869844'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
@@ -18,7 +18,7 @@ notes: "Information regarding applications for licenses required by the City to 
   \ includes license application type, applicant, property for which the license would\
   \ be issued, application date, issue date, and expiration date. Data is accurate;\
   \ however, it may be misinterpreted by an unfamiliar user.\r\n\r\n"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''

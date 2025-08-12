@@ -4,7 +4,7 @@ category:
 - Environment
 - Real Estate / Land Records
 created: '2014-12-08T22:54:44.588037'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Brian Ivey
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: http://www.phila.gov/water/
@@ -12,7 +12,7 @@ maintainer_phone: 215-686-8287
 notes: "This is one of the planimetric coverages developed as part of the aerial survey\
   \ project of 1996 and updated using new aerial photography collected between 25\
   \ March 2004 and 23 April 2004."
-opendataphilly_rating: '2'
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

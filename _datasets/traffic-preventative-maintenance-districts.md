@@ -6,7 +6,7 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2015-06-09T05:19:35.311377'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
 maintainer_link: null
@@ -21,7 +21,7 @@ notes: "This layer was developed to aid the Traffic Division in planning, organi
   \ labeling the polygon borders.  Contact the Streets GIS unit for public consumption\
   \ of the corresponding arc layer.\r\
   \n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -37,7 +37,7 @@ resources:
   name: Traffic PM Districts (GeoJSON)
   url: https://opendata.arcgis.com/datasets/11c2040839a945cf8e3baaa7db35029f_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Traffic PM Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Traf_PM_Dist/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

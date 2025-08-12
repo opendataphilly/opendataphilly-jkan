@@ -9,14 +9,14 @@ category:
 - Planning / Zoning
 - Public Safety
 created: '2022-05-03T18:27:22.197394'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "The latest air quality sensor readings managed by the Air Management Systems\
   \ (AMS) division of the Philadelphia Department of Public Health (PDPH)"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Elections / Politics
 created: '2014-12-08T22:51:34.264504'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: bryan.mchale@phila.gov
 maintainer_email: bryan.mchale@phila.gov
 maintainer_link: http://www.phila.gov/records/campaignfinance/CampaignFinance.html
@@ -17,9 +17,13 @@ notes: "Campaign finance reports from 2019 to the present: The tables below show
   \ to understand how we compiled the data and dashboard. \r\n\r\nIf you want to use\
   \ the raw, unfiltered data, please visit the [searchable database](https://apps.phila.gov/search/all).\
   \ Filers can submit reports on via the [campaign finance filing system](https://apps.phila.gov/auth)."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
+- description: ''
+  format: CSV
+  name: CF All Transactions - 2023 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_transactions+WHERE+report_year=2023&filename=campfin_transactions&format=csv&skipfields=cartodb_id
 - description: ''
   format: CSV
   name: CF All Transactions - 2022 (CSV)
@@ -50,6 +54,10 @@ resources:
   url: https://metadata.phila.gov/#home/datasetdetails/5543867c20583086178c4f5f/representationdetails/56953da1bef6fe3a62c82303/
 - description: ''
   format: CSV
+  name: CF Contributions - 2023 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_contributions+WHERE+report_year=2023&filename=campfin_contributions&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
   name: CF Contributions - 2022 (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_contributions+WHERE+report_year=2022&filename=campfin_contributions&format=csv&skipfields=cartodb_id
 - description: ''
@@ -78,6 +86,10 @@ resources:
   url: https://metadata.phila.gov/#home/datasetdetails/5543867c20583086178c4f5f/representationdetails/56953da1bef6fe3a62c82303/
 - description: ''
   format: CSV
+  name: CF Expenditures - 2023 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_expenditures+WHERE+report_year=2023&filename=campfin_expenditures&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
   name: CF Expenditures - 2022 (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_expenditures+WHERE+report_year=2022&filename=campfin_expenditures&format=csv&skipfields=cartodb_id
 - description: ''
@@ -94,7 +106,7 @@ resources:
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_expenditures+WHERE+report_year=2019&filename=campfin_expenditures&format=csv&skipfields=cartodb_id
 - description: ''
   format: GeoJSON
-  name: CF Expenditures (GeoJSON)
+  name: CF Expenditures to present (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_expenditures&filename=campfin_expenditures&format=geojson&skipfields=cartodb_id
 - description: ''
   format: API
@@ -104,6 +116,10 @@ resources:
   format: HTML
   name: CF Expenditures (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867c20583086178c4f5f/representationdetails/63d19442db0c200012bf20c8/
+- description: ''
+  format: CSV
+  name: CF Unpaid debts - 2023 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_unpaid_debts+WHERE+report_year=2023&filename=campfin_unpaid_debts&format=csv&skipfields=cartodb_id
 - description: ''
   format: CSV
   name: CF Unpaid debts - 2022 (CSV)

@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Transportation
 created: '2015-05-19T17:28:13.384290'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -13,11 +13,11 @@ notes: "**Please note that this is a very large dataset. To see all violations, 
   \ can also use the API links to access this data. You can learn more about how to\
   \ use the API at Carto\u2019s SQL API site and in the Carto guide in the section\
   \ on making calls to the API.**"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: Parking Violations (Visualization)
   url: https://data.phila.gov/visualizations/parking-violations
 - description: ''
@@ -175,7 +175,7 @@ resources:
     * FROM parking_violations WHERE issue_datetime >= '2012-01-01' AND issue_datetime
     < '2012-07-01'
 - description: API Documentation for the full dataset
-  format: API Documentation
+  format: HTML
   name: Parking Violations (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#parking_violations
 - description: ''

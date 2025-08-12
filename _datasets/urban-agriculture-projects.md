@@ -5,14 +5,14 @@ category:
 - Food
 - Parks / Recreation
 created: '2021-11-17T14:32:56.641423'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Urban agriculture projects located within Philadelphia Parks and Recreation\
   \ sites."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

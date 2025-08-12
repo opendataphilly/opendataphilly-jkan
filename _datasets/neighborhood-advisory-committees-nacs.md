@@ -4,7 +4,7 @@ category:
 - Arts / Culture / History
 - Health / Human Services
 created: '2015-11-30T20:33:33.224755'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Portia Egan
 maintainer_email: portia.egan@phila.gov
 maintainer_link: null
@@ -12,7 +12,7 @@ maintainer_phone: null
 notes: "DHCD\u2019s Neighborhood Advisory Committee (NAC) Program offers community-based\
   \ non-profit organizations the opportunity to lead and engage neighborhood residents\
   \ in activities that support the City\u2019s core objectives.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -48,7 +48,7 @@ resources:
   name: NAC Service Areas (GeoJSON)
   url: https://opendata.arcgis.com/datasets/d6e9e21e6c844fa5a94e928b39f02352_0.geojson
 - description: ''
-  format: api
+  format: API
   name: NAC Service Areas (GeoService)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/NeighborhoodAdvisoryCommittees/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

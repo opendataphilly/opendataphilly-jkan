@@ -11,7 +11,7 @@ maintainer_phone: null
 notes: The data on crime occurring in Philadelphia County is from the Philadelphia
   Police Department. The Philadelphia Inquirer has organized the data into a maps
   and charts. The data can be searched by year and neighborhood.
-opendataphilly_rating: null
+modified: null
 organization: The Philadelphia Inquirer
 resources:
 - description: Interactive map and charts of homicides 1988 - 2017
@@ -25,7 +25,9 @@ resources:
   url: http://data.philly.com/philly/crime/shootings/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- crime
+- neighborhoods
 time_period: null
 title: Crime Visualizations in Philadelphia County
 usage: Public Use; Free

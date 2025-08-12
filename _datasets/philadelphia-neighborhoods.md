@@ -1,45 +1,42 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category:
-- Boundaries
 - Planning / Zoning
-created: '2014-12-08T22:11:54.214362'
-license: License Not Specified
-maintainer: ''
-maintainer_email: info@azavea.com
-maintainer_link: https://www.azavea.com/contact-us/
-maintainer_phone: 215-925-2600
-notes: This dataset includes neighborhood boundaries for 157 neighborhoods in Philadelphia.
-  It was created and maintained by Azavea, Inc.
-opendataphilly_rating: null
-organization: Azavea
+- Real Estate / Land Records
+created: '2014-12-08'
+license: Creative Commons 4.0
+maintainer: 'Robert Cheetham'
+maintainer_email: info@opendataphilly.org
+maintainer_link: null
+maintainer_phone: null
+notes: 'This dataset includes neighborhood boundaries for 150+ neighborhoods in Philadelphia.
+  The data was gathered from a mix of publicly available maps, including from the City of Philadelphia,
+  the City Archives, the Philadelphia Inquirer, and user feedback.'
+modified: null
+organization: OpenDataPhilly
 resources:
 - description: ''
   format: SHP
-  name: Neighborhoods Shapefile
-  url: https://github.com/azavea/geo-data
+  name: Philadelphia Neighborhoods Shapefile
+  url: https://github.com/opendataphilly/open-geo-data/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.zip
 - description: ''
-  format: SHP
-  name: Neighborhoods Shapefile (Zipped)
-  url: https://github.com/azavea/geo-data/raw/master/Neighborhoods_Philadelphia/Neighborhoods_Philadelphia.zip
+  format: GeoJSON
+  name: Philadelphia Neighborhoods GeoJSON
+  url: https://github.com/opendataphilly/open-geo-data/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.geojson
 - description: ''
-  format: HTML
-  name: Neighborhoods CartoDB Map
-  url: http://cdb.io/YEoD17
+  format: GeoJSON
+  name: Philadelphia Neighborhoods GeoPackage
+  url: https://github.com/opendataphilly/open-geo-data/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.gpkg
 - description: ''
-  format: HTML
-  name: Neighborhoods ArcGIS Online Map
-  url: http://www.arcgis.com/home/webmap/viewer.html?webmap=c5228ad5fe7a4575a1883f0891afe61a&extent=-75.5019,39.8513,-74.7363,40.1538
-- description: ''
-  format: api
-  name: Neighborhoods ArcGIS REST API
-  url: http://services.arcgis.com/rkitYk91zieQFZov/arcgis/rest/services/Philadelphia_Neighborhoods/FeatureServer
+  format: GeoParquet
+  name: Philadelphia Neighborhoods GeoParquet
+  url: https://github.com/opendataphilly/open-geo-data/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.parquet
 schema: philadelphia
-source: ''
-tags: []
-time_period: null
+source: 'Robert Cheetham'
+tags: 
+ - neighborhoods
+time_period: 1997 - 2024
 title: Philadelphia Neighborhoods
-usage: This file is released under the Creative Commons 3.0 license. Please refer
-  to http://creativecommons.org/licenses/by/3.0/us/ and attribute the data to Azavea
-  Inc.
+usage: This file is released under the Creative Commons 4.0 license. Please refer
+  to https://creativecommons.org/licenses/by/4.0/ and attribute the data to Robert Cheetham
 ---

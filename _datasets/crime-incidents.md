@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Public Safety
 created: '2016-04-21T22:27:16.878591'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null
@@ -16,13 +16,25 @@ notes: "Crime incidents from the Philadelphia Police Department. Part I crimes i
   \ you can also use the API links to access this data. You can learn more about how\
   \ to use the API at Carto\u2019s SQL API site and in the Carto guide in the section\
   \ on making calls to the API.**"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
+- description: 'An online appication that displays summary statistics and enables mapping of recent incidents within a radius of an address.'
+  format: HTML
+  name: Crime Maps and Stats Application
+  url: https://www.phillypolice.com/crimestats
 - description: ''
   format: HTML
   name: Crime Incidents (Visualization)
   url: https://data.phila.gov/visualizations/crime-incidents
+- description: ''
+  format: CSV
+  name: Crime Incidents from 2025 (CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272025-01-01%27%20AND%20dispatch_date_time%20%3C%20%272026-01-01%27
+- description: ''
+  format: CSV
+  name: Crime Incidents from 2024 (CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272024-01-01%27%20AND%20dispatch_date_time%20%3C%20%272025-01-01%27
 - description: ''
   format: CSV
   name: Crime Incidents from 2023 (CSV)
@@ -123,6 +135,14 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
     * , ST_Y(the_geom) AS lat, ST_X(the_geom) AS lng FROM incidents_part1_part2 WHERE
     dispatch_date_time >= '2006-01-01' AND dispatch_date_time < '2007-01-01'
+- description: ''
+  format: SHP
+  name: Crime Incidents from 2025 (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=shp&skipfields=cartodb_id&q=SELECT%20*%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272025-01-01%27%20AND%20dispatch_date_time%20%3C%20%272026-01-01%27
+- description: ''
+  format: SHP
+  name: Crime Incidents from 2024 (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=shp&skipfields=cartodb_id&q=SELECT%20*%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272024-01-01%27%20AND%20dispatch_date_time%20%3C%20%272025-01-01%27
 - description: ''
   format: SHP
   name: Crime Incidents from 2023 (SHP)
@@ -226,7 +246,7 @@ resources:
     * FROM incidents_part1_part2 WHERE dispatch_date_time >= '2006-01-01' AND dispatch_date_time
     < '2007-01-01'
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Crime Incidents - Full Dataset (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#incidents_part1_part2
 - description: 2006 - Present

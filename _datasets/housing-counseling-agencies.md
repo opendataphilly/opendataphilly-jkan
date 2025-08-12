@@ -5,7 +5,7 @@ category:
 - Health / Human Services
 - Real Estate / Land Records
 created: '2015-11-30T20:19:08.655631'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -15,7 +15,7 @@ notes: "OHCD has long supported neighborhood-based and citywide organizations of
   \ provided by these agencies include mortgage counseling, default and delinquency\
   \ counseling, tenant support and housing consumer education. Through these services\
   \ prospective homeowners can avoid predatory loans, a significant cause of foreclosure."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -35,7 +35,7 @@ resources:
   name: Housing Counseling Agencies (GeoJSON)
   url: https://opendata.arcgis.com/datasets/3265538198254e9fb6a8974745adab51_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Housing Counseling Agencies (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/HousingCounselingAgencies/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

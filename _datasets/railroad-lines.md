@@ -1,8 +1,9 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Transportation
 created: '2015-06-09T16:46:39.219713'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Brian Ivey
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: null
@@ -10,7 +11,7 @@ maintainer_phone: null
 notes: "This is one of the planimetric coverages developed as part of the aerial survey\
   \ project of 1996 and updated using new aerial photography collected between 25\
   \ March 2004 and 23 April 2004."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -37,6 +38,7 @@ schema: philadelphia
 source: ''
 tags:
 - Office of Innovation and Technology
+- railroads
 time_period: null
 title: Railroad Lines
 usage: null

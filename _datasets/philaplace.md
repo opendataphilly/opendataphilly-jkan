@@ -3,7 +3,6 @@ area_of_interest: City of Philadelphia (Old Southwark and Greater Northern Liber
   Areas)
 category:
 - Arts / Culture / History
-- Real Estate / Land Records
 created: '2014-12-08T22:22:17.755927'
 license: License Not Specified
 maintainer: ''
@@ -18,7 +17,7 @@ notes: PhilaPlace is an online interactive database of both contemporary and his
   communities. Entries in the database are visualized as feature markers in an interactive
   map tool, accompanying the search.  PhilaPlace was developed by the Historical Society
   of Pennsylvania.
-opendataphilly_rating: null
+modified: null
 organization: Historical Society of Pennsylvania
 resources:
 - description: ''
@@ -27,7 +26,9 @@ resources:
   url: http://www.philaplace.org/
 schema: philadelphia
 source: ''
-tags: []
+tags:
+- photography
+- neighborhoods
 time_period: null
 title: PhilaPlace
 usage: Public Use; Free

@@ -1,8 +1,11 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Planning / Zoning
+- Real Estate / Land Records
+- Environment
 created: '2016-09-22T14:31:12.542396'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
@@ -13,11 +16,11 @@ notes: "Complaints that were entered via 311 or by an individual in the departme
   \ table represents a single 'call'. Calls are sometimes bunched into one 'Complaint'\
   \ all sharing the same unique number.\r\n\r\n\r\
   \n"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: L&I Complaints (Visualization)
   url: https://data.phila.gov/visualizations/li-complaints
 - description: ''

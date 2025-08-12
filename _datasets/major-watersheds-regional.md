@@ -5,7 +5,7 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 created: '2015-09-11T18:51:40.249272'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null
@@ -15,7 +15,7 @@ notes: "Polygon feature class representing major watersheds in Philadelphia. Dat
   \ model) using ArcHydro watershed extraction tools. Major Watersheds are dissolved\
   \ from subshed boundaries which reflect surface flow in relationship to stormwater\
   \ inlets and outfalls.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

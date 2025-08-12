@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Arts / Culture / History
 created: '2016-01-29T20:35:19.245305'
 license: License Not Specified
 maintainer: ''
@@ -17,7 +18,7 @@ notes: "A read-only, RESTful JSON API.\r\nThe core function of the API is to ret
   \ to a HATEOAS model of navigation and the use of the \"links\":{\"rel\":\"X\",\"\
   href\":\"Y\"} structure.\r\nAlso supports a geolocation call which returns a collection\
   \ that is defined by bb and ll URL arguments"
-opendataphilly_rating: null
+modified: null
 organization: Philart.net
 resources:
 - description: Documentation page for the Philadelphia Public Art API.
@@ -31,7 +32,7 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Arts
+- public art
 time_period: null
 title: Philadelphia Public Art API
 usage: null

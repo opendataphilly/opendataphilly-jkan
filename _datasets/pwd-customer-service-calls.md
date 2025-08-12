@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Environment
 created: '2015-10-15T02:19:34.441360'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Angeline Zamorski
 maintainer_email: angeline.zamorski@phila.gov
 maintainer_link: null
@@ -12,7 +12,7 @@ notes: "Every call received by the Customer Information Unit for issues like ope
   \ hydrants, cave ins, and more. Calls are categorized as to the type of issue at\
   \ hand. Includes outcomes of calls. Billing matters are referred to the Water Revenue\
   \ Bureau."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -20,7 +20,7 @@ resources:
   name: PWD Customer Service Calls (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+pwd_customer_service_calls&filename=pwd_customer_service_calls&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator
 - description: ''
-  format: API Documentation
+  format: HTML
   name: PWD Customer Service Calls (API Documentation)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#pwd_customer_service_calls
 - description: ''

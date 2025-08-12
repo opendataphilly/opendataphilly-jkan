@@ -1,26 +1,31 @@
 ---
 area_of_interest: null
-category: []
-created: '2019-09-25T13:31:38.143475'
-license: Other (City of Philadelphia)
-maintainer: Captain Mark Overwise
-maintainer_email: mark.overwise@phila.gov
+category: 
+- Transportation
+- Health / Human Services
+license: City of Philadelphia License
+maintainer: Captain Heinzeroth
+maintainer_email: robert.heinzeroth@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This data set shows all fatal crashes and their investigative outcomes from\
   \ PPD's Accident Investigation Unit (AID) from 1/1/19 to the present. The whole\
   \ dataset gets refreshed nightly. This means the dataset will show new records the\
   \ day after the source data has updated.\r\n\r\n__For those conducting analysis,\
-  \ this dataset by PPD and [OTIS' crash data](https://www.opendataphilly.org/dataset/vehicular-crash-data)\
+  \ this dataset by PPD and [OTIS' crash data](https://opendataphilly.org/datasets/crashes/)\
   \ should not be compared, or should be used together cautiously.__ The same crash\
   \ may show as in different locations between the two datasets since PPD data represent\
   \ the location of where crashes are initially _reported_ whereas OTIS' crash data\
   \ involves further investigation to confirm initial reports. If you want to analyze\
   \ the location of crashes in Philadelphia, use OTIS' dataset. If you want to understand\
   \ the investigative outcomes of crashes, use the PPD dataset.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
+- description: Vision Zero dashboard on reducing traffic deaths. 
+  format: HTML
+  name: Reducing Traffic Deaths (Visualization)
+  url: https://storymaps.arcgis.com/stories/814b1b2ace6f46f7b7e470504ac08b5e
 - description: ''
   format: CSV
   name: Fatal Crashes (CSV)
@@ -47,6 +52,9 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Police Department
+- crashes
+- accidents
+- Vision Zero
 time_period: null
 title: Fatal Crashes
 usage: null

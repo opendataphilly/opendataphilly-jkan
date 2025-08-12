@@ -3,7 +3,7 @@ area_of_interest: City of Philadelphia
 category:
 - Elections / Politics
 created: '2014-12-08T22:26:32.294770'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Seth Bluestein
 maintainer_email: seth.bluestein@phila.gov
 maintainer_link: "www.philadelphiavotes.com/\u200E"
@@ -12,7 +12,7 @@ notes: "The locations of polling places in Philadelphia, along with parking code
   \ building accessibility code attribute markers. Data is originally provided by\
   \ the Philadelphia City Commissioners and is continuously updated in correspondence\
   \ with the City Commissioners website, www.philadelphiavotes.com."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -32,7 +32,7 @@ resources:
   name: Polling Places (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#polling_places
 - description: ''
-  format: Metadata
+  format: HTML
   name: Polling Places (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867e20583086178c4f68/representationdetails/5571b1bce4fb1d91393c2157/
 schema: philadelphia

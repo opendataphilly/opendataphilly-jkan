@@ -9,7 +9,7 @@ category:
 - Public Safety
 - Real Estate / Land Records
 created: '2014-12-08T21:55:04.256289'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: http://www.philaplanning.org
@@ -19,7 +19,7 @@ notes: "The basic unit of aggregation published by the US Census Bureau.  Popula
   \ an urban area, this corresponds to approximately one city block.  This block map\
   \ has been altered to improve accuracy and align with the City of Philadelphia's\
   \ street centerline.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: For matching and analyzing demographic data collected and compiled
@@ -42,7 +42,7 @@ resources:
   url: https://opendata.arcgis.com/datasets/e9e2e152bc1644e2af84927a8f4c3c06_0.geojson
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
-  format: api
+  format: API
   name: Census Blocks - 2010 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Census_Blocks_2010/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
@@ -67,7 +67,7 @@ resources:
   url: https://opendata.arcgis.com/datasets/2b4c22ee057348e0af62f9363781eba2_0.geojson
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
-  format: api
+  format: API
   name: Census Blocks - 2000 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Census_Blocks_2000/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data

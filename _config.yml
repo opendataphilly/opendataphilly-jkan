@@ -3,6 +3,7 @@ greeting: Welcome to OpenDataPhilly
 description: OpenDataPhilly is a catalog of open data in the Philadelphia region. In addition to being the official open data repository for the City of Philadelphia, it includes data sets from many organizations in the region.
 logo: /img/odp-logo.png
 hero_image: /img/homepage-hero.jpg
+strict_front_matter: true
 
 # Site theme
 jkan_theme: Default
@@ -34,6 +35,9 @@ collections:
   dataset_categories:
     output: true
     permalink: /categories/:path/
+  licenses:
+    output: true
+    permalink: /licenses/:path/
 
 # Collections (cont'd)
 defaults:
@@ -82,6 +86,13 @@ twittercard:
 # Open Graph
 opengraph:
   enabled: true
+
+# Plugins
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-relative-links"
+  - "jekyll-paginate-v2"
+  - "jekyll-titles-from-headings"
 
 # Exclude these files from the build
 exclude:

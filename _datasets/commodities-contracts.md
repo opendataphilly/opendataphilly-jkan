@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Budget / Finance
 created: '2015-03-09T20:26:30.123356'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Office of Innovation & Technology
 maintainer_email: ''
 maintainer_link: null
@@ -15,7 +15,7 @@ notes: "Commodities contracts are bid and awarded by the Procurement Department,
   \ a new tab, simple right click on the page, and choose 'save as.' When the save\
   \ as dialog box appears, make sure the 'save as type' is Microsoft Excel Comma Separated\
   \ Values File. You should then be able to open in excel.\r\n\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'An app to view procurement contracts.  '

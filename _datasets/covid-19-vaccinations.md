@@ -4,7 +4,7 @@ category:
 - Economy
 - Health / Human Services
 created: '2021-02-03T14:44:35.061685'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: PublicHealthInfo@phila.gov
 maintainer_email: PublicHealthInfo@phila.gov
 maintainer_link: null
@@ -14,13 +14,9 @@ notes: "***As of May 2022, these datasets moved from daily updates to weekly upd
   \ well as total dose information for all vaccinations performed by the health department.\
   \ Also provides vaccinations by census tract, ZIP code, date, age, race, and sex.\
   \ Vaccinations include residents and non-residents of Philadelphia. Updates daily."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
-- description: ''
-  format: HTML
-  name: Vaccinations Dashboard (Visualization)
-  url: https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/vaccines/data/
 - description: ''
   format: CSV
   name: Total COVID Vaccinations (CSV)
@@ -62,7 +58,7 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=covid_vaccines_by_zip&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
     * FROM covid_vaccines_by_zip
 - description: ''
-  format: ''
+  format: SHP
   name: COVID Vaccinations by ZIP (SHP)
   url: https://phl.carto.com/api/v2/sql?filename=covid_vaccines_by_zip&format=shp&skipfields=cartodb_id&q=SELECT
     * FROM covid_vaccines_by_zip
@@ -71,7 +67,7 @@ resources:
   name: COVID Vaccinations by ZIP (GeoJSON)
   url: https://phl.carto.com/api/v2/sql?filename=covid_vaccines_by_zip&format=geojson&skipfields=cartodb_id&q=SELECT+*+FROM+covid_vaccines_by_zip
 - description: ''
-  format: ''
+  format: API
   name: COVID Vaccinations by ZIP (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#covid_vaccines_by_zip
 - description: ''

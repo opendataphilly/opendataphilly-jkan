@@ -5,7 +5,7 @@ category:
 - Health / Human Services
 - Parks / Recreation
 created: '2019-04-05T19:20:58.225402'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null
@@ -19,11 +19,11 @@ notes: "2018 data: This dataset was developed as part of an Urban Tree Canopy (U
   \ off the 2015 Leaf-Off 3\" AccuPLUS Imagery representing changes in tree canopy\
   \ visible within the imagery. Heights have been derived separately for each tree\
   \ canopy outline from 2015 LiDAR data capture."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: visualization
+  format: HTML
   name: PPR 2015 Tree Canopy Outlines (Visualization)
   url: https://cityofphiladelphia.carto.com/u/phl/builder/0869b21d-4b57-4910-9bb4-46a0509d6f14/embed
 - description: ''

@@ -2,6 +2,8 @@
 area_of_interest: City of Philadelphia
 category:
 - Arts / Culture / History
+- Planning / Zoning
+- Transportation
 created: '2014-12-08T22:38:18.083564'
 license: License Not Specified
 maintainer: ''
@@ -16,7 +18,7 @@ notes: "The Greater Philadelphia GeoHistory Network contains geographic material
   \ in conjunction with a current streets overlay.\r\n\r\nThe historic maps in the\
   \ map viewer are available as tile services for appropriate projects - contact the\
   \ project for further information."
-opendataphilly_rating: '5'
+modified: null
 organization: "Athen\xE6um of Philadelphia"
 resources:
 - description: ''
@@ -33,7 +35,13 @@ resources:
   url: http://www.philageohistory.org/rdic-images/new-maps-feed.cfm
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- aerial photographs
+- maps
+- atlases
+- directories
+- surveys
+- topographical maps
 time_period: null
 title: Greater Philadelphia GeoHistory Network
 usage: Public Use; Free

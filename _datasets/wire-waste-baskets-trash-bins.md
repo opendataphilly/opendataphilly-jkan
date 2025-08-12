@@ -1,14 +1,15 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Environment
 created: '2015-03-30T06:06:05.081202'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: 'Max Steinbrenner '
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Non Big Belly waste baskets maintained/collected by the City of Philadelphia.\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -24,7 +25,7 @@ resources:
   name: 2015  Wire Waste Baskets (GeoJSON)
   url: https://opendata.arcgis.com/datasets/5cf8e32c2b66433fabba15639f256006_0.geojson
 - description: ''
-  format: api
+  format: API
   name: 2015  Wire Waste Baskets (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/WasteBaskets_Wire/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -35,6 +36,7 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- trash
 time_period: null
 title: Wire Waste Baskets (Trash Bins)
 usage: null

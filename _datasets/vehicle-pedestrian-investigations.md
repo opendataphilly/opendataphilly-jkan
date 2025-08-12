@@ -3,7 +3,7 @@ area_of_interest: null
 category:
 - Public Safety
 created: '2016-04-21T22:08:24.449402'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null
@@ -19,21 +19,33 @@ notes: "Police investigations of pedestrians and vehicles from the Philadelphia 
   \ years to see the full dataset. You can learn more about how to use the API at\
   \ [Carto\u2019s SQL API site](https://carto.com/developers/sql-api/) and in the\
   \ [Carto guide in the section on making calls to the API](https://carto.com/developers/sql-api/guides/making-calls/).**"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: Guided tour of the data, contextualized with other datasets
-  format: Visualization
+  format: HTML
   name: Vehicle & Pedestrian Inv. (Map Journal)
   url: http://philadelphia.maps.arcgis.com/apps/MapJournal/index.html?appid=d498be2dde18426193679f5e9ce0e6e5
 - description: 'Interactive visualization of the data. '
-  format: Visualization
+  format: HTML
   name: Vehicle & Pedestrian Inv. (Visualization)
   url: https://data.phila.gov/visualizations/vehicle-pedestrian-investigations
 - description: ''
   format: CSV
+  name: 2024 Vehicle & Pedestrian Inv.(CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272024-01-01%27%20AND%20datetimeoccur%20%3C%20%272025-01-01%27
+- description: ''
+  format: CSV
+  name: 2023 Vehicle & Pedestrian Inv.(CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272023-01-01%27%20AND%20datetimeoccur%20%3C%20%272024-01-01%27
+- description: ''
+  format: CSV
+  name: 2022 Vehicle & Pedestrian Inv.(CSV)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272022-01-01%27%20AND%20datetimeoccur%20%3C%20%272023-01-01%27
+- description: ''
+  format: CSV
   name: 2021 Vehicle & Pedestrian Inv.(CSV)
-  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272021-01-01%27
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272021-01-01%27%20AND%20datetimeoccur%20%3C%20%272022-01-01%27
 - description: ''
   format: CSV
   name: 2020 Vehicle & Pedestrian Inv. (CSV)
@@ -76,8 +88,20 @@ resources:
     >= '2014-01-01' AND datetimeoccur < '2015-01-01'
 - description: ''
   format: SHP
+  name: 2024 Vehicle & Pedestrian Inv. (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=SHP&skipfields=cartodb_id&q=SELECT%20*%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272024-01-01%27%20AND%20datetimeoccur%20%3C%20%272025-01-01%27
+- description: ''
+  format: SHP
+  name: 2023 Vehicle & Pedestrian Inv. (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=SHP&skipfields=cartodb_id&q=SELECT%20*%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272023-01-01%27%20AND%20datetimeoccur%20%3C%20%272024-01-01%27
+- description: ''
+  format: SHP
+  name: 2022 Vehicle & Pedestrian Inv. (SHP)
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=SHP&skipfields=cartodb_id&q=SELECT%20*%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272022-01-01%27%20AND%20datetimeoccur%20%3C%20%272023-01-01%27
+- description: ''
+  format: SHP
   name: 2021 Vehicle & Pedestrian Inv. (SHP)
-  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=shp&skipfields=cartodb_id&q=SELECT%20*%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272021-01-01%27
+  url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=SHP&skipfields=cartodb_id&q=SELECT%20*%20FROM%20car_ped_stops%20WHERE%20datetimeoccur%20%3E=%20%272021-01-01%27%20AND%20datetimeoccur%20%3C%20%272022-01-01%27
 - description: ''
   format: SHP
   name: 2020 Vehicle & Pedestrian Inv. (SHP)
@@ -114,7 +138,7 @@ resources:
   url: https://phl.carto.com/api/v2/sql?filename=car_ped_stops&format=shp&skipfields=cartodb_id&q=SELECT
     * FROM car_ped_stops WHERE datetimeoccur >= '2014-01-01' AND datetimeoccur < '2015-01-01'
 - description: ''
-  format: API Documentation
+  format: HTML
   name: Vehicle & Pedestrian Inv. (API)
   url: https://cityofphiladelphia.github.io/carto-api-explorer/#car_ped_stops
 - description: 2014-Present

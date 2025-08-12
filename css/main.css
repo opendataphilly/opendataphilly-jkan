@@ -1,3 +1,27 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  color: #098e8e;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #20c3c4;
+  text-decoration: underline;
+}
+
+a.btn {
+  background-color: #31383c;
+  border-color: #31383c;
+}
+
+a.btn:hover {
+  background-color: #20c3c4;
+  border-color: #20c3c4;
+}
+
 input[data-hook=search-query] {
   display: none;
 }
@@ -9,6 +33,14 @@ input[data-hook=search-query] {
 .js .js-hidden { display: none; }
 .js-shown { display: none; }
 .js .js-shown { display: block; }
+
+.bg-primary {
+  background-color: #20c3c4 !important;
+}
+
+.organization-card > p {
+  text-align: start;
+}
 
 .organization-thumbnail img,
 .category-thumbnail img {
@@ -62,7 +94,7 @@ dataset {
 }
 
 .card-grid .card-grid-item:hover {
-  background-color: #abccfb;
+  background-color: #d4f8f8;
 }
 
 .card-grid .card-grid-item {
@@ -91,4 +123,37 @@ dataset {
   background-color: #e9ecef;
   padding: .75rem 1rem;
   border-radius: .25rem;
+}
+
+nav {
+  background-color: #31383c;
+  color: #fff;
+  padding-top: 2rem !important;
+}
+
+.nav-item .active {
+  background-color: #20c3c4;
+  border-radius: 4px;
+}
+
+.skip-to-content {
+  background-color: #61c3c4;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  border-right: 2px solid #fff;
+  color: #fff;
+  font-size: 1.25rem;
+  left: 0;
+  padding: 5px 10px;
+  position: absolute;
+  text-decoration: underline;
+  top: -45px;
+  transition: scale(1);
+  z-index: 999
+}
+
+.skip-to-content:focus, .skip-to-content:active {
+  color: #fff;
+  outline: none;
+  top: 0;
 }

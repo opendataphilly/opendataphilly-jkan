@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Education
 created: '2018-06-08T17:58:27.682092'
 license: License Not Specified
 maintainer: ''
@@ -26,7 +27,7 @@ notes: "Overview:\r\nThe School Progress Report (SPR) is an innovative tool desi
   \ renewal, and expansion\r\n\u2022 To strategically focus resources for greatest\
   \ impact on students\r\n\u2022 To track progress against the Action Plan anchor\
   \ goals"
-opendataphilly_rating: null
+modified: null
 organization: School District of Philadelphia
 resources:
 - description: "As part of our effort to build a System of Great Schools, below is\
@@ -68,7 +69,8 @@ resources:
   url: https://www.philasd.org/performance/programsservices/school-progress-reports/spr-faqs/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- schools
 time_period: null
 title: School Progress Report Data
 usage: null

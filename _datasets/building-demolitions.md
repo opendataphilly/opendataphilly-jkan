@@ -6,7 +6,7 @@ category:
 - Public Safety
 - Real Estate / Land Records
 created: '2017-11-02T18:34:24.957412'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
@@ -15,7 +15,7 @@ notes: "Inventory of building demolitions occurring within the City of Philadelp
   \ This includes both demolitions performed by private owners/contractors and by\
   \ the Department of Licenses and Inspections due to dangerous building conditions.\
   \ \r\n\r\nUpdated daily."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

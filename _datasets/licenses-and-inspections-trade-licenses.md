@@ -1,8 +1,10 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Planning / Zoning
+- Real Estate / Land Records
 created: '2016-09-22T21:15:57.272811'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: LIGISTEAM@phila.gov
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
@@ -11,11 +13,11 @@ notes: "Information regarding individuals who have applied for trades licenses s
   \ as General Contractor, Master Plumber, and more. Information includes the individual's\
   \ name, license number, license status issue date, expiration date, company name,\
   \ and revenue code.\r\n\r\n"
-opendataphilly_rating: null
+modified: R/P1D
 organization: City of Philadelphia
 resources:
 - description: ''
-  format: Visualization
+  format: HTML
   name: L&I Trade Licenses (Visualization)
   url: https://data.phila.gov/visualizations/li-trade-licenses
 - description: ''

@@ -3,8 +3,7 @@ area_of_interest: null
 category:
 - Parks / Recreation
 - Transportation
-created: '2015-01-14T21:31:23.917614'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Parks & Recreation
 maintainer_email: ''
 maintainer_link: null
@@ -13,21 +12,21 @@ notes: "Boat launches across the city are places where boats (kayaks, canoes, an
   \ or motorboats) can be launched onto the Schuylkill River or Delaware River. This\
   \ dataset identifies the boat launches/ramps located on PPR property or boat launches\
   \ PPR administers directly. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: Boat Launches (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/ba32e1ac9c5341e1916274c2df3fbe22_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/ba32e1ac9c5341e1916274c2df3fbe22_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Boat Launches (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/ba32e1ac9c5341e1916274c2df3fbe22_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/ba32e1ac9c5341e1916274c2df3fbe22_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Boat Launches (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/ba32e1ac9c5341e1916274c2df3fbe22_0/downloads/data?format=geojson&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/ba32e1ac9c5341e1916274c2df3fbe22_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Boat Launches (API)

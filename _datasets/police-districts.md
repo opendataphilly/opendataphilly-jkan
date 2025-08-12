@@ -2,31 +2,30 @@
 area_of_interest: City of Philadelphia
 category:
 - Public Safety
-created: '2014-12-08T22:12:33.763737'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: http://www.phillypolice.com/
 maintainer_phone: 215-686-1577
 notes: "Police district boundaries. A police Captain is responsible for each district.\
   \ Districts are subdivided into sectors. Several districts are aggregated into divisions."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: Police Districts (CSV)
-  url: https://opendata.arcgis.com/datasets/62ec63afb8824a15953399b1fa819df2_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/62ec63afb8824a15953399b1fa819df2_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Police Districts (SHP)
-  url: https://opendata.arcgis.com/datasets/62ec63afb8824a15953399b1fa819df2_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/62ec63afb8824a15953399b1fa819df2_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Police Districts (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/62ec63afb8824a15953399b1fa819df2_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/62ec63afb8824a15953399b1fa819df2_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: api
+  format: API
   name: Police Districts (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Boundaries_District/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

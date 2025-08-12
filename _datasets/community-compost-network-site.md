@@ -4,13 +4,13 @@ category:
 - Environment
 - Food
 created: '2021-11-30T20:06:00.668651'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Community compost network sites located throughout the City of Philadelphia."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

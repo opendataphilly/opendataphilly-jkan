@@ -4,20 +4,20 @@ category:
 - Environment
 - Health / Human Services
 created: '2018-02-26T21:11:04.751576'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "The datasets below have been archived and will not receive further updates,\
   \ but remain available for reference.  The up-to-date and more comprehensive [Litter\
-  \ Index is available here](https://www.opendataphilly.org/dataset/litter-index)\
+  \ Index is available here](https://www.opendataphilly.org/datasets/litter-index)\
   \ and will be updated annually going forward. For those conducting analysis using\
   \ Litter Index data, please be advised that the survey design between the 2007-\
   \ 2015 data is vastly different from the 2017 data, so it would not make sense to\
   \ compare the two. \r\n\r\nThe Litter Index is used to compare the relative cleanliness\
   \ of different areas of the city of Philadelphia."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: 'This dataset is archived and will not receive further updates. '

@@ -1,5 +1,5 @@
 ---
-area_of_interest: null
+area_of_interest: Philadelphia County, Bucks Country, Gloucester County, Montgomery County
 category:
 - Food
 created: '2019-06-22T20:23:15.743307'
@@ -12,7 +12,7 @@ notes: 'The Inquirer has assembled restaurant food inspection data for four coun
   Philadelphia, Bucks Country, Gloucester County, Montgomery County. Violations include
   risk factors for foodborne illness and lack of good retail practices. Updated on
   an ongoing basis.'
-opendataphilly_rating: null
+modified: null
 organization: The Philadelphia Inquirer
 resources:
 - description: Searchable database of restaurant inspections in Philadelphia and surrounding
@@ -22,7 +22,11 @@ resources:
   url: http://data.inquirer.com/inspections/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- restaurants
+- food safety
+- restaurant inspections
+- foodborne illness
 time_period: null
 title: 'Clean Plates: Restaurant Health Inspections'
 usage: null

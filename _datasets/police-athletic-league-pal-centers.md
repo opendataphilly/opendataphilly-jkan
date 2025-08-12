@@ -3,14 +3,14 @@ area_of_interest: null
 category:
 - Parks / Recreation
 created: '2014-12-08T22:32:44.706340'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This data was developed for cartographic use -- specifically, as reference\
   \ information for the Police Athletic League."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -26,7 +26,7 @@ resources:
   name: PAL Centers (GeoJSON)
   url: https://opendata.arcgis.com/datasets/63363998067d434c9b8c1e352fc54f38_0.geojson
 - description: ''
-  format: api
+  format: API
   name: PAL Centers (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PAL_Centers/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

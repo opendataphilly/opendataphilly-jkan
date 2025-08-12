@@ -20,24 +20,25 @@ notes: 'GreatSchools is an online database of school locations and relevant info
   interactivity and extra privileges (comment/review capability; participation in
   community forum, customized, detailed grade-by-grade tips; and in-depth article
   access.) '
-opendataphilly_rating: null
+modified: null
 organization: GreatSchools.org
 resources:
-- description: ''
-  format: api
-  name: GreatSchools API Registration
-  url: http://www.greatschools.org/api/registration.page
 - description: ''
   format: HTML
   name: GreatSchools (Phila. only)
   url: http://www.greatschools.org/pennsylvania/philadelphia/
 - description: ''
+  format: API
+  name: GreatSchools API Registration
+  url: http://www.greatschools.org/api/registration.page
+- description: ''
   format: HTML
   name: GreatSchools API Documentation
-  url: http://www.greatschools.org/api/docs/main.page
+  url: https://www.greatschools.org/gk/api-developer-resources/
 schema: philadelphia
 source: ''
-tags: []
+tags:
+- schools
 time_period: null
 title: GreatSchools (Phila. only)
 usage: Public Use; Free Free registration entails interactivity and extra privilegesAPI

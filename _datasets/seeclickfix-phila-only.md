@@ -1,7 +1,9 @@
 ---
 area_of_interest: City of Philadelphia
 category:
-- Uncategorized
+- Environment
+- Parks / Recreation
+- Transportation
 created: '2014-12-08T22:01:22.684297'
 license: License Not Specified
 maintainer: ''
@@ -14,7 +16,7 @@ notes: 'An application that enables users to report non-emergency issues in thei
   and leave comments. Reports can be viewed in list, gallery, or map views. An API
   is available. Key based authentication is required and obtained after registering
   for a free account with SeeClickFix. A mobile version is also available. '
-opendataphilly_rating: null
+modified: null
 organization: SeeClickFix
 resources:
 - description: ''
@@ -27,7 +29,8 @@ resources:
   url: http://dev.seeclickfix.com/
 schema: philadelphia
 source: ''
-tags: []
+tags: 
+- SeeClickFix
 time_period: null
 title: SeeClickFix (Phila. only)
 usage: Public Use

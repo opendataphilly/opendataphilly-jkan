@@ -6,13 +6,13 @@ category:
 - Real Estate / Land Records
 - Transportation
 created: '2015-06-09T06:45:40.213255'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "To map streets with no through trucks in the City of Philadelphia. "
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -28,7 +28,7 @@ resources:
   name: Non-Thru Streets for Trucks (GeoJSON)
   url: https://opendata.arcgis.com/datasets/7d3d337cd35f4fd19ea9a52604a89bfe_0.geojson
 - description: ''
-  format: api
+  format: API
   name: No n-Thru Streets for Trucks (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/No_thru_Trucks/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''

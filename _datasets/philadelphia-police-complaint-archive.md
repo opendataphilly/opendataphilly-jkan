@@ -1,8 +1,9 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Public Safety
 created: '2018-03-25T22:50:41.004949'
-license: Other (Public Domain)
+license: License Not Specified
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
@@ -20,8 +21,8 @@ notes: "Late last year, the City of Philadelphia began posting online certain da
   \ indicate the month that the files in question were uploaded by the City. In other\
   \ words, the file labeled \"Complaints Against Police March 2018 Data\" was uploaded\
   \ by the City in March 2018 before being replaced the next month.\r\n\r\nThe original\
-  \ data are available here: https://www.opendataphilly.org/dataset/police-complaints"
-opendataphilly_rating: null
+  \ data are available here: https://www.opendataphilly.org/datasets/police-complaints"
+modified: null
 organization: Philly Declaration
 resources:
 - description: 'The data on complaints against police uploaded in March 2018. This

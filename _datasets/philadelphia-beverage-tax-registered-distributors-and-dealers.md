@@ -6,7 +6,7 @@ category:
 - Food
 - Health / Human Services
 created: '2019-10-08T18:23:41.220926'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Rebecca Lopez-Kriss
 maintainer_email: rebecca.lopezkriss@phila.gov
 maintainer_link: null
@@ -20,7 +20,7 @@ notes: "**This data has stopped receiving updates. We're working to reestablish 
   \ consented to share their information publicly and thus this list may not be a\
   \ comprehensive list of all who have registered. \r\n\r\n[Find out more about the\
   \ Philadelphia Beverage Tax here](https://www.phila.gov/services/payments-assistance-taxes/business-taxes/philadelphia-beverage-tax/)."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''

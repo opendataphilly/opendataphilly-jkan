@@ -1,6 +1,7 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Economy
 created: '2021-10-16T23:41:59.645713'
 license: License Not Specified
 maintainer: ''
@@ -17,14 +18,14 @@ notes: "This interactive series of charts and maps was developed to track Philad
   \ Small Businesses\r\n - Pre-pandemic City and Zip Area Profiles\r\n - Pre-pandemic\
   \ Business Owner Profiles\r\n\r\nThe data can be filtered based on industry, location,\
   \ size, and gender."
-opendataphilly_rating: null
+modified: null
 organization: Pew Philadelphia Research and Policy Initiative
 resources:
 - description: Interactive dashboard of business activity in the post-COVID period
     (March 2020 to present
   format: HTML
   name: Dashboard of Philadelphia's Economic Recovery and Growth
-  url: ''
+  url: https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2021/pew-dashboard-tracks-philadelphias-economic-recovery-and-growth-in-the-age-of-covid
 - description: ''
   format: PDF
   name: Economic Recovery Dashboard Data Methodology
@@ -32,7 +33,10 @@ resources:
 schema: philadelphia
 source: https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2021/pew-dashboard-tracks-philadelphias-economic-recovery-and-growth-in-the-age-of-covid
 tags:
-- Economy
+- business
+- bankruptcy
+- finance
+- jobs
 time_period: null
 title: Philadelphia Business Dashboard
 usage: null

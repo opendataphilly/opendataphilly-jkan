@@ -1,8 +1,9 @@
 ---
 area_of_interest: null
-category: []
+category: 
+- Transportation
 created: '2015-06-09T07:36:48.532024'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
 maintainer_link: null
@@ -11,7 +12,7 @@ notes: "The subsection layer was developed to aid the Highway Division in the pl
   \ organizing, and maintaining of the streets within each of the fifty-six sections.\
   \  Examples include: paving, snow removal, concrete maintenance, and the monitoring/repairing\
   \ of ditches and potholes."
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -27,7 +28,7 @@ resources:
   name: Highway Subsections (GeoJSON)
   url: https://opendata.arcgis.com/datasets/2693b2ecf87e4f789ec3f8901e939bcb_0.geojson
 - description: ''
-  format: api
+  format: API
   name: 'Highway Subsections (API) '
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Highway_Subsections_arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
@@ -47,11 +48,11 @@ resources:
   name: Highway Subsections - Line (GeoJSON)
   url: https://opendata.arcgis.com/datasets/a81285f4822241499255b4aa63b91d2b_0.geojson
 - description: ''
-  format: api
+  format: API
   name: Highway Subsections - Line (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Highway_Subsections_arc/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
-  format: ''
+  format: HTML
   name: Highway Subsections - Line (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/555f8128f15fcb6c6ed44103/representationdetails/5571b1b2e4fb1d91393c2136/
 schema: philadelphia

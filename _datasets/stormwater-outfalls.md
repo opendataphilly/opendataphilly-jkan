@@ -2,8 +2,7 @@
 area_of_interest: null
 category:
 - Environment
-created: '2015-10-07T16:04:20.089184'
-license: Other (City of Philadelphia)
+license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
 maintainer_link: null
@@ -12,21 +11,21 @@ notes: "This point layer contains all the stormwater outfalls. The Purpose of th
   \ data is to describe the asset both locationally and via its attributes which are\
   \ extensive for a GIS dataset and which are maintained. This data will serve as\
   \ a platform for planning, analysis and research at PWD.\r\n"
-opendataphilly_rating: null
+modified: null
 organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
   name: Stormwater Outfalls (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/1d4e48c9b5534f19b61866f7ea270743_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/1d4e48c9b5534f19b61866f7ea270743_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Stormwater Outfalls (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/1d4e48c9b5534f19b61866f7ea270743_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/1d4e48c9b5534f19b61866f7ea270743_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Stormwater Outfalls (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/1d4e48c9b5534f19b61866f7ea270743_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/1d4e48c9b5534f19b61866f7ea270743_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Stormwater Outfalls (API)
@@ -39,6 +38,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Water Department
+- stormwater
 time_period: null
 title: Stormwater Outfalls
 usage: null
