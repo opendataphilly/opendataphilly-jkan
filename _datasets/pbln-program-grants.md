@@ -8,10 +8,10 @@ maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "Philadelphia Business Lending Network (PBLN) Incentive Grant Program is an initiative to enable undercapitalized business 
+notes: 'Philadelphia Business Lending Network (PBLN) Incentive Grant Program is an initiative to enable undercapitalized business 
   owners to get a loan for business startup, growth, or purchase of commercial property. This program builds on the innovative 
   Philadelphia Business Lending Network to provide additional funds in the form of grants, up to $35,000, up to 50% of loan amount, 
-  to qualifying low-to-moderate income small businesses who obtain loans through the members of Philadelphia Business Lending Network."
+  to qualifying low-to-moderate income small businesses who obtain loans through the members of Philadelphia Business Lending Network.'
 modified: null
 organization: City of Philadelphia
 resources:
