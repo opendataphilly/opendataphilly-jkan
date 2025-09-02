@@ -1,0 +1,46 @@
+---
+area_of_interest: null
+category:
+- Public Safety
+- Transportation
+- Education
+license: City of Philadelphia License
+maintainer: ''
+maintainer_email: ''
+maintainer_link: null
+maintainer_phone: null
+notes: "School crossing guard location data is used by Engineers and Public Safety to ensure the safety of children 
+  and other pedestrians when they cross streets around school zones."
+modified: null
+organization: City of Philadelphia
+resources:
+- description: ''
+  format: CSV
+  name: School Crossing Guards Locations (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/32027d56e6844856810fd355c5ed3676_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: School Crossing Guards Locations (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/32027d56e6844856810fd355c5ed3676_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: School Crossing Guards Locations (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/32027d56e6844856810fd355c5ed3676_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: School Crossing Guards Locations (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/School_Crossing_Guards/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: School Crossing Guards Locations (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/555f8130f15fcb6c6ed44126/representationdetails/570ead5d07ccfaed686d88ca/
+schema: philadelphia
+source: ''
+tags:
+- Public Safety
+- Schools
+- Department of Streets
+time_period: null
+title: School Crossing Guards Locations 
+usage: null
+---
