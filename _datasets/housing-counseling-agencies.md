@@ -4,14 +4,13 @@ category:
 - Budget / Finance
 - Health / Human Services
 - Real Estate / Land Records
-created: '2015-11-30T20:19:08.655631'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "OHCD has long supported neighborhood-based and citywide organizations offering\
-  \ housing counseling services to low- and moderate-income people. OHCD-funded services\
+notes: "DHCD has long supported neighborhood-based and citywide organizations offering\
+  \ housing counseling services to low- and moderate-income people. DHCD-funded services\
   \ provided by these agencies include mortgage counseling, default and delinquency\
   \ counseling, tenant support and housing consumer education. Through these services\
   \ prospective homeowners can avoid predatory loans, a significant cause of foreclosure."
@@ -25,15 +24,15 @@ resources:
 - description: ''
   format: CSV
   name: Housing Counseling Agencies (CSV)
-  url: https://opendata.arcgis.com/datasets/3265538198254e9fb6a8974745adab51_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/3265538198254e9fb6a8974745adab51_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Housing Counseling Agencies (SHP)
-  url: https://opendata.arcgis.com/datasets/3265538198254e9fb6a8974745adab51_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/3265538198254e9fb6a8974745adab51_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Housing Counseling Agencies (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/3265538198254e9fb6a8974745adab51_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/3265538198254e9fb6a8974745adab51_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Housing Counseling Agencies (API)
@@ -47,6 +46,7 @@ source: ''
 tags:
 - Department of Planning and Development
 - Division of Housing and Community Development
+- DHCD
 time_period: null
 title: Housing Counseling Agencies
 usage: null
