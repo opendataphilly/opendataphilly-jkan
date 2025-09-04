@@ -8,11 +8,31 @@ license: City of Philadelphia License
 maintainer: Office of Innovation & Technology
 maintainer_email: brian.ivey@phila.gov
 maintainer_link: null
-maintainer_phone: 215-686-8287
+maintainer_phone: null
 notes: "Data includes aerial photography of the City of Philadelphia."
 modified: null
 organization: City of Philadelphia
 resources:
+- description: ''
+  format: TIFF
+  name: 2023 Aerial Photography (TIFF images)
+  url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=7000
+- description: ''
+  format: SHP
+  name: 2023 Imagery Tile Index (SHP)
+  url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=7030
+- description: ''
+  format: API
+  name: 2023 Imagery Tile Index (API)
+  url: https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2023/MapServer
+- description: 'ArcGIS Online (AGO) basemap of 2020 aerial imagery 3in. '
+  format: JPEG
+  name: 2023 AGO Aerial Imagery (JPEG)
+  url: https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2023/MapServer
+- description: ''
+  format: HTML
+  name: 2023 Imagery (Metadata)
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/569684f4c99154d56b426105/representationdetails/68af4dd8609fb702ef2dc4ed/
 - description: ''
   format: TIFF
   name: 2022 Aerial Photography (TIFF images)
@@ -29,6 +49,10 @@ resources:
   format: JPEG
   name: 2022 AGO Aerial Imagery (JPEG)
   url: https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2022_2in/MapServer?cacheKey=a1db5313bb7cf328
+- description: ''
+  format: HTML
+  name: 2022 Imagery (Metadata)
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/569684f4c99154d56b426105/representationdetails/63ab065ac3d8ab001243b18f
 - description: ''
   format: TIFF
   name: 2020 Aerial Photography (TIFF images)
