@@ -4,8 +4,8 @@ category:
 - Boundaries
 - Elections / Politics
 license: City of Philadelphia License
-maintainer: null
-maintainer_email: null
+maintainer: Darshna Patel
+maintainer_email: Darshna.Patel@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Boundaries of wards (political units) in the City of Philadelphia. Data was\

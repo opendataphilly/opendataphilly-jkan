@@ -4,8 +4,8 @@ category:
 - Boundaries
 - Elections / Politics
 license: City of Philadelphia License
-maintainer: null
-maintainer_email: null
+maintainer: Darshna Patel
+maintainer_email: Darshna.Patel@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Boundaries of the ward divisions (subunits of wards) in Philadelphia. The\
@@ -29,7 +29,7 @@ resources:
 - description: ''
   format: API
   name: Political Ward Divisions (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Political_Wards/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/Political_Divisions/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
   name: Political Ward Divisions (Metadata)
@@ -38,6 +38,7 @@ schema: philadelphia
 source: ''
 tags:
 - Office of the City Commissioners
+- Voting Precints
 time_period: null
 title: Political Ward Divisions
 usage: Public Use
