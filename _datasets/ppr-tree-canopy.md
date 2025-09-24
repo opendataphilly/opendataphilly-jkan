@@ -4,7 +4,6 @@ category:
 - Environment
 - Health / Human Services
 - Parks / Recreation
-created: '2019-04-05T19:20:58.225402'
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
@@ -29,19 +28,15 @@ resources:
 - description: ''
   format: CSV
   name: 2008 - 2018 Tree Canopy Change (CSV)
-  url: https://opendata.arcgis.com/datasets/de383e47c72045cbbd9af780d1117ff3_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/de383e47c72045cbbd9af780d1117ff3_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: 2008 - 2018 Tree Canopy Change (SHP)
-  url: https://opendata.arcgis.com/datasets/de383e47c72045cbbd9af780d1117ff3_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/de383e47c72045cbbd9af780d1117ff3_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 2008 - 2018 Tree Canopy Change (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/de383e47c72045cbbd9af780d1117ff3_0.geojson
-- description: ''
-  format: GDB
-  name: 2008 - 2018 Tree Canopy Change (FGDB)
-  url: https://opendata.arcgis.com/datasets/de383e47c72045cbbd9af780d1117ff3_0.gdb
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/TreeCanopyChange_2008_2018/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
 - description: ''
   format: API
   name: 2008 - 2018 Tree Canopy Change (API)
