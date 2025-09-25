@@ -1,13 +1,9 @@
 ---
 area_of_interest: null
 category:
-- Boundaries
-- Economy
-- Environment
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
-created: '2022-06-07T21:28:11.853031'
 license: City of Philadelphia License
 maintainer: Mike Matela
 maintainer_email: michael.matela@phila.gov
@@ -22,7 +18,7 @@ resources:
 - description: ''
   format: HTML
   name: Street Legal Cards (Application)
-  url: http://phl.maps.arcgis.com/apps/Viewer/index.html?appid=d52ff2884fe94ed18f1825a15ea82a31
+  url: https://experience.arcgis.com/experience/8fd9dd0d1b954d58b54013ee586725f5
 - description: ''
   format: CSV
   name: Street Legal Cards (CSV)
@@ -51,6 +47,8 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- legal descriptions
+- street drawings
 time_period: null
 title: Street Legal Cards
 usage: null
