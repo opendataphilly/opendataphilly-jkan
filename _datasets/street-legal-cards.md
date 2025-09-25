@@ -1,9 +1,6 @@
 ---
 area_of_interest: null
 category:
-- Boundaries
-- Economy
-- Environment
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
@@ -50,6 +47,8 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
+- legal descriptions
+- street drawings
 time_period: null
 title: Street Legal Cards
 usage: null
