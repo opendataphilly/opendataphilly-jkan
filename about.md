@@ -12,11 +12,7 @@ What do you think of OpenDataPhilly? Let us know your ideas and suggestions for 
 
 ## Contribute
 
-From its inception in 2010, OpenDataPhilly has relied on pro bono support from Azavea. In December 2023, it was separated into a standalone organization run by volunteers. In the long run, we seek to grow the project's community of contributors in order to improve its resilience and sustainability, while still maintaining its regional character. We invite you to explore further and start contributing:
-
-How to Contribute:
-* Join our [Element](https://matrix.to/#/#opendataphilly:matrix.org) chat
-* Visit our [GitHub](https://github.com/opendataphilly/opendataphilly-jkan) to explore and contribute to codebase
+From its inception in 2010, OpenDataPhilly has relied on pro bono support from Azavea. In December 2023, it was separated into a standalone organization run by volunteers. In the long run, we seek to grow the project's community of contributors in order to improve its resilience and sustainability, while still maintaining its regional character. We invite you to explore further and start contributing via our our [GitHub](https://github.com/opendataphilly/opendataphilly-jkan).
 
 ## Partners
 
@@ -29,16 +25,16 @@ The City of Philadelphia [Office of Innovation & Technology](https://www.phila.g
 
 ## Awards
 
-* The Philadelphia Geek Awards named Open Data Philly the [2015 Web Project of the Year.](http://www.phillygeekawards.com/nominees/open-data-phillys-relaunch/)
-* The [Philadelphia Geek Awards](http://www.phillygeekawards.com/about/) honor outstanding achievements in Philadelphia’s vibrant geek community, hosted by the Academy of Natural Sciences and [Geekadelphia](http://www.geekadelphia.com/).
-* OpenDataPhilly was recognized as Best Government/Citizen Collaboration and Best Open Data Platform in the [2011 GovFresh Awards](http://govfresh.com/2011/12/2011-govfresh-awards-winners/).
-* GovFresh focuses on government-citizen collaboration and the [GovFresh Awards](http://govfresh.com/awards/) are meant to honor "the most innovative citizen and city and local government technology projects of the year." Entries for the awards were submitted and voted upon by the general public. A group of judges then reviewed the top vote-getters in each category to select a winner.
+* The Philadelphia Geek Awards named Open Data Philly the 2015 Web Project of the Year.
+* The Philadelphia Geek Awards honor outstanding achievements in Philadelphia’s vibrant geek community, hosted by the Academy of Natural Sciences and [Geekadelphia](http://www.geekadelphia.com/).
+* OpenDataPhilly was recognized as Best Government/Citizen Collaboration and Best Open Data Platform in the 2011 GovFresh Awards.
+* GovFresh focuses on government-citizen collaboration and the GovFresh Awards are meant to honor "the most innovative citizen and city and local government technology projects of the year." Entries for the awards were submitted and voted upon by the general public. A group of judges then reviewed the top vote-getters in each category to select a winner.
 
 ## Funding
 
- * The [William Penn Foundation](http://www.williampennfoundation.org/) provided part of the funding for collaboration features in the original OpenDataPhilly data catalog in 2011
- * The [John S. and James L. Knight Foundation](http://www.knightfoundation.org/) provided part of the funding for the redevelopment of the data catalog in 2015.
- * [Azavea](https://www.azavea.com/) provided the balance of the funding to develop both the original web site and the new version in 2015 and has paid for maintenance and hosting since then.
+ * The [William Penn Foundation](https://williampennfoundation.org/) provided part of the funding for collaboration features in the original OpenDataPhilly data catalog in 2011
+ * The [John S. and James L. Knight Foundation](https://knightfoundation.org/) provided part of the funding for the redevelopment of the data catalog in 2015.
+ * [Azavea](https://web.archive.org/web/20240322084930/https://www.azavea.com/) provided the balance of the funding to develop both the original web site and the new version in 2015 and has paid for maintenance and hosting since then.
  * With the migration to JKAN in spring 2023, hosting costs were reduced significantly, and remaining costs are being paid by Robert Cheetham. 
 
 ## Terms

@@ -8,7 +8,6 @@ While most open data catalogs are maintained by a single government entity, we b
 A lightweight, backend-free open data portal, powered by Jekyll
 
 ## How to Contribute
-- Join our [Element](https://matrix.to/#/#opendataphilly:matrix.org)!
 - Take a look at our [issues](https://github.com/azavea/opendataphilly-jkan/issues) to get started. Additionally there are [good first issues](https://github.com/azavea/opendataphilly-jkan/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) for newcomers to get acquainted with the codebase.
 - Workflows for forking repository and creating pull requests:
     - [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)

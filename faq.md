@@ -69,9 +69,8 @@ If you have a data set you'd like to have included in the OpenDataPhilly catalog
 
 ## How do I join the Community?
 
-*   Contact the [Google discussion group for Open Data Philly and government transparency in Philadelphia](https://groups.google.com/forum/#!forum/opendataphilly).
-* Create PRs to improve this site in the [Open Data Philly GitHub repo](https://github.com/azavea/opendataphilly-jkan/) or improve the [JKAN software](https://github.com/timwis/jkan) we use.
-* Join our [Element](https://matrix.to/#/#opendataphilly:matrix.org) chat.
+*   Contact the [Google discussion group for Open Data Philly and government transparency in Philadelphia](https://groups.google.com/g/opendataphilly).
+* Create PRs to improve this site in the [Open Data Philly GitHub repo](https://github.com/opendataphilly/opendataphilly-jkan) or improve the [JKAN software](https://github.com/timwis/jkan) we use.
 
 ## Open Data Request Procedure
 
@@ -98,8 +97,8 @@ el/?ofcresset=1), [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)
     We list a few tools but a much more complete list can be found on [Wikipedia](https://en.wikipedia.org/wiki/Geographic_information_system_software#Open_source_software).
     - [QGIS](https://www.qgis.org/) - open source desktop tools
     - [Felt](https://felt.com/)
-    - [CARTO](https://www.carto.com/)
-    - [Mapbox](https://mapbox.com)
+    - [CARTO](https://carto.com/)
+    - [Mapbox](https://www.mapbox.com/)
 
 ## Where can I find more data?
 
@@ -114,8 +113,7 @@ We have elected to not include comprehensive state and national data sets that a
 
 - [PASDA](https://www.pasda.psu.edu/) - Pennsylvania Spatial Data Access
 - [OpenStreetMap](https://www.openstreetmap.org)
-- [Data.gov](https://www.data.gov/)
-- [USGS National Map](https://viewer.nationalmap.gov/advanced-viewer/)
+- [Data.gov](https://data.gov/)
 - [Census Reporter](https://censusreporter.org/)
 - [World Bank](https://data.worldbank.org/)
 
@@ -124,7 +122,7 @@ We have elected to not include comprehensive state and national data sets that a
 We believe that better data about our society and planet will help us both make better decisions and more effectively engage in our communities. These are some of the organizations that promote open data policies and we encourage you to support them:
 
 - [Center for Response Politics](https://www.opensecrets.org/)
-- [Center for Democracy and Technology](https://www.cdt.org/)
+- [Center for Democracy and Technology](https://cdt.org/)
 - [Code For America](https://codeforamerica.org/)
 - [Center for Effective Government](https://www.foreffectivegov.org/)
 - [Online News Association](https://journalists.org/)
