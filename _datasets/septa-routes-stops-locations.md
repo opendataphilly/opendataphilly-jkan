@@ -2,51 +2,41 @@
 area_of_interest: Southeastern Pennsylvania (Bucks, Chester, Delaware, Montgomery, Philadelphia counties)
 category:
 - Transportation
-created: '2014-12-08'
+created: ''
 license: License Not Specified
-maintainer: SEPTA
-maintainer_email: septoid@gmail.com
+maintainer: SEPTA Planning Division
+maintainer_email: planning@septa.org
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
-notes: "Geographic data for SEPTA routes, stops, and locations is available from both
-  APIs and GIS data."
+notes: "Geographic (GIS) data for SEPTA routes, stops, and locations is available in a variety of formats."
 modified: null
 organization: SEPTA
 resources:
-- description: 'A list of bus and trolley stop locations for each route returned in JSON format. A list of route IDs can be found at https://www3.septa.org/VIBusAndTrolley.html and in GTFS files.'
-  format: JSON
-  name: SEPTA Bus and Trolley Stops API
-  url: https://www3.septa.org/api/Stops/index.php
-- description: 'A list of system locations (bus/trolley stops, rail stations, perk locations, and sales offices) for a geographical point within a radius that is measured in miles and returned in JSON format'
-  format: JSON
-  name: SEPTA System Locations API
-  url: https://www3.septa.org/api/locations/get_locations.php
+- description: ''
+  format: CSV
+  name: All Transit Stops (Bus, Trolley, Rail) Spring 2025 (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/b227f3ddbe3e47b4bcc7b7c65ef2cef6_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: All Transit Stops (Bus, Trolley, Rail) Spring 2025 (Shapefile)
+  url: https://hub.arcgis.com/api/v3/datasets/b227f3ddbe3e47b4bcc7b7c65ef2cef6_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: All Transit Stops (Bus, Trolley, Rail) Spring 2025 (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/b227f3ddbe3e47b4bcc7b7c65ef2cef6_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 
 - description: ''
   format: CSV
-  name: Bus Stops GIS 2024 data CSV
-  url: https://opendata.arcgis.com/api/v3/datasets/ec2a9afbca6c43a69d7fc7abeec2ffbf_0/downloads/data?format=csv&spatialRefId=4326
+  name: ALl Transit Routes (Bus, Trolley, Rail) Spring 2024 (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/4f827cdbf84d4a53983cf43b8d9fd4df_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
-  name: Bus Stops GIS 2024 data Shapefile
-  url: https://opendata.arcgis.com/api/v3/datasets/ec2a9afbca6c43a69d7fc7abeec2ffbf_0/downloads/data?format=shp&spatialRefId=4326
+  name: ALl Transit Routes (Bus, Trolley, Rail) Spring 2024 (Shapefile)
+  url: https://hub.arcgis.com/api/v3/datasets/4f827cdbf84d4a53983cf43b8d9fd4df_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
-  name: Bus Stops GIS 2024 data GeoJSON
-  url: https://opendata.arcgis.com/api/v3/datasets/ec2a9afbca6c43a69d7fc7abeec2ffbf_0/downloads/data?format=geojson&spatialRefId=4326
-
-- description: ''
-  format: CSV
-  name: Bus Routes GIS 2024 data CSV
-  url: https://opendata.arcgis.com/api/v3/datasets/51d1eb2a85a742eaa28ee2407c4e8b6f_0/downloads/data?format=csv&spatialRefId=4326
-- description: ''
-  format: SHP
-  name: Bus Routes GIS 2024 data Shapefile
-  url: https://opendata.arcgis.com/api/v3/datasets/51d1eb2a85a742eaa28ee2407c4e8b6f_0/downloads/data?format=shp&spatialRefId=4326
-- description: ''
-  format: GeoJSON
-  name: Bus Routes GIS 2024 data GeoJSON
-  url: https://opendata.arcgis.com/api/v3/datasets/51d1eb2a85a742eaa28ee2407c4e8b6f_0/downloads/data?format=geojson&spatialRefId=4326
+  name: ALl Transit Routes (Bus, Trolley, Rail) Spring 2024 (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/4f827cdbf84d4a53983cf43b8d9fd4df_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 
 - description: ''
   format: CSV
