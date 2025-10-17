@@ -4,13 +4,13 @@ category:
 - Transportation
 created: '2015-05-08'
 license: License Not Specified
-maintainer: SEPTA
-maintainer_email: septoid@gmail.com
+maintainer: SEPTA Planning Division
+maintainer_email: planning@septa.org
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
-notes: 'SEPTA schedule and location information in GTFS format.  Additional informatoion can be found on GitHub
+notes: 'SEPTA schedule and location information in GTFS format.  Additional information can be found on GitHub
   (https://github.com/septadev/GTFS/) or Google group (https://groups.google.com/forum/#!forum/septadev)'
-modified: null
+modified: R/P3M
 organization: SEPTA
 resources:
 - description: 'Each new release is posted on GitHub. Each zip file contains a separate
