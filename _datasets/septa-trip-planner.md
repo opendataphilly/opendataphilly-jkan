@@ -4,12 +4,12 @@ category:
 - Transportation
 created: '2014-12-31'
 license: License Not Specified
-maintainer: SEPTA
-maintainer_email: septoid@gmail.com
+maintainer: SEPTA Planning Division
+maintainer_email: planning@septa.org
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'Trip planner for finding SEPTA routes and times between an origin and destination.' 
-modified: null
+modified: R/P3M
 organization: SEPTA
 resources:
 - description: ''
