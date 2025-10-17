@@ -4,13 +4,13 @@ category:
 - Transportation
 created: '2020-01-01'
 license: License Not Specified
-maintainer: SEPTA
-maintainer_email: septoid@gmail.com
+maintainer: SEPTA Planning Division
+maintainer_email: planning@septa.org
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'The SEPTA Real-time Map combines the results of several APIs, 
 including bus, trolley and regional rail locations and alerts.'
-modified: null
+modified: R/PT5M
 organization: SEPTA
 resources:
 - description: ''
