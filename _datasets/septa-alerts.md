@@ -17,7 +17,7 @@ notes: 'Provides access to SEPTA travel alerts via an API. All travel alerts can
   <br>
   <br>The API endpoint at get_alert_data.php provides more verbose messages for either the whole system or a single route
   <br>Example: https://www3.septa.org/api/Alerts/get_alert_data.php?route_id=bus_route_33'
-modified: null
+modified: R/P1D
 organization: SEPTA
 resources:
 - description: 'can return all alerts in SEPTA system or alerts for a specific route'
