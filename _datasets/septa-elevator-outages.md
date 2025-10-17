@@ -4,12 +4,12 @@ category:
 - Transportation
 created: '2016-12-08'
 license: License Not Specified
-maintainer: SEPTA
-maintainer_email: septoid@gmail.com
+maintainer: SEPTA Planning Division
+maintainer_email: planning@septa.org
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'Returns a list of all elevator outages. The API does not require any paramters.'
-modified: null
+modified: R/P1D
 organization: SEPTA
 resources:
 - description: ''
