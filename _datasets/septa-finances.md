@@ -4,8 +4,8 @@ category:
 - Transportation
 created: '2024-04-28'
 license: License Not Specified
-maintainer: SEPTA
-maintainer_email: septoid@gmail.com
+maintainer: SEPTA Planning Division
+maintainer_email: planning@septa.org
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'SEPTA financial data including expense by category and vendor and financial projections.'
