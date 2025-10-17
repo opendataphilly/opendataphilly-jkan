@@ -13,7 +13,7 @@ notes: 'TransitView provides real-time information about SEPTA buses and trolley
   a route number and retuns locations for all vehicles on that route.
   
   Example: https://www3.septa.org/api/TransitView/index.php?route=33 returns all vehicles on bus route 33' 
-modified: R/PT5M
+modified: R/PT1M
 organization: SEPTA
 resources:
 - description: 'returns all bus and trolley locations'
