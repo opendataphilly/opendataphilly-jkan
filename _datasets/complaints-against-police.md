@@ -5,7 +5,7 @@ category:
 - Public Safety
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'michelle.argyriou@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "As part of the Philadelphia Police Department's (PPD) accountability processes,
@@ -18,9 +18,13 @@ notes: "As part of the Philadelphia Police Department's (PPD) accountability pro
   History dataset details the timeline by which PPD released the complaint, concluded the
   investigation, and determined any resulting discipline. See metadata links below
   for dataset and field descriptions. Includes data from the past five years. Updated monthly."
-modified: null
+modified: R/P1M
 organization: City of Philadelphia
 resources:
+- description: 'Updated monthly. '
+  format: APPLICATION
+  name: Complaints Against Police (Web Application)
+  url: https://www.phillypolice.com/accountability/complaints/
 - description: 'Updated monthly. '
   format: CSV
   name: Complaints Against Police (CSV)
@@ -73,6 +77,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Police Department
+- complaints
 time_period: null
 title: Complaints Against Police
 usage: null
