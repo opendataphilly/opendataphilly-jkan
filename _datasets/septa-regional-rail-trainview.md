@@ -4,8 +4,8 @@ category:
 - Transportation
 created: '2014-12-08'
 license: License Not Specified
-maintainer: SEPTA
-maintainer_email: septoid@gmail.com
+maintainer: SEPTA Planning Division
+maintainer_email: planning@septa.org
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: '
@@ -13,12 +13,10 @@ notes: '
 <br><br>
   The NextToArrive API returns departure and arrival times between two different stations.
   Please refer to the Regional Rail Inputs page (see below) to see all valid inputs.
-<ul>
- <li>req1 is the starting Regional Rail station</li>
- <li>req2 is the ending Regional Rail station</li>
- <li>req3 is an integer with the number of results to show</li>
-</ul>
-<br><br>
+ - req1 is the starting Regional Rail station
+ - req2 is the ending Regional Rail station
+ - req3 is an integer with the number of results to show
+
   The Arrival/Departure API returns a list/queue of regional rail trains to arrive at a station in two/both directions.
   The direction is demarcated as either Northbound or Southbound. The directions are obviously
   not geographical references, but rather a reference to the old Reading and Pennsy Railroads.
@@ -29,7 +27,7 @@ notes: '
   Please refer to the Regional Rail Inputs page (see below) to see all valid inputs.
 '
 
-modified: null
+modified: R/PT5M
 organization: SEPTA
 resources:
 - description: 'Creates a list of all Regional Rail trains on the system. Showing the trains ID number, its starting location, its destination, and if its late or not'
