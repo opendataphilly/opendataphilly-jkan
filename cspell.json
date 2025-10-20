@@ -7,6 +7,9 @@
     "allowCompoundWords": true,
     // words - list of words to be always considered correct
     "words": [
+        "Azavea",
+        "Geekadelphia",
+        "Cheetham",
         "jkan",
         "esac",
         "jsonify",
