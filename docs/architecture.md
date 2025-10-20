@@ -27,7 +27,7 @@ JKAN is a [Jekyll](http://jekyllrb.com/) site that uses JavaScript for enhanced 
 | File / Directory | Description |
 |---|---|
 | `_config.yml` | [Jekyll config file](http://jekyllrb.com/docs/configuration/) |
-| `data.json` | Generates a [project open data](https://project-open-data.cio.gov/v1.1/schema/)-compliant `data.json` file that can be used to harvest the JKAN site into other data catalogs. |
+| `data.json` | Generates a [project open data](https://resources.data.gov/resources/dcat-us/)-compliant `data.json` file that can be used to harvest the JKAN site into other data catalogs. |
 | `datasets.json` | Generates a list of datasets used to populate the `datasets-list` component (as seen on the `/datasets/` page). |
 | `_data/schemas` | Schema definition files which list the fields each dataset, category, and organization should have. |
 | `_data/licenses.yml` | A list of licenses that datasets can be associated with |
