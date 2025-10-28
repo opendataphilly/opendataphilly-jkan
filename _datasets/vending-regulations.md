@@ -15,7 +15,7 @@ notes: "This dataset shows areas where vending activity is regulated by Chapter 
   205 (Sidewalk Sales), and 206 (Sidewalk Vendors in Neighborhood Business Districts) of the Philadelphia Code. These regulations include information regarding 
   the locations of vending prohibitions, exceptions to vending prohibitions, and neighborhood business districts (AKA special vending districts). The polygons 
   in this dataset show the locations of vending regulations and relevant details like code references, links to the code reference, and regulation types
-  (prohibitions, exceptions, or special vending districts). This dataset is updated on an as needed basis as governing legislation is passed..\r\n\r\n"
+  (prohibitions, exceptions, or special vending districts). This dataset is updated on an as needed basis as governing legislation is passed."
 modified: null
 organization: City of Philadelphia
 resources:
