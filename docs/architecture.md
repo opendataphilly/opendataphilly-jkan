@@ -27,13 +27,13 @@ JKAN is a [Jekyll](http://jekyllrb.com/) site that uses JavaScript for enhanced 
 | File / Directory | Description |
 |---|---|
 | `_config.yml` | [Jekyll config file](http://jekyllrb.com/docs/configuration/) |
-| `data.json` | Generates a [project open data](https://project-open-data.cio.gov/v1.1/schema/)-compliant `data.json` file that can be used to harvest the JKAN site into other data catalogs. |
+| `data.json` | Generates a [project open data](https://resources.data.gov/resources/dcat-us/)-compliant `data.json` file that can be used to harvest the JKAN site into other data catalogs. |
 | `datasets.json` | Generates a list of datasets used to populate the `datasets-list` component (as seen on the `/datasets/` page). |
 | `_data/schemas` | Schema definition files which list the fields each dataset, category, and organization should have. |
 | `_data/licenses.yml` | A list of licenses that datasets can be associated with |
 | `_datasets` | A directory of `.md` files containing dataset information in YAML front-matter |
 | `_dataset_categories` | A directory of `.md` files containing dataset categories in YAML front-matter |
-| `_includes` | HTML partials that are included in layouts. `display` is used by [schema files](/docs/configuration.md) |
+| `_includes` | HTML partials that are included in layouts. |
 | `_layouts` | Page templates |
 | `_organizations` | A directory of `.md` files containing organization information in YAML front-matter |
 | `editor` | Configuration for the Editor UI, described below |
