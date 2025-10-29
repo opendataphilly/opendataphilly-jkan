@@ -12,7 +12,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "This data contains the High Injury Network. It is derived using spatial data\
-  \ analysis of crash data for years 2012-2016 from Pennsylvania Department of Transportation."
+  \ analysis of crash data from the Pennsylvania Department of Transportation."
 modified: null
 organization: City of Philadelphia
 resources:
@@ -20,6 +20,26 @@ resources:
   format: HTML
   name: Reducing Traffic Deaths (Visualization)
   url: https://storymaps.arcgis.com/stories/814b1b2ace6f46f7b7e470504ac08b5e
+- description: ''
+  format: CSV
+  name: High Injury Network - 2025 (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/7e416319784a463fa0d8b528d7ccf511_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: High Injury Network - 2025 (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/7e416319784a463fa0d8b528d7ccf511_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: High Injury Network - 2025 (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/7e416319784a463fa0d8b528d7ccf511_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: High Injury Network - 2025 (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/high_injury_network_2025/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: High Injury Network - 2025 (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/59d24a6eb267a12113d99ba8/representationdetails/68dbdd57c4637202dc7bc7b6/
 - description: Visualization and methodology for the 2020 High Injury Network.
   format: HTML
   name: High Injury Network - 2020 (Visualization)
