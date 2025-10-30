@@ -2,44 +2,38 @@
 area_of_interest: City of Philadelphia
 category:
 - Health / Human Services
-created: '2015-10-07T13:29:47.073232'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: 'epi@phila.gov'
 maintainer_link: null
 maintainer_phone: null
-notes: "The Community Health Assessment (CHA) is a systematic assessment of population\
+notes: "The 2017 Community Health Assessment datasets are a snapshot in time and have since been restructured and released as the Health of the City Report.
+  \ For current data, please use the [The Health of the City data](https://opendataphilly.org/datasets/health-of-the-city/). The data below remains available
+  \ in case useful for historical analyses.\
+  \
+  \ The 2017 Community Health Assessment (CHA) was a systematic assessment of population\
   \ health in Philadelphia, highlighting key public health challenges and assets and\
-  \ informing local public health programs, policies, and partnerships. The CHA includes\
+  \ informing local public health programs, policies, and partnerships. The CHA included\
   \ indicators reflecting health behaviors, health conditions, health care factors,\
-  \ and social and environmental determinants of health. The Philadelphia Department\
-  \ of Public Health publishes an annual report of the analyses, linked to under the\
-  \ 'Related' tab. Additionally, they have released an online, interactive version\
-  \ of the CHA, known as the Community Health Explorer, to make the data more accessible\
-  \ to a broader audience."
+  \ and social and environmental determinants of health."
 modified: null
 organization: City of Philadelphia
 resources:
-- description: 'Interactive web application with charts and maps of the community
-    health assessment data for Philadelphia. '
-  format: HTML
-  name: Community Health Exporer (Visualization)
-  url: https://healthexplorer.phila.gov/
 - description: ''
   format: CSV
-  name: Planning Districts 2017 (CSV)
+  name: 2017 Planning Districts (CSV)
   url: https://github.com/CityOfPhiladelphia/community-health-explorer/raw/gh-pages/_data/2017/planning_district.csv
 - description: ''
   format: CSV
-  name: Citywide Disparity 2017 (CSV)
+  name: 2017 Citywide Disparity (CSV)
   url: https://github.com/CityOfPhiladelphia/community-health-explorer/raw/gh-pages/_data/2017/racial_disparity.csv
 - description: ''
   format: CSV
-  name: Citywide Over Time 2017 (CSV)
+  name: 2017 Citywide Over Time (CSV)
   url: https://github.com/CityOfPhiladelphia/community-health-explorer/raw/gh-pages/_data/2017/citywide_over_time.csv
 - description: ''
   format: CSV
-  name: 10 Largest US Cities Comparison 2017 (CSV)
+  name: 2017 10 Largest US Cities Comparison (CSV)
   url: https://github.com/CityOfPhiladelphia/community-health-explorer/raw/gh-pages/_data/2017/top_10_cities.csv
 - description: ''
   format: HTML
