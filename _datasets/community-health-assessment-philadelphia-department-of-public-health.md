@@ -15,7 +15,7 @@ notes: "The 2017 Community Health Assessment datasets are a snapshot in time and
   \ health in Philadelphia, highlighting key public health challenges and assets and\
   \ informing local public health programs, policies, and partnerships. The CHA included\
   \ indicators reflecting health behaviors, health conditions, health care factors,\
-  \ and social and environmental determinants of health.\
+  \ and social and environmental determinants of health."
 modified: null
 organization: City of Philadelphia
 resources:
