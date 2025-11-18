@@ -4,7 +4,7 @@ category:
 - Environment
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'michael.matela@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The Office of Clean & Green Initiatives perform two 13-week Citywide Intergovernmental Cleaning events a year. 
@@ -39,6 +39,6 @@ tags:
 - Office of Clean and Green Initiatives
 - Sanitation
 time_period: null
-title: Citywide Cleaning Program Taskss
+title: Citywide Cleaning Program Tasks
 usage: null
 ---
