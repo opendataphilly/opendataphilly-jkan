@@ -1,7 +1,6 @@
 ---
 area_of_interest: null
 category:
-- Real Estate / Land Records
 - Environment
 license: City of Philadelphia License
 maintainer: ''
