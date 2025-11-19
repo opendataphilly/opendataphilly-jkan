@@ -16,15 +16,15 @@ resources:
   - description: ''
     format: CSV
     name: PPR Help Locators (CSV)
-    url: https://opendata.arcgis.com/api/v3/datasets/fe145decc7fb4d6c99f620b249d7e11a_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+    url: https://hub.arcgis.com/api/v3/datasets/fe145decc7fb4d6c99f620b249d7e11a_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
   - description: ''
     format: SHP
     name: PPR Help Locators (SHP)
-    url: https://opendata.arcgis.com/api/v3/datasets/fe145decc7fb4d6c99f620b249d7e11a_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+    url: https://hub.arcgis.com/api/v3/datasets/fe145decc7fb4d6c99f620b249d7e11a_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
   - description: ''
     format: GeoJSON
     name: PPR Help Locators (GeoJSON)
-    url: https://opendata.arcgis.com/api/v3/datasets/fe145decc7fb4d6c99f620b249d7e11a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+    url: https://hub.arcgis.com/api/v3/datasets/fe145decc7fb4d6c99f620b249d7e11a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
   - description: ''
     format: API
     name: PPR Help Locators (API)
