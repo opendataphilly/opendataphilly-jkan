@@ -4,7 +4,6 @@ category:
 - Parks / Recreation
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2020-08-26T15:57:56.902203'
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
@@ -18,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: PPR Building Structures (CSV)
-  url: https://opendata.arcgis.com/datasets/97e90a049a35453ba0c51f974b3c77b4_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/97e90a049a35453ba0c51f974b3c77b4_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: PPR Building Structures (SHP)
-  url: https://opendata.arcgis.com/datasets/97e90a049a35453ba0c51f974b3c77b4_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/97e90a049a35453ba0c51f974b3c77b4_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PPR Building Structures (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/97e90a049a35453ba0c51f974b3c77b4_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/97e90a049a35453ba0c51f974b3c77b4_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PPR Building Structures (API)
