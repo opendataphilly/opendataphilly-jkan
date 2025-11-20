@@ -38,6 +38,8 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Parks and Recreation
+- building footprints
+- parks
 time_period: null
 title: PPR Building Structures
 usage: null
