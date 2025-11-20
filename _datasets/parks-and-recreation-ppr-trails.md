@@ -3,10 +3,9 @@ area_of_interest: null
 category:
 - Environment
 - Parks / Recreation
-created: '2014-12-08T22:48:52.339357'
 license: City of Philadelphia License
-maintainer: ''
-maintainer_email: ''
+maintainer: 'Chris Park'
+maintainer_email: '	chris.park@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Linear representation of Philadelphia Parks and Recreation (PPR) trails. Not\
@@ -17,19 +16,19 @@ resources:
 - description: ''
   format: CSV
   name: PPR Trails (CSV)
-  url: https://opendata.arcgis.com/datasets/48323d574068405bbf5336b9b5b29455_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/48323d574068405bbf5336b9b5b29455_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: PPR Trails (SHP)
-  url: https://opendata.arcgis.com/datasets/48323d574068405bbf5336b9b5b29455_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/48323d574068405bbf5336b9b5b29455_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PPR Trails (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/48323d574068405bbf5336b9b5b29455_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/48323d574068405bbf5336b9b5b29455_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
-  format: KMZ
+  format: API
   name: PPR Trails (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Existing_Trails/FeatureServer/0/query?where=1%3D1
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PPR_Trails/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
   name: PPR Trails (Metadata)
