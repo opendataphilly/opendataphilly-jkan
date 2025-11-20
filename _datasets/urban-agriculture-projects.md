@@ -38,7 +38,7 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Parks and Recreation
-- urban farms
+- urban agriculture
 time_period: null
 title: Urban Agriculture Projects
 usage: null
