@@ -2,11 +2,10 @@
 area_of_interest: null
 category:
 - Boundaries
-- Health / Human Services
 - Parks / Recreation
 license: City of Philadelphia License
-maintainer: ''
-maintainer_email: ''
+maintainer: 'Chris Park'
+maintainer_email: '	chris.park@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Polygon boundaries of PPR's program districts as established by PPR's GIS\
