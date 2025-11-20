@@ -4,7 +4,6 @@ category:
 - Environment
 - Parks / Recreation
 - Planning / Zoning
-created: '2019-08-26T17:59:57.415901'
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: PPR Friends Groups (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/b75b5f7d119841a2812609162c4fac0e_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b75b5f7d119841a2812609162c4fac0e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: PPR Friends Groups (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/b75b5f7d119841a2812609162c4fac0e_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b75b5f7d119841a2812609162c4fac0e_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PPR Friends Groups (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/b75b5f7d119841a2812609162c4fac0e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/b75b5f7d119841a2812609162c4fac0e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PPR Friends Groups (API)
