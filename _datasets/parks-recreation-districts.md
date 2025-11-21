@@ -3,10 +3,9 @@ area_of_interest: null
 category:
 - Boundaries
 - Parks / Recreation
-created: '2015-01-16T16:37:08.456601'
 license: City of Philadelphia License
 maintainer: Parks & Recreation
-maintainer_email: ''
+maintainer_email: 'chris.park@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Polygon boundaries of Philadelphia Parks and Recreation (PPR) operational\
@@ -23,15 +22,15 @@ resources:
 - description: ''
   format: CSV
   name: 2018 PPR Districts (CSV)
-  url: https://opendata.arcgis.com/datasets/0cdc4a1e86c6463b9600f9d9fca39875_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/0cdc4a1e86c6463b9600f9d9fca39875_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: 2018 PPR Districts (SHP)
-  url: https://opendata.arcgis.com/datasets/0cdc4a1e86c6463b9600f9d9fca39875_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/0cdc4a1e86c6463b9600f9d9fca39875_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 2018 PPR Districts (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/0cdc4a1e86c6463b9600f9d9fca39875_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/0cdc4a1e86c6463b9600f9d9fca39875_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2018 PPR Districts (API)
@@ -43,23 +42,23 @@ resources:
 - description: ''
   format: CSV
   name: 2011 PPR Districts (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/d71cf86f5209459ba838995969f055f0_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/d71cf86f5209459ba838995969f055f0_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: 2011 PPR Districts (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/d71cf86f5209459ba838995969f055f0_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/d71cf86f5209459ba838995969f055f0_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 2011 PPR Districts (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/d71cf86f5209459ba838995969f055f0_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/d71cf86f5209459ba838995969f055f0_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2011 PPR Districts (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PPR_Districts_2011/FeatureServer
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PPR_Districts_2011/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
   name: 2011 PPR Districts (Metadata)
-  url: http://metadata.phila.gov/#home/datasetdetails/57c9fe0829250a01219e87a9/representationdetails/57c9fe0829250a01219e87ad/
+  url: https://metadata.phila.gov/#home/datasetdetails/57c9fe0829250a01219e87a9/representationdetails/57c9fe0829250a01219e87ad/
 schema: philadelphia
 source: ''
 tags:
