@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: ppr.gis@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "A comprehensive inventory of all trees within the limits of the City of Philadelphia. This dataset is a snapshot in time from 2021 and will update yearly."
