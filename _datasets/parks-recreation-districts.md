@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 license: City of Philadelphia License
 maintainer: Parks & Recreation
-maintainer_email: ''
+maintainer_email: 'chris.park@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Polygon boundaries of Philadelphia Parks and Recreation (PPR) operational\
@@ -58,7 +58,7 @@ resources:
 - description: ''
   format: HTML
   name: 2011 PPR Districts (Metadata)
-  url: http://metadata.phila.gov/#home/datasetdetails/57c9fe0829250a01219e87a9/representationdetails/57c9fe0829250a01219e87ad/
+  url: https://metadata.phila.gov/#home/datasetdetails/57c9fe0829250a01219e87a9/representationdetails/57c9fe0829250a01219e87ad/
 schema: philadelphia
 source: ''
 tags:
