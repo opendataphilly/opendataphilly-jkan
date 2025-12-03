@@ -5,7 +5,6 @@ category:
 - Food
 - Health / Human Services
 - Parks / Recreation
-created: '2021-11-30T18:24:50.362574'
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Registered Community Gardens (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/2a07feed9e1b4fdc88a64b70c0658c74_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/2a07feed9e1b4fdc88a64b70c0658c74_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Registered Community Gardens (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/2a07feed9e1b4fdc88a64b70c0658c74_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/2a07feed9e1b4fdc88a64b70c0658c74_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Registered Community Gardens (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/2a07feed9e1b4fdc88a64b70c0658c74_0/downloads/data?format=geojson&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/2a07feed9e1b4fdc88a64b70c0658c74_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Registered Community Gardens (API)
@@ -35,7 +34,7 @@ resources:
 - description: ''
   format: HTML
   name: Registered Community Gardens (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/6176edbec7cecf001e606149/
+  url: https://metadata.phila.gov/#home/datasetdetails/6176edbec7cecf001e606149/representationdetails/6176edbfc7cecf001e60614d/
 schema: philadelphia
 source: ''
 tags:
