@@ -2,7 +2,6 @@
 area_of_interest: null
 category: 
 - Parks / Recreation
-created: '2019-04-05T18:39:30.196007'
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: PPR Hydration Stations (CSV)
-  url: https://opendata.arcgis.com/datasets/cc35dc98180249fb9a6f2f5f06657df1_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/cc35dc98180249fb9a6f2f5f06657df1_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: PPR Hydration Stations (SHP)
-  url: https://opendata.arcgis.com/datasets/cc35dc98180249fb9a6f2f5f06657df1_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/cc35dc98180249fb9a6f2f5f06657df1_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PPR Hydration Stations (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/cc35dc98180249fb9a6f2f5f06657df1_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/cc35dc98180249fb9a6f2f5f06657df1_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PPR Hydration Stations (API)
