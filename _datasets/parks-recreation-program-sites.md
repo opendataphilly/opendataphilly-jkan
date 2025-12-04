@@ -2,9 +2,7 @@
 area_of_interest: null
 category:
 - Environment
-- Health / Human Services
 - Parks / Recreation
-- Public Safety
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
