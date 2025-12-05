@@ -17,22 +17,18 @@ notes: "This is a map of trails in Pennypack Park, Lorimer Park and Pennypack Tr
 modified: null
 organization: Volunteer
 resources:
-- description: "This is a map of trails in Pennypack Park, Lorimer Park and Pennypack\
-    \ Trust located in Northeast Philadelphia and Montgomery County, PA. Trails were\
-    \ identified and collected using common GPS watches (Garmin, Polar, etc) GPX data\
-    \ and verifying trails visually using high res aerial imagery to accurately adjust\
-    \ to trails.\r\n"
+- description: ''
   format: SHP
-  name: Pennypack Park Trails Web Shapefile
-  url: http://www.arcgis.com/home/item.html?id=8caeca8122e54b65b7bc04a24d3d0850#data
-- description: This is a map of trails in Pennypack Park, Lorimer Park and Pennypack
-    Trust located in Northeast Philadelphia and Montgomery County, PA. Trails were
-    identified and collected using common GPS watches (Garmin, Polar, etc) GPX data
-    and verifying trails visually using high res aerial imagery to accurately adjust
-    to trails.
-  format: HTML
-  name: Pennypack Park Trail Map
-  url: http://jasonsladinski.maps.arcgis.com/apps/webappviewer/index.html?id=8dd092b90db74fbdb71ffed204305fc0
+  name: Pennypack Park Trails Map shapefile
+  url: https://github.com/opendataphilly/open-geo-data/blob/master/pennypack-trails/pennypack-trails.zip
+- description: ''
+  format: GeoJSON
+  name: Pennypack Park Trails Map GeoJSON
+  url: https://github.com/opendataphilly/open-geo-data/blob/master/pennypack-trails/pennypack-trails.geojson
+- description: ''
+  format: GeoParquet
+  name: Pennypack Park Trails Web GeoParquet
+  url: https://github.com/opendataphilly/open-geo-data/blob/master/pennypack-trails/pennypack-trails.parquet
 schema: philadelphia
 source: ''
 tags:
