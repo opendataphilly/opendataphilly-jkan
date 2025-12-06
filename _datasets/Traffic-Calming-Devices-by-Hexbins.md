@@ -2,9 +2,10 @@
 area_of_interest: null
 category:
 - Public Safety
+- Transportation
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: "michael.matela@phila.gov"
 maintainer_link: null
 maintainer_phone: null
 notes: "Count of traffic calming devices aggregated into hex bins for visualization for Philly Stat 360."
@@ -36,6 +37,7 @@ source: ''
 tags:
 - Department of Streets
 - Philly Stat 360
+- traffic calming
 time_period: null
 title: Traffic Calming Devices by Hexbins
 usage: null
