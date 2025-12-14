@@ -5,7 +5,7 @@ category:
 - Economy
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'lbecertification@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The City of Philadelphia gives preference to certified local businesses through\
@@ -17,7 +17,7 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: App
-  name: Search local business entities app (App)
+  name: Search local business entities app (HTML)
   url: https://www.phila.gov/departments/procurement-department/local-preference/local-business-entity-listing/
 - description: ''
   format: CSV
