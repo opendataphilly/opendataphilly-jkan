@@ -14,11 +14,11 @@ resources:
 - description: ''
   format: CSV
   name: Police Stations (CSV)
-  url: https://hub.arcgis.com/api/v3/datasets/7e522339d7c24e8ea5f2c7780291c315_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/7e522339d7c24e8ea5f2c7780291c315_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Police Stations (SHP)
-  url: https://hub.arcgis.com/api/v3/datasets/7e522339d7c24e8ea5f2c7780291c315_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/7e522339d7c24e8ea5f2c7780291c315_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Police Station (GeoJSON)
