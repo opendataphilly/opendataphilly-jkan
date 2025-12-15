@@ -2,7 +2,6 @@
 area_of_interest: City of Philadelphia
 category:
 - Planning / Zoning
-created: '2014-12-08T22:45:50.420741'
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: City Limits (CSV)
-  url: https://opendata.arcgis.com/datasets/405ec3da942d4e20869d4e1449a2be48_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/405ec3da942d4e20869d4e1449a2be48_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: City Limits (SHP)
-  url: https://opendata.arcgis.com/datasets/405ec3da942d4e20869d4e1449a2be48_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/405ec3da942d4e20869d4e1449a2be48_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: City Limits (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/405ec3da942d4e20869d4e1449a2be48_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/405ec3da942d4e20869d4e1449a2be48_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed '
   format: API
   name: City Limits (API)
