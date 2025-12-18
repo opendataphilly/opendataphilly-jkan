@@ -4,7 +4,6 @@ category:
 - Environment
 - Planning / Zoning
 - Real Estate / Land Records
-created: '2015-09-11T18:51:40.249272'
 license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -21,15 +20,15 @@ resources:
 - description: ''
   format: CSV
   name: Major Watersheds - Regional (CSV)
-  url: https://opendata.arcgis.com/datasets/3d247c43b25a48078534065e6f7a1c96_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/3d247c43b25a48078534065e6f7a1c96_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Major Watersheds - Regional (SHP)
-  url: https://opendata.arcgis.com/datasets/3d247c43b25a48078534065e6f7a1c96_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/3d247c43b25a48078534065e6f7a1c96_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Major Watersheds - Regional (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/3d247c43b25a48078534065e6f7a1c96_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/3d247c43b25a48078534065e6f7a1c96_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: geoservice
   name: Major Watersheds - Regional (API)
@@ -42,6 +41,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Water Department
+- watersheds
 time_period: null
 title: Major Watersheds - Regional
 usage: Public Use; Free
