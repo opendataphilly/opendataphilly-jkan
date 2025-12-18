@@ -35,6 +35,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Department of Public Health
+- hospitals
 time_period: null
 title: Philadelphia Hospitals
 usage: Public Use; Free
