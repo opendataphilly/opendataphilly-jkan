@@ -52,7 +52,7 @@ resources:
 - description: ''
   format: CSV
   name: Permit Contractors (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/f623fd49ff62452ba08f9dd34e402697_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/f623fd49ff62452ba08f9dd34e402697_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: API
   name: Permit Contractors (API)
