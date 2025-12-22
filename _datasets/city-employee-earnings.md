@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Budget / Finance
 - Economy
-created: '2016-04-04T23:07:03.029842'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -31,7 +30,7 @@ resources:
 - description: 'Data from Calendar Year (CY) 2019 Q2 to the latest quarter. '
   format: CSV
   name: Employee Earnings - 2019 to this year's most recent quarter (CSV)
-  url: https://phl.carto.com/api/v2/sql?filename=employee_earnings&format=csv&q=SELECT%20*%20FROM%20employee_earnings
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+employee_earnings&filename=employee_earnings&format=csv&skipfields=cartodb_id
 - description: "Data from Calendar Year (CY) 2019 Q2 to the latest quarter. \r\n"
   format: API
   name: Employee Earnings - 2019 to this year's most recent quarter(API)
