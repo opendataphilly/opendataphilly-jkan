@@ -25,7 +25,7 @@ resources:
 - description: ''
   format: CSV
   name: COVID Deaths by Week 03/2020 - 12/2024 (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/239350d1b4894f0c979e5cede159628b_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/239350d1b4894f0c979e5cede159628b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 
   format: API
   name: COVID Deaths by Week 03/2020 - 12/2024 (API)
