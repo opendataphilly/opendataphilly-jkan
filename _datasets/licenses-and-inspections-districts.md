@@ -4,7 +4,6 @@ category:
 - Boundaries
 - Economy
 - Real Estate / Land Records
-created: '2015-01-30T19:27:53.322578'
 license: City of Philadelphia License
 maintainer: Department of Licenses and Inspections
 maintainer_email: LIGISTEAM@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: L&I Districts - Broad (CSV)
-  url: https://opendata.arcgis.com/datasets/73e04569563546889df1bdc13360f88b_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/73e04569563546889df1bdc13360f88b_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: L&I Districts - Broad (SHP)
-  url: https://opendata.arcgis.com/datasets/73e04569563546889df1bdc13360f88b_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/73e04569563546889df1bdc13360f88b_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: L&I Districts - Broad (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/73e04569563546889df1bdc13360f88b_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/73e04569563546889df1bdc13360f88b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: L&I Districts - Broad (API)
@@ -39,15 +38,15 @@ resources:
 - description: ''
   format: CSV
   name: L&I Districts (CSV)
-  url: https://opendata.arcgis.com/datasets/7275a4266f86471ca1d55a12e01b077e_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/7275a4266f86471ca1d55a12e01b077e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: L&I Districts (SHP)
-  url: https://opendata.arcgis.com/datasets/7275a4266f86471ca1d55a12e01b077e_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/7275a4266f86471ca1d55a12e01b077e_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: L&I Districts (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/7275a4266f86471ca1d55a12e01b077e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/7275a4266f86471ca1d55a12e01b077e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: L&I Districts (API)
