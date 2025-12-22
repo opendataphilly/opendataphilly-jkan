@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Boundaries
 - Public Safety
-created: '2020-09-30T20:47:49.439841'
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: CCD Police Boundary (CSV)
-  url: https://opendata.arcgis.com/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: CCD Police Boundary (SHP)
-  url: https://opendata.arcgis.com/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: CCD Police Boundary (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: CCD Police Boundary (API)
