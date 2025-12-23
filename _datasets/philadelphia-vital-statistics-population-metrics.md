@@ -25,15 +25,15 @@ resources:
 - description: '2010 to current available year '
   format: CSV
   name: 'Population Metrics by Census Tract (CSV) '
-  url: https://opendata.arcgis.com/api/v3/datasets/20332a074f0446b3b3190ba9d68b863e_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/20332a074f0446b3b3190ba9d68b863e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: '2010 to current available year '
   format: SHP
   name: 'Population Metrics by Census Tract (SHP) '
-  url: https://opendata.arcgis.com/api/v3/datasets/20332a074f0446b3b3190ba9d68b863e_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/20332a074f0446b3b3190ba9d68b863e_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: '2010 to current available year '
   format: GeoJSON
   name: 'Population Metrics by Census Tract (GeoJSON) '
-  url: https://opendata.arcgis.com/api/v3/datasets/20332a074f0446b3b3190ba9d68b863e_0/downloads/data?format=geojson&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/20332a074f0446b3b3190ba9d68b863e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: '2010 to current available year '
   format: API
   name: 'Population Metrics by Census Tract (API) '
@@ -45,15 +45,15 @@ resources:
 - description: '2010 to current available year '
   format: CSV
   name: 'Population Metrics by Planning District (CSV) '
-  url: https://opendata.arcgis.com/api/v3/datasets/2f9dfe2fc8ef47be9dcd2fcba96ab9cd_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/2f9dfe2fc8ef47be9dcd2fcba96ab9cd_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: '2010 to current available year '
   format: SHP
   name: Population Metrics by Planning District (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/2f9dfe2fc8ef47be9dcd2fcba96ab9cd_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/2f9dfe2fc8ef47be9dcd2fcba96ab9cd_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: 2010 to current available year
   format: GeoJSON
   name: 'Pop. Metrics by Planning District (GeoJSON)  '
-  url: https://opendata.arcgis.com/api/v3/datasets/2f9dfe2fc8ef47be9dcd2fcba96ab9cd_0/downloads/data?format=geojson&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/2f9dfe2fc8ef47be9dcd2fcba96ab9cd_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: '2010 to current available year '
   format: API
   name: 'Population Metrics by Planning District (API) '
@@ -65,7 +65,7 @@ resources:
 - description: '2000 to current available year '
   format: CSV
   name: 'Population Metrics Citywide (CSV) '
-  url: https://opendata.arcgis.com/api/v3/datasets/d0ac67bb117b42f39614bad23525a13e_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/d0ac67bb117b42f39614bad23525a13e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: '2000 to current available year '
   format: API
   name: 'Population Metrics Citywide (API) '
