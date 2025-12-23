@@ -1,8 +1,7 @@
 ---
 area_of_interest: null
 category:
-- Health / Human Services
-- Public Safety
+- Economy
 - Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
@@ -36,6 +35,7 @@ resources:
 schema: philadelphia
 source: ''
 tags:
+- Department of Licenses and Inspections
 - housing
 - rental
 - renting
