@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Arts / Culture / History
 - Health / Human Services
-created: '2015-11-30T20:33:33.224755'
 license: City of Philadelphia License
 maintainer: Portia Egan
 maintainer_email: portia.egan@phila.gov
@@ -18,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: NAC Offices (CSV)
-  url: https://opendata.arcgis.com/datasets/f382d2b7d01c4ff494d41a82b5d17f4b_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/f382d2b7d01c4ff494d41a82b5d17f4b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: NAC Offices (SHP)
-  url: https://opendata.arcgis.com/datasets/f382d2b7d01c4ff494d41a82b5d17f4b_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/f382d2b7d01c4ff494d41a82b5d17f4b_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: NAC Offices (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/f382d2b7d01c4ff494d41a82b5d17f4b_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/f382d2b7d01c4ff494d41a82b5d17f4b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: NAC Offices (API)
@@ -38,19 +37,19 @@ resources:
 - description: ''
   format: CSV
   name: NAC Service Areas (CSV)
-  url: https://opendata.arcgis.com/datasets/d6e9e21e6c844fa5a94e928b39f02352_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/f382d2b7d01c4ff494d41a82b5d17f4b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: NAC Service Areas (SHP)
-  url: https://opendata.arcgis.com/datasets/d6e9e21e6c844fa5a94e928b39f02352_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/f382d2b7d01c4ff494d41a82b5d17f4b_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: NAC Service Areas (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/d6e9e21e6c844fa5a94e928b39f02352_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/f382d2b7d01c4ff494d41a82b5d17f4b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
-  name: NAC Service Areas (GeoService)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/NeighborhoodAdvisoryCommittees/FeatureServer/0/query?outFields=*&where=1%3D1
+  name: NAC Service Areas (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/NAC_Offices/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
   name: NAC Service Areas (Metadata)
