@@ -63,12 +63,10 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- carto
 - earnings
 - employee salaries
 - overtime
 - salaries
-- salary
 - wages
 time_period: null
 title: City Employee Earnings
