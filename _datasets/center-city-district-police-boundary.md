@@ -39,6 +39,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Police Department
+- Center City District
 time_period: null
 title: Center City District Police Boundary
 usage: null
