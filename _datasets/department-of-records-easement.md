@@ -1,13 +1,12 @@
 ---
 area_of_interest: null
 category:
-- Boundaries
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'tracy.dandridge@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Polygon description of use rights for ingress/egress, driveways, alleyways,\
@@ -39,7 +38,11 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Records
+- easements
+- alleys
+- driveways
+- utilities
 time_period: null
-title: Department of Records Easement
+title: Department of Records Easements
 usage: null
 ---
