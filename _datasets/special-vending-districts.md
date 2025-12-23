@@ -41,6 +41,7 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Licenses and Inspections
+- sidewalk vendors
 time_period: null
 title: Special Vending Districts
 usage: null
