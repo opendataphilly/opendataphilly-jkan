@@ -5,7 +5,7 @@ category:
 - Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'kareema.abusaab@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "This data set reflects the recipients, award amounts, and project sites for\
