@@ -38,17 +38,21 @@ resources:
   name: Current Land Use (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543864420583086178c4e74/representationdetails/55438a7f9b989a05172d0cf3/
 - description: ''
+  format: HTML
+  name: 2012-2018 Land Use (Tile)
+  url: https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/LandUseBasemap_2012_2018/MapServer
+- description: ''
   format: CSV
   name: 2012-2018 Land Use 2012-2018 (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: 2012-2018 Land Use (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 2012-2018 Land Use (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2012-2018 Land Use (API)
@@ -61,12 +65,8 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Planning and Development
-time_period: null
-title: Land Use
-usage: Public Use; Free
----
-
-- Department of Planning and Development
+- land use
+- land cover
 time_period: null
 title: Land Use
 usage: Public Use; Free
