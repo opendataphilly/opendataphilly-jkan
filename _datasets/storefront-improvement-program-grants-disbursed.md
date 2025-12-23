@@ -35,6 +35,27 @@ resources:
   format: HTML
   name: Storefront Improvement Grants (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/5543865720583086178c4ec6/representationdetails/5660aa467affdd79710e85ec/
+
+- description: ''
+  format: CSV
+  name: Storefront Improvement Grants by Hex Bins (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/0f56555c295741bdb2ccf9fa2b0b9940_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: Storefront Improvement Grants by Hex Bins (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/0f56555c295741bdb2ccf9fa2b0b9940_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: Storefront Improvement Grants by Hex Bins (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/0f56555c295741bdb2ccf9fa2b0b9940_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: Storefront Improvement Grants by Hex Bins (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/hex_storefront_improvement/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: Storefront Improvement Grants by Hex Bins (Metadata)
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/5543865720583086178c4ec6/representationdetails/675a0c777cd90802cb96d7a1/
 schema: philadelphia
 source: ''
 tags:
