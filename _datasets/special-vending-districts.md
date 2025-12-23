@@ -6,7 +6,6 @@ category:
 - Environment
 - Food
 - Planning / Zoning
-created: '2015-09-01T17:35:27.182500'
 license: City of Philadelphia License
 maintainer: 'ligisteam@phila.gov '
 maintainer_email: ligisteam@phila.gov
@@ -21,15 +20,15 @@ resources:
 - description: ''
   format: CSV
   name: Special Vending Districts (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/fc8edb9802c944ed809213b9942e67cf_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/fc8edb9802c944ed809213b9942e67cf_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Special Vending Districts (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/fc8edb9802c944ed809213b9942e67cf_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/fc8edb9802c944ed809213b9942e67cf_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Special Vending Districts (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/fc8edb9802c944ed809213b9942e67cf_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/fc8edb9802c944ed809213b9942e67cf_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Special Vending Districts (API)
@@ -42,6 +41,7 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Licenses and Inspections
+- sidewalk vendors
 time_period: null
 title: Special Vending Districts
 usage: null
