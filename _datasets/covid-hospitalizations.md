@@ -1,7 +1,6 @@
 ---
 area_of_interest: null
 category:
-- Economy
 - Health / Human Services
 license: City of Philadelphia License
 maintainer: PublicHealthInfo@phila.gov
