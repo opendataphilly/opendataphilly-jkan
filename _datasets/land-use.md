@@ -65,6 +65,8 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Planning and Development
+- land use
+- land cover
 time_period: null
 title: Land Use
 usage: Public Use; Free
