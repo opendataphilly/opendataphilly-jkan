@@ -40,15 +40,15 @@ resources:
 - description: ''
   format: CSV
   name: 2012-2018 Land Use 2012-2018 (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: 2012-2018 Land Use (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 2012-2018 Land Use (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/afdcb422e24e454dbd006e5fd4675452_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2012-2018 Land Use (API)
@@ -60,12 +60,6 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-time_period: null
-title: Land Use
-usage: Public Use; Free
----
-
 - Department of Planning and Development
 time_period: null
 title: Land Use
