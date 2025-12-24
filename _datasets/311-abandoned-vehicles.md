@@ -2,11 +2,10 @@
 area_of_interest: City of Philadelphia
 category:
 - Environment
-- Health / Human Services
 - Transportation
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: null
+maintainer_email: "james.morse@phila.gov"
 maintainer_link: null
 maintainer_phone: null
 notes: "Count of 311 reports for abandoned vehicles aggregated into 1.5 million square foot hex bins for visualization for Philly Stat 360."
