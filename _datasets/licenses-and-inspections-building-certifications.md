@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Economy
 - Real Estate / Land Records
-created: '2021-08-16T18:17:51.426775'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -28,7 +27,7 @@ resources:
 - description: ''
   format: CSV
   name: L&I Building Certs Summary (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/fbfce1de2fa747748cedae5ede54da60_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/fbfce1de2fa747748cedae5ede54da60_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: API
   name: L&I Building Certs Summary (API)
@@ -36,19 +35,11 @@ resources:
 - description: ''
   format: HTML
   name: L&I Building Certs Summary (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/60998d8277b3d7001b1362d3/representationdetails/645bb6ab1c64910025375900/
+  url: https://metadata.phila.gov/#home/datasetdetails/60998d8277b3d7001b1362d3/representationdetails/645bb6ab1c64910025375900/?view_287_per_page=25&view_287_page=1
 - description: ''
   format: CSV
   name: L&I Building Certs (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/0d5f1b98872b4444aea641792be7d12b_0/downloads/data?format=csv&spatialRefId=4326
-- description: ''
-  format: SHP
-  name: L&I Building Certs (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/0d5f1b98872b4444aea641792be7d12b_0/downloads/data?format=shp&spatialRefId=4326
-- description: ''
-  format: GeoJSON
-  name: L&I Building Certs (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/0d5f1b98872b4444aea641792be7d12b_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/0d5f1b98872b4444aea641792be7d12b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: API
   name: L&I Building Certs (API)
@@ -56,7 +47,7 @@ resources:
 - description: ''
   format: HTML
   name: L&I Building Certs (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/60998d8277b3d7001b1362d3/representationdetails/60998d8377b3d7001b1362d9/
+  url: https://metadata.phila.gov/#home/datasetdetails/60998d8277b3d7001b1362d3/representationdetails/60998d8377b3d7001b1362d9/?view_287_per_page=25&view_287_page=1
 schema: philadelphia
 source: ''
 tags:
