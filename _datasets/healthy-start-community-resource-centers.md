@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Health / Human Services
-created: '2015-04-24T13:51:21.670646'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: Healthy Start CRCs (CSV)
-  url: https://opendata.arcgis.com/datasets/133a6c3a074843c6ab62b51f31a114a8_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/133a6c3a074843c6ab62b51f31a114a8_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Healthy Start CRCs (SHP)
-  url: http://data.phl.opendata.arcgis.com/datasets/133a6c3a074843c6ab62b51f31a114a8_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/133a6c3a074843c6ab62b51f31a114a8_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Healthy Start CRCs (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/133a6c3a074843c6ab62b51f31a114a8_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/133a6c3a074843c6ab62b51f31a114a8_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Healthy Start CRCs (API)
