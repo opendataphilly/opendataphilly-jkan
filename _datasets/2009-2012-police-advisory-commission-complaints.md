@@ -2,30 +2,27 @@
 area_of_interest: null
 category:
 - Public Safety
-created: '2014-12-08T22:17:35.726140'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
-notes: "The datasets below show information about Complaints filed with the Police\
-  \ Advisory Commission against Philadelphia Police officers. The information comes\
-  \ directly from Police Advisory Commission Complaint Database."
+notes: "If looking for current information, please use the [https://opendataphilly.org/datasets/complaints-against-police/](latest Complaints Against Police datasets). The datasets below show historical information about Complaints filed with the Police Advisory Commission, when it was in operation, against Philadelphia Police officers. The information came directly from Police Advisory Commission Complaint Database."
 modified: null
 organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Never'
   format: CSV
   name: 2009-2012 PAC Complaints (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/c6e15e5d253346049892cb19224c742c_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/c6e15e5d253346049892cb19224c742c_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: Never'
   format: SHP
   name: 2009-2012 PAC Complaints (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/c6e15e5d253346049892cb19224c742c_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/c6e15e5d253346049892cb19224c742c_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: Never'
   format: GeoJSON
   name: 2009-2012 PAC Complaints (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/c6e15e5d253346049892cb19224c742c_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/c6e15e5d253346049892cb19224c742c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: Never'
   format: API
   name: 2009-2012 PAC Complaints (API)
