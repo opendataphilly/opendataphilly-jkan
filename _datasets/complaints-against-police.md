@@ -18,8 +18,8 @@ notes: "As part of the Philadelphia Police Department's (PPD) accountability pro
   investigation, and determined any resulting discipline. See metadata links below
   for dataset and field descriptions. Includes data from the past five years. Updated monthly.
 
-  Some [https://opendataphilly.org/datasets/complaints-against-police/](historical records,
-  from 2009-2012) are also available.
+  Historical records for 2009-2012 are also available at: https://opendataphilly.org/datasets/complaints-against-police/
+  "
 modified: R/P1M
 organization: City of Philadelphia
 resources:
