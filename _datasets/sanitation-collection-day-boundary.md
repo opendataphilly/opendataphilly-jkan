@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Environment
 - Health / Human Services
-created: '2015-06-09T03:42:41.970072'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
@@ -23,15 +22,15 @@ resources:
 - description: ''
   format: CSV
   name: Sanitation Collection Boundary - Polygon (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/9d5b4ec9b7a8498faa9a78ecbf6d9b32_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/9d5b4ec9b7a8498faa9a78ecbf6d9b32_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Sanitation Collection Boundary -Polygon (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/9d5b4ec9b7a8498faa9a78ecbf6d9b32_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/9d5b4ec9b7a8498faa9a78ecbf6d9b32_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Sanitation Collection Boundary - Polygon (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/9d5b4ec9b7a8498faa9a78ecbf6d9b32_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/9d5b4ec9b7a8498faa9a78ecbf6d9b32_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Sanitation Collection Boundary - Polygon (API)
@@ -43,15 +42,15 @@ resources:
 - description: ''
   format: CSV
   name: Sanitation Collection Boundary - Line (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/b8acf31c37db4459a113ebbccbb9b313_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/b8acf31c37db4459a113ebbccbb9b313_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Sanitation Collection Boundary - Line (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/b8acf31c37db4459a113ebbccbb9b313_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/b8acf31c37db4459a113ebbccbb9b313_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Sanitation Collection Boundary - Line (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/b8acf31c37db4459a113ebbccbb9b313_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/b8acf31c37db4459a113ebbccbb9b313_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Sanitation Collection Boundary - Line (API)
