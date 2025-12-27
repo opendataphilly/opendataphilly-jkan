@@ -2,6 +2,7 @@
 area_of_interest: null
 category:
 - Parks / Recreation
+- Public Safety
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
