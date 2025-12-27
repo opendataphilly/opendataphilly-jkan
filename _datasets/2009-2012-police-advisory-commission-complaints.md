@@ -4,7 +4,7 @@ category:
 - Public Safety
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'maps@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "If looking for current information, please use the [https://opendataphilly.org/datasets/complaints-against-police/](latest Complaints Against Police datasets). The datasets below show historical information about Complaints filed with the Police Advisory Commission, when it was in operation, against Philadelphia Police officers. The information came directly from Police Advisory Commission Complaint Database."
