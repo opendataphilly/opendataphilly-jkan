@@ -2,7 +2,6 @@
 area_of_interest: null
 category: 
 - Public Safety
-created: '2015-06-09T20:24:46.113866'
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Correctional Facilities - Points (CSV)
-  url: https://opendata.arcgis.com/datasets/955eb7bc845d4b16ade05924fb235cf2_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/955eb7bc845d4b16ade05924fb235cf2_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Correctional Facilities - Points (SHP)
-  url: https://opendata.arcgis.com/datasets/955eb7bc845d4b16ade05924fb235cf2_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/955eb7bc845d4b16ade05924fb235cf2_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Correctional Facilities - Points (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/955eb7bc845d4b16ade05924fb235cf2_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/955eb7bc845d4b16ade05924fb235cf2_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: 'Correctional Facilities - Points (API) '
@@ -36,15 +35,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Correctional Facilities - Polygons (CSV)
-  url: https://opendata.arcgis.com/datasets/f2ed9ba05302412991176013eda47007_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/f2ed9ba05302412991176013eda47007_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Correctional Facilities - Polygons (SHP)
-  url: https://opendata.arcgis.com/datasets/f2ed9ba05302412991176013eda47007_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/f2ed9ba05302412991176013eda47007_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Correctional Facilities - Polygons (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/f2ed9ba05302412991176013eda47007_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/f2ed9ba05302412991176013eda47007_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Correctional Facilities - Polygons (API)
