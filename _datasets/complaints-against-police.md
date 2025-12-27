@@ -1,7 +1,6 @@
 ---
 area_of_interest: null
 category:
-- Health / Human Services
 - Public Safety
 license: City of Philadelphia License
 maintainer: ''
