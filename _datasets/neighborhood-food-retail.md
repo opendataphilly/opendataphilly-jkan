@@ -4,7 +4,6 @@ category:
 - Economy
 - Food
 - Health / Human Services
-created: '2019-08-26T14:11:24.194581'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -25,15 +24,15 @@ resources:
 - description: ''
   format: CSV
   name: Neighborhood Food Retail (CSV)
-  url: https://opendata.arcgis.com/datasets/53b8a1c653a74c92b2de23a5d7bf04a0_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/53b8a1c653a74c92b2de23a5d7bf04a0_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Neighborhood Food Retail (SHP)
-  url: https://opendata.arcgis.com/datasets/53b8a1c653a74c92b2de23a5d7bf04a0_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/53b8a1c653a74c92b2de23a5d7bf04a0_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Neighborhood Food Retail (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/53b8a1c653a74c92b2de23a5d7bf04a0_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/53b8a1c653a74c92b2de23a5d7bf04a0_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Neighborhood Food Retail (API)
@@ -41,7 +40,7 @@ resources:
 - description: ''
   format: HTML
   name: Neighborhood Food Retail (Metadata)
-  url: http://metadata.phila.gov/#home/datasetdetails/568d4b3c13d1bebc0c2a2b0f/representationdetails/5d4c6e160f63a20011c21727/
+  url: https://metadata.phila.gov/#home/datasetdetails/568d4b3c13d1bebc0c2a2b0f/representationdetails/5d4c6e160f63a20011c21727/?view_287_per_page=25&view_287_page=1
 schema: philadelphia
 source: ''
 tags:
