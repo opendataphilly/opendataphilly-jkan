@@ -25,15 +25,15 @@ resources:
 - description: '2012 to current available year '
   format: CSV
   name: Mortality by Planning District (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/f2f78582a66e441aa6fa5b900c63a9cb_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/f2f78582a66e441aa6fa5b900c63a9cb_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: '2012 to current available year '
   format: SHP
   name: Mortality by Planning District (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/f2f78582a66e441aa6fa5b900c63a9cb_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/f2f78582a66e441aa6fa5b900c63a9cb_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: '2012 to current available year '
   format: GeoJSON
   name: Mortality by Planning District (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/f2f78582a66e441aa6fa5b900c63a9cb_0/downloads/data?format=geojson&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/f2f78582a66e441aa6fa5b900c63a9cb_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: '2012 to current available year '
   format: API
   name: Mortality by Planning District (API)
@@ -41,11 +41,11 @@ resources:
 - description: "\r\n"
   format: HTML
   name: Mortality by Planning District (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/61c2413b499c45001e4561c6/
+  url: https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/61c2413b499c45001e4561c6/?view_287_per_page=25&view_287_page=1
 - description: 2012 to current available year
   format: CSV
   name: Mortality Citywide (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/4c044d0534634a83b6ff2e9b8d33824e_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/4c044d0534634a83b6ff2e9b8d33824e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 2012 to current available year
   format: API
   name: Mortality Citywide (API)
@@ -53,7 +53,7 @@ resources:
 - description: ''
   format: HTML
   name: 'Mortality Citywide (Metadata) '
-  url: https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/61c240e7499c45001e456169/
+  url: https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/61c240e7499c45001e456169/?view_287_per_page=25&view_287_page=1
 schema: philadelphia
 source: ''
 tags:
