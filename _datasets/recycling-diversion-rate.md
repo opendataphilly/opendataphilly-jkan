@@ -18,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: Recycling Diversion Rate (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/79c1c68097e641208ca7041251a87067_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/79c1c68097e641208ca7041251a87067_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Recycling Diversion Rate (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/79c1c68097e641208ca7041251a87067_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/79c1c68097e641208ca7041251a87067_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Recycling Diversion Rate (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/79c1c68097e641208ca7041251a87067_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/79c1c68097e641208ca7041251a87067_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Recycling Diversion Rate (API)
