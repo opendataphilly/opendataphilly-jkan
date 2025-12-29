@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Environment
 - Real Estate / Land Records
-created: '2014-12-08T22:40:36.589956'
 license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -21,15 +20,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Combined Sewer Service Area (CSV)
-  url: https://opendata.arcgis.com/datasets/18bfad528ccf4f7b9ec0d7f03a9a786f_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/18bfad528ccf4f7b9ec0d7f03a9a786f_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: As Needed '
   format: SHP
   name: Combined Sewer Service Area (SHP)
-  url: https://opendata.arcgis.com/datasets/18bfad528ccf4f7b9ec0d7f03a9a786f_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/18bfad528ccf4f7b9ec0d7f03a9a786f_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Combined Sewer Service Area (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/18bfad528ccf4f7b9ec0d7f03a9a786f_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/18bfad528ccf4f7b9ec0d7f03a9a786f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Combined Sewer Service Area (API)
@@ -37,7 +36,7 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: HTML
   name: Combined Sewer Service Area (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5543864220583086178c4e6a/
+  url: https://metadata.phila.gov/#home/datasetdetails/5543864220583086178c4e6a/representationdetails/55438a7b9b989a05172d0ce9/
 schema: philadelphia
 source: ''
 tags:
