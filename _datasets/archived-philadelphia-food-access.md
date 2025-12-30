@@ -6,7 +6,7 @@ category:
 - Health / Human Services
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'epi@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The datasets below have been archived and will not receive further updates,\
