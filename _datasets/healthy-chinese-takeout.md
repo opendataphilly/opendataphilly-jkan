@@ -28,15 +28,15 @@ resources:
 - description: ''
   format: CSV
   name: ARCHIVED - 2015 Healthy Chinese Takeout (CSV)
-  url: https://opendata.arcgis.com/datasets/ad5d004628e440adbfa6e51f7aa5d461_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/ad5d004628e440adbfa6e51f7aa5d461_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: ARCHIVED - 2015 Healthy Chinese Takeout (SHP)
-  url: https://opendata.arcgis.com/datasets/ad5d004628e440adbfa6e51f7aa5d461_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/ad5d004628e440adbfa6e51f7aa5d461_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: ARCHIVED - 2015 Healthy Chinese Takeout (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/ad5d004628e440adbfa6e51f7aa5d461_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/ad5d004628e440adbfa6e51f7aa5d461_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: ARCHIVED - 2015 Healthy Chinese Takeout (API)
