@@ -5,7 +5,7 @@ category:
 - Health / Human Services
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'epi@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The Special Supplemental Nutrition Program for Women, Infants, and Children\
