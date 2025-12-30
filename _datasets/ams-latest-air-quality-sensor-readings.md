@@ -10,7 +10,7 @@ category:
 - Public Safety
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'dphams_service_requests@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The latest air quality sensor readings managed by the Air Management Systems\
