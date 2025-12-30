@@ -4,10 +4,9 @@ category:
 - Economy
 - Food
 - Health / Human Services
-created: '2016-01-19T21:20:31.167867'
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'epi@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The datasets below have been archived and will not receive further updates,\
@@ -23,43 +22,43 @@ organization: City of Philadelphia
 resources:
 - description: 'Update Frequency: Archived'
   format: CSV
-  name: ' Low/No Access & High Poverty (CSV)'
-  url: https://opendata.arcgis.com/datasets/709ac21724504bba8e2e899cf64eefda_0.csv
+  name: ' 2012-2014 Low/No Access & High Poverty (CSV)'
+  url: https://hub.arcgis.com/api/v3/datasets/709ac21724504bba8e2e899cf64eefda_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: Archived'
   format: SHP
-  name: Low/No Access & High Poverty (SHP)
-  url: https://opendata.arcgis.com/datasets/709ac21724504bba8e2e899cf64eefda_0.zip
+  name: 2012-2014 Low/No Access & High Poverty (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/709ac21724504bba8e2e899cf64eefda_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: Archived'
   format: GeoJSON
-  name: Low/No Access & High Poverty (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/709ac21724504bba8e2e899cf64eefda_0.geojson
+  name: 2012-2014 Low/No Access & High Poverty (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/709ac21724504bba8e2e899cf64eefda_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: Archived'
   format: API
-  name: Low/No Access & High Poverty (API)
+  name: 2012-2014 Low/No Access & High Poverty (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/LNA_HP_Food_Access/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: Archived'
   format: HTML
-  name: ' Low/No Access & High Poverty (Metadata)'
+  name: ' 2012-2014 Low/No Access & High Poverty (Metadata)'
   url: https://metadata.phila.gov/#home/datasetdetails/568d4b3c13d1bebc0c2a2b0f/representationdetails/568d6a3508547db61713bd06/
 - description: 'Update Frequency: Archived'
   format: CSV
-  name: Walkable Access to Healthy Food (CSV)
-  url: https://opendata.arcgis.com/datasets/4748c96b9db444a48de1ae38ca93f554_0.csv
+  name: 2012-2014 Walkable Access to Healthy Food (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/4748c96b9db444a48de1ae38ca93f554_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: Archived'
   format: SHP
-  name: Walkable Access to Healthy Food (SHP)
-  url: https://opendata.arcgis.com/datasets/4748c96b9db444a48de1ae38ca93f554_0.zip
+  name: 2012-2014 Walkable Access to Healthy Food (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/4748c96b9db444a48de1ae38ca93f554_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: Archived'
   format: GeoJSON
-  name: Walkable Access to Healthy Food (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/4748c96b9db444a48de1ae38ca93f554_0.geojson
+  name: 2012-2014 Walkable Access to Healthy Food (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/4748c96b9db444a48de1ae38ca93f554_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: Archived'
   format: API
-  name: Walkable Access to Healthy Food (API)
-  url: hhttps://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Walkable_Access_Healthy_Food/FeatureServer/0/query?outFields=*&where=1%3D1
+  name: 2012-2014 Walkable Access to Healthy Food (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Walkable_Access_Healthy_Food/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: 'Update Frequency: Archived'
   format: HTML
-  name: Walkable Access to Healthy Food (Metadata)
+  name: 2012-2014 Walkable Access to Healthy Food (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/568d4b3c13d1bebc0c2a2b0f/representationdetails/568d4b3c13d1bebc0c2a2b10/
 schema: philadelphia
 source: ''
