@@ -2,7 +2,6 @@
 area_of_interest: null
 category: 
 - Environment
-created: '2015-03-30T06:06:05.081202'
 license: City of Philadelphia License
 maintainer: 'Max Steinbrenner '
 maintainer_email: max.steinbrenner@phila.gov
@@ -15,15 +14,15 @@ resources:
 - description: ''
   format: CSV
   name: 2015 Wire Waste Baskets (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/5cf8e32c2b66433fabba15639f256006_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/5cf8e32c2b66433fabba15639f256006_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: 2015  Wire Waste Baskets (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/5cf8e32c2b66433fabba15639f256006_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/5cf8e32c2b66433fabba15639f256006_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 2015  Wire Waste Baskets (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/5cf8e32c2b66433fabba15639f256006_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/5cf8e32c2b66433fabba15639f256006_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2015  Wire Waste Baskets (API)
