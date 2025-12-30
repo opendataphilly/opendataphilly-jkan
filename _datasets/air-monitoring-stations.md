@@ -2,9 +2,10 @@
 area_of_interest: null
 category:
 - Health / Human Services
+- Environment
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'dphams_service_requests@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Street location and types of pollutants sampled at each PDPH air monitoring\
@@ -28,6 +29,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philadelphia Department of Public Health
+- air quality
 time_period: null
 title: Air Monitoring Stations
 usage: null
