@@ -5,8 +5,8 @@ category:
 - Health / Human Services
 license: City of Philadelphia License
 maintainer: Brian Ivey
-maintainer_email: brian.ivey@phila.gov
-maintainer_link: http://www.phila.gov/mdo/phillyrising
+maintainer_email: 'jaclyn.boone@phila.gov'
+maintainer_link: null
 maintainer_phone: null
 notes: "The boundaries of the four designated pilot areas included in the Philly Rising\
   \ program. Philly Rising focuses on areas with chronic quality of life concerns\
