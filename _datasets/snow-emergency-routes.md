@@ -2,10 +2,9 @@
 area_of_interest: null
 category: 
 - Transportation
-created: '2015-01-16T16:57:46.359102'
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'max.steinbrenner@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "From the Streets Department snow emergency route page\r\n\r\nWhen snow accumulations\
@@ -28,15 +27,15 @@ resources:
 - description: ''
   format: CSV
   name: Snow Emergency Routes (CSV)
-  url: https://opendata.arcgis.com/datasets/cf149f735ffd4b298b824bf42a1f7cb3_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/cf149f735ffd4b298b824bf42a1f7cb3_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Snow Emergency Routes (SHP)
-  url: https://opendata.arcgis.com/datasets/cf149f735ffd4b298b824bf42a1f7cb3_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/cf149f735ffd4b298b824bf42a1f7cb3_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Snow Emergency Routes (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/cf149f735ffd4b298b824bf42a1f7cb3_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/cf149f735ffd4b298b824bf42a1f7cb3_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: HTML
   name: Snow Emergency Routes (API)
