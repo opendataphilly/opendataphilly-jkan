@@ -4,7 +4,7 @@ category:
 - Transportation
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'max.steinbrenner@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "From the Streets Department snow emergency route page\r\n\r\nWhen snow accumulations\
