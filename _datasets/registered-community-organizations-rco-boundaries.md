@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Planning / Zoning
-created: '2014-12-08T22:29:11.464086'
 license: City of Philadelphia License
 maintainer: Pauline Loughlin
 maintainer_email: pauline.loughlin@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: RCO Boundaries (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/efbff0359c3e43f190e8c35ce9fa71d6_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/efbff0359c3e43f190e8c35ce9fa71d6_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: RCO Boundaries (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/efbff0359c3e43f190e8c35ce9fa71d6_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/efbff0359c3e43f190e8c35ce9fa71d6_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: RCO Boundaries (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/efbff0359c3e43f190e8c35ce9fa71d6_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/efbff0359c3e43f190e8c35ce9fa71d6_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: RCO Boundaries (API)
@@ -33,7 +32,7 @@ resources:
 - description: ''
   format: HTML
   name: RCO Boundaries (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5543866e20583086178c4f20/representationdetails/55438ab59b989a05172d0d57/
+  url: https://metadata.phila.gov/#home/datasetdetails/5543866e20583086178c4f20/representationdetails/55438ab59b989a05172d0d57/?view_287_per_page=25&view_287_page=1
 schema: philadelphia
 source: ''
 tags:
