@@ -4,7 +4,7 @@ category:
 - Public Safety
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'andrew.newell@phila.gov'
 maintainer_link: http://www.phila.gov/fire/
 maintainer_phone: null
 notes: "Locations of Philadelphia Fire Department stations. Data originates from the\
