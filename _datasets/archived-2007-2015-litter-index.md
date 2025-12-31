@@ -22,15 +22,15 @@ resources:
 - description: 'This dataset is archived and will not receive further updates. '
   format: CSV
   name: Litter Index 2015 (CSV)
-  url: https://opendata.arcgis.com/datasets/4bb9bed7707b4704833b293ddb13f7b1_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/4bb9bed7707b4704833b293ddb13f7b1_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'This dataset is archived and will not receive further updates. '
   format: SHP
   name: Litter Index 2015 (SHP)
-  url: https://opendata.arcgis.com/datasets/4bb9bed7707b4704833b293ddb13f7b1_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/4bb9bed7707b4704833b293ddb13f7b1_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: This dataset is archived and will not receive further updates.
   format: GeoJSON
   name: Litter Index 2015 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/4bb9bed7707b4704833b293ddb13f7b1_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/4bb9bed7707b4704833b293ddb13f7b1_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'This dataset is archived and will not receive further updates. '
   format: API
   name: Litter Index 2015 (API)
@@ -38,7 +38,7 @@ resources:
 - description: ''
   format: HTML
   name: ' Litter Index 2015 (Metadata)'
-  url: https://metadata.phila.gov/#home/datasetdetails/555f812bf15fcb6c6ed44110/representationdetails/55438aaf9b989a05172d0d4b/
+  url: https://metadata.phila.gov/#home/datasetdetails/555f812bf15fcb6c6ed44110/representationdetails/55438aaf9b989a05172d0d4b/?view_287_per_page=25&view_287_page=1
 - description: 'This dataset is archived and will not receive further updates. '
   format: CSV
   name: Litter Index  2007-2014 (CSV)
