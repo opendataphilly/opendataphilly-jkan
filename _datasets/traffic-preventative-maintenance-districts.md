@@ -1,9 +1,7 @@
 ---
 area_of_interest: null
 category:
-- Economy
 - Planning / Zoning
-- Real Estate / Land Records
 - Transportation
 license: City of Philadelphia License
 maintainer: Dominick Cassise
