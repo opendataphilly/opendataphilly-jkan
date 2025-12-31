@@ -5,7 +5,6 @@ category:
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
-created: '2015-06-09T06:45:40.213255'
 license: City of Philadelphia License
 maintainer: Max Steinbrenner
 maintainer_email: max.steinbrenner@phila.gov
@@ -18,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: Non-Thru Streets for Trucks (CSV)
-  url: https://opendata.arcgis.com/datasets/7d3d337cd35f4fd19ea9a52604a89bfe_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/7d3d337cd35f4fd19ea9a52604a89bfe_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Non-Thru Streets for Trucks (SHP)
-  url: https://opendata.arcgis.com/datasets/7d3d337cd35f4fd19ea9a52604a89bfe_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/7d3d337cd35f4fd19ea9a52604a89bfe_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Non-Thru Streets for Trucks (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/7d3d337cd35f4fd19ea9a52604a89bfe_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/7d3d337cd35f4fd19ea9a52604a89bfe_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: No n-Thru Streets for Trucks (API)
@@ -34,7 +33,7 @@ resources:
 - description: ''
   format: HTML
   name: Non-Thru Streets for Trucks (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/555f812cf15fcb6c6ed44113/representationdetails/5571b1b9e4fb1d91393c214d/
+  url: http://metadata.phila.gov/#home/datasetdetails/555f812cf15fcb6c6ed44113/representationdetails/5571b1b9e4fb1d91393c214d/?view_287_page=1&view_287_per_page=25
 schema: philadelphia
 source: ''
 tags:
