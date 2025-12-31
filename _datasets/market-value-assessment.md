@@ -1,11 +1,10 @@
 ---
 area_of_interest: null
 category:
-- Environment
 - Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: 'mark.dodds@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The Reinvestment Fund’s (TRF) Market Value Analysis (MVAs) is a tool residents and policymakers can use to identify and understand
