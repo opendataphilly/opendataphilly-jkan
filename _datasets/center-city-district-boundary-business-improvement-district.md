@@ -3,6 +3,7 @@ area_of_interest: null
 category: 
 - Economy
 - Planning / Zoning
+- Boundaries
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
