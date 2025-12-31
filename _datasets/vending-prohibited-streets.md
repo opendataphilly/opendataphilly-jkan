@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Economy
-- Environment
 - Food
 - Planning / Zoning
 license: City of Philadelphia License
