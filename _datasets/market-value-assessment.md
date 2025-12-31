@@ -1,11 +1,10 @@
 ---
 area_of_interest: null
 category:
-- Environment
 - Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: 'mark.dodds@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The Reinvestment Fund’s (TRF) Market Value Analysis (MVAs) is a tool residents and policymakers can use to identify and understand
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: 2023 MVA (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/5a281d63b3df4be2b1e5ad6bf34c2717_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/5a281d63b3df4be2b1e5ad6bf34c2717_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: 2023 MVA (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/5a281d63b3df4be2b1e5ad6bf34c2717_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/5a281d63b3df4be2b1e5ad6bf34c2717_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 2023 MVA (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/5a281d63b3df4be2b1e5ad6bf34c2717_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/5a281d63b3df4be2b1e5ad6bf34c2717_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: 2023 MVA (API)
@@ -35,7 +34,7 @@ resources:
 - description: ''
   format: HTML
   name:  2023 MVA (Metadata)
-  url: https://metadata.phila.gov/index.html#home/datasetdetails/5818ba4510bbee7149c4f156/representationdetails/66e1bbd6d512b802c4f26074/
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/5818ba4510bbee7149c4f156/representationdetails/66e1bbd6d512b802c4f26074/?view_287_per_page=50&view_287_page=1
 schema: philadelphia
 source: ''
 tags:
