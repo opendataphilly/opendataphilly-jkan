@@ -1,9 +1,7 @@
 ---
 area_of_interest: null
 category:
-- Economy
 - Planning / Zoning
-- Real Estate / Land Records
 - Transportation
 license: City of Philadelphia License
 maintainer: Dominick Cassise
@@ -26,15 +24,15 @@ resources:
 - description: ''
   format: CSV
   name: Traffic PM Districts (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/11c2040839a945cf8e3baaa7db35029f_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/11c2040839a945cf8e3baaa7db35029f_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Traffic PM  Districts (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/11c2040839a945cf8e3baaa7db35029f_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/11c2040839a945cf8e3baaa7db35029f_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Traffic PM Districts (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/11c2040839a945cf8e3baaa7db35029f_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/11c2040839a945cf8e3baaa7db35029f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Traffic PM Districts (API)
