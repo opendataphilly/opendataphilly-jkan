@@ -33,7 +33,7 @@ resources:
 - description: ''
   format: HTML
   name: Recycling Diversion Rate (Metadata)
-  url: http://metadata.phila.gov/#home/datasetdetails/555f812df15fcb6c6ed44119/representationdetails/55438ab39b989a05172d0d53/
+  url: https://metadata.phila.gov/#home/datasetdetails/555f812df15fcb6c6ed44119/representationdetails/55438ab39b989a05172d0d53/?view_287_per_page=50&view_287_page=1
 schema: philadelphia
 source: ''
 tags:
