@@ -13,6 +13,12 @@ notes: "This dataset tracks usage of the City's language access services through
 modified: null
 organization: City of Philadelphia
 resources:
+
+
+- description: 'An app to find services for immigrants in Philadelphia. App created by the City of Philadelphia municipal government.'
+  format: HTML
+  name: Welcoming Community Resource App (App)
+  url: https://www.phila.gov/oia/resource-finder/
 - description: ''
   format: HTML
   name: Language Usage Dashboard (Visualization)
