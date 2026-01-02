@@ -46,6 +46,7 @@ schema: philadelphia
 source: ''
 tags:
 - City Commissioners
+- polling places
 time_period: null
 title: Polling Places
 usage: Public Use; Free
