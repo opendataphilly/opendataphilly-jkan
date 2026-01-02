@@ -10,7 +10,7 @@ category:
 - Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'darshna.patel@phila.gov'
 maintainer_link: http://www.philaplanning.org
 maintainer_phone: 215-683-4600
 notes: "The basic unit of aggregation published by the US Census Bureau.  Population\
@@ -78,6 +78,7 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Planning and Development
+- census
 time_period: null
 title: Census Blocks
 usage: Public Use
