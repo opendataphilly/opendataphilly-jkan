@@ -25,23 +25,23 @@ resources:
 - description: '2010 to current available year '
   format: CSV
   name: 'Population Metrics by Census Tract (CSV) '
-  url: 
+  url: https://hub.arcgis.com/api/v3/datasets/20332a074f0446b3b3190ba9d68b863e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: '2010 to current available year '
   format: SHP
   name: 'Population Metrics by Census Tract (SHP) '
-  url: 
+  url: https://hub.arcgis.com/api/v3/datasets/20332a074f0446b3b3190ba9d68b863e_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: '2010 to current available year '
   format: GeoJSON
   name: 'Population Metrics by Census Tract (GeoJSON) '
-  url: 
+  url: https://hub.arcgis.com/api/v3/datasets/20332a074f0446b3b3190ba9d68b863e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: '2010 to current available year '
   format: API
   name: 'Population Metrics by Census Tract (API) '
-  url: 
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/Vital_Population_CT/FeatureServer/0/query?where=1%3D1
 - description: ''
   format: HTML
   name: Population Metrics by Census Tract (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/61eb230b3675cd001e28a23c/
+  url: https://metadata.phila.gov/#home/datasetdetails/61c23fb963d616001ef54695/representationdetails/61eb230b3675cd001e28a23c/?view_287_per_page=25&view_287_page=1
 - description: '2010 to current available year '
   format: CSV
   name: 'Population Metrics by Planning District (CSV) '
