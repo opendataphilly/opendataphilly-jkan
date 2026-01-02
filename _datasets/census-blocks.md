@@ -8,7 +8,6 @@ category:
 - Planning / Zoning
 - Public Safety
 - Real Estate / Land Records
-created: '2014-12-08T21:55:04.256289'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -29,17 +28,17 @@ resources:
     City's Standard Boundary Format.
   format: CSV
   name: Census Blocks - 2010 (CSV)
-  url: https://opendata.arcgis.com/datasets/e9e2e152bc1644e2af84927a8f4c3c06_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/e9e2e152bc1644e2af84927a8f4c3c06_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: SHP
   name: Census Blocks - 2010 (SHP)
-  url: https://opendata.arcgis.com/datasets/e9e2e152bc1644e2af84927a8f4c3c06_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/e9e2e152bc1644e2af84927a8f4c3c06_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: JSON
   name: Census Blocks - 2010 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/e9e2e152bc1644e2af84927a8f4c3c06_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/e9e2e152bc1644e2af84927a8f4c3c06_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: API
@@ -49,22 +48,22 @@ resources:
     release, new layers will be added to reflect those boundaries.'
   format: HTML
   name: Census Blocks - 2010 (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5570a49772bb21d44d123607/representationdetails/557ae987e18719ff026b4caf/
+  url: https://metadata.phila.gov/#home/datasetdetails/5570a49772bb21d44d123607/representationdetails/557ae987e18719ff026b4caf/?view_287_per_page=25&view_287_page=1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: CSV
   name: Census Blocks - 2000 (CSV)
-  url: https://opendata.arcgis.com/datasets/2b4c22ee057348e0af62f9363781eba2_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/2b4c22ee057348e0af62f9363781eba2_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: SHP
   name: Census Blocks - 2000 (SHP)
-  url: https://opendata.arcgis.com/datasets/2b4c22ee057348e0af62f9363781eba2_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/2b4c22ee057348e0af62f9363781eba2_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: GeoJSON
   name: Census Blocks - 2000 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/2b4c22ee057348e0af62f9363781eba2_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/2b4c22ee057348e0af62f9363781eba2_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: API
@@ -74,7 +73,7 @@ resources:
     release, new layers will be added to reflect those boundaries.'
   format: HTML
   name: Census Blocks - 2000 (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5570a49772bb21d44d123607/representationdetails/5570a5b91a590a30400c9db9/
+  url: https://metadata.phila.gov/#home/datasetdetails/5570a49772bb21d44d123607/representationdetails/5570a5b91a590a30400c9db9/?view_287_per_page=25&view_287_page=1
 schema: philadelphia
 source: ''
 tags:
