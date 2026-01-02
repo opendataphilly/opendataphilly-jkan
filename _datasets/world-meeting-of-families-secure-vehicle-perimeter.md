@@ -3,7 +3,6 @@ area_of_interest: null
 category: 
 - Public Safety
 - Transportation
-created: '2015-08-28T19:39:26.758449'
 license: City of Philadelphia License
 maintainer: OEM
 maintainer_email: oem@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: WMoF Secure Vehicle Perimeter (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/0e8c67a7c17f47e4a9caec5c1b65a649_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/0e8c67a7c17f47e4a9caec5c1b65a649_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - description: ''
   format: SHP
   name: WMoF Secure Vehicle Perimeter (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/0e8c67a7c17f47e4a9caec5c1b65a649_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/0e8c67a7c17f47e4a9caec5c1b65a649_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
 - description: ''
   format: GeoJSON
   name: WMoF Secure Vehicle Perimeter (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/0e8c67a7c17f47e4a9caec5c1b65a649_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/0e8c67a7c17f47e4a9caec5c1b65a649_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: WMoF Secure Vehicle Perimeter (API)
