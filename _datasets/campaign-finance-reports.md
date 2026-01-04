@@ -22,6 +22,18 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
+  name: CF All Transactions - 2026 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_transactions+WHERE+report_year=2026&filename=campfin_transactions&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
+  name: CF All Transactions - 2025 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_transactions+WHERE+report_year=2025&filename=campfin_transactions&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
+  name: CF All Transactions - 2024 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_transactions+WHERE+report_year=2024&filename=campfin_transactions&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
   name: CF All Transactions - 2023 (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_transactions+WHERE+report_year=2023&filename=campfin_transactions&format=csv&skipfields=cartodb_id
 - description: ''
@@ -52,6 +64,18 @@ resources:
   format: HTML
   name: CF All Transactions (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867c20583086178c4f5f/representationdetails/56953da1bef6fe3a62c82303/
+- description: ''
+  format: CSV
+  name: CF Contributions - 2026 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_contributions+WHERE+report_year=2065&filename=campfin_contributions&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
+  name: CF Contributions - 2025 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_contributions+WHERE+report_year=2025&filename=campfin_contributions&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
+  name: CF Contributions - 2024 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_contributions+WHERE+report_year=2024&filename=campfin_contributions&format=csv&skipfields=cartodb_id
 - description: ''
   format: CSV
   name: CF Contributions - 2023 (CSV)
@@ -86,6 +110,18 @@ resources:
   url: https://metadata.phila.gov/#home/datasetdetails/5543867c20583086178c4f5f/representationdetails/56953da1bef6fe3a62c82303/
 - description: ''
   format: CSV
+  name: CF Expenditures - 2026 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_expenditures+WHERE+report_year=2026&filename=campfin_expenditures&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
+  name: CF Expenditures - 2025 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_expenditures+WHERE+report_year=2025&filename=campfin_expenditures&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
+  name: CF Expenditures - 2024 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_expenditures+WHERE+report_year=2024&filename=campfin_expenditures&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
   name: CF Expenditures - 2023 (CSV)
   url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_expenditures+WHERE+report_year=2023&filename=campfin_expenditures&format=csv&skipfields=cartodb_id
 - description: ''
@@ -116,6 +152,18 @@ resources:
   format: HTML
   name: CF Expenditures (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5543867c20583086178c4f5f/representationdetails/63d19442db0c200012bf20c8/
+- description: ''
+  format: CSV
+  name: CF Unpaid debts - 2026 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_unpaid_debts+WHERE+report_year=2026&filename=campfin_unpaid_debts&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
+  name: CF Unpaid debts - 2025 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_unpaid_debts+WHERE+report_year=2025&filename=campfin_unpaid_debts&format=csv&skipfields=cartodb_id
+- description: ''
+  format: CSV
+  name: CF Unpaid debts - 2024 (CSV)
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_unpaid_debts+WHERE+report_year=2024&filename=campfin_unpaid_debts&format=csv&skipfields=cartodb_id
 - description: ''
   format: CSV
   name: CF Unpaid debts - 2023 (CSV)
@@ -192,10 +240,10 @@ schema: philadelphia
 source: ''
 tags:
 - Board of Ethics
-- Campaign Finance
-- Candidates
+- campaign finance
+- candidates
 - Department of Records
-- Elections
+- elections
 time_period: null
 title: Campaign Finance Reports
 usage: null
