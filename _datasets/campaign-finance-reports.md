@@ -67,7 +67,7 @@ resources:
 - description: ''
   format: CSV
   name: CF Contributions - 2026 (CSV)
-  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_contributions+WHERE+report_year=2065&filename=campfin_contributions&format=csv&skipfields=cartodb_id
+  url: https://phl.carto.com/api/v2/sql?q=SELECT+*+FROM+campfin_contributions+WHERE+report_year=2026&filename=campfin_contributions&format=csv&skipfields=cartodb_id
 - description: ''
   format: CSV
   name: CF Contributions - 2025 (CSV)
