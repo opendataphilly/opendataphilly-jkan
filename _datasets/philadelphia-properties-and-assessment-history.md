@@ -2,9 +2,8 @@
 area_of_interest: null
 category:
 - Real Estate / Land Records
-created: '2015-08-21T15:39:23.714944'
 license: City of Philadelphia License
-maintainer: opadata@phila.gov
+maintainer: maps@phila.gov
 maintainer_email: opadata@phila.gov
 maintainer_link: null
 maintainer_phone: null
