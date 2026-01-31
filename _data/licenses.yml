@@ -1,4 +1,6 @@
 items:
+  - name: Creative Commons CC Zero
+    url: https://opendefinition.org/licenses/cc-zero/
   - name: Creative Commons 4.0
     url: https://creativecommons.org/licenses/by/4.0/
   - name: City of Philadelphia License
