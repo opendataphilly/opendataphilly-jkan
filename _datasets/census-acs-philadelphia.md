@@ -13,7 +13,7 @@ maintainer: U.S. Census Bureau
 maintainer_email: census.ask@census.gov
 maintainer_link: https://www.census.gov/data/developers/about.html
 maintainer_phone: null
-notes: >
+notes: |
   Comprehensive access to American Community Survey (ACS) 5-Year Estimates
   for Philadelphia County, Pennsylvania. The ACS is the premier source for
   detailed demographic, social, economic, and housing data about communities
