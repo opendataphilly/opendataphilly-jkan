@@ -16,7 +16,7 @@ permalink: /organizations/
       <div class="d-flex flex-row">
         {% if organization.logo and organization.logo != empty %}
           <div>
-            <img src="{{ organization.logo | relative_url }}" alt="{{ logo_alt }}" style="width: 64px; height: auto;">
+            <img src="{{ organization.logo | relative_url }}" alt="logo for {{ logo_alt }}" style="width: 64px; height: auto;">
           </div>
         {% endif %}
         <div class="ms-3 organization-card">
