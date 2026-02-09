@@ -14,7 +14,7 @@ permalink: /categories/
         <span class="badge bg-primary rounded-pill me-1">{{ dataset_count }}</span>
       </div>
       {% if category.logo and category.logo != empty %}
-        <img class="card-img-top" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
+        <img class="card-img-top" src="{{ site.baseurl }}{{ category.logo }}" alt="logo for {{ logo_alt }}">
       {% endif %}
       {{ category.name }}
     </a>
