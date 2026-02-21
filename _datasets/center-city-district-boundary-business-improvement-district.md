@@ -3,7 +3,7 @@ area_of_interest: null
 category: 
 - Economy
 - Planning / Zoning
-created: '2015-06-09T21:48:58.392460'
+- Boundaries
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
@@ -19,15 +19,15 @@ resources:
 - description: 'Update Frequency: As Needed'
   format: CSV
   name: Center City Business Improvement District (CSV)
-  url: https://opendata.arcgis.com/datasets/95366b115d93443eae4cc6f498cb3ca3_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/95366b115d93443eae4cc6f498cb3ca3_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: SHP
   name: Center City Business Improvement District (SHP)
-  url: https://opendata.arcgis.com/datasets/95366b115d93443eae4cc6f498cb3ca3_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/95366b115d93443eae4cc6f498cb3ca3_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: GeoJSON
   name: Center City Business Improvement District (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/95366b115d93443eae4cc6f498cb3ca3_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/95366b115d93443eae4cc6f498cb3ca3_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: 'Update Frequency: As Needed'
   format: API
   name: Center City Business Improvement District (API)

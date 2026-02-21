@@ -2,7 +2,6 @@
 area_of_interest: null
 category: 
 - Transportation
-created: '2015-09-22T18:27:21.085648'
 license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: Intersection Controls (CSV)
-  url: https://opendata.arcgis.com/datasets/cc0e1bfe7a3d4814a0a0329c2650c62e_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/cc0e1bfe7a3d4814a0a0329c2650c62e_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Intersection Controls (SHP)
-  url: https://opendata.arcgis.com/datasets/cc0e1bfe7a3d4814a0a0329c2650c62e_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/cc0e1bfe7a3d4814a0a0329c2650c62e_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Intersection Controls (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/cc0e1bfe7a3d4814a0a0329c2650c62e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/cc0e1bfe7a3d4814a0a0329c2650c62e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Intersection Controls (API)

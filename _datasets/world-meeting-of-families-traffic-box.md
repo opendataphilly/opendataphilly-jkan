@@ -3,7 +3,6 @@ area_of_interest: null
 category: 
 - Transportation
 - Public Safety
-created: '2015-08-19T13:53:00.447412'
 license: City of Philadelphia License
 maintainer: OEM
 maintainer_email: oem@phila.gov
@@ -17,19 +16,19 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: Traffic Box (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/8194497c9dec41b38c4bb9bb34ea52ff_0/downloads/data?format=csv&spatialRefId=4326
+  name: 2015 WMOF Traffic Box (CSV)
+  url: https://metadata.phila.gov/#home/datasetdetails/55d493905b182fd73e3b0428/representationdetails/55d494ecbdffa7cf3e3899a6/
 - description: ''
   format: SHP
-  name: Traffic Box (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/8194497c9dec41b38c4bb9bb34ea52ff_0/downloads/data?format=shp&spatialRefId=4326
+  name: 2015 WMOF Traffic Box (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/8194497c9dec41b38c4bb9bb34ea52ff_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
 - description: ''
   format: GeoJSON
-  name: Traffic Box (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/8194497c9dec41b38c4bb9bb34ea52ff_0.geojson
+  name: 2015 WMOF Traffic Box (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/8194497c9dec41b38c4bb9bb34ea52ff_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
-  name: Traffic Box (API)
+  name: 2015 WMOF Traffic Box (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/WMoF_TrafficBox/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML

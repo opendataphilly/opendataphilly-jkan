@@ -47,7 +47,7 @@ OpenDataPhilly features data that is available to the general public, usually at
 
 ## Are you getting an error downloading geospatial data?
 
-If you receive a 'processing' download message for GIS data, this may be the result of the service providing the data. Please refresh this web page until the file downloads. If you continue to have trouble downloading this dataset, email data@Phila.gov.
+If you receive a 'processing' download message for GIS data, this may be the result of the service providing the data. Please refresh this web page until the file downloads. If you continue to have trouble downloading this dataset, email maps@Phila.gov.
 
 ## Who built and maintains OpenDataPhilly?
 

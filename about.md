@@ -18,7 +18,7 @@ From its inception in 2010, OpenDataPhilly has relied on pro bono support from A
 
 Civic technology volunteers in the Philadelphia, including [CodeForPhilly](https://codeforphilly.org/) members.
 
-![City of Philadelphia logo](/img/organizations/logo-oit.png){: height="70" }
+![City of Philadelphia logo](img/organizations/logo-oit.png){: height="70" }
 
 The City of Philadelphia [Office of Innovation & Technology](https://www.phila.gov/departments/office-of-innovation-and-technology/)’s mission is to increase the effectiveness of the information technology infrastructure, where the services provided are advanced, optimized, and responsive to the needs of the City of Philadelphia’s businesses, residents and visitors.
 

@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Health / Human Services
-created: '2021-01-29T17:24:22.489258'
 license: City of Philadelphia License
 maintainer: ''
 maintainer_email: ''
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: HIV Testing Sites (CSV)
-  url: https://opendata.arcgis.com/datasets/0b016c2856854fb19d1505907eda190e_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/0b016c2856854fb19d1505907eda190e_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: HIV Testing Sites (SHP)
-  url: https://opendata.arcgis.com/datasets/0b016c2856854fb19d1505907eda190e_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/0b016c2856854fb19d1505907eda190e_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: HIV Testing Sites (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/0b016c2856854fb19d1505907eda190e_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/0b016c2856854fb19d1505907eda190e_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: HIV Testing Sites (API)

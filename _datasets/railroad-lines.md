@@ -2,7 +2,6 @@
 area_of_interest: null
 category: 
 - Transportation
-created: '2015-06-09T16:46:39.219713'
 license: City of Philadelphia License
 maintainer: Brian Ivey
 maintainer_email: brian.ivey@phila.gov
@@ -17,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: Railroad Lines (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/7fdc13effc904756b9b7b6023b522b65_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/7fdc13effc904756b9b7b6023b522b65_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Railroad Lines (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/7fdc13effc904756b9b7b6023b522b65_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/7fdc13effc904756b9b7b6023b522b65_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Railroad Lines (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/7fdc13effc904756b9b7b6023b522b65_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/7fdc13effc904756b9b7b6023b522b65_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Railroad Lines (API)

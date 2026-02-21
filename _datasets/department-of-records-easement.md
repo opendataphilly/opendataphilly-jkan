@@ -1,14 +1,12 @@
 ---
 area_of_interest: null
 category:
-- Boundaries
 - Planning / Zoning
 - Real Estate / Land Records
 - Transportation
-created: '2015-09-01T16:02:19.223971'
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'tracy.dandridge@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Polygon description of use rights for ingress/egress, driveways, alleyways,\
@@ -19,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: DOR Easement (CSV)
-  url: https://opendata.arcgis.com/datasets/cd0d4e03737f4f4a81833f87e0c2f66d_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/cd0d4e03737f4f4a81833f87e0c2f66d_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: DOR Easement (SHP)
-  url: https://opendata.arcgis.com/datasets/cd0d4e03737f4f4a81833f87e0c2f66d_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/cd0d4e03737f4f4a81833f87e0c2f66d_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: DOR Easement (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/cd0d4e03737f4f4a81833f87e0c2f66d_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/cd0d4e03737f4f4a81833f87e0c2f66d_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: DOR Easement (API)
@@ -40,7 +38,11 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Records
+- easements
+- alleys
+- driveways
+- utilities
 time_period: null
-title: Department of Records Easement
+title: Department of Records Easements
 usage: null
 ---

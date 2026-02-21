@@ -1,10 +1,8 @@
 ---
 area_of_interest: null
 category:
-- Health / Human Services
-- Public Safety
+- Economy
 - Real Estate / Land Records
-created: '2022-09-01T14:25:07.402082'
 license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: ligisteam@phila.gov
@@ -17,18 +15,27 @@ resources:
 - description: ''
   format: CSV
   name: Rental Suitability (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/5a0050ad23224e8c884b6d1ac9db6607_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/5a0050ad23224e8c884b6d1ac9db6607_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: Rental Suitability (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/5a0050ad23224e8c884b6d1ac9db6607_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Rental Suitability (GeoJSON)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/CERT_RENTAL_SUTBLTY/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/CERT_RENTAL_SUTBLTY/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
 - description: ''
   format: API
   name: Rental Suitability (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/CERT_RENTAL_SUTBLTY/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: hTML
+  name: Rental Suitability (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/5543865a20583086178c4ed2/representationdetails/6282b049d70d0e0022890ec2/
 schema: philadelphia
 source: ''
 tags:
+- Department of Licenses and Inspections
 - housing
 - rental
 - renting

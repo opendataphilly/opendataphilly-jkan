@@ -1,7 +1,6 @@
 ---
 area_of_interest: null
 category:
-- Health / Human Services
 - Public Safety
 license: City of Philadelphia License
 maintainer: ''
@@ -17,7 +16,10 @@ notes: "As part of the Philadelphia Police Department's (PPD) accountability pro
   each person who filed a complaint against a police officer by complaint number, and CAP
   History dataset details the timeline by which PPD released the complaint, concluded the
   investigation, and determined any resulting discipline. See metadata links below
-  for dataset and field descriptions. Includes data from the past five years. Updated monthly."
+  for dataset and field descriptions. Includes data from the past five years. Updated monthly.
+
+  Historical records for 2009-2012 are also available at: https://opendataphilly.org/datasets/complaints-against-police/
+  "
 modified: R/P1M
 organization: City of Philadelphia
 resources:

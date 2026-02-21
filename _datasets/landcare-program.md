@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Environment
 - Real Estate / Land Records
-created: '2015-03-16T21:19:27.744946'
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: Current LandCare Properties (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/8fc146b50f3a45edb8348e9b1ba52252_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/8fc146b50f3a45edb8348e9b1ba52252_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Current LandCare Properties (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/8fc146b50f3a45edb8348e9b1ba52252_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/8fc146b50f3a45edb8348e9b1ba52252_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Current LandCare Properties (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/8fc146b50f3a45edb8348e9b1ba52252_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/8fc146b50f3a45edb8348e9b1ba52252_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Current LandCare Properties (API)

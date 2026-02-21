@@ -13,6 +13,12 @@ notes: "This dataset tracks usage of the City's language access services through
 modified: null
 organization: City of Philadelphia
 resources:
+
+
+- description: 'An app to find services for immigrants in Philadelphia. App created by the City of Philadelphia municipal government.'
+  format: HTML
+  name: Welcoming Community Resource App (App)
+  url: https://www.phila.gov/oia/resource-finder/
 - description: ''
   format: HTML
   name: Language Usage Dashboard (Visualization)
@@ -20,7 +26,7 @@ resources:
 - description: ''
   format: CSV
   name: Language Usage (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/fbc598ae916a4b58939276b8fc3f127c_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/fbc598ae916a4b58939276b8fc3f127c_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: API
   name: Language Usage (API)
@@ -35,10 +41,8 @@ tags:
 - Language access
 - Office of Immigrant Affairs
 - equity
-- immigrants
 - immigration
 - interpretation
-- language usage
 - translation
 time_period: null
 title: Language Services Usage

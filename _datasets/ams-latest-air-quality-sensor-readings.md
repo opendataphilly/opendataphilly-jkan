@@ -8,10 +8,9 @@ category:
 - Health / Human Services
 - Planning / Zoning
 - Public Safety
-created: '2022-05-03T18:27:22.197394'
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'dphams_service_requests@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The latest air quality sensor readings managed by the Air Management Systems\
@@ -22,15 +21,15 @@ resources:
 - description: ''
   format: CSV
   name: Latest core site readings (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/3899a065577747fbb824f0a21afc2e7c_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/3899a065577747fbb824f0a21afc2e7c_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Latest core site readings (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/3899a065577747fbb824f0a21afc2e7c_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/3899a065577747fbb824f0a21afc2e7c_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Latest core site readings (GeoJSON)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/LATEST_CORE_SITE_READINGS/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
+  url: https://hub.arcgis.com/api/v3/datasets/3899a065577747fbb824f0a21afc2e7c_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Latest core site readings (API)

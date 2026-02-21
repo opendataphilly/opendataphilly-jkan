@@ -8,7 +8,6 @@ category:
 - Health / Human Services
 - Planning / Zoning
 - Public Safety
-created: '2015-06-09T18:09:19.775520'
 license: City of Philadelphia License
 maintainer: Darshna Patel
 maintainer_email: darshna.patel@phila.gov
@@ -24,16 +23,16 @@ resources:
 - description: ''
   format: CSV
   name: Census Block Groups - 2010 (CSV)
-  url: https://opendata.arcgis.com/datasets/2f982bada233478ea0100528227febce_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/2f982bada233478ea0100528227febce_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Census Block Groups - 2010 (SHP)
-  url: https://opendata.arcgis.com/datasets/2f982bada233478ea0100528227febce_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/2f982bada233478ea0100528227febce_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: GeoJSON
   name: Census Block Groups - 2010 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/2f982bada233478ea0100528227febce_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/2f982bada233478ea0100528227febce_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: When the Census changes boundaries for each data release, new layers
     will be added to reflect those boundaries.
   format: API
@@ -43,22 +42,22 @@ resources:
     will be added to reflect those boundaries.
   format: HTML
   name: Census Block Groups - 2010 (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5543867720583086178c4f46/representationdetails/55438ac99b989a05172d0d79/
+  url: -https://metadata.phila.gov/#home/datasetdetails/5543867720583086178c4f46/representationdetails/55438ac99b989a05172d0d79/?view_287_per_page=25&view_287_page=1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: CSV
   name: Census Block Groups - 2000 (CSV)
-  url: https://opendata.arcgis.com/datasets/1ad81da48cd24da492efc42952b4cbea_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/1ad81da48cd24da492efc42952b4cbea_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: SHP
   name: Census Block Groups - 2000 (SHP)
-  url: https://opendata.arcgis.com/datasets/1ad81da48cd24da492efc42952b4cbea_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/1ad81da48cd24da492efc42952b4cbea_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: GeoJSON
   name: Census Block Groups - 2000 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/1ad81da48cd24da492efc42952b4cbea_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/1ad81da48cd24da492efc42952b4cbea_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: When the Census changes boundaries for each data release, new layers
     will be added to reflect those boundaries.
   format: API
@@ -68,22 +67,22 @@ resources:
     release, new layers will be added to reflect those boundaries.'
   format: HTML
   name: Census Block Groups - 2000 (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/5543867720583086178c4f46/representationdetails/557ae8ce97f2dbd87e7cc271/
+  url: https://metadata.phila.gov/#home/datasetdetails/5543867720583086178c4f46/representationdetails/557ae8ce97f2dbd87e7cc271/?view_287_per_page=25&view_287_page=1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: CSV
   name: Census Block Groups - 1990 (CSV)
-  url: https://opendata.arcgis.com/datasets/1eed3c9b6d3c4561aaa62e1fc2dd81c4_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/1eed3c9b6d3c4561aaa62e1fc2dd81c4_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: SHP
   name: Census Block Groups - 1990 (SHP)
-  url: https://opendata.arcgis.com/datasets/1eed3c9b6d3c4561aaa62e1fc2dd81c4_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/1eed3c9b6d3c4561aaa62e1fc2dd81c4_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: 'Update Frequency: When the Census changes boundaries for each data
     release, new layers will be added to reflect those boundaries.'
   format: GeoJSON
   name: Census Block Groups - 1990 (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/1eed3c9b6d3c4561aaa62e1fc2dd81c4_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/1eed3c9b6d3c4561aaa62e1fc2dd81c4_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: When the Census changes boundaries for each data release, new layers
     will be added to reflect those boundaries.
   format: API

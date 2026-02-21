@@ -1,11 +1,8 @@
 ---
 area_of_interest: null
 category:
-- Economy
 - Planning / Zoning
-- Real Estate / Land Records
 - Transportation
-created: '2015-06-09T05:19:35.311377'
 license: City of Philadelphia License
 maintainer: Dominick Cassise
 maintainer_email: dominick.cassise@phila.gov
@@ -27,15 +24,15 @@ resources:
 - description: ''
   format: CSV
   name: Traffic PM Districts (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/11c2040839a945cf8e3baaa7db35029f_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/11c2040839a945cf8e3baaa7db35029f_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Traffic PM  Districts (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/11c2040839a945cf8e3baaa7db35029f_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/11c2040839a945cf8e3baaa7db35029f_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Traffic PM Districts (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/11c2040839a945cf8e3baaa7db35029f_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/11c2040839a945cf8e3baaa7db35029f_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Traffic PM Districts (API)
@@ -47,15 +44,15 @@ resources:
 - description: ''
   format: CSV
   name: Traffic PM Districts - Line (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/8fe5a73d1a314731beafd20da4c530b4_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/8fe5a73d1a314731beafd20da4c530b4_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: Traffic PM Districts - Line (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/8fe5a73d1a314731beafd20da4c530b4_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/8fe5a73d1a314731beafd20da4c530b4_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Traffic PM Districts - Line (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/8fe5a73d1a314731beafd20da4c530b4_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/8fe5a73d1a314731beafd20da4c530b4_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Traffic PM Districts - Line (API)

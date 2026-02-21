@@ -2,10 +2,8 @@
 area_of_interest: null
 category:
 - Economy
-- Environment
 - Food
 - Planning / Zoning
-created: '2015-01-21T03:56:30.894181'
 license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: ligisteam@phila.gov
@@ -21,15 +19,15 @@ resources:
 - description: ''
   format: CSV
   name: Vending Prohibited Streets (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/08c8b2294f0843a49f5be9540fcab268_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/08c8b2294f0843a49f5be9540fcab268_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Vending Prohibited Streets (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/08c8b2294f0843a49f5be9540fcab268_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/08c8b2294f0843a49f5be9540fcab268_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Vending Prohibited Streets (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/08c8b2294f0843a49f5be9540fcab268_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/08c8b2294f0843a49f5be9540fcab268_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Vending Prohibited Streets (API)

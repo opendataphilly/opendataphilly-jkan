@@ -2,7 +2,7 @@
 area_of_interest: null
 category:
 - Parks / Recreation
-created: '2014-12-08T22:32:44.706340'
+- Public Safety
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
@@ -16,15 +16,15 @@ resources:
 - description: ''
   format: CSV
   name: PAL Centers (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/63363998067d434c9b8c1e352fc54f38_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/63363998067d434c9b8c1e352fc54f38_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
   name: PAL Centers (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/63363998067d434c9b8c1e352fc54f38_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/63363998067d434c9b8c1e352fc54f38_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
   name: PAL Centers (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/63363998067d434c9b8c1e352fc54f38_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/63363998067d434c9b8c1e352fc54f38_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: PAL Centers (API)

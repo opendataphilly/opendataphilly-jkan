@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Environment
 - Food
-created: '2021-11-30T20:06:00.668651'
 license: City of Philadelphia License
 maintainer: Chris Park
 maintainer_email: chris.park@phila.gov
@@ -16,15 +15,15 @@ resources:
 - description: ''
   format: CSV
   name: Community Compost Network Site (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/23999f659d9143e184e72c8e5a2bc1df_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/23999f659d9143e184e72c8e5a2bc1df_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Community Compost Network Site (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/23999f659d9143e184e72c8e5a2bc1df_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/23999f659d9143e184e72c8e5a2bc1df_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Community Compost Network Site (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/23999f659d9143e184e72c8e5a2bc1df_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/23999f659d9143e184e72c8e5a2bc1df_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Community Compost Network Site (API)

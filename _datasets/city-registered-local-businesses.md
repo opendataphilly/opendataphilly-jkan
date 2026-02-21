@@ -3,10 +3,9 @@ area_of_interest: null
 category:
 - Budget / Finance
 - Economy
-created: '2021-05-14T12:44:05.002185'
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'lbecertification@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The City of Philadelphia gives preference to certified local businesses through\
@@ -18,23 +17,13 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: App
-  name: Search local business entities app (App)
+  name: Search local business entities app (HTML)
   url: https://www.phila.gov/departments/procurement-department/local-preference/local-business-entity-listing/
 - description: ''
   format: CSV
   name: City-Registered Local Businesses (CSV)
   url: https://phl.carto.com/api/v2/sql?filename=registered_local_businesses&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT
     * FROM registered_local_businesses ORDER BY business_name ASC
-- description: ''
-  format: SHP
-  name: City-Registered Local Businesses (SHP)
-  url: https://phl.carto.com/api/v2/sql?filename=registered_local_businesses&format=shp&skipfields=cartodb_id&q=SELECT
-    * FROM registered_local_businesses ORDER BY business_name ASC
-- description: ''
-  format: GeoJSON
-  name: City-Registered Local Businesses (GeoJSON)
-  url: https://phl.carto.com/api/v2/sql?filename=registered_local_businesses&format=geojson&skipfields=cartodb_id&q=SELECT+*+FROM+registered_local_businesses
-    ORDER BY business_name ASC
 - description: ''
   format: API
   name: City-Registered Local Businesses (API)

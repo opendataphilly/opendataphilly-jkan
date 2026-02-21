@@ -2,7 +2,6 @@
 area_of_interest: null
 category:
 - Environment
-created: '2015-10-07T18:24:09.439881'
 license: City of Philadelphia License
 maintainer: Phil Pierdomenico
 maintainer_email: raymond.pierdomenico@phila.gov
@@ -18,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: Stormwater Management Practice Polygons (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/dd72ac67ed2b4176afdcb60051334c83_0/downloads/data?format=csv&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/dd72ac67ed2b4176afdcb60051334c83_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Stormwater Management Practice Polygons (SHP)
-  url: https://opendata.arcgis.com/api/v3/datasets/dd72ac67ed2b4176afdcb60051334c83_0/downloads/data?format=shp&spatialRefId=4326
+  url: https://hub.arcgis.com/api/v3/datasets/dd72ac67ed2b4176afdcb60051334c83_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: 'Stormwater Management Practice Polygons (GeoJSON) '
-  url: https://opendata.arcgis.com/datasets/dd72ac67ed2b4176afdcb60051334c83_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/dd72ac67ed2b4176afdcb60051334c83_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Stormwater Management Practice Polygons (API)

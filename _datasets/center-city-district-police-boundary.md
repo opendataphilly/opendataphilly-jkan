@@ -3,7 +3,6 @@ area_of_interest: null
 category:
 - Boundaries
 - Public Safety
-created: '2020-09-30T20:47:49.439841'
 license: City of Philadelphia License
 maintainer: publicsafetygis@phila.gov
 maintainer_email: publicsafetygis@phila.gov
@@ -19,15 +18,15 @@ resources:
 - description: ''
   format: CSV
   name: CCD Police Boundary (CSV)
-  url: https://opendata.arcgis.com/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0.csv
+  url: https://hub.arcgis.com/api/v3/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: CCD Police Boundary (SHP)
-  url: https://opendata.arcgis.com/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0.zip
+  url: https://hub.arcgis.com/api/v3/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: CCD Police Boundary (GeoJSON)
-  url: https://opendata.arcgis.com/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0.geojson
+  url: https://hub.arcgis.com/api/v3/datasets/7a5ea5246f7542a1a9a7e8525a6b3a1b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: CCD Police Boundary (API)
@@ -36,10 +35,31 @@ resources:
   format: HTML
   name: CCD Police Boundary (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/57056f08f2480e9908b580e6/representationdetails/57056f08f2480e9908b580e8/
+- description: ''
+  format: CSV
+  name: Center City Business Improvement District Boundary (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/95366b115d93443eae4cc6f498cb3ca3_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
+- description: ''
+  format: SHP
+  name: Center City Business Improvement District Boundary (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/95366b115d93443eae4cc6f498cb3ca3_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: Center City Business Improvement District Boundary (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/95366b115d93443eae4cc6f498cb3ca3_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: Center City Business Improvement District Boundary (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/CCD_BOUNDARY/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: Center City Business Improvement District Boundary (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/557aed5d4d72efc5445ab0c1/representationdetails/557f30e0c579ea311699bb41/
 schema: philadelphia
 source: ''
 tags:
 - Philadelphia Police Department
+- Center City District
 time_period: null
 title: Center City District Police Boundary
 usage: null

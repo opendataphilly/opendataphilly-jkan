@@ -5,7 +5,6 @@ category:
 - Environment
 - Food
 - Planning / Zoning
-created: '2023-06-30T03:56:30.894181'
 license: City of Philadelphia License
 maintainer: ligisteam@phila.gov
 maintainer_email: ligisteam@phila.gov
@@ -18,15 +17,15 @@ resources:
 - description: ''
   format: CSV
   name: Vending Prohibition Exceptions (CSV)
-  url: https://opendata.arcgis.com/api/v3/datasets/e37198b7636d45bd8e5b110d9d905d23_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/e37198b7636d45bd8e5b110d9d905d23_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: SHP
   name: Vending Prohibition Exceptions (SHP)
-  url: 	https://opendata.arcgis.com/api/v3/datasets/e37198b7636d45bd8e5b110d9d905d23_0/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/e37198b7636d45bd8e5b110d9d905d23_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
 - description: ''
   format: GeoJSON
   name: Vending Prohibition Exceptions (GeoJSON)
-  url: https://opendata.arcgis.com/api/v3/datasets/e37198b7636d45bd8e5b110d9d905d23_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/e37198b7636d45bd8e5b110d9d905d23_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
   name: Vending Prohibition Exceptions (API)
@@ -37,5 +36,7 @@ resources:
   url: https://metadata.phila.gov/#home/datasetdetails/63ea7b833a6d260011344674/representationdetails/63ea7b833a6d260011344683/
 schema: philadelphia
 source: ''
+tags:
+- Department of Licenses and Inspections
 title: Vending Prohibition Exceptions
 ---
