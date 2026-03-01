@@ -7,7 +7,7 @@ created: '2014-12-08T22:22:17.755927'
 license: License Not Specified
 maintainer: ''
 maintainer_email: philaplace@hsp.org
-maintainer_link: http://www.philaplace.org/contact/
+maintainer_link: https://phila.place/contact/
 maintainer_phone: 215-732-6200
 notes: PhilaPlace is an online interactive database of both contemporary and historical
   multimedia record, including personal/neighborhood stories, photography, and video,
@@ -23,7 +23,7 @@ resources:
 - description: ''
   format: HTML
   name: PhilaPlace
-  url: http://www.philaplace.org/
+  url: https://phila.place/
 schema: philadelphia
 source: ''
 tags:
