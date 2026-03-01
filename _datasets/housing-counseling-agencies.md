@@ -14,6 +14,7 @@ notes: "DHCD has long supported neighborhood-based and citywide organizations of
   \ provided by these agencies include mortgage counseling, default and delinquency\
   \ counseling, tenant support and housing consumer education. Through these services\
   \ prospective homeowners can avoid predatory loans, a significant cause of foreclosure."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

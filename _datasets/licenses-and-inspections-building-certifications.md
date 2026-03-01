@@ -21,6 +21,7 @@ notes: "Certain buildings in the City of Philadelphia require periodic inspectio
   \ This dataset contains records related to these building certifications.\r\n\r\n\
   You can find out more information about [fire protection certifications](https://www.phila.gov/departments/department-of-licenses-and-inspections/inspections/fire-protection-certifications/)\
   \ and [maintenance inspections](https://www.phila.gov/departments/department-of-licenses-and-inspections/inspections/maintenance-inspections/)."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

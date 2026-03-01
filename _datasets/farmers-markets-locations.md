@@ -13,6 +13,7 @@ notes: "This dataset includes information about farmers' markets in Philadelphia
 
   Use the [Farmers' Market Finder app](https://www.phila.gov/farmers-markets/) to view a map with each location and
   find a market near you."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

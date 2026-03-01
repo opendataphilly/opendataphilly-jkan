@@ -10,6 +10,7 @@ maintainer_link: http://www.phila.gov/dot/
 maintainer_phone: null
 notes: "Planimetric Coverage containing the delineation of buildings or related structure\
   \ outlines that represent the footprints of buildings within the City of Philadelphia."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

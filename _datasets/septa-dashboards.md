@@ -9,6 +9,7 @@ maintainer_email: planning@septa.org
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'Visual dashboards that describe ridership and performance metrics.'
+metadata_modified: null
 modified: 'R/P1M'
 organization: SEPTA
 resources:

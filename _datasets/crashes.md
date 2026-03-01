@@ -12,6 +12,7 @@ notes: "This data set contains crash data for many years from the Pennsylvania\
   \ Department of Transportation (Penn DOT). This is a subset of the [annual Crash\
   \ Data compiled](https://crashinfo.penndot.gov/PCIT/welcome.html) and released by\
   \ Penn DOT for the entire state."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

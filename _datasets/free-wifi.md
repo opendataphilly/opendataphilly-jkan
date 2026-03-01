@@ -9,6 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "These dataset, dashboard and app tools identify what city-owned sites have free public Wi-Fi available. Between 2025 and 2026, all of    these sites are slated to receive fiber install and Meraki Wi-Fi routers that greatly increase the speed and quality of available Wi-Fi. The   
  dataset and dashboard notes what sites have had this install completed, among other amenities available at each site."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

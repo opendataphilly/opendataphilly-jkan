@@ -15,6 +15,7 @@ notes: 'Provides access to current SEPTA bus detours via an API. All detours for
    <br>
    Example: https://www3.septa.org/api/BusDetours/23
    '
+metadata_modified: null
 modified: R/P1D
 organization: SEPTA
 resources:

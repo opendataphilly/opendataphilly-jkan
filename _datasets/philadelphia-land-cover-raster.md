@@ -16,6 +16,7 @@ notes: "The Philadelphia Land Cover Raster provides data on the types of surface
   \ covers another surface type, that area is placed in the tree canopy category.\
   \ The data was gathered with the assistance of the University of Vermont Spatial\
   \ Analysis Laboratory.\r\n\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

@@ -14,6 +14,7 @@ notes: Philadelphia Public Art @philart.net includes photographs, descriptive in
   exhibits. A search function is also available. An RSS feed provides information
   on new entries and images updates to the database. The site is not affiliated with
   any non-profit, public, or governmental arts organization.
+metadata_modified: null
 modified: null
 organization: Philart.net
 resources:

@@ -16,6 +16,7 @@ notes: "This dataset shows areas where vending activity is regulated by Chapter 
   the locations of vending prohibitions, exceptions to vending prohibitions, and neighborhood business districts (AKA special vending districts). The polygons 
   in this dataset show the locations of vending regulations and relevant details like code references, links to the code reference, and regulation types
   (prohibitions, exceptions, or special vending districts). This dataset is updated on an as needed basis as governing legislation is passed."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

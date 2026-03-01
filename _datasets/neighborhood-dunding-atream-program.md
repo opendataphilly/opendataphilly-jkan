@@ -11,6 +11,7 @@ maintainer_phone: null
 notes: 'This data reflects the businesses that received grant funding through the Neighborhood Funding Stream Program. 
   The program is administered and funded by the Philadelphia Department of Commerce to support businesses. Grants are 
   designed for commercial development, beautification, and financial empowerment opportunities.'
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

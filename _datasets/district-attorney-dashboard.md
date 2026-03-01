@@ -18,6 +18,7 @@ notes: "Interactive data reports on the Philadelphia District Attorney's Office'
   an interactive map displaying the data by police districts.
 
   The dashboard does not provide for downloading data. Data downloads can be found at https://opendataphilly.org/datasets/district-attorney/"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

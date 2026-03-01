@@ -16,6 +16,7 @@ notes: COVID datasets are now a snapshot in time from 2020 - December 2024.
   and death by race and hospitalizations are accumulated since 8/15/2020. Data is
   collected from the City's data published at https://www.opendataphilly.org/showcase/philadelphia-covid-19-information
   through a daily scrape of the web site.
+metadata_modified: null
 modified: null
 organization: Ambient Point
 resources:

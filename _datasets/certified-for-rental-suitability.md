@@ -9,6 +9,7 @@ maintainer_email: ligisteam@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Properties that have applied and been approved as suitable for renting. "
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

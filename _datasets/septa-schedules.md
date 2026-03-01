@@ -21,6 +21,7 @@ notes: 'Provides API access to SEPTA regional rail, bus, and trolley schedules.
   returns scheduled stops for Ridge Av & Walnut Ln
   <br>
   '
+metadata_modified: null
 modified: null
 organization: SEPTA
 resources:

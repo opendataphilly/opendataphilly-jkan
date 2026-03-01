@@ -12,6 +12,7 @@ maintainer_link: http://philadelphia.foobooz.com/
 maintainer_phone: 215-564-7700
 notes: An RSS feed of reviews and features about Philadelphia restaurants/bars and
   Philadelphia-related food culture developments.
+metadata_modified: null
 modified: null
 organization: Foobooz
 resources:

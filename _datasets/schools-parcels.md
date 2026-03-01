@@ -15,6 +15,7 @@ changing or is not publicly available. If you have specific questions about a sc
 This dataset includes the location of schools in the City of Philadelphia with attribute information for address, 
 grade level, type, and status. The institution types are displayed by default using the following subtypes: 
 district (public schools), charter and private (including archdiocesan). There is also a point layer of [Schools](https://opendataphilly.org/datasets/schools/) available."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

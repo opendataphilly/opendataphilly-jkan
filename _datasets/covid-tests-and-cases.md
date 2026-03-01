@@ -20,6 +20,7 @@ notes: "***COVID datasets are now a snapshot in time from 2020 - December 2024.*
   \ tests by date, zip, and outcome and cases by race, age or sex.  To protect the\
   \ confidentiality of residents, PDPH suppresses the exact data for any categories\
   \ that have less than 6 counts (i.e. of tests or fatalities).\r\n\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

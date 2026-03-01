@@ -12,6 +12,7 @@ maintainer_phone: 215-686-5322
 notes: "The library maintains several RSS feeds: Author Events, Free Library Blog,\
   \ Free Library Podcast, Book Reviews, and Digital Collections. \r\n\r\nYou can also\
   \ build a custom RSS feed: http://libwww.freelibrary.org/rss/rssmenu.cfm "
+metadata_modified: null
 modified: null
 organization: Free Library of Philadelphia
 resources:

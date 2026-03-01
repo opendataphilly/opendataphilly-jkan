@@ -11,6 +11,7 @@ maintainer_phone: null
 notes: "The boundaries of the four designated pilot areas included in the Philly Rising\
   \ program. Philly Rising focuses on areas with chronic quality of life concerns\
   \ and works with residents and community groups to address neighborhood issues."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

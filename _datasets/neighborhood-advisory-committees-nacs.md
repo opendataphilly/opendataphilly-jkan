@@ -11,6 +11,7 @@ maintainer_phone: null
 notes: "DHCD\u2019s Neighborhood Advisory Committee (NAC) Program offers community-based\
   \ non-profit organizations the opportunity to lead and engage neighborhood residents\
   \ in activities that support the City\u2019s core objectives.\r\n\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

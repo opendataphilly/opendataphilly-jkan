@@ -11,6 +11,7 @@ maintainer_phone: null
 notes: "Commercial Real Estate Acquisition Loan Program (CREAL) is a City of Philadelphia program administered through a CDFI, 
   currently the Women's Opportunities Resource Center (WORC). This program is designed to assist undercapitalized business owners 
   in securing loans to purchase commercial spaces for their operations."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

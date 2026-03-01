@@ -10,6 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "This data set is a list of elected Committee People by ward, division, and\
   \ party."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

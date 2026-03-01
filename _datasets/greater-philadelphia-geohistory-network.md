@@ -18,6 +18,7 @@ notes: "The Greater Philadelphia GeoHistory Network contains geographic material
   \ in conjunction with a current streets overlay.\r\n\r\nThe historic maps in the\
   \ map viewer are available as tile services for appropriate projects - contact the\
   \ project for further information."
+metadata_modified: null
 modified: null
 organization: "Athen\xE6um of Philadelphia"
 resources:

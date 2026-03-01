@@ -11,6 +11,7 @@ notes: "The locations of polling places in Philadelphia, along with parking code
   \ building accessibility code attribute markers. Data is originally provided by\
   \ the Philadelphia City Commissioners and is continuously updated in correspondence\
   \ with the City Commissioners website, www.philadelphiavotes.com."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

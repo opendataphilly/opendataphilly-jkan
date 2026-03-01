@@ -10,6 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Raw data dump from the PPA including meter/kiosk manufacturer and model, as\
   \ well as status."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

@@ -10,6 +10,7 @@ maintainer_phone: null
 notes: "The Office of Clean & Green Initiatives perform two 13-week Citywide Intergovernmental Cleaning events a year. 
   The event includes 13 (or more) City agencies, Departments and partners working together to clean the City of Quality
   of Life issues."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

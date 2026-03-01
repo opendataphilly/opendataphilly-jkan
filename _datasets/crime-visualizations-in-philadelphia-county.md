@@ -11,6 +11,7 @@ maintainer_phone: null
 notes: The data on crime occurring in Philadelphia County is from the Philadelphia
   Police Department. The Philadelphia Inquirer has organized the data into a maps
   and charts. The data can be searched by year and neighborhood.
+metadata_modified: null
 modified: null
 organization: The Philadelphia Inquirer
 resources:

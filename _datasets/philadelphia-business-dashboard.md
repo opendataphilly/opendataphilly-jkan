@@ -18,6 +18,7 @@ notes: "This interactive series of charts and maps was developed to track Philad
   \ Small Businesses\r\n - Pre-pandemic City and Zip Area Profiles\r\n - Pre-pandemic\
   \ Business Owner Profiles\r\n\r\nThe data can be filtered based on industry, location,\
   \ size, and gender."
+metadata_modified: null
 modified: null
 organization: Pew Philadelphia Research and Policy Initiative
 resources:

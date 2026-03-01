@@ -12,6 +12,7 @@ notes: "***COVID datasets are now a snapshot in time from 2020 - December 2024.*
   \ well as total dose information for all vaccinations performed by the health department.\
   \ Also provides vaccinations by census tract, ZIP code, date, age, race, and sex.\
   \ Vaccinations include residents and non-residents of Philadelphia. Updates daily."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

@@ -11,6 +11,7 @@ maintainer_phone: (609) 261-6600
 notes: 'The purpose of this dataset is to record weather to help people get quick
   access to climate data. Additionally, this dataset is useful for background information
   or looking at yearly differences. '
+metadata_modified: null
 modified: null
 organization: NOAA
 resources:

@@ -8,6 +8,7 @@ maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Non Big Belly waste baskets maintained/collected by the City of Philadelphia.\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

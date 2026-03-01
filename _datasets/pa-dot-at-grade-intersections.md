@@ -9,6 +9,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: 717-772-3305
 notes: 'Locations of Pennsylvania At-Grade Intersections as maintained by the PA Dept of Transportation'
+metadata_modified: null
 modified: null
 organization: PA Department of Transportation
 resources:
