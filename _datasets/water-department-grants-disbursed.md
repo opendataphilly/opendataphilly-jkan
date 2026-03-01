@@ -17,6 +17,7 @@ notes: "Collection Process:  This data set reflects the recipients, award amount
   \ be useful to community organizations interested in serving as stewards of green\
   \ infrastructure located in their area. And it can be useful to businesses impacted\
   \ by PWD projects.\r\n\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

@@ -10,6 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: Expenditures, employee information, teacher attendance, teacher demographics,
   budgets, and full-time employees
+metadata_modified: null
 modified: null
 organization: School District of Philadelphia
 resources:

@@ -10,6 +10,7 @@ maintainer_phone: null
 notes: "The Philadelphia Small Business Catalyst Fund is a program aimed at accelerating the growth of small
   businesses and entrepreneurs through grants of up to $50,000, as well as business support and advisory services
   to ensure long-term success. The data represents businesses that have been awarded the grant thus far."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

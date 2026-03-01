@@ -9,6 +9,7 @@ maintainer_email: null
 maintainer_link: null
 maintainer_phone: null
 notes: "A dataset of the places to donate or recycle items in Philadelphia."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

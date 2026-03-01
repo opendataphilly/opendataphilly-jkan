@@ -9,6 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Rain Barrels installed under PWD's Rain Barrel Workshop and Installation program,\
   \ which ran from 2006 to 2014."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

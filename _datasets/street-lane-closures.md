@@ -11,6 +11,7 @@ notes: "Street lane closures for general public use. This is the master layer de
   \ the Lane Closures due to permitted road work. This layer shows the type and purpose\
   \ of working being done, the effective dates of the permits issued, as well the\
   \ status of the work.\r\n\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

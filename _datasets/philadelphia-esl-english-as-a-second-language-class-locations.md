@@ -11,6 +11,7 @@ maintainer_phone: null
 notes: "Location of English as a Second Language (ESL) classes in Philadelphia. To\
   \ find the best site to visit for ESL classes, or to enroll in training for volunteers\
   \ to become an ESL tutor, please contact the Office of Adult Education at 215-686-5250."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

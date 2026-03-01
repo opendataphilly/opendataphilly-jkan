@@ -16,6 +16,7 @@ notes: "Summary data for each of several data sources can be downloaded
   summary charges. The data can be grouped by day, month, or year and filtered 
   based on a date range. It can also be downloaded as a city-wide dataset or 
   grouped by police district, zipcode, or census tract. The data is updated daily."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

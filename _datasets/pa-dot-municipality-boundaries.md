@@ -13,6 +13,7 @@ notes: 'Boundaries of municipalities within Pennsylvania as delineated for the P
 Type 10 general highway maps. Additional information comes from the Pennsylvania Bureau of 
 Municipal Services. This layer contains all classifications of municipality including 
 first and second class townships, boroughs, cities and the town.'
+metadata_modified: null
 modified: null
 organization: PA Department of Transportation
 resources:

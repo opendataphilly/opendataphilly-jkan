@@ -9,6 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Facilitated by the Mayor's Office of Community Engagement, Mini City Halls are community spaces throughout the
   City - located in each of the 10 Council Districts, where constituents can receive assistance on a range of city services."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

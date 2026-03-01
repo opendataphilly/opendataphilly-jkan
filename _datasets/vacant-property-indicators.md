@@ -12,6 +12,7 @@ maintainer_phone: null
 notes: "The location of properties across Philadelphia that are likely to be a vacant\
   \ lot or vacant building based on an assessment of City of Philadelphia administrative\
   \ datasets."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

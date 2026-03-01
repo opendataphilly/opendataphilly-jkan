@@ -16,6 +16,7 @@ notes: 'Stop summary files represent average daily ridership at the stop level o
   for Fall 2020 due to a malware attack. APC bus data was also not available for 
   articulated vehicles and the Boulevard Direct from August 2020 through February 2022
   due to the malware attack. Some data excludes 2020 and 2021 due to COVID'
+metadata_modified: null
 modified: R/P6M
 organization: SEPTA
 resources:

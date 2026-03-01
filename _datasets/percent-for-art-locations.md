@@ -13,6 +13,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Locations and basic information on public art that is part of the Percent\
   \ for Art program. Updated as needed. \r\n\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

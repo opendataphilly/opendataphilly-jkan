@@ -11,6 +11,7 @@ maintainer_phone: null
 notes: 'SEPTA publishes real-time alerts, updates, and vehicle positions as GTFS-RT 
   data feeds in protocol buffer (protobuf) format. A human-readable version is available 
   from each end-point using /print.php but will only have the most recent 5 records.'
+metadata_modified: null
 modified: null
 organization: SEPTA
 resources:

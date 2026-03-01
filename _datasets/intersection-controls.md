@@ -9,6 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "This layer identifies the active intersection controls for the Street Lighting\
   \ and Traffic Engineering Divisions of the City of Philadelphia Streets Department."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

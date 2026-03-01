@@ -31,8 +31,12 @@ dataset_fields:
     label: Maintainer Link
   - field_name: maintainer_phone
     label: Maintainer Phone
+  - field_name: metadata_modified
+    label: Metadata Last Updated
+    datajson: metadata_modified
+    display_template: display/date.html
   - field_name: modified
-    label: Last Updated
+    label: Data Last Updated
     datajson: modified
     display_template: display/date.html
   - field_name: source

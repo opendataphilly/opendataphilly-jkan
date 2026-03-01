@@ -18,6 +18,7 @@ notes: "To prevent homeowners from becoming homeless due to foreclosure, the Cit
   \ to foreclosure with City-funded housing counseling, outreach, a hotline and legal\
   \ assistance. Working together, the City and the Court have created and implemented\
   \ a national model.\r\n\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

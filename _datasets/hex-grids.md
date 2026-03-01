@@ -10,6 +10,7 @@ maintainer_phone: null
 notes: "This is the H3 (https://h3geo.org/) hex grid covering Philadelphia. H3 indexes points and shapes into a hexagonal grid.
   It is meant to be used as a standardized grid for aggregating data at different resolutions. Grids exist for resolution
   levels 7 to 10. Any cells that overlap the city limits were included."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

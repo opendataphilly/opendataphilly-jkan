@@ -15,6 +15,7 @@ notes: "Commodities contracts are bid and awarded by the Procurement Department,
   \ a new tab, simple right click on the page, and choose 'save as.' When the save\
   \ as dialog box appears, make sure the 'save as type' is Microsoft Excel Comma Separated\
   \ Values File. You should then be able to open in excel.\r\n\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

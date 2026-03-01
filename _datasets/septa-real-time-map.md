@@ -10,6 +10,7 @@ maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'The SEPTA Real-time Map combines the results of several APIs, 
 including bus, trolley and regional rail locations and alerts.'
+metadata_modified: null
 modified: R/PT5M
 organization: SEPTA
 resources:

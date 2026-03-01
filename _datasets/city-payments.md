@@ -29,6 +29,7 @@ notes: "This dataset includes checks and ACH (direct deposit) payments made by t
   \ and benefits data or payments the City makes to fund the operations of the First\
   \ Judicial District.\r\n- Vendors should use the [vendor payment website](https://secure.phila.gov/finance/vendorpayments/),\
   \ not this dataset, to track payments."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

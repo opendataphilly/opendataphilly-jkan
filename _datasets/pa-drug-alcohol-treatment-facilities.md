@@ -14,6 +14,7 @@ notes: 'The PA Drug Alcohol Treatment Facilities dataset includes facilities tha
   The accuracy of geocoding is available in Geocoding Certainty attribute field (Geocoding Certainty: 
   Rooftop="00", Street="01", Zip Centroid="04", Not geocoded="99").'
 
+metadata_modified: null
 modified: null
 organization: PA Department of Health
 resources:

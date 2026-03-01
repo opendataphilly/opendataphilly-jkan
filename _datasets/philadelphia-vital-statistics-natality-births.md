@@ -16,6 +16,7 @@ notes: "Vital Statistics tables that contain aggregate metrics on the natality (
   \ Please refer to the metadata links below for variable definitions and [this technical\
   \ notes document](https://metadata.phila.gov/index.html#home/datasetdetails/61c23fb963d616001ef54695/)\
   \ to access detailed technical notes about the datasets.\r\n\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

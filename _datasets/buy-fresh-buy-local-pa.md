@@ -18,6 +18,7 @@ notes: Buy Fresh, Buy Local is an online application that enables users to acces
   a map visualization. The application is maintained by the Pennsylvania Association
   for Sustainable Agriculture. Free registration enables commenting, blogging, uploading
   recipes and other interactive features.
+metadata_modified: null
 modified: null
 organization: Pasa Sustainable Agriculture
 resources:

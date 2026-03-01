@@ -12,6 +12,7 @@ notes: 'Now & Then provides access to historic and contemporary photographs of P
   When accessed via a location-aware web browser, the app loads photographs taken
   near the user''s location. Historic photographs are from the PhillyHistory.org database.
   Contemporary photographs are from Panaramio.com. '
+metadata_modified: null
 modified: null
 organization: Skookul.com
 resources:

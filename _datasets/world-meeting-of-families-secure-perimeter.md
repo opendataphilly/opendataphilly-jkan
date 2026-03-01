@@ -10,6 +10,7 @@ maintainer_email: oem@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Secure perimeter for the 2015 World Meeting of Families in Philadelphia, PA."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

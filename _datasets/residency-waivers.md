@@ -14,6 +14,7 @@ notes: "The table below shows which job positions have received a waiver from th
   \ Philadelphia within six months after your appointment date.\r\n-Civil service\
   \ positions: you must live in Philadelphia for one year before your appointment\
   \ date."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

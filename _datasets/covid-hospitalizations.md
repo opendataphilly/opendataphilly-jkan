@@ -9,6 +9,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "***COVID datasets are now a snapshot in time from 2020 - December 2024.***\r\n\r\n
   A break down by census categories of the hospitalizations to date within the city limits."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:
