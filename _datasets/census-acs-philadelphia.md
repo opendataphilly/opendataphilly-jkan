@@ -56,10 +56,14 @@ notes: |
   - B03002: Hispanic/Latino Origin by Race (multiple variables)
   - B27001: Health Insurance Coverage (multiple variables)
 
+  The API examples below use the 2024 (2020-2024) release. To access other
+  years, replace "2024" in the URL with the desired year (available annually
+  from 2009 to 2024).
+
   For complete variable lists and definitions, see the Census Variable Search
   Tool below. No API key required for basic use, but free registration
   provides higher rate limits.
-modified: 2023-12-07
+modified: 2026-01-29
 organization: U.S. Census Bureau
 resources:
   - description: >
@@ -67,29 +71,29 @@ resources:
       variables. Essential for finding specific demographic, economic, or
       housing variables. Search by keyword or browse by topic.
     format: HTML
-    name: ACS Census Variable Search Tool (2018-2022)
-    url: https://api.census.gov/data/2022/acs/acs5/variables.html
+    name: ACS Census Variable Search Tool (2020-2024)
+    url: https://api.census.gov/data/2024/acs/acs5/variables.html
   - description: >
       Census API endpoint for Philadelphia County aggregate data. Modify the
       get= parameter to include any ACS variables. Example returns total
       population (B01003_001E). Free access, no API key required for basic use.
     format: API
-    name: ACS 5-Year Population (2018-2022) - Philadelphia County Level
-    url: https://api.census.gov/data/2022/acs/acs5?get=NAME,B01003_001E&for=county:101&in=state:42
+    name: ACS 5-Year Population (2020-2024) - Philadelphia County Level
+    url: https://api.census.gov/data/2024/acs/acs5?get=NAME,B01003_001E&for=county:101&in=state:42
   - description: >
       Census API endpoint for all Philadelphia census tracts. Returns data
       for 408 census tracts. Modify the get= parameter to query any ACS
       variables. Example includes total population (B01003_001E).
     format: API
-    name: ACS 5-Year Population (2018-2022) - Census Tract Level
-    url: https://api.census.gov/data/2022/acs/acs5?get=NAME,B01003_001E&for=tract:*&in=state:42&in=county:101
+    name: ACS 5-Year Population (2020-2024) - Census Tract Level
+    url: https://api.census.gov/data/2024/acs/acs5?get=NAME,B01003_001E&for=tract:*&in=state:42&in=county:101
   - description: >
       Census API endpoint for all Philadelphia block groups. Returns data for
       1,816 block groups. Most granular geography available. Modify the get=
       parameter to query any ACS variables. Example includes total population (B01003_001E).
     format: API
-    name: ACS 5-Year Population (2018-2022) - Block Group Level
-    url: https://api.census.gov/data/2022/acs/acs5?get=NAME,B01003_001E&for=block%20group:*&in=state:42&in=county:101&in=tract:*
+    name: ACS 5-Year Population (2020-2024) - Block Group Level
+    url: https://api.census.gov/data/2024/acs/acs5?get=NAME,B01003_001E&for=block%20group:*&in=state:42&in=county:101&in=tract:*
   - description: >
       Example API query for multiple economic variables: median household
       income, poverty rate, employment status, and median home value
@@ -97,36 +101,36 @@ resources:
       by census tract. 
     format: API
     name: Example - Economic Indicators by Tract
-    url: https://api.census.gov/data/2022/acs/acs5?get=NAME,B19013_001E,B17001_001E,B17001_002E,B23025_003E,B25077_001E&for=tract:*&in=state:42&in=county:101
+    url: https://api.census.gov/data/2024/acs/acs5?get=NAME,B19013_001E,B17001_001E,B17001_002E,B23025_003E,B25077_001E&for=tract:*&in=state:42&in=county:101
   - description: >
       Example API query for demographic variables: total population,
       race/ethnicity breakdown by census tract. Includes White alone, Black
       alone, Asian alone, and Hispanic/Latino (B01003_001E, B03002_003E, B03002_004E, B03002_006E ,B03002_012E).
     format: API
     name: Example - Demographics by Tract
-    url: https://api.census.gov/data/2022/acs/acs5?get=NAME,B01003_001E,B03002_003E,B03002_004E,B03002_006E,B03002_012E&for=tract:*&in=state:42&in=county:101
+    url: https://api.census.gov/data/2024/acs/acs5?get=NAME,B01003_001E,B03002_003E,B03002_004E,B03002_006E,B03002_012E&for=tract:*&in=state:42&in=county:101
   - description: >
       Example API query for housing variables: total housing units, occupied
       units, median home value, median rent, owner vs renter occupied by
       census tract (B25001_001E, B25002_002E, B25077_001E, B25064_001E, B25003_001E, B25003_002E, B25003_003E&).
     format: API
     name: Example - Housing Characteristics by Tract
-    url: https://api.census.gov/data/2022/acs/acs5?get=NAME,B25001_001E,B25002_002E,B25077_001E,B25064_001E,B25003_001E,B25003_002E,B25003_003E&for=tract:*&in=state:42&in=county:101
+    url: https://api.census.gov/data/2024/acs/acs5?get=NAME,B25001_001E,B25002_002E,B25077_001E,B25064_001E,B25003_001E,B25003_002E,B25003_003E&for=tract:*&in=state:42&in=county:101
   - description: >
       Example API query for transportation data: means of transportation to
       work including car, public transit, walked, worked from home by census
       tract (B08301_001E, B08301_002E, B08301_010E, B08301_019E, B08301_021E&).
     format: API
-    name: Example - Commute Patterns by Tract (2018-2022)
-    url: https://api.census.gov/data/2022/acs/acs5?get=NAME,B08301_001E,B08301_002E,B08301_010E,B08301_019E,B08301_021E&for=tract:*&in=state:42&in=county:101
+    name: Example - Commute Patterns by Tract (2020-2024)
+    url: https://api.census.gov/data/2024/acs/acs5?get=NAME,B08301_001E,B08301_002E,B08301_010E,B08301_019E,B08301_021E&for=tract:*&in=state:42&in=county:101
   - description: >
       Example API query for educational attainment: population 25+ by
       educational level including less than high school, high school
       graduate, some college, bachelor's degree, graduate degree 
       (B15003_001E, B15003_017E, B15003_018E, B15003_022E, B15003_023E).
     format: API
-    name: Example - Education Attainment by Tract (2018-2022)
-    url: https://api.census.gov/data/2022/acs/acs5?get=NAME,B15003_001E,B15003_017E,B15003_018E,B15003_022E,B15003_023E&for=tract:*&in=state:42&in=county:101
+    name: Example - Education Attainment by Tract (2020-2024)
+    url: https://api.census.gov/data/2024/acs/acs5?get=NAME,B15003_001E,B15003_017E,B15003_018E,B15003_022E,B15003_023E&for=tract:*&in=state:42&in=county:101
   - description: >
       Comprehensive Census API documentation including query syntax,
       geography options, variable naming conventions, and usage examples.
@@ -140,8 +144,8 @@ resources:
       available geographies, groups, variables, and examples. Technical
       reference for advanced users.
     format: HTML
-    name: ACS 5-Year Technical Documentation (2018-2022)
-    url: https://api.census.gov/data/2022/acs/acs5.html
+    name: ACS 5-Year Technical Documentation (2020-2024)
+    url: https://api.census.gov/data/2024/acs/acs5.html
   - description: >
       Official ACS handbook with detailed information about survey
       methodology, data collection, estimation procedures, and how to
