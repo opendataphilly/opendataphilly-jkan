@@ -1,5 +1,5 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category: 
 - Economy
 - Planning / Zoning
@@ -14,6 +14,7 @@ notes: "This dataset contains information about eCLIPSE permit documents of the 
   available when related to completed permits that were initially denied by the Board of Building Standards (BBS) or 
   Plumbing Advisory Board (PAB). Similarly, denial documents are only available for BBS or PAB denials related to completed 
   permits."
+metadata_modified: null
 modified: R/P1D
 organization: City of Philadelphia
 resources:
