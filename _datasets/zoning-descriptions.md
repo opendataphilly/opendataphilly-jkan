@@ -11,6 +11,7 @@ maintainer_phone:
 notes: 'This is a table listing all of the [Zoning Base District](https://opendataphilly.org/datasets/zoning-base-districts/) Zoning Codes
   and the description of each. The table can be joined via the New_Code field in this table and the Long_Code field in the
   Zoning_BaseDistricts feature class.'
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:
