@@ -11,6 +11,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Data includes historic maps of the City of Philadelphia that are shared in [Atlas.phila.gov](https://atlas.phila.gov/),
   allowing users to switch between current imagery and historic maps."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

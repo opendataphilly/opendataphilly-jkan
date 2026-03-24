@@ -12,6 +12,7 @@ notes: "The Reinvestment Fund’s (TRF) Market Value Analysis (MVAs) is a tool r
   with local experts. With an MVA, public officials and private actors can more precisely target intervention strategies in stressed
   markets and support sustainable growth in stronger markets. [Visit TRF's MVA analysis](https://www.reinvestment.com/research/market-value-analysis/)
   page for more information."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

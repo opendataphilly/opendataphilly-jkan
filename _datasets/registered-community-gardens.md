@@ -12,6 +12,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Locations of community gardens throughout the City of Philadelphia that are\
   \ registered with the Philadelphia Parks and Recreation's Urban Agriculture Team."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

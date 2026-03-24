@@ -16,6 +16,7 @@ notes: 'An application that enables users to report non-emergency issues in thei
   and leave comments. Reports can be viewed in list, gallery, or map views. An API
   is available. Key based authentication is required and obtained after registering
   for a free account with SeeClickFix. A mobile version is also available. '
+metadata_modified: null
 modified: null
 organization: SeeClickFix
 resources:

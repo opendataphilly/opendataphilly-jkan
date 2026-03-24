@@ -13,6 +13,7 @@ notes: "DHCD supports the Energy Coordinating Agency\u2019s (ECA) Neighborhood E
   \ Centers, through which residents can complete applications to seek bill payment\
   \ assistance, learn how to conserve water, gas and electricity, and obtain energy\
   \ counseling."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

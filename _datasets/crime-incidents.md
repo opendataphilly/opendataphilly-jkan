@@ -16,6 +16,7 @@ notes: "Crime incidents from the Philadelphia Police Department. Part I crimes i
   \ you can also use the API links to access this data. You can learn more about how\
   \ to use the API at Carto\u2019s SQL API site and in the Carto guide in the section\
   \ on making calls to the API.**"
+metadata_modified: null
 modified: R/P1D
 organization: City of Philadelphia
 resources:

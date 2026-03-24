@@ -12,6 +12,7 @@ notes: 'This dataset reflects the businesses that received emergency grant fundi
   Program. The program is administered by The Merchants Fund and funded by the Philadelphia Department of Commerce to support 
   businesses experiencing unexpected emergencies. Grants are designed to help small businesses recover from emergencies, 
   stabilize their operations, and continue serving their communities.'
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

@@ -11,6 +11,7 @@ maintainer_phone: null
 notes: "Block by block percentages across Philadelphia showing the percentages of\
   \ properties (buildings and lots) in each block considered likely to be vacant by\
   \ the city's Vacant Property Indicators Model."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

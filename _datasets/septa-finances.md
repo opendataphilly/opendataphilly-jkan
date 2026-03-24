@@ -9,6 +9,7 @@ maintainer_email: planning@septa.org
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'SEPTA financial data including expense by category and vendor and financial projections.'
+metadata_modified: null
 modified: null
 organization: SEPTA
 resources:

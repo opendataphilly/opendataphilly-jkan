@@ -11,6 +11,7 @@ maintainer_phone: null
 notes: 'The purpose of this dataset is to report inefficiencies in SEPTA''s regional rail train
   scheduling for use by SEPTA employees and casual train riders. It also documents late trains, which you can use to excuse work lateness.'
 
+metadata_modified: null
 modified: null
 organization: Apps for Phor
 resources:

@@ -22,6 +22,7 @@ notes: "Late last year, the City of Philadelphia began posting online certain da
   \ words, the file labeled \"Complaints Against Police March 2018 Data\" was uploaded\
   \ by the City in March 2018 before being replaced the next month.\r\n\r\nThe original\
   \ data are available here: https://www.opendataphilly.org/datasets/police-complaints"
+metadata_modified: null
 modified: null
 organization: Philly Declaration
 resources:

@@ -27,6 +27,7 @@ notes: "Founded as William Penn's \"Holy Experiment,\" Philadelphia has a centur
   \ 1960.\r\n\r\nData elements include:  current congregation, original congregation,\
   \ address, year of construction, original architect and whether or not the build\
   \ is on the Philadelphia or National Historic Registers.\r\n"
+metadata_modified: null
 modified: null
 organization: Preservation Alliance for Greater Philadelphia
 resources:

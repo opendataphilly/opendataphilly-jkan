@@ -12,6 +12,7 @@ maintainer_phone: null
 notes: PWD Parcels with fields added that help categorize parcels by Green Stormwater
   Infrastructure (GSI) Planning program and standardize ownership or ownership category
   and summarize impervious cover by surface type.
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

@@ -9,6 +9,7 @@ maintainer_email: max.steinbrenner@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Sites where residents can drop off household trash and recycling."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

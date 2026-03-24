@@ -12,6 +12,7 @@ notes: 'The Inquirer has assembled restaurant food inspection data for four coun
   Philadelphia, Bucks Country, Gloucester County, Montgomery County. Violations include
   risk factors for foodborne illness and lack of good retail practices. Updated on
   an ongoing basis.'
+metadata_modified: null
 modified: null
 organization: The Philadelphia Inquirer
 resources:

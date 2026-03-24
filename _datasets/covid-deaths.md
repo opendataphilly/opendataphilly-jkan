@@ -18,6 +18,7 @@ notes: "***COVID datasets are now a snapshot in time from 2020 - December 2024.\
   \ or age. You can [find COVID cases datasets here](https://www.opendataphilly.org/datasets/covid-cases).\
   \ To protect the confidentiality of residents, PDPH suppresses the exact data for\
   \ any categories that have less than 6 counts (i.e. of cases or fatalities)."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

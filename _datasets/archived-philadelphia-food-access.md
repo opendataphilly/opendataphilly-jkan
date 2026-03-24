@@ -17,6 +17,7 @@ notes: "The datasets below have been archived and will not receive further updat
   \ different from the more recent data, so it would not make sense to compare the\
   \ two.\r\n\r\nThis dataset is derived from the Walkable Access to Healthy Foods\
   \ in Philadelphia, 2012-2014 report analyses."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

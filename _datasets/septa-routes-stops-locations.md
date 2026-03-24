@@ -9,6 +9,7 @@ maintainer_email: planning@septa.org
 maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: "Geographic (GIS) data for SEPTA routes, stops, and locations is available in a variety of formats."
+metadata_modified: null
 modified: null
 organization: SEPTA
 resources:

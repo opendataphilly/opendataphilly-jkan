@@ -9,6 +9,7 @@ maintainer_email: chris.park@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Community compost network sites located throughout the City of Philadelphia."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

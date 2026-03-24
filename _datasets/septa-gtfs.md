@@ -10,6 +10,7 @@ maintainer_link: https://wwww.septa.org/open-data/
 maintainer_phone: null
 notes: 'SEPTA schedule and location information in GTFS format.  Additional information can be found on GitHub
   (https://github.com/septadev/GTFS/) or Google group (https://groups.google.com/forum/#!forum/septadev)'
+metadata_modified: null
 modified: R/P3M
 organization: SEPTA
 resources:

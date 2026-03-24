@@ -11,6 +11,7 @@ notes: "Rate of recycling per rubbish/recycling district in total tons of recycl
   \ divided by the total tons of rubbish (garbage) collected during the given time\
   \ period, either fiscal year, a fiscal year through a given quarter, or within one\
   \ quarter."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

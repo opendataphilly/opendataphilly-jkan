@@ -9,6 +9,7 @@ maintainer_link: http://www.phila.gov/records/
 maintainer_phone: null
 notes: "Department of Records (DOR) Boundaries of real estate property parcels derived\
   \ from legal recorded deed documents. \r\n\r\n"
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

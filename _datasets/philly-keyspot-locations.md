@@ -12,6 +12,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: This is the location and address data of all current KEYSPOT computer labs
   in Philadelphia.
+metadata_modified: null
 modified: null
 organization: Philly KEYSPOTS
 resources:

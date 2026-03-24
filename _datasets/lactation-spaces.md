@@ -8,6 +8,7 @@ maintainer_email: ''
 maintainer_link: null
 maintainer_phone: null
 notes: "An [app](https://lactation-spaces.phila.gov/) and dataset of lactation spaces owned by the City of Philadelphia available to the public."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

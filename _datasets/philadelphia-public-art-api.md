@@ -18,6 +18,7 @@ notes: "A read-only, RESTful JSON API.\r\nThe core function of the API is to ret
   \ to a HATEOAS model of navigation and the use of the \"links\":{\"rel\":\"X\",\"\
   href\":\"Y\"} structure.\r\nAlso supports a geolocation call which returns a collection\
   \ that is defined by bb and ll URL arguments"
+metadata_modified: null
 modified: null
 organization: Philart.net
 resources:

@@ -10,6 +10,7 @@ maintainer_phone: null
 notes: "This dataset reflects the recipients, award amounts, and business sites for grant money disbursed by the PIDC and the
   Philadelphia Department of Commerce for the Quality Jobs Grant Program. Eligible for-profit businesses are awarded for their
   efforts to create new quality jobs with benefits for Philadelphia residents."
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:

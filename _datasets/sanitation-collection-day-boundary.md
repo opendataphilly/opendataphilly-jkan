@@ -16,6 +16,7 @@ notes: "The data is used to determine the day of sanitation collection (rubbish 
   \ can tell you if both sides of the arc belong to one of the bounding polygons.\
   \  All the arcs, including those with no boundary info, have naming attributes for\
   \ labeling the polygon borders. "
+metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:
