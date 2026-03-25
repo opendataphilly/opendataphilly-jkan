@@ -37,6 +37,26 @@ resources:
   format: HTML
   name: Playstreet Locations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5f650e12864f2d0016b813e5/representationdetails/5f650e12864f2d0016b813ea/
+  - description: ''
+  format: CSV
+  name: Playstreet Locations (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/f90a55af1e544aae8a4ced89c11ad7cb_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: Playstreet Locations (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/f90a55af1e544aae8a4ced89c11ad7cb_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: Playstreet Locations (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/f90a55af1e544aae8a4ced89c11ad7cb_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: Playstreet Locations (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/ppr_play_streets_centerline/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: Playstreet Locations (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/692075f4beb6c64b8210251b/representationdetails/692075f4beb6c64b8210252a/
 schema: philadelphia
 source: ''
 tags:
