@@ -1,7 +1,8 @@
 ---
 area_of_interest: City of Philadelphia
 category:
-- Boundaries
+- Public Health
+- Public Safety
 license: City of Philadelphia License
 maintainer: Philly Stat 360
 maintainer_email: henry.bernberg@phila.gov
