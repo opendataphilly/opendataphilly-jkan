@@ -1,7 +1,7 @@
 ---
 area_of_interest: City of Philadelphia
 category:
-- Public Health
+- Health / Human Services
 - Public Safety
 license: City of Philadelphia License
 maintainer: Philly Stat 360
@@ -13,7 +13,7 @@ notes: "This dataset represents summarized police activity related to narcotics,
   datasets are geocoded differently, so events near the perimeter of grid cells may be counted in the neighboring cell from where it actually
   occured."
 metadata_modified: null
-modified: null
+modified: R/P1M
 organization: City of Philadelphia
 resources:
 - description: ''
