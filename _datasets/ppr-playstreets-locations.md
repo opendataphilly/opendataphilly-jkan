@@ -14,7 +14,7 @@ notes: "The streets involved in the PPR Playstreets\
   \ nutritious meals and snacks provided to children. This is important during the\
   \ summer months when school meals are not available. Two datasets are provided: \
   \ one based on the center point of platystreet blocks and one that represents the \
-  \ road centerline segment (a line).\r\n\r\n"
+  \ road centerline segment (a line). \r\n\r\n"
 metadata_modified: null
 modified: null
 organization: City of Philadelphia
@@ -39,7 +39,7 @@ resources:
   format: HTML
   name: Playstreet Locations (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/5f650e12864f2d0016b813e5/representationdetails/5f650e12864f2d0016b813ea/
-  - description: ''
+- description: ''
   format: CSV
   name: Playstreet Locations as Road Centerlines  (CSV)
   url: https://hub.arcgis.com/api/v3/datasets/f90a55af1e544aae8a4ced89c11ad7cb_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
@@ -65,6 +65,6 @@ tags:
 - Philadelphia Parks and Recreation
 - play streets
 time_period: null
-title: Playstreets Locations
+title: PPR Playstreets Locations
 usage: null
 ---
