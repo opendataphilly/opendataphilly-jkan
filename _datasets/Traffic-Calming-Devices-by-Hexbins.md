@@ -5,12 +5,13 @@ category:
 - Transportation
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: "michael.matela@phila.gov"
+maintainer_email: michael.matela@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "Count of traffic calming devices aggregated into hex bins for visualization for Philly Stat 360."
 metadata_modified: null
-modified: null
+modified: '2026-02-13'
+notes: Count of traffic calming devices aggregated into hex bins for visualization
+  for Philly Stat 360.
 organization: City of Philadelphia
 resources:
 - description: ''
