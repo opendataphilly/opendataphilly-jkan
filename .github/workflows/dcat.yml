@@ -50,5 +50,6 @@ jobs:
       - name: Run dcat-validator
         working-directory: ./DCATUS-Validator
         run: |
+          source .venv/bin/activate
           python validate.py  ../_site/data.json
           cat ./validation-results.json
