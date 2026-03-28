@@ -52,4 +52,4 @@ jobs:
         run: |
           source .venv/bin/activate
           python validate.py  ../_site/data.json
-          cat ./validation-results.json
+          cat ./invalid_datasets.json
