@@ -10,8 +10,11 @@
         "Azavea",
         "Geekadelphia",
         "Cheetham",
+        "dcat",
+        "DCATUS",
         "jkan",
         "esac",
+        "venv",
         "jsonify",
         "markdownify",
         "Wisniewski",
@@ -22,6 +25,6 @@
         "ublabs",
         "customised",
         "customise",
-	"shfmt"
+        "shfmt"
     ]
 }
