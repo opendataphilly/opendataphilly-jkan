@@ -5,7 +5,7 @@ description: "The Philadelphia Parking Authority is an integral part of the City
   \ range from managing parking and related traffic management programs on the streets\
   \ of Philadelphia, to building and operating parking lots and garages. http://www.philapark.org/\r\
   \n"
-logo: https://pbs.twimg.com/profile_images/496653224170885121/ym2k5k-F_400x400.jpeg
+logo: img/organizations/logo-phila-parking-authority.jpg
 schema: default
 tags: []
 title: Philadelphia Parking Authority

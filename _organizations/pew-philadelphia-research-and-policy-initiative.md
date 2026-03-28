@@ -3,7 +3,7 @@ description: The Initiative  seeks to inform discussions on important issues fac
   the city and the region and to provide policymakers and other decision-makers with
   data, analysis, and examples of promising practices that may help them address key
   challenges.
-logo: ''
+logo: img/organizations/logo-pew-philadelphia.png
 schema: default
 tags:
 - Economy

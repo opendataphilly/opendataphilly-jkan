@@ -13,7 +13,7 @@ notes: 'The purpose of this dataset is to report inefficiencies in SEPTA''s regi
 
 metadata_modified: null
 modified: null
-organization: Apps for Phor
+organization: Apps on Phor
 resources:
 - description: 'The dashboard supports date queries'
   format: HTML

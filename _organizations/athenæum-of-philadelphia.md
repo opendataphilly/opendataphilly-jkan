@@ -5,7 +5,7 @@ description: The Athenaeum of Philadelphia is an independent member-supported li
   useful knowledge" for public benefit. It provides the Philadelphia region with a
   resource of first resort on matters of architecture and interior design history,
   particularly for the period 1800 to 1945. http://www.philaathenaeum.org
-logo: img/organizations/20150125-001242.236232logoathenaeum.jpg
+logo: img/organizations/logo-athenaeum.jpg
 schema: default
 tags: []
 title: "Athen\xE6um of Philadelphia"

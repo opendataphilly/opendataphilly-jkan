@@ -15,7 +15,7 @@ description: "**TERMS OF USE**: Browsing City data on this site constitutes acce
   \ the City's effort to make more available. Open data is becoming a key part of\
   \ the way governments conduct business and reach constituents. Learn what's next\
   \ for the City's Open Data Program (https://www.phila.gov/programs/open-data-program/)."
-logo: img/organizations/2019-05-28-133551.204260city-of-philadelphia-bell.png
+logo: img/organizations/logo-city-of-philadelphia-bell.png
 schema: default
 tags:
 - Department of Planning and Development
