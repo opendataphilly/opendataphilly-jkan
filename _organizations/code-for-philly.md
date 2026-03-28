@@ -4,7 +4,7 @@ description: Code for Philly leverages code and information with expertise and c
   of civic hackers bringing together technologists, makers, urbanists, storytellers,
   and anyone passionate about Philadelphia to collaborate on genuine, scalable projects
   that produce tangible impacts on our city. https://codeforphilly.org/
-logo: http://photos2.meetupstatic.com/photos/event/4/2/0/6/600_376216902.jpeg
+logo: img/organizations/logo-code-for-philly.jpg
 schema: default
 tags:
 - Homelessness
