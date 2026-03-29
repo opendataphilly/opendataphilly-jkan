@@ -8,7 +8,9 @@ maintainer: ''
 maintainer_email: "james.morse@phila.gov"
 maintainer_link: null
 maintainer_phone: null
-notes: "Count of 311 reports for abandoned vehicles aggregated into 1.5 million square foot hex bins for visualization for Philly Stat 360."
+notes: "Count of 311 reports for abandoned vehicles aggregated hex bins for visualization for Philly Stat 360. \
+Each hexbin is approximately 659 feet on each side or approximately 0.04 sq miles or 4 city blocks."
+metadata-modified: null
 modified: R/P1D
 organization: City of Philadelphia
 resources:
@@ -26,7 +28,7 @@ resources:
   url: https://hub.arcgis.com/api/v3/datasets/c5f6453265b244c981a522cf4e8f85b8_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: HTML
-  name: Abandoned Vehicles by Hex Bins (API Documentation)
+  name: Abandoned Vehicles by Hex Bins (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/hex_abandoned_vehicles/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
