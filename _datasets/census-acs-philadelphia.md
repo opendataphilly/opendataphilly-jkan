@@ -13,6 +13,8 @@ maintainer: U.S. Census Bureau
 maintainer_email: census.ask@census.gov
 maintainer_link: https://www.census.gov/data/developers/about.html
 maintainer_phone: null
+metadata_modified: 2026-01-29
+modified: 2026-01-29
 notes: |
   Comprehensive access to American Community Survey (ACS) 5-Year Estimates
   for Philadelphia County, Pennsylvania. The ACS is the premier source for
@@ -63,7 +65,6 @@ notes: |
   For complete variable lists and definitions, see the Census Variable Search
   Tool below. No API key required for basic use, but free registration
   provides higher rate limits.
-modified: 2026-01-29
 organization: U.S. Census Bureau
 resources:
   - description: >
