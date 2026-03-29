@@ -7,8 +7,10 @@ maintainer: null
 maintainer_email: "henry.bernberg@phila.gov"
 maintainer_link: null
 maintainer_phone: null
-notes: "The number of 911 calls received categorized by priority and aggregated into hex bins."
+metadata_modified: '2026-03-28'
 modified: null
+notes: "The number of 911 calls received categorized by priority and aggregated into hex bins. \
+  The hex bins have an average side length of 1,743 ft and an area of 0.29 square miles."
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -32,7 +34,7 @@ resources:
   name: 911 Emergency Calls by Hex Bins (Metadata)
   url: https://metadata.phila.gov/index.html#home/datasetdetails/6759fb2f4d01be031ac17d45/representationdetails/6759fb2f4d01be031ac17d52/
 schema: philadelphia
-source: ''
+source: null
 tags:
 - Philadelphia Police Department
 - Philadelphia Fire Department
