@@ -10,7 +10,7 @@ maintainer_link: null
 maintainer_phone: null
 notes: "Count of 311 reports for abandoned vehicles aggregated hex bins for visualization for Philly Stat 360. \
 Each hexbin is approximately 659 feet on each side or approximately 0.04 sq miles or 4 city blocks."
-metadata-modified: null
+metadata_modified: null
 modified: R/P1D
 organization: City of Philadelphia
 resources:
