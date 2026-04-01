@@ -27,8 +27,10 @@ dataset_fields:
   - field_name: maintainer_email
     label: Maintainer Email
     datajson: contactPoint.hasEmail
+    display_template: display/maintainer_email.html
   - field_name: maintainer_link
     label: Maintainer Link
+    display_template: display/maintainer_link.html
   - field_name: maintainer_phone
     label: Maintainer Phone
   - field_name: metadata_modified
