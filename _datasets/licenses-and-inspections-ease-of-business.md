@@ -4,7 +4,7 @@ category:
 - Economy
 - Planning / Zoning
 license: City of Philadelphia License
-maintainer: ligisteam@phila.gov
+maintainer: L&I GIS Team
 maintainer_email: LIGISTEAM@phila.gov
 maintainer_link: null
 maintainer_phone: null
@@ -17,20 +17,21 @@ organization: City of Philadelphia
 resources:
 - description: ''
   format: CSV
-  name: L&I Business Licenses (CSV)
+  name: L&I Ease of Business (Plan Review Times) (CSV)
   url: https://hub.arcgis.com/api/v3/datasets/dbe11bf60b2e4c16916abf43042f7e2d_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: API
-  name: L&I Business Licenses (API)
+  name: L&I Ease of Business (Plan Review Times) (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/ease_of_business/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
-  name: L&I Business Licenses (Metadata)
+  name: L&I Ease of Business (Plan Review Times) (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/69bd68334f85501614f78e52/representationdetails/69bd68334f85501614f78e69/
 schema: philadelphia
 source: ''
 tags:
 - Department of Licenses and Inspections
+- plan review times
 time_period: null
 title: Licenses and Inspections Ease of Business
 usage: null
