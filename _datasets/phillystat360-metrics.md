@@ -1,14 +1,20 @@
 ---
 area_of_interest: null
 category:
+- Economy
+- Health / Human Services
+- Public Safety
+- Real Estate / Land Records
+- Planning / Zoning
+- Environment
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: henry.bernberg@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "Aggregated data used to populate cards and charts on the Philly Stat 360 dashbaord."
-metadata_modified: null
+metadata_modified: '2026-04-02'
 modified: null
+notes: "Aggregated data used to populate cards and charts on the Philly Stat 360 dashbaord."
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -17,7 +23,7 @@ resources:
   url: https://hub.arcgis.com/api/v3/datasets/326e711dda5e4e909b62dd809bbc687e_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
 - description: ''
   format: HTML
-  name: Metrics for Philly Stat 360 (API Documentation)
+  name: Metrics for Philly Stat 360 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/metrics/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
