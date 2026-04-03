@@ -18,7 +18,7 @@ resources:
 - description: ''
   format: HTML
   name: Itneractive Map of Water Service Lines
-  url: [https://cityofphiladelphia.carto.com/u/phl/builder/f6b161cf-b680-4dcd-b1f1-6d6472a2d436/embed](https://water.phila.gov/service-line/)
+  url: https://water.phila.gov/service-line/
 schema: philadelphia
 source: ''
 tags:
