@@ -28,7 +28,7 @@ resources:
   format: JSON
   name: Metro Stops by Route API
   url: https://www3.septa.org/api/v2/stops/?route_id=L1
-- description: 'scheduled arrivals for a stop on a given route'
+- description: 'scheduled arrivals for a stop on a given route (using L1 route and a stop_id as an example)'
   format: JSON
   name: Metro Stop Schedule API
   url: https://www3.septa.org/api/v2/stop-schedule/?route_id=L1&stop_id=32158
