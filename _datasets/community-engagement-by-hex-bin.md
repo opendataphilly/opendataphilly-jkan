@@ -4,16 +4,16 @@ category:
 - Health and Human Services
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'henry.bernberg@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Locations of incidents and obfuscated constituent addresses processed through the Mayor's Office of Neighborhood and
   Community Engagement aggregated using the H3 resolution 9 hex bins for visualization for Philly Stat 360.
   Hex bin information:
-  Average area: 1126125 square feet
+  Average area: 1126125 square feet (about 0.04 sq miles)
   Average side length: 659 feet
   Average diameter: 1317 feet."
-metadata_modified: null
+metadata_modified: '4/2/2026'
 modified: null
 organization: City of Philadelphia
 resources:
