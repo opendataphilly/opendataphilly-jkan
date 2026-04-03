@@ -32,7 +32,7 @@ resources:
   format: JSON
   name: Metro Stop Schedule API
   url: https://www3.septa.org/api/v2/stop-schedule/?route_id=L1&stop_id=32158
-- description: 'KML geometry for a Metro route or trip'
+- description: 'KML geometry for a Metro route or trip (using L1 route as an example)'
   format: KML
   name: Metro Route KML API
   url: https://www3.septa.org/api/v2/kml/?route=L1&type=route
