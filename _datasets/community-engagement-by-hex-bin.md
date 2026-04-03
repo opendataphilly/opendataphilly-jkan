@@ -13,7 +13,7 @@ notes: "Locations of incidents and obfuscated constituent addresses processed th
   Average area: 1126125 square feet (about 0.04 sq miles)
   Average side length: 659 feet
   Average diameter: 1317 feet."
-metadata_modified: '4/2/2026'
+metadata_modified: '2026-04-02'
 modified: null
 organization: City of Philadelphia
 resources:
