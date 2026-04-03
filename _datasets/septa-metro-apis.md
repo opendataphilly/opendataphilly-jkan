@@ -20,7 +20,7 @@ resources:
   format: JSON
   name: Metro Trips by Route API
   url: https://www3.septa.org/api/v2/trips/?route_id=L1
-- description: 'stop-time details for a specific trip'
+- description: 'stop-time details for a specific trip (using an example trip_id)'
   format: JSON
   name: Metro Trip Update API
   url: https://www3.septa.org/api/v2/trip-update/?trip_id=705003
