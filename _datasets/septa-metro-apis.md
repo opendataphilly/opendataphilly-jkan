@@ -12,6 +12,8 @@ notes: 'Trip data, stop lists, schedules, and KML geometry for SEPTA Metro route
   Rail lines (L1, B1, M1) have no onboard GPS — expect null coordinates. Trolley
   routes (T1-T5, G1, D1/D2) have partial GPS on surface segments.
 
+  Stop and Route IDs can be found at: https://opendataphilly.org/datasets/septa-routes-stops-locations/
+
   Example: https://www3.septa.org/api/v2/trips/?route_id=L1'
 modified: R/PT1M
 organization: SEPTA
