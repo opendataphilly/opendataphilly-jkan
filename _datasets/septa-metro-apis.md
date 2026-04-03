@@ -16,7 +16,7 @@ notes: 'Trip data, stop lists, schedules, and KML geometry for SEPTA Metro route
 modified: R/PT1M
 organization: SEPTA
 resources:
-- description: 'active trip locations for a Metro route'
+- description: 'active trip locations for a Metro route (using L1 route as an example)'
   format: JSON
   name: Metro Trips by Route API
   url: https://www3.septa.org/api/v2/trips/?route_id=L1
