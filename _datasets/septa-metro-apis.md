@@ -24,7 +24,7 @@ resources:
   format: JSON
   name: Metro Trip Update API
   url: https://www3.septa.org/api/v2/trip-update/?trip_id=705003
-- description: 'ordered stop list for a Metro route'
+- description: 'ordered stop list for a Metro route (using L1 route as an example)'
   format: JSON
   name: Metro Stops by Route API
   url: https://www3.septa.org/api/v2/stops/?route_id=L1
