@@ -4,10 +4,9 @@ category:
 - Environment
 - Health / Human Services
 - Transportation
-created: '2016-06-22T18:26:12.844603'
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: 'james.morse@phila.gov'
+maintainer_email: '311datarequest@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "This represents all service and information requests since December 8th, 2014\
