@@ -4,8 +4,8 @@ category:
 - Transportation
 - Health / Human Services
 license: City of Philadelphia License
-maintainer: Captain Heinzeroth
-maintainer_email: robert.heinzeroth@phila.gov
+maintainer: Stephen Clark
+maintainer_email: CO_CID@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This data set shows all fatal crashes and their investigative outcomes from\
