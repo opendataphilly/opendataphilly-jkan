@@ -10,3 +10,4 @@ vendor
 linters_logs/
 megalinter-reports/
 *.code-workspace
+.vscode
