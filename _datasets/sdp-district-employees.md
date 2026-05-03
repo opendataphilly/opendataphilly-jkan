@@ -6,7 +6,7 @@ created: '2018-05-18'
 license: License Not Specified
 maintainer: ''
 maintainer_email: opendata@philasd.org
-maintainer_link: null
+maintainer_link: https://www.philasd.org/research/#opendata
 maintainer_phone: null
 metadata_modified: '2026-05-03'
 modified: '2026-01-01'
