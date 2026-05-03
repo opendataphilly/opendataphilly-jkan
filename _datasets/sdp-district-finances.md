@@ -96,7 +96,7 @@ resources:
   url: https://cdn.philasd.org/offices/performance/Open_Data/Budget_Staff/Expenditure_Information/expenditure_fy2015%20-%2020150701.zip
 - description: 
   format: ZIP
-  name: Expenditure Information FY 14
+  name: Expenditure Information FY 2014
   url: https://cdn.philasd.org/offices/performance/Open_Data/Budget_Staff/Expenditure_Information/expenditure_fy2014%20-%2020140425.zip
 
 schema: philadelphia

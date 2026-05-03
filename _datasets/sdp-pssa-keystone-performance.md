@@ -10,7 +10,7 @@ maintainer_link: https://www.philasd.org/research/#opendata
 maintainer_phone: null
 metadata_modified: '2026-05-03'
 modified: '2026-02-01'
-notes: "Performance on the Pennsylvania System of School Assessment (PSSA) for all district schools by grade. Performance is provided as counts and percentage for Below Basic, Basic Proficient, Advanced, and Proficient/Advanced scores. The following subgroups are also provided: English Language Learner (ELL), Special Education (IEP) status, Gender, Ethnicity, and Economically disadvantaged.
+notes: "Performance on the Pennsylvania System of School Assessment (PSSA) for all district schools by grade. Performance is provided as counts and percentage for Below Basic, Basic Proficient, Advanced, and Proficient/Advanced scores. The following subgroups are also provided: English Language Learner (ELL), Special Education (IEP) status, Gender, Ethnicity, and Economically disadvantaged. \r\r\
 
 Data is disaggregated by category (e.g., Gender) and group (e.g., Female). Information is suppressed (and a letter s appears) if the number of students in the group (the denominator) is fewer than 20. If only one group within a category has fewer than 20 students, the data for the next-smallest group within the category is also suppressed. Data does not include charter schools."
 organization: School District of Philadelphia
@@ -31,12 +31,12 @@ resources:
   format: ZIP
   name: PSSA and Keystone Exam - SY 2021-2022
   url: https://cdn.philasd.org/offices/performance/Open_Data/School_Performance/PSSA_Keystone/2021_2022_PSSA_Keystone_All_Data.zip
-- description: not administered due to COVID''
-  format: PDF
+- description: 'not administered due to COVID'
+  format: HTML
   name: PSSA and Keystone Exam - SY 2020-2021
   url: https://www.philasd.org/research/2022/02/18/summary-of-district-wide-assessments-administered-to-sdp-students-during-the-2020-21-school-year/
 - description: 'not administered due to COVID'
-  format: PDF
+  format: HTML
   name: PSSA and Keystone Exam - SY 2019-2020
   url: https://www.philasd.org/research/2022/02/18/summary-of-district-wide-assessments-administered-to-sdp-students-during-the-2020-21-school-year/
 - description: ''
