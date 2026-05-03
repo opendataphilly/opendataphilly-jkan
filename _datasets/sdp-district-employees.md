@@ -10,12 +10,12 @@ maintainer_link: https://www.philasd.org/research/#opendata
 maintainer_phone: null
 metadata_modified: '2026-05-03'
 modified: '2026-01-01'
-notes: '- Employee Information: all active employees, including name, pay rate, title, and location - does not include charter schools
-- Teacher Attendance: includes three metrics: Average Daily Attendance (ADA), 90% or more attendance (90%+), and 95% or more attendance (95%+) - does not include charter schools
-- Teacher demographics: the number and percentages of teachers in each racial/ethnic and gender category - does not include charter schools
-- School Leader Demographics: the number and percentages of principals and assistant principals in each racial/ethnic and gender category - does not include charter schools
-- Staff Vacancies: number of FTE staff vacancies across the School District of Philadelphia - does not include charter schools
-- Full-Time Employees (FTEs) '
+notes: "- Employee Information: all active employees, including name, pay rate, title, and location - does not include charter schools \r\
+- Teacher Attendance: includes three metrics: Average Daily Attendance (ADA), 90% or more attendance (90%+), and 95% or more attendance (95%+) - does not include charter schools \r\
+- Teacher demographics: the number and percentages of teachers in each racial/ethnic and gender category - does not include charter schools \r\
+- School Leader Demographics: the number and percentages of principals and assistant principals in each racial/ethnic and gender category - does not include charter schools \r\
+- Staff Vacancies: number of FTE staff vacancies across the School District of Philadelphia - does not include charter schools \r\
+- Full-Time Employees (FTEs) \r\ "
 organization: School District of Philadelphia
 resources:
 - description: 
