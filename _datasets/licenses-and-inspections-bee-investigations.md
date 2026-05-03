@@ -34,7 +34,7 @@ resources:
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/bee_case_investigations/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
-  name: L&I BEE Case Inspections (Metadata) '
+  name: L&I BEE Case Inspections (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/6989fdabd04cbaa404192898/representationdetails/6989fdabd04cbaa4041928af/
 schema: philadelphia
 source: ''
