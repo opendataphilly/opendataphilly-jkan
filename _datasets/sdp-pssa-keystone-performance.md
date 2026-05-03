@@ -17,19 +17,19 @@ organization: School District of Philadelphia
 resources:
 - description: ''
   format: ZIP
-  name: SY 2024-2025
+  name: PSSA and Keystone Exam - SY 2024-2025
   url: https://cdn.philasd.org/offices/performance/Open_Data/School_Performance/PSSA_Keystone/2024_2025_PSSA_Keystone_All_Data.zip
 - description: ''
   format: ZIP
-  name: SY 2023-2024
+  name: PSSA and Keystone Exam - SY 2023-2024
   url: https://cdn.philasd.org/offices/performance/Open_Data/School_Performance/PSSA_Keystone/2023_2024_PSSA_Keystone_All_Data.zip
 - description: ''
   format: ZIP
-  name: SY 2022-2023
+  name: PSSA and Keystone Exam - SY 2022-2023
   url: https://cdn.philasd.org/offices/performance/Open_Data/School_Performance/PSSA_Keystone/2022_2023_PSSA_Keystone_All_Data.zip
 - description: ''
   format: ZIP
-  name: SY 2021-2022
+  name: PSSA and Keystone Exam - SY 2021-2022
   url: https://cdn.philasd.org/offices/performance/Open_Data/School_Performance/PSSA_Keystone/2021_2022_PSSA_Keystone_All_Data.zip
 - description: not administered due to COVID''
   format: PDF
