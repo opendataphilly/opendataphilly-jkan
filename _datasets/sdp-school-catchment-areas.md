@@ -10,7 +10,7 @@ maintainer_link: https://www.philasd.org/research/#opendata
 maintainer_phone: null
 metadata_modified: '2026-05-03'
 modified: '2025-10-01'
-notes: ""
+notes: "Shapefiles that include the catchment areas for Elementary, Middle, and High Schools. The shapefiles require a Geographic Information System (GIS) software to properly display the school catchment areas."
 organization: School District of Philadelphia
 resources:
 - description: ''
