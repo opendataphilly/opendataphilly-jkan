@@ -42,6 +42,6 @@ tags:
 - information requests
 - 311
 time_period: null
-title: Abandoned Vehicles by Hex Bins
+title: 311 Abandoned Vehicles by Hex Bins
 usage: null
 ---
