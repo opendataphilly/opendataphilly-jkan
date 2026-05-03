@@ -4,13 +4,13 @@ category:
 - Education
 created: '2018-05-16'
 license: License Not Specified
-maintainer: ''
+maintainer: 'School District of Philadelphia'
 maintainer_email: opendata@philasd.org
 maintainer_link: https://www.philasd.org/research/#opendata
 maintainer_phone: null
 metadata_modified: '2026-05-03'
 modified: '2025-11-01'
-notes: "School-level enrollment numbers as of Oct 1st, sorted by school and grade. Student subgroups include All Students, Gender, Ethnicity, and EL, IEP, and CEP status. Student Ethnicity breakouts do not include students with unknown ethnicity; student Gender breakouts do not include non-binary students or students with unknown gender information. Note: School years prior to 2019-2020 do not include Charter Schools"
+notes: "School- and District-level enrollment numbers as of Oct 1st. School data is sorted by school and grade. Student subgroups include All Students, Gender, Ethnicity, and EL, IEP, and CEP status. Student Ethnicity breakouts do not include students with unknown ethnicity; student Gender breakouts do not include non-binary students or students with unknown gender information. Note: School years prior to 2019-2020 do not include Charter Schools"
 organization: School District of Philadelphia
 resources:
 - description: 
@@ -85,6 +85,59 @@ resources:
   format: ZIP
   name: School Enrollment - All Available Years
   url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_School/Enrollment_Demographics_School_All_Years.zip
+
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2025-2026
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2025-26%20District%20and%20Sector%20Enrollment%20(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2024-2025
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2024-25%20District%20and%20Sector%20Enrollment%20(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2023-2024
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2023-24%20District%20and%20Sector%20Enrollment%20(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2022-2023
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2022-23%20District%20and%20Sector%20Enrollment%20(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2021-2022
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2021-22%20District%20and%20Sector%20Enrollment%20(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2020-2021
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2020-21%20District%20and%20Sector%20Enrollment%20(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2019-2020
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2019-20%20District%20and%20Sector%20Enrollment%20(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2018-2019
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2018-19_District_and_Sector_Enrollment_(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2017-2018
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2017-18_District_and_Sector_Enrollment_(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2016-2017
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2016-17_District_and_Sector_Enrollment_(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2015-2016
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2015-16_District_and_Sector_Enrollment_(District_NS).csv
+- description: 
+  format: CSV
+  name: District Enrollment - SY 2014-2015
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/2014-15_District_and_Sector_Enrollment_(District_NS).csv
+- description: 
+  format: ZIP
+  name: District Enrollment - All Available Years
+  url: https://cdn.philasd.org/offices/performance/Open_Data/School_Information/Enrollment_Demographics_District/Enrollment_Demographics_All_Years_(District_NS).zip
 
 schema: philadelphia
 source: 'School District of Philadelphia'
