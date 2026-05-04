@@ -8,10 +8,10 @@ layout: default
     <p class="fs-4">{{ site.description }}</p>
     <a href="{{ "/datasets" | relative_url }}" class="btn btn-primary btn-lg" role="button">Browse all datasets</a>
   </div>
-  <img alt="Example homepage hero image" class="d-none d-md-block img-responsive rounded-circle" src="{{ site.baseurl }} {{ site.hero_image }}" style="max-height: 300px" />
+  <img alt="Homepage hero image" class="d-none d-md-block img-responsive rounded-circle" src="{{ site.baseurl }} {{ site.hero_image }}" style="max-height: 300px" />
 </div>
 
-<h3>Browse by Category</h3>
+<div class="browse-cat">Browse by Category</div>
 <div class="card-grid">
 {% for category in site.dataset_categories %}
   {% if category.featured == true %}
