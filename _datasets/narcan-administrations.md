@@ -5,12 +5,12 @@ category:
 - Public Safety
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: 'alexander.cottone@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Percent change of Narcan administrations in each zip code by year."
 metadata_modified: null
-modified: R/P1M
+modified: R/P1Y
 organization: City of Philadelphia
 resources:
 - description: ''
@@ -38,6 +38,7 @@ source: ''
 tags:
 - Philly Stat 360
 - Narcan
+- Fire Department
 time_period: null
 title: Narcan Administrations By ZIP Code
 usage: Public Use; Free
