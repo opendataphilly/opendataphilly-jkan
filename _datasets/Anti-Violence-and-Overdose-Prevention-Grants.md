@@ -1,11 +1,11 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category:
 - Public Safety
 - Health and Human Services
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: null
+maintainer_email: rafael.serrano@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "This dataset represents anti-violence and overdose prevention grants administered by the Office of Public Safety. 
@@ -35,10 +35,10 @@ resources:
   name: Anti Violence and Overdose Prevention Grants (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/69d512a6dcf96242e95e499c/representationdetails/69d512a6dcf96242e95e49b4/
 schema: philadelphia
-source: ''
+source: 'Office of Public Safety'
 tags:
 - Office of Public Safety
-- Anti Violence
+- Anti-Violence
 - Overdoes Prevention
 time_period: null
 title: OPS Anti Violence and Overdose Prevention Grants
