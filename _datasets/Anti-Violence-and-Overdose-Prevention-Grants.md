@@ -34,6 +34,26 @@ resources:
   format: HTML
   name: Anti Violence and Overdose Prevention Grants (Metadata)
   url: https://metadata.phila.gov/#home/datasetdetails/69d512a6dcf96242e95e499c/representationdetails/69d512a6dcf96242e95e49b4/
+  - description: ''
+  format: CSV
+  name: OPS Grants Service Areas (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/37fd63d137634b3bbe7e0d87999c147a_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: OPS Grants Service Areas (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/37fd63d137634b3bbe7e0d87999c147a_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: OPS Grants Service Areas (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/37fd63d137634b3bbe7e0d87999c147a_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: OPS Grants Service Areas (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/ops_grants_service_areas/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: OPS Grants Service Areas (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/69d3dd462153dfac223acde0/representationdetails/69d3dd462153dfac223acdf5/
 schema: philadelphia
 source: 'Office of Public Safety'
 tags:
