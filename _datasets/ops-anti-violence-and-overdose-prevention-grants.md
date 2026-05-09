@@ -59,7 +59,7 @@ source: 'Office of Public Safety'
 tags:
 - Office of Public Safety
 - Anti-Violence
-- Overdoes Prevention
+- Overdose Prevention
 time_period: null
 title: OPS Anti Violence and Overdose Prevention Grants
 usage: null
