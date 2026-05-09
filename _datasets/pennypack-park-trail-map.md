@@ -3,7 +3,7 @@ area_of_interest: null
 category: 
 - Parks / Recreation
 - Environment
-created: '2016-12-01T22:09:27.452175'
+created: '2016-12-01'
 license: License Not Specified
 maintainer: ''
 maintainer_email: info@opendataphilly.org
