@@ -9,29 +9,29 @@ maintainer: 'Robert Cheetham'
 maintainer_email: info@opendataphilly.org
 maintainer_link: null
 maintainer_phone: null
+metadata_modified: '2026-05-09'
+modified: '2024-04-24'
 notes: 'This dataset includes neighborhood boundaries for 150+ neighborhoods in Philadelphia.
   The data was gathered from a mix of publicly available maps, including from the City of Philadelphia,
   the City Archives, the Philadelphia Inquirer, and user feedback.'
-metadata_modified: null
-modified: null
 organization: OpenDataPhilly
 resources:
 - description: ''
   format: SHP
   name: Philadelphia Neighborhoods Shapefile
-  url: https://github.com/opendataphilly/open-geo-data/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.zip
+  url: https://github.com/opendataphilly/odp-data-storage/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.zip
 - description: ''
   format: GeoJSON
   name: Philadelphia Neighborhoods GeoJSON
-  url: https://github.com/opendataphilly/open-geo-data/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.geojson
+  url: https://github.com/opendataphilly/odp-data-storage/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.geojson
 - description: ''
   format: GeoJSON
   name: Philadelphia Neighborhoods GeoPackage
-  url: https://github.com/opendataphilly/open-geo-data/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.gpkg
+  url: https://github.com/opendataphilly/odp-data-storage/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.gpkg
 - description: ''
   format: GeoParquet
   name: Philadelphia Neighborhoods GeoParquet
-  url: https://github.com/opendataphilly/open-geo-data/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.parquet
+  url: https://github.com/opendataphilly/odp-data-storage/blob/master/philadelphia-neighborhoods/philadelphia-neighborhoods.parquet
 schema: philadelphia
 source: 'Robert Cheetham'
 tags: 
