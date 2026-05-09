@@ -6,17 +6,16 @@
 
   {% include head.html %}
 
-  {% include header.html %}
-
   <body>
+
+    {% include header.html %}
 
     <section data-hook="main" class="container" id="main-content">
       {{ content }}
     </section>
 
+    {% include footer.html %}
 
   </body>
 
-  {% include footer.html %}
-      
 </html>
