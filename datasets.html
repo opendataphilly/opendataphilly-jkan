@@ -8,7 +8,7 @@ permalink: /datasets/
 
 <div class="row">
   <div class="col-sm-4">
-    <h3>Categories</h3>
+    <div class="browse-cat">Categories</div>
     <div class="list-group js-shown" data-component="categories-filter" data-show="5"></div>
     <div class="list-group js-hidden">
       {% for category in site.dataset_categories %}
@@ -20,7 +20,7 @@ permalink: /datasets/
       {% endfor %}
     </div>
     <br/>
-    <h3>Organizations</h3>
+    <div class="browse-cat">Organizations</div>
     <div class="list-group js-shown" data-component="organizations-filter" data-show="15"></div>
     <div class="list-group js-hidden">
       {% for organization in site.organizations %}
@@ -33,13 +33,13 @@ permalink: /datasets/
     </div>
   </div>
   <div class="col-sm-8" data-component="datasets-list">
-    <h3 class="datasets-count" data-hook="datasets-count">{{ datasets_count }}
-      {% if datasets_count == 1 %}dataset{% else %}datasets{% endif %}</h3>
+    <div class="browse-cat datasets-count" data-hook="datasets-count">{{ datasets_count }}
+      {% if datasets_count == 1 %}dataset{% else %}datasets{% endif %}</div>
     <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
     <div data-hook="datasets-items">
       {% for dataset in site.datasets %}
       <dataset>
-        <h3><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a></h3>
+        <div class="browse-cat"><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a></div>
         {{ dataset.notes | markdownify }}
       </dataset>
       {% endfor %}

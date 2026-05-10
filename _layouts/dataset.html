@@ -22,11 +22,11 @@ layout: default
               {% endif %}
                         </div>
                         <div class="card-header">
-                          <h3 style="word-wrap: break-word">
+                          <div class="browse-cat" style="word-wrap: break-word">
                             <a href="{{ organization_url }}" about="{{ organization_url }}" property="foaf:homepage">
                               <span property="foaf:name">{{ organization.title }}</span>
                             </a>
-                          </h3>
+                          </div>
                             </div>
                             <div class="card-body">
                           {{ organization.description | markdownify }}

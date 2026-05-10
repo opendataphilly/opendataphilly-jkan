@@ -3,12 +3,12 @@ body {
 }
 
 a {
-  color: #098e8e;
+  color: #367D87;
   text-decoration: none;
 }
 
 a:hover {
-  color: #20c3c4;
+  color: #168383;
   text-decoration: underline;
 }
 
@@ -47,11 +47,19 @@ input[data-hook=search-query] {
   width: 64px;
 }
 
+.browse-cat {
+  font-size: calc(1.3rem + .6vw);
+}
+
 dataset {
   display: block;
   border-bottom: 1px #d6d6d6 solid;
   padding-bottom: 10px;
   padding-top: 10px;
+}
+
+.datasets-count {
+  display: inline-block;
 }
 
 .list-group-item-truncate {
@@ -65,10 +73,6 @@ dataset {
 
 .resource-description {
   font-size: 90%;
-}
-
-.datasets-count {
-  display: inline-block;
 }
 
 .resource-details,

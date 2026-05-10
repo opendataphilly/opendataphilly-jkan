@@ -1,7 +1,7 @@
 /**
  * Usage:
  * <div data-component="datasets-list">
- *   <h3 class="datasets-count" data-hook="datasets-count"></h3>
+ *   <div class="datasets-count" data-hook="datasets-count"></div>
  *   <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
  *   <div data-hook="datasets-items"></div>
  * </div>

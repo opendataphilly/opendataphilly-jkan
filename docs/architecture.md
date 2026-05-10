@@ -69,7 +69,7 @@ By convention, elements within a component's HTML markup that need to be referen
 
 ```html
 <div data-component="datasets-list">
-  <h3 data-hook="datasets-count"></h3>
+  <div data-hook="datasets-count"></div>
   <input data-hook="search-query" type="text" placeholder="Search">
   <div data-hook="datasets-items"></div>
 </div>
