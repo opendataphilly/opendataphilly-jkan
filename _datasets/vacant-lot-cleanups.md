@@ -1,11 +1,11 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category:
 - Real Estate / Land Records
 - Environment
 license: City of Philadelphia License
 maintainer: ''
-maintainer_email: ''
+maintainer_email: 'dylan.ponticel@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "Dates and locations of when lots were cleaned (removing weeds, debris, etc.)\
@@ -58,6 +58,7 @@ schema: philadelphia
 source: ''
 tags:
 - Community Life Improvement Program
+- Philly Stat 360
 time_period: null
 title: Vacant Lot Cleanups
 usage: null
