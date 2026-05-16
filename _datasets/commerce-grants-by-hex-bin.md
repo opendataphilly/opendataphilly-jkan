@@ -3,8 +3,8 @@ area_of_interest: null
 category:
 - Economy
 license: City of Philadelphia License
-maintainer: ''
-maintainer_email: null
+maintainer: 'Philly Stat 360'
+maintainer_email: dylan.ponticel@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Count of Commerce grants aggregated using H3 resolution 9 hex bins for visualization for Philly Stat 360. Commerce grants include:
@@ -15,11 +15,11 @@ notes: "Count of Commerce grants aggregated using H3 resolution 9 hex bins for v
   -Neighborhood Funding Stream Program
 
   Hex bin information:
-  Average area: 1126125 square feet
+  Average area: 1126125 sq feet (0.04 sq miles)
   Average side length: 659 feet
   Average diameter: 1317 feet"
-metadata_modified: null
-modified: null
+metadata_modified: '2025-05-13'
+modified: '2025-04-23'
 organization: City of Philadelphia
 resources:
 - description: ''
