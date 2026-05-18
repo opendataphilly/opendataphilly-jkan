@@ -1,45 +1,52 @@
 /* global settings */
 import 'core-js/actual'
-import $ from 'jquery'
 import 'bootstrap/js/dist/collapse'
 
 import DatasetsList from './components/datasets-list'
-import CategoriesFilter from './components/categories-filter'
-import OrganizationsFilter from './components/organizations-filter'
+import DatasetFilter from './components/dataset-filter' // Using the combined component
 import DatasetDisplay from './components/dataset-display'
-import {queryByComponent} from './util'
+import { queryAllByComponent } from './util' // Note: Using a "queryAll" variant
 
 const urlSearchParams = new URLSearchParams(window.location.search)
-const params = {}
-urlSearchParams.forEach((value, key) => {
-  params[key] = value
-})
+const params = Object.fromEntries(urlSearchParams.entries())
 
-// Helper function to ensure datasets.json is only fetched once per page
-let datasetsCache
-function getDatasets () {
-  datasetsCache = datasetsCache || $.getJSON(`${settings.BASE_URL}/datasets.json`)
+// 1. Native replacement for $.getJSON using the Fetch API
+let datasetsCache = null
+async function getDatasets () {
+  if (!datasetsCache) {
+    const response = await fetch(`${settings.BASE_URL}/datasets.json`)
+    datasetsCache = await response.json()
+  }
   return datasetsCache
 }
 
-// Check for these components on the page and initialize them
+// 2. Updated component list (pointing both filters to DatasetFilter)
 const components = [
-  {tag: 'dataset-display', class: DatasetDisplay},
-  {tag: 'datasets-list', class: DatasetsList, usesDatasets: true},
-  {tag: 'categories-filter', class: CategoriesFilter, usesDatasets: true},
-  {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true}
+  { tag: 'dataset-display', class: DatasetDisplay },
+  { tag: 'datasets-list', class: DatasetsList, usesDatasets: true },
+  { tag: 'categories-filter', class: DatasetFilter, type: 'category', usesDatasets: true },
+  { tag: 'organizations-filter', class: DatasetFilter, type: 'organization', usesDatasets: true }
 ]
-for (let component of components) {
-  const els = queryByComponent(component.tag)
-  if (els.length) {
-    // If the component depends on datasets.json, fetch it first (once per page) and pass it
-    if (component.usesDatasets) {
-      getDatasets().then((datasets) => {
-        els.each((index, el) => new component.class({el: $(el), params, datasets})) // eslint-disable-line
-      })
-    // Otherwise simply initialize the component
-    } else {
-      els.each((index, el) => new component.class({el: $(el), params})) // eslint-disable-line
+
+// 3. Native initialization loop
+async function init () {
+  for (const component of components) {
+    // Look for all instances of the component on the page
+    const els = queryAllByComponent(component.tag)
+    
+    if (els.length > 0) {
+      if (component.usesDatasets) {
+        const datasets = await getDatasets()
+        els.forEach(el => {
+          new component.class({ el, params, datasets, type: component.type })
+        })
+      } else {
+        els.forEach(el => {
+          new component.class({ el, params })
+        })
+      }
     }
   }
 }
+
+init()

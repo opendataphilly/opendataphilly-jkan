@@ -1,22 +1,32 @@
-import $ from 'jquery'
+import { queryAllByHook, queryByHook } from '../util'
 
-import {queryByHook} from '../util'
+export default class DatasetDisplay {
+  constructor ({ el }) {
+    const container = el.jquery ? el[0] : el
+    const resourceItems = queryAllByHook('resource-item', container)
 
-export default class {
-  constructor (opts) {
-    const elements = {
-      resourceItem: queryByHook('resource-item', opts.el)
-    }
-
-    // Resource details links
-    elements.resourceItem.each((index, item) => {
-      if ($('table tr', item).length) {
-        queryByHook('show-resource-details', item).show()
+    // 1. Replaced elements.resourceItem.each with native .forEach
+    resourceItems.forEach((item) => {
+      // 2. Replaced $('table tr', item) with native querySelector
+      if (item.querySelector('table tr')) {
+        const showDetailsBtn = queryByHook('show-resource-details', item)
+        if (showDetailsBtn) showDetailsBtn.style.display = ''
       }
     })
-    elements.resourceItem.on('click', '[data-hook~=show-resource-details]', (e) => {
-      $(e.currentTarget).closest('[data-hook~=resource-item]').children('[data-hook~=resource-details]').toggle()
-      e.preventDefault()
+
+    // 3. Replaced jQuery event delegation with a clean native event listener
+    container.addEventListener('click', (e) => {
+      const targetBtn = e.target.closest('[data-hook~=show-resource-details]')
+      if (targetBtn) {
+        const item = targetBtn.closest('[data-hook~=resource-item]')
+        const details = item ? queryByHook('resource-details', item) : null
+        
+        if (details) {
+          // Toggle visibility natively
+          details.style.display = details.style.display === 'none' ? '' : 'none'
+        }
+        e.preventDefault()
+      }
     })
   }
 }

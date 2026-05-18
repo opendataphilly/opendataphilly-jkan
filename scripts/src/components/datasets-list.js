@@ -1,66 +1,61 @@
-/**
- * Usage:
- * <div data-component="datasets-list">
- *   <div class="datasets-count" data-hook="datasets-count"></div>
- *   <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
- *   <div data-hook="datasets-items"></div>
- * </div>
- *
- * Optionally, add filters to the component element such as
- *   data-organization="sample-department"
- *   data-category="education"
- */
-import {pick, defaults, filter} from 'lodash'
-
 import TmplDatasetItem from '../templates/dataset-item'
-import {queryByHook, setContent, createDatasetFilters} from '../util'
+import { queryByHook, setContent, createDatasetFilters } from '../util'
 
-export default class {
-  constructor (opts) {
+export default class DatasetsList {
+  constructor ({ el, datasets, params }) {
+    const container = el.jquery ? el[0] : el
+
     const elements = {
-      datasetsItems: queryByHook('datasets-items', opts.el),
-      datasetsCount: queryByHook('datasets-count', opts.el),
-      searchQuery: queryByHook('search-query', opts.el)
+      datasetsItems: queryByHook('datasets-items', container),
+      datasetsCount: queryByHook('datasets-count', container),
+      searchQuery: queryByHook('search-query', container)
     }
 
-    // Filter datasets and render in items container
-    const paramFilters = pick(opts.params, ['organization', 'category'])
-    const attributeFilters = pick(opts.el.data(), ['organization', 'category'])
-    const filters = createDatasetFilters(defaults(paramFilters, attributeFilters))
-    const filteredDatasets = filter(opts.datasets, filters)
+    const extractFilters = (source) => {
+      const extracted = {}
+      if (source && source.organization) extracted.organization = source.organization
+      if (source && source.category) extracted.category = source.category
+      return extracted
+    }
+
+    const paramFilters = extractFilters(params)
+    // 1. Replaced el.data() with native container.dataset
+    const attributeFilters = extractFilters(container.dataset) 
+    const combinedFilters = { ...attributeFilters, ...paramFilters }
+
+    const filters = createDatasetFilters(combinedFilters)
+    const filteredDatasets = datasets.filter(filters)
     const datasetsMarkup = filteredDatasets.map(TmplDatasetItem)
     setContent(elements.datasetsItems, datasetsMarkup)
 
-    // // Dataset count
-    const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
-    const datasetsCountMarkup = filteredDatasets.length + ' dataset' + datasetSuffix;
+    const datasetSuffix = filteredDatasets.length > 1 ? 's' : ''
+    const datasetsCountMarkup = filteredDatasets.length + ' dataset' + datasetSuffix
     setContent(elements.datasetsCount, datasetsCountMarkup)
 
-    // Search datasets listener
     const searchFunction = this._createSearchFunction(filteredDatasets)
-    elements.searchQuery.on('keyup', (e) => {
-      const query = e.currentTarget.value
+    
+    // 2. Replaces elements.searchQuery.on('keyup') with addEventListener
+    if (elements.searchQuery) {
+      elements.searchQuery.addEventListener('keyup', (e) => {
+        const query = e.currentTarget.value
 
-      // Datasets
-      const results = searchFunction(query)
-      const resultsMarkup = results.map(TmplDatasetItem)
-      setContent(elements.datasetsItems, resultsMarkup)
+        const results = searchFunction(query)
+        const resultsMarkup = results.map(TmplDatasetItem)
+        setContent(elements.datasetsItems, resultsMarkup)
 
-      // Dataset count
-      const resultsCountMarkup = results.length + ' datasets'
-      setContent(elements.datasetsCount, resultsCountMarkup)
-    })
+        const resultsCountMarkup = results.length + ' datasets'
+        setContent(elements.datasetsCount, resultsCountMarkup)
+      })
+    }
   }
 
-  // Returns a function that can be used to search an array of datasets
-  // The function returns the filtered array of datasets
   _createSearchFunction (datasets) {
     const keys = ['title', 'notes', 'tags', 'resource_names']
     return function (query) {
       const lowerCaseQuery = query.toLowerCase()
-      return filter(datasets, function (dataset) {
+      return datasets.filter(function (dataset) {
         return keys.reduce(function (previousValue, key) {
-          return previousValue || (dataset[key] && dataset[key].toLowerCase().indexOf(lowerCaseQuery) !== -1)
+          return previousValue || (dataset[key] && dataset[key].toLowerCase().includes(lowerCaseQuery))
         }, false)
       })
     }

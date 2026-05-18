@@ -1,15 +1,50 @@
-import $ from 'jquery'
+// util.js
 
-export function queryByHook (hook, container) {
-  return $(`[data-hook~=${hook}]`, container)
+/**
+ * Helper to safely extract a raw DOM element if a jQuery object 
+ * is accidentally passed during migration.
+ */
+const getRawEl = (el) => (el && el.jquery ? el[0] : el)
+
+export function queryByHook (hook, container = document) {
+  return getRawEl(container).querySelector(`[data-hook~="${hook}"]`)
 }
 
-export function queryByComponent (component, container) {
-  return $(`[data-component~=${component}]`, container)
+export function queryAllByHook (hook, container = document) {
+  return Array.from(getRawEl(container).querySelectorAll(`[data-hook~="${hook}"]`))
+}
+
+export function queryByComponent (component, container = document) {
+  return getRawEl(container).querySelector(`[data-component~="${component}"]`)
+}
+
+export function queryAllByComponent (component, container = document) {
+  const parent = getRawEl(container)
+  return Array.from(parent.querySelectorAll(`[data-component~="${component}"]`))
 }
 
 export function setContent (container, content) {
-  return container.empty().append(content)
+  const element = getRawEl(container)
+  if (!element) return
+  
+  element.innerHTML = ''
+  
+  if (Array.isArray(content)) {
+    content.forEach(item => {
+      if (typeof item === 'string') {
+        element.insertAdjacentHTML('beforeend', item)
+      } else {
+        element.appendChild(item)
+      }
+    })
+  } else {
+    if (typeof content === 'string') {
+      element.innerHTML = content
+    } else if (content) {
+      element.appendChild(content)
+    }
+  }
+  return element
 }
 
 // Meant to mimic Jekyll's slugify function
@@ -17,11 +52,10 @@ export function setContent (container, content) {
 export function slugify (text) {
   return text.toString().toLowerCase().trim()
     .replace(/[^ÆØÅæøåa-zA-Z0-9]/g, '-')  // Replace non-alphanumeric chars with -
-    .replace(/\-\-+/g, '-')         // Replace multiple - with single -
-    .replace(/^\-|\-$/i, '')        // Remove leading/trailing hyphen
+    .replace(/\-\-+/g, '-')              // Replace multiple - with single -
+    .replace(/^\-|\-$/i, '')             // Remove leading/trailing hyphen
 }
 
-// Given an object of filters to use, returns a function to be used by _.filter()
 export function createDatasetFilters (filters) {
   return function (dataset) {
     const conditions = []
@@ -36,21 +70,38 @@ export function createDatasetFilters (filters) {
 }
 
 // Collapses a bootstrap list-group to only show a few items by default
-// Number of items to show can be specified in [data-show] attribute or passed as param
 export function collapseListGroup (container, show) {
-  if (!show) show = container.data('show') || 5
+  const element = getRawEl(container)
+  if (!element) return
 
-  const itemsToHide = $('.list-group-item:gt(' + (show - 1) + '):not(.active)', container)
+  if (!show) show = parseInt(element.dataset.show, 10) || 5
+
+  const allItems = Array.from(element.querySelectorAll('.list-group-item'))
+  const itemsToHide = allItems.filter((item, index) => index >= show && !item.classList.contains('active'))
+
   if (itemsToHide.length) {
-    itemsToHide.hide()
+    itemsToHide.forEach(item => item.style.display = 'none')
 
-    const showMoreButton = $('<a href="#" class="list-group-item">Show ' + itemsToHide.length + ' more...</a>')
-    showMoreButton.on('click', function (e) {
-      itemsToHide.show()
-      $(this).off('click')
-      $(this).remove()
+    const showMoreButton = document.createElement('a')
+    showMoreButton.href = '#'
+    showMoreButton.className = 'list-group-item'
+    showMoreButton.textContent = `Show ${itemsToHide.length} more...`
+
+    showMoreButton.addEventListener('click', function (e) {
+      itemsToHide.forEach(item => item.style.display = '')
+      showMoreButton.remove()
       e.preventDefault()
     })
-    container.append(showMoreButton)
+    element.appendChild(showMoreButton)
   }
+}
+
+// Native replacement for _.groupBy
+export function groupBy (array, prop) {
+  return array.reduce((acc, item) => {
+    const key = item[prop]
+    if (!acc[key]) acc[key] = []
+    acc[key].push(item)
+    return acc
+  }, {})
 }
