@@ -150,6 +150,34 @@ def parse_existing_date(value):
     return datetime.date.fromisoformat(s)
 
 
+_MODIFIED_LINE_RE = re.compile(r"^(modified:\s*)(.*)$", re.MULTILINE)
+
+
+def write_modified_field(filepath, new_date_str):
+    """
+    Replace the value of the `modified:` line in the YAML front matter without
+    re-serializing any other part of the file.
+    """
+    with open(filepath, "r", encoding="utf-8") as fh:
+        raw = fh.read()
+
+    # Locate the front matter block (between the first two "---" lines)
+    if not raw.startswith("---"):
+        raise ValueError("File does not start with YAML front matter delimiter")
+    end_fm = raw.index("---", 3)
+    front_matter = raw[3:end_fm]
+    rest = raw[end_fm:]
+
+    if _MODIFIED_LINE_RE.search(front_matter):
+        new_front_matter = _MODIFIED_LINE_RE.sub(rf"\g<1>{new_date_str}", front_matter)
+    else:
+        # Field is absent — append it before the closing delimiter
+        new_front_matter = front_matter.rstrip("\n") + f"\nmodified: {new_date_str}\n"
+
+    with open(filepath, "w", encoding="utf-8") as fh:
+        fh.write("---" + new_front_matter + rest)
+
+
 # ---------------------------------------------------------------------------
 # Core processing
 # ---------------------------------------------------------------------------
@@ -196,9 +224,8 @@ def process_dataset(filepath, logger):
 
     # 3g. Compare and update
     if not modified_value:
-        # Empty or absent
-        post["modified"] = arcgis_date.isoformat()
-        logger.log(UPDATE_LEVEL, f"{filename}: modified was empty, set to {arcgis_date}.")
+        new_date = arcgis_date.isoformat()
+        logger.log(UPDATE_LEVEL, f"{filename}: modified was empty, set to {new_date}.")
     else:
         try:
             existing_date = parse_existing_date(modified_value)
@@ -207,18 +234,17 @@ def process_dataset(filepath, logger):
             return "error"
 
         if arcgis_date > existing_date:
-            logger.log(UPDATE_LEVEL, f"{filename}: modified updated from {existing_date} to {arcgis_date}.")
-            post["modified"] = arcgis_date.isoformat()
+            new_date = arcgis_date.isoformat()
+            logger.log(UPDATE_LEVEL, f"{filename}: modified updated from {existing_date} to {new_date}.")
         elif existing_date.isoformat() != str(modified_value).strip():
-            # Date is same or older but format differs — normalize
-            post["modified"] = existing_date.isoformat()
+            # Same or older date but non-normalized format — normalize
+            new_date = existing_date.isoformat()
         else:
             return "unchanged"
 
-    # Write updated front matter back to file
+    # Write only the modified: line in place, leaving all other content untouched
     try:
-        with open(filepath, "wb") as fh:
-            frontmatter.dump(post, fh)
+        write_modified_field(filepath, new_date)
     except Exception as exc:
         logger.error(f"{filename}: failed to write updated file — {exc}")
         return "error"
