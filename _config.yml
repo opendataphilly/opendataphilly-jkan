@@ -4,6 +4,7 @@ description: OpenDataPhilly is a catalog of open data in the Philadelphia region
 logo: /img/odp-logo.png
 hero_image: /img/homepage-hero.jpg
 strict_front_matter: true
+url: https://www.opendataphilly.org/
 
 # Site theme
 jkan_theme: Default
@@ -93,6 +94,7 @@ plugins:
   - "jekyll-relative-links"
   - "jekyll-paginate-v2"
   - "jekyll-titles-from-headings"
+  - "jekyll-sitemap"
 
 # Exclude these files from the build
 exclude:
