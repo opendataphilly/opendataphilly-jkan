@@ -7,4 +7,5 @@ logo: img/organizations/logo-villanova.jpg
 schema: default
 tags: []
 title: Villanova University
+website: https://www.villanova.edu/
 ---
