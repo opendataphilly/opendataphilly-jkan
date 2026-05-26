@@ -31,11 +31,21 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- DVRPC
-- ETA
-- Equity Through Access
-- Transit
+  - dvrpc
+  - equity through access
+  - eta
+  - transportation
 time_period: null
 title: DVRPC's Equity Through Access Map Toolkit
 usage: null
+keywords:
+- transit equity
+- transit access
+- health access
+- service gaps
+- vulnerable populations
+- priority score
+- public transit
+- health disparities
+- access mapping
 ---

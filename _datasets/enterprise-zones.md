@@ -31,9 +31,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- PASDA
+  - department of planning and development
+  - pasda
 time_period: null
 title: Enterprise Zones
 usage: Public Use; Free
+keywords:
+- federal designation
+- business incentives
+- blighted areas
+- commercial zones
+- industrial zones
+- economic development
+- archived data
+- historic zones
+- redevelopment
 ---

@@ -30,9 +30,18 @@ resources:
   url: http://dev.seeclickfix.com/
 schema: philadelphia
 source: ''
-tags: 
-- SeeClickFix
+tags:
+  - seeclickfix
 time_period: null
 title: SeeClickFix (Phila. only)
 usage: Public Use
+keywords:
+- 311 reports
+- non-emergency issues
+- citizen reports
+- community complaints
+- service requests
+- neighborhood issues
+- report a problem
+- crowdsourced reports
 ---

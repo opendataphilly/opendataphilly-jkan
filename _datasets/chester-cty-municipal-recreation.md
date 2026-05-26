@@ -28,9 +28,18 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/60e0672bfaa34ab599cbff96bd85ffcb_0/about
 source: Chester County GIS
 tags:
-- Chester County
-- parks
+  - chester county
+  - parks & recreation
 time_period: null
 title: Chester County Municipal Recreation
 usage: null
+keywords:
+- municipal parks
+- recreation areas
+- public parks
+- park land
+- open space
+- community recreation
+- township parks
+- public recreation
 ---

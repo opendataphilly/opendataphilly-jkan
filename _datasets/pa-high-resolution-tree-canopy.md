@@ -27,12 +27,21 @@ resources:
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=3170
 schema: philadelphia
 source: http://letters-sal.blogspot.com/2015/09/pennslyvania-statewide-high-resolution.html
-tags: 
-- trees
-- tree canopy
-- LiDAR
-- NAIP
+tags:
+  - lidar
+  - naip
+  - tree canopy
+  - vegetation
 time_period: null
 title: Pennsylvania Statewide High-Resolution Tree Canopy
 usage: null
+keywords:
+- trees
+- urban forest
+- forest cover
+- aerial imagery
+- remote sensing
+- land cover
+- green space
+- canopy coverage
 ---

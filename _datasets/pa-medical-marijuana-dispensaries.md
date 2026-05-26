@@ -36,10 +36,19 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=DOH_MedicalMarijuanaDispensaries202401.xml
 schema: philadelphia
 source: null
-tags: 
-- marijuana
-- cannabis
+tags:
+  - cannabis
+  - marijuana
 time_period: January 2024
 title: PA Medical Marijuana Dispensaries
 usage: Public use; free
+keywords:
+- medical cannabis
+- dispensary locations
+- medical weed
+- thc
+- cbd
+- cannabis retail
+- mmj
+- prescription cannabis
 ---

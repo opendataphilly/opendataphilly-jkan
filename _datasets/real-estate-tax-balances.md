@@ -53,8 +53,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Revenue Department
+  - revenue department
 time_period: null
 title: Real Estate Tax Balances
 usage: null
+keywords:
+- property tax
+- delinquent taxes
+- overdue taxes
+- tax debt
+- unpaid taxes
+- tax accounts
+- property tax owed
+- tax delinquency
 ---

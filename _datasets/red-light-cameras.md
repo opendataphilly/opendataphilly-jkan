@@ -28,10 +28,19 @@ resources:
   url: http://metadata.phila.gov/#home/datasetdetails/5543864a20583086178c4e8d/representationdetails/55438a8b9b989a05172d0d0d/
 schema: philadelphia
 source: ''
-tags: 
-- Philadelphia Parking Authority
-- traffic safety
+tags:
+  - philadelphia parking authority
+  - traffic safety
 time_period: null
 title: Red Light Cameras
 usage: Public Use; Free
+keywords:
+- traffic cameras
+- intersection enforcement
+- ppa cameras
+- traffic violations
+- camera locations
+- automated enforcement
+- parking authority
+- road safety
 ---

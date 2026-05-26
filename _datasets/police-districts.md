@@ -36,8 +36,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
+  - police
 time_period: null
 title: Police Districts
 usage: Public Use; Free
+keywords:
+  - police boundaries
+  - law enforcement
+  - district map
+  - police precincts
+  - patrol areas
+  - public safety
+  - district captains
+  - police sectors
 ---

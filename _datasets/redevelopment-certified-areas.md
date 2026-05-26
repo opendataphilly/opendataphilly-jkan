@@ -42,8 +42,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Redevelopment Certified Areas
 usage: Public Use; Free
+keywords:
+- urban renewal
+- blighted areas
+- city planning commission
+- redevelopment zones
+- land use
+- planning boundaries
+- distressed properties
+- urban redevelopment law
 ---

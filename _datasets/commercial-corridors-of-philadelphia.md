@@ -39,8 +39,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Planning Department
+  - planning department
 time_period: null
 title: Commercial Corridors of Philadelphia
 usage: null
+keywords:
+- shopping districts
+- retail areas
+- business districts
+- main streets
+- commercial zones
+- neighborhood retail
+- shopping streets
+- storefronts
 ---

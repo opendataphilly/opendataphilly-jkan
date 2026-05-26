@@ -36,8 +36,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: null
 title: Ryan White HIV Treatment Centers
 usage: null
+keywords:
+- hiv care
+- aids treatment
+- health clinics
+- pdph services
+- medical centers
+- hiv services
+- disease treatment
+- health services
 ---

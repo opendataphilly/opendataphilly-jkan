@@ -49,4 +49,13 @@ tags:
 time_period: null
 title: Civil Service Positions Details
 usage: null
+keywords:
+- city jobs
+- government employment
+- pay scale
+- salary ranges
+- public sector careers
+- municipal workforce
+- job titles
+- hiring
 ---

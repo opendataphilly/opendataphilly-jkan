@@ -27,8 +27,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- District Attorney Office
+  - district attorney office
 time_period: 2011 - present
 title: District Attorney Data Download
 usage: null
+keywords:
+- criminal justice
+- arrests
+- bail
+- charges
+- case outcomes
+- prosecution data
+- incarceration
+- supervision
+- da download
+- crime data
 ---

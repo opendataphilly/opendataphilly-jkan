@@ -65,8 +65,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Traffic Preventative Maintenance Districts
 usage: null
+keywords:
+- traffic maintenance
+- stop signs
+- traffic signals
+- street infrastructure
+- maintenance zones
+- traffic flow
+- street boundaries
 ---

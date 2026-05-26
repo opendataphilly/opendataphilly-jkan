@@ -40,8 +40,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of the City Commissioners
+  - office of the city commissioners
 time_period: null
 title: Political Wards
 usage: Public Use
+keywords:
+  - voting wards
+  - ward boundaries
+  - election districts
+  - ward leaders
+  - committeepeople
+  - political boundaries
+  - electoral map
+  - party districts
 ---

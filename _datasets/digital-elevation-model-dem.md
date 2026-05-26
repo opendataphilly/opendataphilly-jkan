@@ -60,9 +60,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Innovation and Technology
-- PASDA
+  - office of innovation and technology
+  - pasda
 time_period: null
 title: Digital Elevation Model (DEM)
 usage: null
+keywords:
+- terrain elevation
+- elevation data
+- lidar
+- topography
+- hillshade
+- 3d terrain
+- surface model
+- earth surface
+- elevation raster
 ---

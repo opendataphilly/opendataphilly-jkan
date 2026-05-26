@@ -36,8 +36,15 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Fire Department
+  - fire department
 time_period: null
 title: Fire Department Facilities
 usage: Public Use; Free
+keywords:
+- fire stations
+- firehouses
+- emergency services
+- pfd locations
+- fire facilities
+- first responders
 ---

@@ -240,12 +240,21 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Board of Ethics
-- campaign finance
-- candidates
-- Department of Records
-- elections
+  - board of ethics
+  - campaign finance
+  - candidates
+  - department of records
+  - elections
 time_period: null
 title: Campaign Finance Reports
 usage: null
+keywords:
+- campaign contributions
+- political donations
+- campaign spending
+- candidate expenditures
+- political committees
+- campaign debt
+- election finance
+- ethics filings
 ---

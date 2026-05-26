@@ -41,8 +41,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
 time_period: null
 title: Philadelphia Land Cover Raster
 usage: Public Use; Free
+keywords:
+- tree canopy
+- land use
+- ground cover
+- impervious surfaces
+- urban forestry
+- aerial imagery
+- green space
+- surface types
 ---

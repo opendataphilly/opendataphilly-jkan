@@ -36,8 +36,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: Green Stormwater Infrastructure Planning Districts
 usage: null
+keywords:
+- green city clean waters
+- gsi districts
+- stormwater planning
+- watershed planning
+- planning zones
+- stormwater management
+- green infrastructure areas
 ---

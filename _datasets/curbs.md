@@ -77,8 +77,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Curbs
 usage: Public Use; Free
+keywords:
+- curblines
+- street edges
+- cartways
+- sidewalks
+- roadway edges
+- street geometry
+- curbs and gutters
+- travelways
+- street infrastructure
 ---

@@ -118,11 +118,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- Flooding
-- Disaster Planning
-- Climate Change
+  - climate change
+  - department of planning and development
+  - disaster planning
+  - flooding
 time_period: null
 title: FEMA Flood Plain
 usage: null
+keywords:
+- flood zones
+- floodplain maps
+- 100 year flood
+- 500 year flood
+- flood risk
+- flood insurance
+- annual chance flood
 ---

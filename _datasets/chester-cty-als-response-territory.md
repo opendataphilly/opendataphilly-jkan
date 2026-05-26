@@ -28,17 +28,22 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/eaa53e43cd0544d19442d57a3762b272_1/about
 source: Chester County GIS
 tags:
-- ESZ
-- Territory
-- CCDES
-- ALS
-- BLS
-- EMS
-- Ambulance
-- Medical
-- Chester County
-- Boundary
+  - ambulance
+  - boundary
+  - chester county
+  - emergency services
+  - esz
+  - medical
+  - territory
 time_period: null
 title: Chester County ALS Response Territory
 usage: null
+keywords:
+- advanced life support
+- paramedic territory
+- ems response area
+- ambulance service area
+- emergency medical zones
+- medical response boundary
+- als coverage
 ---

@@ -34,8 +34,18 @@ resources:
 schema: philadelphia
 source: null
 tags:
-- Child Care
+  - child care
 time_period: Varies by dataset
 title: Childcare Map
 usage: No Usage Limitations
+keywords:
+- daycare
+- childcare providers
+- childcare access
+- childcare supply
+- childcare demand
+- early childhood
+- childcare deserts
+- childcare quality
+- preschool map
 ---

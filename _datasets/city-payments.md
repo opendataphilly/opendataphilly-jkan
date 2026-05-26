@@ -101,4 +101,14 @@ tags:
 time_period: null
 title: City Payments
 usage: null
+keywords:
+- city spending
+- vendor payments
+- government checks
+- public spending
+- city contracts
+- ach payments
+- city disbursements
+- procurement payments
+- fiscal data
 ---

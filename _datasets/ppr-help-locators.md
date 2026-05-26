@@ -37,10 +37,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-  - Philadelphia Parks and Recreation
-  - help locators
   - emergency services
+  - help locators
+  - philadelphia parks and recreation
 time_period: null
 title: PPR Help Locators
 usage: null
+keywords:
+- 911 markers
+- emergency call locations
+- park safety
+- location markers
+- emergency response
+- park emergency points
+- trail markers
 ---

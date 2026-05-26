@@ -31,8 +31,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: PWD Customer Service Calls
 usage: null
+keywords:
+- water complaints
+- open hydrants
+- cave ins
+- 311 calls
+- service requests
+- water issues
+- customer complaints
+- water department calls
 ---

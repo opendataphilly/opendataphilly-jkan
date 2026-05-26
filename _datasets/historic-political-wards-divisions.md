@@ -35,4 +35,14 @@ tags:
 time_period: null
 title: Historic Political Wards & Divisions
 usage: Public Use
+keywords:
+- ward boundaries
+- voting precincts
+- election precincts
+- historic boundaries
+- ward divisions
+- voting districts
+- precinct boundaries
+- historical politics
+- elections history
 ---

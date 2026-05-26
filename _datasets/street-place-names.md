@@ -27,8 +27,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Street Place Names
 usage: null
+keywords:
+- geocoding
+- place names
+- address lookup
+- landmark addresses
+- named places
+- location lookup
+- street addresses
 ---

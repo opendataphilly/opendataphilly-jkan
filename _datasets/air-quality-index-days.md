@@ -28,8 +28,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Sustainability
+  - office of sustainability
 time_period: null
 title: Air Quality Index Days
 usage: null
+keywords:
+- air quality
+- aqi
+- pollution
+- bad air days
+- smog
+- ozone
+- sustainability
+- environmental health
+- air pollution
 ---

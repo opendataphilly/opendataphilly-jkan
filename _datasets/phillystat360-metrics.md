@@ -32,9 +32,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Streets
-- Philly Stat 360
+  - philly stat 360
+  - streets department
 time_period: null
 title: Metrics for Philly Stat 360
 usage: null
+keywords:
+  - city dashboard
+  - performance metrics
+  - city kpis
+  - government metrics
+  - performance tracking
+  - city statistics
+  - service metrics
+  - municipal data
 ---

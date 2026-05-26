@@ -38,6 +38,13 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 title: Vending Prohibition Exceptions
+keywords:
+- street vendors
+- food trucks
+- vending exceptions
+- sidewalk sales
+- vending allowed
+- vending rules
 ---

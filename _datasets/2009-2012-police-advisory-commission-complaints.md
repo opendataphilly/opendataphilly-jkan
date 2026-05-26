@@ -35,8 +35,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Police Advisory Commission
+  - police advisory commission
 time_period: 2009 - 2012
 title: 2009-2012 Police Advisory Commission Complaints
 usage: See metadata
+keywords:
+- police complaints
+- police misconduct
+- pac
+- citizen complaints
+- police oversight
+- police accountability
+- philadelphia police
+- historical complaints
 ---

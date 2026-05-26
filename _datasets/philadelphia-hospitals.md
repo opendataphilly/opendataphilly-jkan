@@ -35,9 +35,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- hospitals
+  - hospitals
+  - public health
 time_period: null
 title: Philadelphia Hospitals
 usage: Public Use; Free
+keywords:
+- medical centers
+- healthcare facilities
+- hospital locations
+- emergency rooms
+- health care
+- medical facilities
+- hospital map
+- patient care
 ---

@@ -38,9 +38,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of the City Commissioners
-- Voting Precints
+  - office of the city commissioners
+  - voting precints
 time_period: null
 title: Political Ward Divisions
 usage: Public Use
+keywords:
+  - voting districts
+  - election boundaries
+  - precincts
+  - subward boundaries
+  - voter divisions
+  - polling subdivisions
+  - electoral map
+  - division boundaries
 ---

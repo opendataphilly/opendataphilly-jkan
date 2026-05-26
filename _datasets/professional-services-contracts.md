@@ -208,11 +208,19 @@ resources:
   url: http://cityofphiladelphia.github.io/contracts/commodities/
 schema: philadelphia
 source: ''
-tags: 
-- procurement
-- contracts
-- professional services
+tags:
+  - contracts
+  - professional services
 time_period: null
 title: Professional Services Contracts
 usage: null
+keywords:
+- city contracts
+- procurement
+- vendors
+- government spending
+- contract awards
+- fiscal quarters
+- city finance
+- public spending
 ---

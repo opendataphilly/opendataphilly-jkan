@@ -39,9 +39,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- business
+  - business
+  - commerce department
 time_period: null
 title: Boost Your Business Program
 usage: null
+keywords:
+- small business grants
+- minority business funding
+- entrepreneur support
+- business growth program
+- equitable business development
+- diverse entrepreneurs
+- business assistance
 ---

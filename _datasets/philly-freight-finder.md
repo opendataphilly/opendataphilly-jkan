@@ -41,13 +41,22 @@ resources:
 schema: philadelphia
 source: https://github.com/DVRPCfreight/open-freight-app/
 tags:
-- DVRPC
-- Economy
-- Freight
-- Intermodal
-- Ports
-- Transportation
+  - dvrpc
+  - economy
+  - freight
+  - intermodal
+  - ports
+  - transportation
 time_period: null
 title: Philly Freight Finder
 usage: null
+keywords:
+  - shipping
+  - cargo
+  - trucks
+  - rail freight
+  - logistics
+  - supply chain
+  - goods movement
+  - delaware valley
 ---

@@ -28,14 +28,21 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/f6c2dd7c667e43388def5df805574abf_2/about
 source: Chester County GIS
 tags:
-- '911'
-- PSAP
-- Boundary
-- Public Safety
-- Chester County
-- CCDES
-- Chesco
+  - '911'
+  - boundary
+  - chester county
+  - emergency services
+  - psap
+  - public safety
 time_period: null
 title: Chester County PSAP Boundary
 usage: null
+keywords:
+- 911 boundary
+- dispatch boundary
+- public safety answering point
+- emergency dispatch area
+- 911 service area
+- call center boundary
+- emergency communications
 ---

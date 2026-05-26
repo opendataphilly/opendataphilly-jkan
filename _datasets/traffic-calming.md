@@ -38,11 +38,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- traffic calming
-- speed cushions
-- speed bumps
+  - speed bumps
+  - speed cushions
+  - streets department
+  - traffic calming
 time_period: null
 title: Traffic Calming Devices
 usage: Public Use; Free
+keywords:
+- speed humps
+- speed tables
+- traffic safety
+- speeding
+- street safety
+- road safety
+- motor vehicles
 ---

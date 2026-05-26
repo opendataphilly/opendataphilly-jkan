@@ -89,11 +89,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
-- canopy
-- trees
-- urban forest
+  - philadelphia parks and recreation
+  - urban forest
+  - vegetation
 time_period: null
 title: PPR Tree Canopy
 usage: null
+keywords:
+- trees
+- tree cover
+- canopy change
+- urban trees
+- forestry
+- tree loss
+- lidar
+- green coverage
 ---

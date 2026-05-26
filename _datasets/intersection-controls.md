@@ -36,8 +36,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Intersection Controls
 usage: null
+keywords:
+- traffic signals
+- stop signs
+- traffic lights
+- street intersections
+- traffic engineering
+- street lighting
+- traffic control
+- road signals
 ---

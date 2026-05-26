@@ -38,8 +38,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Recycling Diversion Rate
 usage: null
+keywords:
+- recycling rate
+- waste diversion
+- rubbish collection
+- garbage tonnage
+- trash recycling ratio
+- waste management
+- sanitation district
+- recycling metrics
 ---

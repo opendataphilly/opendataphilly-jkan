@@ -27,9 +27,17 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/be0c841def474edc8b0ed4a1a688ad4f_0/about
 source: Chester County GIS
 tags:
-- Chester County
-- municipalities
+  - chester county
+  - municipalities
 time_period: null
 title: Chester County Municipalities
 usage: null
+keywords:
+- townships
+- boroughs
+- municipal boundaries
+- local government boundaries
+- chester county towns
+- municipal divisions
+- township map
 ---

@@ -40,9 +40,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philly Stat 360
-- city services
+  - city services
+  - philly stat 360
 time_period: null
 title: Community Engagement Hex Bins
 usage: null
+keywords:
+- neighborhood outreach
+- constituent services
+- mayors office
+- hex grid
+- community incidents
+- resident engagement
+- civic engagement
+- service requests
 ---

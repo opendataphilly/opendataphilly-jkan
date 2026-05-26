@@ -59,8 +59,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 time_period: null
 title: Licenses and Inspections Districts
 usage: null
+keywords:
+- l&i boundaries
+- inspection districts
+- district boundaries
+- l&i zones
+- district map
+- inspection areas
+- l&i regions
+- service districts
 ---

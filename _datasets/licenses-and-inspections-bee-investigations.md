@@ -39,8 +39,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 time_period: null
 title: 'Licenses and Inspections: BEE Case Inspections'
 usage: null
+keywords:
+- business inspections
+- commerce enforcement
+- business education
+- quality of life
+- commercial compliance
+- business permits
+- city inspections
+- small business
 ---

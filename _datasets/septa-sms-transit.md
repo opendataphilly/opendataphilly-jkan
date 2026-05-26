@@ -81,10 +81,19 @@ resources:
   url: https://www3.septa.org/sms/simulator
 schema: philadelphia
 source: null
-tags: 
-- SEPTA
-- public transit
+tags:
+  - septa
+  - transportation
 time_period: null
 title: SEPTA SMS Transit
 usage: Public Use
+keywords:
+- text message transit
+- sms schedule
+- stop id lookup
+- next bus
+- next trolley
+- next train
+- mobile transit info
+- trip lookup
 ---

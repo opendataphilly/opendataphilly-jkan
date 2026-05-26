@@ -33,10 +33,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Lorimer Park
-- Pennypack Park
-- Pennypack Trust
+  - lorimer park
+  - pennypack park
+  - pennypack trust
 time_period: null
 title: Pennypack Park Trail Map
 usage: null
+keywords:
+- pennypack trails
+- hiking
+- park trails
+- northeast philadelphia
+- montgomery county
+- nature paths
+- gpx trails
+- outdoor recreation
 ---

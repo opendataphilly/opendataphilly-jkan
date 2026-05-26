@@ -36,11 +36,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
-- housing
-- rental
-- renting
+  - department of licenses and inspections
+  - housing
+  - rental
+  - renting
 time_period: null
 title: Certified for Rental Suitability
 usage: null
+keywords:
+- rental certification
+- approved rental properties
+- landlord licensing
+- rental licenses
+- housing rentals
+- apartments for rent
+- rental property registry
+- rental suitability
 ---

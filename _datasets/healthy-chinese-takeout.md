@@ -49,8 +49,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: 2015
 title: 'ARCHIVED: Healthy Chinese Takeout'
 usage: null
+keywords:
+- sodium reduction
+- chinese restaurants
+- hypertension prevention
+- healthy eating
+- tobacco prevention
+- restaurant initiative
+- nutrition program
+- low sodium
+- food health
 ---

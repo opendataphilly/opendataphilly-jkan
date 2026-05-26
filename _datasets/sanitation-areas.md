@@ -37,8 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Sanitation Areas
 usage: Public Use; Free
+keywords:
+- trash collection areas
+- waste zones
+- sanitation boundaries
+- garbage districts
+- service areas
+- rubbish areas
+- municipal boundaries
+- collection zones
 ---

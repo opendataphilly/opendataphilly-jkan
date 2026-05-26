@@ -37,8 +37,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
 time_period: null
 title: PPR Friends Group
 usage: null
+keywords:
+- volunteer groups
+- park stewards
+- community partners
+- neighborhood groups
+- recreation volunteers
+- park advocates
+- stewardship program
 ---

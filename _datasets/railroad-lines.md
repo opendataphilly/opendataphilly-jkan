@@ -37,9 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Innovation and Technology
-- railroads
+  - office of innovation and technology
+  - railroads
 time_period: null
 title: Railroad Lines
 usage: null
+keywords:
+- train tracks
+- rail network
+- freight rail
+- rail corridors
+- transportation infrastructure
+- railway map
+- track lines
 ---

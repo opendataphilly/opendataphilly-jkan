@@ -105,9 +105,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
-- Visualization
+  - department of licenses and inspections
+  - visualization
 time_period: null
 title: 'Licenses and Inspections: Case Investigations'
 usage: null
+keywords:
+- property violations
+- maintenance violations
+- code enforcement
+- property inspections
+- l&i inspectors
+- housing violations
+- property complaints
+- code investigations
 ---

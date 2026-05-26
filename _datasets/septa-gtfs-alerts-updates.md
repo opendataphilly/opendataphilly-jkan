@@ -42,8 +42,17 @@ resources:
 schema: philadelphia
 source: 
 tags:
-- transportation
+  - transportation
 time_period: Real-time updates
 title: SEPTA GTFS Real-time Alerts and Updates
 usage: null
+keywords:
+- real-time transit
+- gtfs-rt feed
+- vehicle positions
+- trip updates
+- service alerts
+- bus tracking
+- regional rail
+- protobuf feed
 ---

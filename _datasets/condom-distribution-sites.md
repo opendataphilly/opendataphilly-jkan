@@ -36,9 +36,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- birth control
+  - birth control
+  - public health
 time_period: null
 title: Condom Distribution Sites
 usage: null
+keywords:
+- free condoms
+- safe sex
+- sexual health
+- contraception
+- std prevention
+- hiv prevention
+- pdph
+- freedom condoms
+- health resources
 ---

@@ -37,12 +37,22 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- Division of Housing and Community Development
-- Office of Homeless Services
-- Philadelphia Redevelopment Authority
-- housing
+  - department of planning and development
+  - division of housing and community development
+  - housing
+  - office of homeless services
+  - philadelphia redevelopment authority
 time_period: null
 title: Affordable Housing Production
 usage: null
+keywords:
+- affordable housing
+- low-income housing
+- subsidized housing
+- housing development
+- dhcd
+- housing units
+- homelessness prevention
+- public housing
+- residential development
 ---

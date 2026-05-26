@@ -29,8 +29,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Street Name Alias List
 usage: null
+keywords:
+- alternate street names
+- street aliases
+- alias names
+- honorary street names
+- alternative names
+- street naming
+- alias table
 ---

@@ -36,9 +36,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- trash
+  - streets department
+  - waste
 time_period: null
 title: Sanitation Convenience Centers
 usage: null
+keywords:
+- trash drop-off
+- household trash
+- recycling drop-off
+- waste disposal
+- transfer stations
+- dump locations
+- bulk waste
+- where to dump trash
 ---

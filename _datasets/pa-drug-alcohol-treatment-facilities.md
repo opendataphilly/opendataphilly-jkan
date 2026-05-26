@@ -43,4 +43,13 @@ tags:
 time_period: 2022
 title: PA Drug Alcohol Treatment Facilities
 usage: Public use; free
+keywords:
+- rehab centers
+- addiction recovery
+- substance abuse
+- detox facilities
+- recovery programs
+- alcoholism treatment
+- opioid treatment
+- sober living
 ---

@@ -79,9 +79,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
-- complaints
+  - complaints
+  - police
 time_period: null
 title: Complaints Against Police
 usage: null
+keywords:
+- police misconduct
+- police accountability
+- civilian complaints
+- internal affairs
+- police discipline
+- officer complaints
+- ppd accountability
+- police investigations
+- police oversight
 ---

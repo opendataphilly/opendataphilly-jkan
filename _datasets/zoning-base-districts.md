@@ -280,9 +280,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- zoning
+  - department of planning and development
+  - zoning
 time_period: null
 title: Zoning Base Districts
 usage: Public Use; Free
+keywords:
+- zoning codes
+- land use
+- zoning map
+- residential zoning
+- commercial zoning
+- zoning boundaries
+- cmx
+- planning
 ---

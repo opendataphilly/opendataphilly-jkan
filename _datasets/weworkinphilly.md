@@ -27,11 +27,19 @@ resources:
   url: https://github.com/alexknowshtml/We-Work-In-Philly/wiki
 schema: philadelphia
 source: null
-tags: 
-- technology
-- companies
-- business
+tags:
+  - business
+  - companies
+  - technology
 time_period: null
 title: WeWorkInPhilly
 usage: Free; Public Use;
+keywords:
+- tech community
+- startups
+- creative community
+- local businesses
+- philly tech
+- entrepreneurs
+- innovation
 ---

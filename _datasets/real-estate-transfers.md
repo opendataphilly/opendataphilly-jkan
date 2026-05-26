@@ -182,9 +182,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Records
-- visualization
+  - department of records
+  - visualization
 time_period: null
 title: Real Estate Transfers
 usage: null
+keywords:
+- property sales
+- deeds
+- mortgages
+- sheriff deeds
+- property transactions
+- grantor grantee
+- realty transfer tax
+- home sales
 ---

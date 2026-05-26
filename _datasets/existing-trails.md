@@ -41,8 +41,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Existing Trails
 usage: Public Use; Free
+keywords:
+- bike trails
+- bicycle paths
+- sidepaths
+- multi-use trails
+- recreation trails
+- biking routes
+- trail master plan
+- walking trails
+- pedestrian paths
 ---

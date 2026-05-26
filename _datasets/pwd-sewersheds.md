@@ -39,10 +39,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
-- sewer
-- watersheds
+  - philadelphia water department
+  - sewer
+  - watersheds
 time_period: null
 title: PWD Sewersheds
 usage: null
+keywords:
+- sewer drainage
+- sewer boundaries
+- combined sewer
+- sewer flow
+- regulators
+- outfalls
+- sewer system areas
 ---

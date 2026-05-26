@@ -63,8 +63,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
 time_period: null
 title: Parks & Recreation Districts
 usage: null
+keywords:
+- ppr districts
+- park boundaries
+- recreation districts
+- operational boundaries
+- park areas
+- district map
+- park service areas
 ---

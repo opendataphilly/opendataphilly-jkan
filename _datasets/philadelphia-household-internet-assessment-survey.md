@@ -29,11 +29,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- broadband
-- digital divide
-- equity
-- internet
+  - broadband
+  - digital divide
+  - equity
+  - internet
 time_period: null
 title: Philadelphia Household Internet Assessment Survey
 usage: null
+keywords:
+- home internet
+- internet access
+- digital access
+- computer access
+- household connectivity
+- technology equity
+- wifi access
+- internet survey
 ---

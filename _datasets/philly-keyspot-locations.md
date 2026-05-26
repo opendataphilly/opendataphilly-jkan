@@ -29,10 +29,19 @@ resources:
 schema: philadelphia
 source: https://www.phillykeyspots.org/wp-json/store-locator-plus/v2/locations/
 tags:
-- Office of Adult Education
-- computer labs
-- keyspot
+  - computer labs
+  - keyspot
+  - office of adult education
 time_period: null
 title: Philly KEYSPOT Locations
 usage: null
+keywords:
+  - digital access
+  - free internet
+  - public computers
+  - adult learning
+  - digital literacy
+  - tech access
+  - community centers
+  - workforce training
 ---

@@ -40,11 +40,21 @@ resources:
 schema: philadelphia
 source: http://www.dvrpc.org/asp/ChoicesAndVoices/
 tags:
-- DVRPC
-- Greater Philadelphia
-- Planning
-- Transportation
+  - dvrpc
+  - greater philadelphia
+  - planning
+  - transportation
 time_period: null
 title: DVRPC's Connections 2040 Choices & Voices
 usage: null
+keywords:
+- regional planning
+- transportation planning
+- long range plan
+- growth scenarios
+- public input
+- crowdsourced planning
+- development vision
+- regional funding
+- transportation projects
 ---

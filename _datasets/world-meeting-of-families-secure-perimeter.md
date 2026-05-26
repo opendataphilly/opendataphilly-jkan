@@ -37,10 +37,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Emergency Management
-- World Meeting of Families
-- security
+  - office of emergency management
+  - security
+  - world meeting of families
 time_period: null
 title: World Meeting of Families Secure Perimeter
 usage: null
+keywords:
+- papal visit
+- pope francis
+- 2015 wmof
+- event security
+- restricted area
+- secure zone
+- catholic event
 ---

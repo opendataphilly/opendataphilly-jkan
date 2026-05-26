@@ -40,8 +40,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: PWD Stream Sampling Locations
 usage: null
+keywords:
+- water quality testing
+- stream monitoring
+- creek sampling
+- habitat assessment
+- fish sampling
+- surface water testing
+- aquatic monitoring
+- stream health
 ---

@@ -42,4 +42,13 @@ tags:
 time_period: August 2023
 title: PA Physical Speech Therapy Facilities
 usage: Public use; free
+keywords:
+- speech pathology
+- communication disorders
+- physical therapy
+- rehabilitation services
+- speech language
+- therapy clinics
+- speech disorders
+- language treatment
 ---

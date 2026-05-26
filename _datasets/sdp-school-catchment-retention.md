@@ -138,10 +138,19 @@ resources:
 
 schema: philadelphia
 source: 'School District of Philadelphia'
-tags: 
-- School District of Philadelphia
-- schools
+tags:
+  - education
+  - school district of philadelphia
 time_period: null
 title: School Catchment Retention Information
 usage: null
+keywords:
+- student retention
+- school enrollment
+- catchment data
+- neighborhood schools
+- student addresses
+- charter schools
+- alternative schools
+- attendance zones
 ---

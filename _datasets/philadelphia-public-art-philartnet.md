@@ -28,11 +28,20 @@ resources:
   url: http://philart.net/rss.xml
 schema: philadelphia
 source: null
-tags: 
-- public art
-- statues
-- monuments
+tags:
+  - monuments
+  - public art
+  - statues
 time_period: null
 title: Philadelphia Public Art @philart.net
 usage: Public Use
+keywords:
+  - artwork
+  - sculptures
+  - memorials
+  - landmarks
+  - art photos
+  - artists
+  - cultural history
+  - outdoor art
 ---

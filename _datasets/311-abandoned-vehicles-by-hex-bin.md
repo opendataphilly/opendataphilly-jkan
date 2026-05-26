@@ -36,12 +36,21 @@ resources:
   url: https://metadata.phila.gov/index.html#home/datasetdetails/5543864d20583086178c4e98/representationdetails/675a0c727cd90802cb96d6dc/
 schema: philadelphia
 source: ''
-tags: 
-- abandoned vehicles
-- vehicles
-- information requests
-- 311
+tags:
+  - "311"
+  - abandoned vehicles
+  - information requests
+  - vehicles
 time_period: null
 title: 311 Abandoned Vehicles by Hex Bins
 usage: null
+keywords:
+- abandoned cars
+- junk vehicles
+- 311 reports
+- service requests
+- vehicle complaints
+- hex bins
+- philly stat
+- abandoned autos
 ---

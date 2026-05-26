@@ -87,8 +87,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 time_period: null
 title: Licenses and Inspections Appeals of Code Violations and Permit Refusals
 usage: null
+keywords:
+- code violation appeals
+- permit denials
+- zoning board
+- building standards board
+- court appeals
+- board decisions
+- l&i hearings
+- property disputes
 ---

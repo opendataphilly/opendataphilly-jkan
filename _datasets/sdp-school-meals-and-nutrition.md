@@ -48,12 +48,21 @@ resources:
 
 schema: philadelphia
 source: 'School District of Philadelphia'
-tags: 
-- School District of Philadelphia
-- school meals
-- nutrition
-- food security
+tags:
+  - food security
+  - nutrition
+  - school district of philadelphia
+  - school meals
 time_period: null
 title: School Meals and Nutrition
 usage: null
+keywords:
+- school breakfast
+- school lunch
+- free meals
+- meal participation
+- hunger
+- student nutrition
+- food insecurity
+- school cafeteria
 ---

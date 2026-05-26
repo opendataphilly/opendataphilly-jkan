@@ -37,8 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parking Authority
+  - philadelphia parking authority
 time_period: null
 title: Residential Parking Permit Blocks
 usage: null
+keywords:
+- street parking
+- permit parking
+- rpp zones
+- on-street parking
+- parking restrictions
+- ppa permits
+- resident parking
+- parking blocks
 ---

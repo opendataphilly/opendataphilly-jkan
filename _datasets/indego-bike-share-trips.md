@@ -28,9 +28,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Transportation
-- Office of Transportation Infrastructure and Sustainability
+  - office of transportation infrastructure and sustainability
+  - transportation
 time_period: null
 title: Indego Bike Share Trips
 usage: null
+keywords:
+- bike share trips
+- bicycle rides
+- cycling data
+- ride history
+- bike rentals
+- trip records
+- micromobility
+- rideindego
 ---

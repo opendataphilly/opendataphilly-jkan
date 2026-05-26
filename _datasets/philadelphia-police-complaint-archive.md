@@ -70,9 +70,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Civilian Complaints
-- Police
+  - civilian complaints
+  - police
 time_period: null
 title: Philadelphia Police Complaint Archive
 usage: null
+keywords:
+- police misconduct
+- civilian oversight
+- police accountability
+- ppd complaints
+- police discipline
+- officer complaints
+- law enforcement
+- police transparency
 ---

@@ -38,8 +38,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
 time_period: null
 title: PPR Properties
 usage: null
+keywords:
+- park land
+- park boundaries
+- public parks
+- park properties
+- green space
+- recreation centers
+- open space
+- park inventory
 ---

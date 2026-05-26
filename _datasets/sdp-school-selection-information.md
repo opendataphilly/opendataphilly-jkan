@@ -77,11 +77,20 @@ resources:
 
 schema: philadelphia
 source: 'School District of Philadelphia'
-tags: 
-- School District of Philadelphia
-- school selection
-- students
+tags:
+  - school district of philadelphia
+  - school selection
+  - students
 time_period: null
 title: School Selection Information
 usage: null
+keywords:
+- school applications
+- magnet schools
+- school admissions
+- criteria-based schools
+- citywide schools
+- student applicants
+- application demographics
+- school choice
 ---

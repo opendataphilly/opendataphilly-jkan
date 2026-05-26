@@ -63,8 +63,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: 'ARCHIVED: 2007-2015 Litter Index'
 usage: null
+keywords:
+- litter index
+- street cleanliness
+- trash survey
+- neighborhood cleanliness
+- litter scores
+- historical litter data
+- archived litter index
 ---

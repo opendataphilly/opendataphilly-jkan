@@ -20,11 +20,21 @@ resources:
   url: http://connectthecircuit.org/
 schema: philadelphia
 source: ''
-tags: 
-- trails
-- pedestrians
-- bicycles
+tags:
+  - bicycle
+  - pedestrian
+  - trails
 time_period: null
 title: Circuit Map
 usage: null
+keywords:
+- bike trails
+- bike paths
+- walking trails
+- multi-use trails
+- bike network
+- pedestrian paths
+- greenways
+- recreation trails
+- regional trail network
 ---

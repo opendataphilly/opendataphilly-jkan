@@ -20,8 +20,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Licenses and Inspections
+  - licenses & inspections
 time_period: null
 title: Licenses and Inspections Property History
 usage: null
+keywords:
+- permit history
+- violation history
+- property records
+- l&i history
+- building history
+- property appeals
+- l&i records
+- property lookup
 ---

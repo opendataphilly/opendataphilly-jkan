@@ -37,8 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Records Department
+  - records department
 time_period: 1850 - present
 title: PhillyHistory.org
 usage: Public Use; Free
+keywords:
+  - historic photos
+  - archives
+  - old maps
+  - photo archive
+  - city archives
+  - historical images
+  - city history
+  - vintage photos
 ---

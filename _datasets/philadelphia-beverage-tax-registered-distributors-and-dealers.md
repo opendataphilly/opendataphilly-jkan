@@ -51,8 +51,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Revenue Department
+  - revenue department
 time_period: null
 title: Philadelphia Beverage Tax Registered Distributors and Dealers
 usage: null
+keywords:
+- soda tax
+- sugary drinks tax
+- sweetened beverages
+- beverage distributors
+- tax registration
+- business tax
+- soft drink tax
+- registered dealers
 ---

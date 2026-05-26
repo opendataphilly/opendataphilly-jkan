@@ -62,9 +62,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
-- play streets
+  - philadelphia parks and recreation
+  - play streets
 time_period: null
 title: PPR Playstreets Locations
 usage: null
+keywords:
+- street closures
+- summer meals
+- kids programs
+- safe play
+- summer food
+- block closures
+- youth programs
+- summer recreation
 ---

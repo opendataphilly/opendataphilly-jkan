@@ -36,8 +36,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: Rain Check Installation Sites
 usage: null
+keywords:
+- residential stormwater
+- downspout planters
+- rain gardens
+- home stormwater
+- runoff reduction
+- pwd program
+- yard improvements
 ---

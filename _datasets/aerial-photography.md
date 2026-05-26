@@ -530,14 +530,24 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Innovation and Technology
-- PASDA
-- accuplus
-- aerial
-- imagery
-- ortho
-- orthophotography
+  - accuplus
+  - aerial
+  - imagery
+  - office of innovation and technology
+  - ortho
+  - orthophotography
+  - pasda
 time_period: null
 title: Aerial Photography (imagery)
 usage: Public Use
+keywords:
+- aerial imagery
+- aerial photos
+- satellite imagery
+- orthophotos
+- historical maps
+- basemap
+- tile index
+- photogrammetry
+- pasda
 ---

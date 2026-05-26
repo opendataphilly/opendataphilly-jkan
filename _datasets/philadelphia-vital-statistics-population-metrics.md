@@ -78,9 +78,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- Vital statistics
+  - public health
+  - vital statistics
 time_period: null
 title: Philadelphia Vital Statistics - Population Metrics
 usage: null
+keywords:
+  - demographics
+  - population counts
+  - census data
+  - residents
+  - population statistics
+  - census tracts
+  - population estimates
+  - city population
 ---

@@ -91,8 +91,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Finance Department
+  - finance department
 time_period: FY2016
 title: City Operating Budget
 usage: Public Use; Free
+keywords:
+- city budget
+- government spending
+- fiscal year budget
+- municipal budget
+- proposed budget
+- adopted budget
+- city finances
+- public spending
+- annual budget
 ---

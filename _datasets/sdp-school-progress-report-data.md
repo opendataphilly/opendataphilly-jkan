@@ -79,9 +79,18 @@ resources:
 
 schema: philadelphia
 source: 'School District of Philadelphia'
-tags: 
-- schools
+tags:
+  - education
 time_period: null
 title: School District School Progress Report Data
 usage: null
+keywords:
+- school ratings
+- spree report
+- spr scores
+- school metrics
+- pssa results
+- keystone exams
+- student attendance
+- school report card
 ---

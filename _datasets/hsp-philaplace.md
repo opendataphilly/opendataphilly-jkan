@@ -28,9 +28,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- photography
-- neighborhoods
+  - neighborhoods
+  - photography
 time_period: null
 title: PhilaPlace
 usage: Public Use; Free
+keywords:
+- philadelphia history
+- old southwark
+- northern liberties
+- historical society
+- interactive map
+- community stories
+- local heritage
+- historic photos
 ---

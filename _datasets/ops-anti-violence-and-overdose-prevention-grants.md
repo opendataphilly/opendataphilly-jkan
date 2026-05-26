@@ -57,10 +57,19 @@ resources:
 schema: philadelphia
 source: 'Office of Public Safety'
 tags:
-- Office of Public Safety
-- Anti-Violence
-- Overdose Prevention
+  - anti-violence
+  - office of public safety
+  - overdose prevention
 time_period: null
 title: OPS Anti Violence and Overdose Prevention Grants
 usage: null
+keywords:
+- violence prevention
+- gun violence
+- opioid prevention
+- drug overdose
+- community grants
+- public safety funding
+- harm reduction
+- community programs
 ---

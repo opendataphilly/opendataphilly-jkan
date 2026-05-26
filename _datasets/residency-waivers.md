@@ -37,4 +37,13 @@ tags:
 time_period: null
 title: Residency Waivers
 usage: null
+keywords:
+- city employment
+- residency requirement
+- city jobs
+- exempt positions
+- municipal hiring
+- city workers
+- human resources
+- employment waivers
 ---

@@ -48,10 +48,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- snow
-- emergency
+  - emergency
+  - snow
+  - streets department
 time_period: null
 title: Snow Emergency Routes
 usage: null
+keywords:
+- snow plowing
+- winter weather
+- parking restrictions
+- snow removal
+- priority streets
+- towing
+- storm response
+- street segments
 ---

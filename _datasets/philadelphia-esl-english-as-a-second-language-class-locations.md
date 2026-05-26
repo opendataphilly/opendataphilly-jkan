@@ -42,9 +42,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- ESL
-- Office of Adult Education
+  - esl
+  - office of adult education
 time_period: null
 title: Philadelphia ESL (English as a Second Language) Class Locations
 usage: null
+keywords:
+- english classes
+- language learning
+- adult education
+- immigrant services
+- esl tutoring
+- english tutors
+- literacy programs
+- adult learners
 ---

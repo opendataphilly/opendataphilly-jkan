@@ -49,10 +49,19 @@ resources:
   url: https://www3.septa.org/VIRegionalRail.html
 schema: philadelphia
 source: null
-tags: 
-- SEPTA
-- public transit
+tags:
+  - septa
+  - transportation
 time_period: null
 title: SEPTA Regional Rail APIs
 usage: Public Use
+keywords:
+- regional rail
+- train tracker
+- arrival times
+- departure times
+- commuter rail
+- train schedule api
+- station arrivals
+- trainview
 ---

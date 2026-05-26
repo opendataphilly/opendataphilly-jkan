@@ -31,12 +31,20 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PaRailLines2024_03.xml
 schema: philadelphia
 source: null
-tags: 
-- railroad
-- rail
+tags:
+  - rail
+  - railroad
 time_period: March 2024
 title: PA Rail Lines
 usage: Public Use; Free
+keywords:
+- train tracks
+- train lines
+- freight rail
+- rail network
+- railway
+- rail corridor
+- pennsylvania rail
 ---
 
 

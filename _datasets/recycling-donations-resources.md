@@ -40,10 +40,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- recycling
-- donations
+  - donations
+  - streets department
+  - waste
 time_period: null
 title: Recycling and Donations Resources
 usage: null
+keywords:
+- donation centers
+- recycling drop-off
+- thrift stores
+- reuse locations
+- charity donations
+- where to recycle
+- household items
+- secondhand goods
 ---

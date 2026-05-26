@@ -88,9 +88,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- PASDA
-- Philadelphia Water Department
+  - pasda
+  - philadelphia water department
 time_period: null
 title: Topographic Contours
 usage: Public use; Free
+keywords:
+- elevation
+- contour lines
+- terrain
+- topography
+- elevation data
+- landform
+- lidar
 ---

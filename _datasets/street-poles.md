@@ -41,8 +41,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Street Poles
 usage: null
+keywords:
+- street lights
+- light poles
+- streetlights
+- utility poles
+- lamp posts
+- street lighting
+- lighting infrastructure
+- pole locations
 ---

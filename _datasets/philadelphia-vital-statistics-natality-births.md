@@ -59,10 +59,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- Vital statistics
-- equity
+  - equity
+  - public health
+  - vital statistics
 time_period: null
 title: Philadelphia Vital Statistics - Natality (Births)
 usage: null
+keywords:
+  - birth rates
+  - newborns
+  - maternal health
+  - birth statistics
+  - infant data
+  - prenatal
+  - fertility
+  - birth records
 ---

@@ -36,4 +36,13 @@ tags:
 time_period: March 2024
 title: PA At-Grade Intersections
 usage: Public Use; Free
+keywords:
+- road intersections
+- highway crossings
+- traffic intersections
+- penndot
+- street junctions
+- road network
+- transportation
+- pa roads
 ---

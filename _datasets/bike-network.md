@@ -41,9 +41,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- bicycle network
+  - bicycle
+  - streets department
 time_period: null
 title: Bike Network
 usage: Public Use; Free
+keywords:
+- bike lanes
+- bicycle routes
+- bike paths
+- cycling network
+- bicycle friendly streets
+- bike infrastructure
+- cycling map
 ---

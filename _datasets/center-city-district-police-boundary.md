@@ -59,9 +59,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
-- Center City District
+  - center city district
+  - police
 time_period: null
 title: Center City District Police Boundary
 usage: null
+keywords:
+- ccd police boundary
+- center city policing
+- downtown police district
+- ccd patrol area
+- center city safety
+- downtown patrol zone
+- ccd security
 ---

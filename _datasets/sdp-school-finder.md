@@ -19,10 +19,19 @@ resources:
   url: https://philasd.explore.avela.org/
 schema: philadelphia
 source: null
-tags: 
-- School District of Philadelphia
-- schools
+tags:
+  - education
+  - school district of philadelphia
 time_period: null
 title: School District School Finder
 usage: Public Use; Free
+keywords:
+- find a school
+- nearest schools
+- school search
+- school lookup
+- public schools
+- school locator
+- school address tool
+- neighborhood schools
 ---

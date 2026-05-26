@@ -180,11 +180,21 @@ resources:
   url: http://metadata.phila.gov/#home/datasetdetails/5543864d20583086178c4e98/representationdetails/5762e19fa237544b2ecfe722/
 schema: philadelphia
 source: ''
-tags: 
-- maintenance
-- repairs
-- information requests
+tags:
+  - information requests
+  - maintenance
+  - repairs
 time_period: null
 title: 311 Service and Information Requests
 usage: null
+keywords:
+- 311 requests
+- service requests
+- philly311
+- citizen complaints
+- city services
+- non-emergency
+- maintenance requests
+- repair requests
+- public complaints
 ---

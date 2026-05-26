@@ -37,8 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Registered Community Organizations (RCO) Boundaries
 usage: Public Use; Free
+keywords:
+- neighborhood organizations
+- rco zones
+- zoning notifications
+- civic associations
+- community groups
+- zoning code
+- neighborhood boundaries
+- planning districts
 ---

@@ -39,9 +39,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
-- gardens
+  - gardens
+  - philadelphia parks and recreation
 time_period: null
 title: Registered Community Gardens
 usage: null
+keywords:
+- urban farming
+- community plots
+- urban agriculture
+- garden locations
+- vegetable gardens
+- green space
+- neighborhood gardens
+- food growing
 ---

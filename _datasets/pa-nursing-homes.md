@@ -41,4 +41,13 @@ tags:
 time_period: June 2022
 title: PA Nursing Homes
 usage: Public use; free
+keywords:
+- elder care
+- senior living
+- long term care
+- assisted living
+- skilled nursing
+- senior facilities
+- aged care
+- residential care
 ---

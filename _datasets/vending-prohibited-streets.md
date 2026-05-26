@@ -40,8 +40,15 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 time_period: null
 title: Vending Prohibited Streets
 usage: null
+keywords:
+- street vendors
+- food trucks
+- street vending
+- sidewalk sales
+- vending restrictions
+- street centerlines
 ---

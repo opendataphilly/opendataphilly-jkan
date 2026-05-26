@@ -39,8 +39,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Housing and Community Development
+  - office of housing and community development
 time_period: null
 title: Market Value Assessment (MVA)
 usage: null
+keywords:
+- real estate market
+- property values
+- housing market
+- neighborhood markets
+- reinvestment fund
+- market analysis
+- housing investment
+- market typology
 ---

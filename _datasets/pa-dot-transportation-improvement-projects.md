@@ -52,6 +52,15 @@ tags:
 time_period: March 2024
 title: PA Transportation Improvement Projects
 usage: Public Use; Free
+keywords:
+- road projects
+- construction projects
+- penndot projects
+- capital projects
+- transportation planning
+- multi-modal projects
+- mpms
+- highway improvements
 ---
 
 

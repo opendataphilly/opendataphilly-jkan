@@ -37,8 +37,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Zoning Steep Slope Protected Area
 usage: null
+keywords:
+- steep slope
+- slope protection
+- hillside zoning
+- environmental overlay
+- terrain protection
+- land use
+- zoning overlay
 ---

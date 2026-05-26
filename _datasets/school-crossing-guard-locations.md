@@ -38,10 +38,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Public Safety
-- Schools
-- Department of Streets
+  - education
+  - public safety
+  - streets department
 time_period: null
 title: School Crossing Guards Locations 
 usage: null
+keywords:
+- school zones
+- pedestrian safety
+- crosswalks
+- student safety
+- traffic safety
+- school streets
+- child safety
+- safe routes
 ---

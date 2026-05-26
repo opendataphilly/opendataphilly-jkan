@@ -30,9 +30,18 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/bfdabcd1cdd545e5b7d3a6993dd2b8b5_0/about
 source: Chester County GIS
 tags:
-- Chester County
-- roads
+  - chester county
+  - streets
 time_period: null
 title: Chester County Road Centerlines
 usage: null
+keywords:
+- roads
+- road network
+- street centerlines
+- highways
+- transportation
+- street lines
+- road map
+- routing
 ---

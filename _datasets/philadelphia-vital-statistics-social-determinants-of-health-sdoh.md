@@ -59,10 +59,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- Vital statistics
-- equity
+  - equity
+  - public health
+  - vital statistics
 time_period: null
 title: Philadelphia Vital Statistics - Social Determinants of Health (SDOH)
 usage: null
+keywords:
+  - sdoh
+  - health equity
+  - health disparities
+  - poverty
+  - housing
+  - education
+  - community health
+  - neighborhood health
 ---

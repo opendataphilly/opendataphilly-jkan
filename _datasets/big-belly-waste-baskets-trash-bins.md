@@ -51,9 +51,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- trash
+  - streets department
+  - waste
 time_period: null
 title: Big Belly Waste Baskets (Trash Bins)
 usage: null
+keywords:
+- trash can locations
+- public waste baskets
+- solar trash compactors
+- street garbage bins
+- bigbelly bins
+- waste receptacles
+- sanitation infrastructure
 ---

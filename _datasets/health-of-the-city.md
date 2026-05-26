@@ -41,8 +41,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: null
 title: Health of the City, Philadelphia Department of Public Health
 usage: null
+keywords:
+- community health
+- health outcomes
+- social determinants
+- population health
+- health statistics
+- health indicators
+- public health report
+- health metrics
+- health disparities
 ---

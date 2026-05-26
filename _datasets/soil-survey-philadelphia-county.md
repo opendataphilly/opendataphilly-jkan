@@ -43,11 +43,19 @@ resources:
 
 schema: philadelphia
 source: null
-tags: 
-- soil survey
-- soils
-- USDA
+tags:
+  - Soil
+  - usda
 time_period: 2022
 title: Soil Survey, Philadelphia County
 usage: Public Use; Free
+keywords:
+- soil types
+- soil map
+- soil properties
+- agriculture
+- land use
+- soil composition
+- soil database
+- ground composition
 ---

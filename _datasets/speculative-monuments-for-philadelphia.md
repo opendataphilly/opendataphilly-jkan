@@ -53,4 +53,13 @@ tags:
 time_period: null
 title: Speculative Monuments for Philadelphia
 usage: null
+keywords:
+- monument lab
+- public sculpture
+- proposed monuments
+- art proposals
+- civic art
+- city hall exhibition
+- memorials
+- community art
 ---

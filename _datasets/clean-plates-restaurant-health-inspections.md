@@ -23,12 +23,21 @@ resources:
   url: http://data.inquirer.com/inspections/
 schema: philadelphia
 source: ''
-tags: 
-- restaurants
-- food safety
-- restaurant inspections
-- foodborne illness
+tags:
+  - food safety
+  - foodborne illness
+  - restaurant inspections
+  - restaurants
 time_period: null
 title: 'Clean Plates: Restaurant Health Inspections'
 usage: null
+keywords:
+- restaurant ratings
+- health code violations
+- food inspection
+- dining safety
+- food handling
+- eatery cleanliness
+- kitchen inspections
+- public health checks
 ---

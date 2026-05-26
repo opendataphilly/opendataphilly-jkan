@@ -42,4 +42,13 @@ tags:
 time_period: November 2023
 title: PA Psychiatric Residential Treatment Facilities
 usage: Public use; free
+keywords:
+- youth mental health
+- adolescent psychiatric care
+- residential treatment
+- behavioral health
+- child mental health
+- inpatient psychiatric
+- therapeutic facilities
+- juvenile treatment
 ---

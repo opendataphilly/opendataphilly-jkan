@@ -36,8 +36,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: null
 title: Sharps Drop Boxes
 usage: null
+keywords:
+- needle disposal
+- syringe disposal
+- medical waste
+- safe disposal locations
+- drop box locations
+- harm reduction
+- public safety
 ---

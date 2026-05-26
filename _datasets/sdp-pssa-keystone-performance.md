@@ -87,12 +87,22 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- PSSA
-- Keystone
-- students
-- science
-- math
+  - keystone
+  - math
+  - pssa
+  - science
+  - students
 time_period: null
 title: School District PSSA & Keystone Performance
 usage: null
+keywords:
+- standardized testing
+- state exams
+- student test scores
+- school assessment
+- proficiency scores
+- english language learner
+- special education
+- academic performance
+- school testing
 ---

@@ -31,13 +31,20 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PA_RailroadCrossing_Points2024_03.xml
 schema: philadelphia
 source: null
-tags: 
-- railroad
-- rail
-- rail crossings
+tags:
+  - rail
+  - rail crossings
+  - railroad
 time_period: March 2024
 title: PA Railroad Crossings
 usage: Public Use; Free
+keywords:
+- train crossings
+- grade crossings
+- railway intersections
+- rail crossing points
+- crossing safety
+- railroad intersections
 ---
 
 

@@ -28,8 +28,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parking Authority
+  - philadelphia parking authority
 time_period: null
 title: 'ARCHIVED: Valet Parking Locations'
 usage: null
+keywords:
+- valet parking
+- parking spots
+- parking zones
+- car valet locations
+- parking permits
+- parking authority data
+- archived parking
 ---

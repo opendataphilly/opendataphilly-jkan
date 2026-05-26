@@ -29,10 +29,18 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/935df7a97656451aadf235a2b62c8d12_2/about
 source: Chester County GIS
 tags:
-- cadastral
-- parcels
-- land development
+  - cadastral
+  - land development
+  - parcels
 time_period: null
 title: Chester County Proposed Land Development Plans
 usage: null
+keywords:
+- land development
+- subdivision plans
+- proposed developments
+- planning commission reviews
+- act 247 plans
+- development applications
+- land use planning
 ---

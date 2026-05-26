@@ -27,12 +27,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/ffb0339350ad4a19a10d7e8b6efd5c68_0/about
 source: Chester County GIS
 tags:
-- Boundary
-- Chesco
-- Chester
-- Chester County
-- Regional
+  - boundary
+  - chester
+  - chester county
+  - regional
 time_period: null
 title: Chester County County Boundary
 usage: null
+keywords:
+- chester county boundary
+- county border
+- regional boundary
+- chesco gis
+- administrative boundary
+- county outline
+- chester county pa
 ---

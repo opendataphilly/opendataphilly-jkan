@@ -40,11 +40,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Food
-- Meals
-- Hunger
-- Health and Human Services
+  - food
+  - health and human services
+  - hunger
+  - meals
 time_period: null
 title: Free Food & Meal Sites
 usage: null
+keywords:
+- free meals
+- food pantry
+- food assistance
+- nutrition services
+- public benefits
+- food access
+- meal locations
 ---

@@ -31,10 +31,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/37aa8563d1fb415db286f06198b0140d_0/about
 source: Chester County GIS
 tags:
-- Chester County
-- parcels
-- addresses
+  - addresses
+  - chester county
+  - parcels
 time_period: null
 title: Chester County Site Address Points
 usage: null
+keywords:
+- street addresses
+- property addresses
+- geocoding
+- address locations
+- address points
+- residential addresses
+- location data
+- parcel addresses
 ---

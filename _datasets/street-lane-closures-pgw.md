@@ -25,10 +25,19 @@ resources:
   url: https://opendata.pgworks.com/EUN/
 schema: philadelphia
 source: null
-tags: 
-- PGW
-- streets
+tags:
+  - pgw
+  - streets
 time_period: 12/10/2009 - Present
 title: Street Lane Closures - PGW
 usage: No limitations
+keywords:
+- gas works closures
+- utility road work
+- gas line maintenance
+- road repairs
+- lane shutdowns
+- construction permits
+- pgw excavation
+- traffic disruptions
 ---

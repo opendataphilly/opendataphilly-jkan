@@ -504,9 +504,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Sustainability
-- energy
+  - energy
+  - office of sustainability
 time_period: null
 title: Large Building Energy Benchmarking Data
 usage: null
+keywords:
+- energy use
+- building performance
+- energy efficiency
+- water usage
+- sustainability
+- portfolio manager
+- commercial buildings
+- energy reporting
 ---

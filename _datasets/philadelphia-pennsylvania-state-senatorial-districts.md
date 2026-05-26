@@ -19,10 +19,18 @@ resources:
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=39
 schema: philadelphia
 source: ''
-tags: 
-- state senate
-- boundaries
+tags:
+  - boundaries
+  - state senate
 time_period: null
 title: Pennsylvania State Senatorial Districts
 usage: null
+keywords:
+- state senate districts
+- senator districts
+- legislative boundaries
+- political districts
+- voting districts
+- pa senate
+- district map
 ---

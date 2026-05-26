@@ -60,11 +60,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- grants
-- financial assistance
-- small business
+  - commerce department
+  - financial assistance
+  - grants
+  - small business
 time_period: null
 title: Storefront Improvement Program Grants Disbursed
 usage: null
+keywords:
+- business grants
+- facade improvement
+- commercial corridors
+- economic development
+- storefront renovation
+- grant recipients
+- award amounts
+- business funding
 ---

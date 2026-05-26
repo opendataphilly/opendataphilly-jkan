@@ -65,9 +65,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Innovation and Technology
-- PASDA
+  - office of innovation and technology
+  - pasda
 time_period: null
 title: LiDAR-LAS data
 usage: Free; Pubic Use;
+keywords:
+- elevation data
+- point cloud
+- terrain model
+- laser scanning
+- digital elevation
+- aerial mapping
+- 3d mapping
+- topography
 ---

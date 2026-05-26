@@ -60,12 +60,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- PDPH
-- Philadelphia Department of Public Health
-- Schools
-- Smoking
-- Tobacco
+  - Tobacco
+  - education
+  - public health
 time_period: null
 title: Tobacco-Free School Zones
 usage: null
+keywords:
+- smoke-free zones
+- school buffer zones
+- tobacco regulations
+- cigarette sales
+- youth protection
+- retailer restrictions
+- k-12 schools
+- 500 foot buffer
 ---

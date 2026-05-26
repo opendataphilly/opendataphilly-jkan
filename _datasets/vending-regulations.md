@@ -43,8 +43,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 time_period: null
 title: Vending Regulations
 usage: null
+keywords:
+- street vendors
+- sidewalk vendors
+- food trucks
+- vending districts
+- center city vending
+- vending zones
+- business districts
 ---

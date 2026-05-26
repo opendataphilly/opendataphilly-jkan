@@ -45,11 +45,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- grants
-- financial assistance
-- small business
+  - commerce department
+  - financial assistance
+  - grants
+  - small business
 time_period: null
 title: Commerce Grants by Hex Bin
 usage: null
+keywords:
+- business funding
+- economic development
+- business loans
+- hex grid
+- philly stat 360
+- catalyst fund
+- entrepreneur support
+- neighborhood business
 ---

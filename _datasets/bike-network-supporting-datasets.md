@@ -34,9 +34,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- PASDA
-- Streets Department
+  - pasda
+  - streets department
 time_period: September 2012
 title: Bike Network - Supporting Datasets
 usage: Public Use; Free
+keywords:
+- bike routes
+- bicycle network
+- bike trails
+- connector streets
+- regional bike routes
+- side paths
+- cycling infrastructure
+- bike routing data
 ---

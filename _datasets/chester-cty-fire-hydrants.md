@@ -29,11 +29,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/c4844c06f3fb4d5eac75be26a7603780_0/about
 source: Chester County GIS
 tags:
-- Fire
-- Hydrant
-- CCDES
-- Chester County
+  - chester county
+  - emergency services
+  - fire
+  - hydrant
 time_period: null
 title: Chester County Fire Hydrants
 usage: null
+keywords:
+- fire hydrants
+- water hydrants
+- hydrant locations
+- firefighting water supply
+- fire infrastructure
+- hydrant map
+- emergency water
 ---

@@ -36,8 +36,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: Dams
 usage: null
+keywords:
+- dam locations
+- water infrastructure
+- reservoirs
+- philadelphia water
+- waterway infrastructure
+- flood control
+- water management
+- watershed
 ---

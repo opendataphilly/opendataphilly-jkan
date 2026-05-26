@@ -83,8 +83,18 @@ resources:
 schema: philadelphia
 source: https://www.opendataphilly.org/showcase/philadelphia-covid-19-information
 tags:
-- public health
+  - public health
 time_period: null
 title: COVID Cumulative Historical Snapshots
 usage: null
+keywords:
+- coronavirus
+- covid cases
+- covid deaths
+- covid hospitalizations
+- pandemic data
+- historical covid
+- daily snapshots
+- covid timeline
+- covid by zip
 ---

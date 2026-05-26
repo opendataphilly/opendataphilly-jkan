@@ -52,11 +52,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
-- crashes
-- accidents
-- Vision Zero
+  - Crashes
+  - police
+  - vision zero
 time_period: null
 title: Fatal Crashes
 usage: null
+keywords:
+- traffic deaths
+- car accidents
+- road fatalities
+- ppd crashes
+- accident investigation
+- traffic safety
+- pedestrian deaths
 ---

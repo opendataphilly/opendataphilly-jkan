@@ -141,11 +141,22 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- COVID-19
-- Philadelphia Department of Public Health
-- Vaccine
-- equity
+  - covid-19
+  - equity
+  - public health
+  - vaccine
 time_period: null
 title: COVID-19 Vaccinations
 usage: null
+keywords:
+- coronavirus vaccine
+- vaccination data
+- vaccine doses
+- immunization
+- vaccination rates
+- shots administered
+- pandemic response
+- vaccine equity
+- vaccine demographics
+- first dose
 ---

@@ -36,10 +36,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of the Mayor
-- city services
-- community action centers
+  - city services
+  - community action centers
+  - office of the mayor
 time_period: null
 title: Mini City Halls Locations
 usage: null
+keywords:
+- council districts
+- community offices
+- constituent services
+- city assistance
+- neighborhood city halls
+- community engagement
+- city help
+- resident services
 ---

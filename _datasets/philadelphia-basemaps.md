@@ -64,4 +64,13 @@ tags:
 time_period: null
 title: Philadelphia Basemaps
 usage: Public Use; Free
+keywords:
+- base map
+- map tiles
+- city map
+- map background
+- gis map
+- reference map
+- map layer
+- cartography
 ---

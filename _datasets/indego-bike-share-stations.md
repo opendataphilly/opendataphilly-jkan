@@ -28,8 +28,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Transportation and Infrastructure System
+  - office of transportation and infrastructure system
 time_period: null
 title: Indego Bike Share Stations
 usage: null
+keywords:
+- bike share
+- bicycle rental
+- bike docks
+- station locations
+- cycling
+- bike infrastructure
+- micromobility
+- rideindego
 ---

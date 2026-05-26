@@ -58,9 +58,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- Division of Housing and Community Development
+  - department of planning and development
+  - division of housing and community development
 time_period: null
 title: Neighborhood Advisory Committees (NACs)
 usage: null
+keywords:
+- community engagement
+- nonprofits
+- neighborhood programs
+- dhcd
+- community development
+- resident services
+- local outreach
+- community organizations
 ---

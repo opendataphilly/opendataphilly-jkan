@@ -37,12 +37,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- women
-- infants
-- WIC
-- nutrition
+  - infants
+  - nutrition
+  - public health
+  - wic
+  - women
 time_period: null
 title: Women, Infants & Children (WIC) Offices
 usage: null
+keywords:
+- nutrition assistance
+- food assistance
+- maternal health
+- supplemental nutrition
+- mother baby
+- food benefits
+- health services
 ---

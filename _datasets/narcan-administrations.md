@@ -36,10 +36,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philly Stat 360
-- Narcan
-- Fire Department
+  - fire department
+  - narcan
+  - philly stat 360
 time_period: null
 title: Narcan Administrations By ZIP Code
 usage: Public Use; Free
+keywords:
+- naloxone
+- overdose response
+- opioid overdose
+- drug overdose
+- overdose reversal
+- emergency response
+- opioid crisis
+- overdose data
 ---

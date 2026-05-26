@@ -37,9 +37,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- arterials
+  - arterials
+  - streets department
 time_period: null
 title: Arterial Streets
 usage: null
+keywords:
+- arterial roads
+- major roads
+- street network
+- thoroughfares
+- main streets
+- road classification
+- city street layer
+- transportation infrastructure
 ---

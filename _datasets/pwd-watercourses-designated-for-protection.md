@@ -61,11 +61,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
-- streams
-- rivers
-- stormwater
+  - philadelphia water department
+  - rivers
+  - streams
+  - water
 time_period: null
 title: Watercourses Designated for Protection
 usage: null
+keywords:
+- hydrography
+- protected streams
+- creeks
+- waterways
+- philadelphia hydrology
+- water features
+- creek protection
+- stream map
 ---

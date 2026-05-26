@@ -36,8 +36,15 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Track Streets
 usage: null
+keywords:
+- train tracks
+- railroad
+- rail lines
+- street segments
+- trolley tracks
+- transit infrastructure
 ---

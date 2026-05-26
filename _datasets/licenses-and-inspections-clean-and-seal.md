@@ -43,8 +43,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 time_period: null
 title: Licenses and Inspections Clean and Seal
 usage: null
+keywords:
+- abandoned properties
+- vacant buildings
+- blight abatement
+- property cleanup
+- sealed properties
+- nuisance abatement
+- vacant property
+- property remediation
 ---

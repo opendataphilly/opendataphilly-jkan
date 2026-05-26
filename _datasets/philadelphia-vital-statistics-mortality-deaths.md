@@ -58,10 +58,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- Vital statistics
-- equity
+  - equity
+  - public health
+  - vital statistics
 time_period: null
 title: Philadelphia Vital Statistics - Mortality (Deaths)
 usage: null
+keywords:
+  - death rates
+  - mortality data
+  - cause of death
+  - life expectancy
+  - health outcomes
+  - death statistics
+  - epidemiology
+  - health disparities
 ---

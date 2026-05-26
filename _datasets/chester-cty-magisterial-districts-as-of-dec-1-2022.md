@@ -27,11 +27,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/632b39f3682f471ba864e6f6a382c2d0_2/about
 source: Chester County GIS
 tags:
-- chester county
-- courts
-- district courts
-- magesterial districts
+  - chester county
+  - courts
+  - district courts
+  - magesterial districts
 time_period: null
 title: Chester County Magisterial Districts as of Dec. 1, 2022
 usage: null
+keywords:
+- magisterial districts
+- district court boundaries
+- judicial districts
+- magistrate jurisdictions
+- court territories
+- redistricting
+- 2022 districts
 ---

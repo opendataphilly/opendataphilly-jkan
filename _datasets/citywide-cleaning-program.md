@@ -37,9 +37,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Clean and Green Initiatives
-- Sanitation
+  - office of clean and green initiatives
+  - waste
 time_period: null
 title: Citywide Cleaning Program Tasks
 usage: null
+keywords:
+- street cleaning
+- city cleanup
+- trash pickup
+- quality of life
+- intergovernmental cleanup
+- neighborhood cleaning
+- sanitation events
+- litter removal
 ---

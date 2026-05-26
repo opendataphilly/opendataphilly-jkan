@@ -36,4 +36,12 @@ tags:
 time_period: null
 title: Chester County Bridges
 usage: null
+keywords:
+- bridges
+- chester county bridges
+- penndot bridges
+- bridge inventory
+- transportation bridges
+- road bridges
+- bridge management
 ---

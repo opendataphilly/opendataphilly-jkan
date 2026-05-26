@@ -39,8 +39,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
 time_period: null
 title: PPR Boat Launches
 usage: null
+keywords:
+  - kayak launches
+  - boat ramps
+  - canoe launches
+  - schuylkill river
+  - delaware river
+  - waterfront access
+  - paddling
+  - river access
 ---

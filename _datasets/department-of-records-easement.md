@@ -38,12 +38,22 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Records
-- easements
-- alleys
-- driveways
-- utilities
+  - alleys
+  - department of records
+  - driveways
+  - easements
+  - energy
 time_period: null
 title: Department of Records Easements
 usage: null
+keywords:
+- property easements
+- ingress egress
+- right of way
+- utility easement
+- drainage rights
+- alleyway access
+- driveway access
+- subsurface rights
+- dor records
 ---

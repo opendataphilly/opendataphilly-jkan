@@ -64,10 +64,19 @@ resources:
 
 schema: philadelphia
 source: 'School District of Philadelphia'
-tags: 
-- School District of Philadelphia
-- schools
+tags:
+  - education
+  - school district of philadelphia
 time_period: null
 title: School District School Lists
 usage: null
+keywords:
+- school directory
+- master school list
+- charter schools
+- alternative schools
+- public schools
+- school codes
+- cte programs
+- school information
 ---

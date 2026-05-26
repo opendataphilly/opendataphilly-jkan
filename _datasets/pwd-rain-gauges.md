@@ -37,8 +37,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: Rain Gauges
 usage: null
+keywords:
+- precipitation monitoring
+- rainfall data
+- weather monitoring
+- rain measurement
+- gauge network
+- rainfall stations
+- precipitation sensors
 ---

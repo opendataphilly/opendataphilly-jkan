@@ -19,12 +19,22 @@ resources:
   url:  https://doi.org/10.7910/DVN/CVL7Z2
 schema: philadelphia
 source: none
-tags: 
-- Census
-- Police Districts
-- Police Service Areas
-- Census Blockgroup
+tags:
+  - census
+  - census blockgroup
+  - police districts
+  - police service areas
 time_period: 2020
 title: 2020 Census to Police District Crosswalk
 usage: Public Use; Free
+keywords:
+- census crosswalk
+- police districts
+- block groups
+- police service areas
+- psa
+- demographics
+- population
+- census mapping
+- police boundaries
 ---

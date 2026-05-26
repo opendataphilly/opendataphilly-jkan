@@ -42,4 +42,13 @@ tags:
 time_period: 2023
 title: PA Hospitals
 usage: Public use; free
+keywords:
+- medical centers
+- emergency rooms
+- healthcare facilities
+- pa health
+- medical treatment
+- hospital locations
+- patient care
+- inpatient care
 ---

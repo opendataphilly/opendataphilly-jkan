@@ -77,9 +77,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- litter
+  - litter
+  - streets department
 time_period: null
 title: Litter Index
 usage: null
+keywords:
+- trash
+- street cleanliness
+- garbage
+- neighborhood cleanliness
+- litter scores
+- block scores
+- sanitation
+- street trash
 ---

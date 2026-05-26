@@ -27,11 +27,20 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/00e4a029de36401187e4fc860c1a8414_0/about
 source: Chester County GIS
 tags:
-- chester county
-- cadastral
-- parcels
-- frontage
+  - cadastral
+  - chester county
+  - frontage
+  - parcels
 time_period: null
 title: Chester County ParcelFrontageDimensions
 usage: null
+keywords:
+- parcel frontage
+- lot frontage
+- property dimensions
+- cadastral data
+- parcel boundaries
+- land records
+- street frontage
+- lot lines
 ---

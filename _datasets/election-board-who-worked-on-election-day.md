@@ -29,8 +29,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- City Commissioners
+  - city commissioners
 time_period: null
 title: Election Board Who Worked on Election Day
 usage: null
+keywords:
+- poll workers
+- election workers
+- election officials
+- election day
+- voting workers
+- precinct workers
+- election pay
+- poll staff
 ---

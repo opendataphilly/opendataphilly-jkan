@@ -141,10 +141,19 @@ resources:
 
 schema: philadelphia
 source: 'School District of Philadelphia'
-tags: 
-- School District of Philadelphia
-- schools
+tags:
+  - education
+  - school district of philadelphia
 time_period: null
 title: School Enrollment and Demographics
 usage: null
+keywords:
+- student demographics
+- school enrollment
+- student population
+- ethnicity breakdown
+- gender breakdown
+- english learners
+- special education
+- enrollment counts
 ---

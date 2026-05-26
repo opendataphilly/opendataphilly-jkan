@@ -46,10 +46,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- green stormwater infrastructure
-- geotechnical
-- Philadelphia Water Department
+  - geotechnical
+  - green stormwater infrastructure
+  - philadelphia water department
 time_period: null
 title: PWD Geotechnical Tests
 usage: null
+keywords:
+- soil testing
+- infiltration rates
+- soil borings
+- subsurface testing
+- bedrock depth
+- groundwater depth
+- site evaluation
+- stormwater testing
 ---

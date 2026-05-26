@@ -36,10 +36,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- utilities
-- streets
+  - energy
+  - streets
+  - streets department
 time_period: null
 title: Street Lane Closure Emergency Utility Network
 usage: null
+keywords:
+- gas line repair
+- utility excavation
+- road closures
+- pgw work
+- emergency repairs
+- lane closure
+- construction sites
+- utility work
 ---

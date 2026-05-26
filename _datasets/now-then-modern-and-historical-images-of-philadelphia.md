@@ -27,4 +27,13 @@ tags:
 time_period: null
 title: 'Now & Then: Modern and Historical Images of Philadelphia'
 usage: Public Use; Free
+keywords:
+- historic photos
+- old philadelphia
+- photo archive
+- vintage images
+- philly history
+- street photography
+- phillyhistory
+- contemporary photos
 ---

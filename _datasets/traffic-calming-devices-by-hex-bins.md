@@ -36,10 +36,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Streets
-- Philly Stat 360
-- traffic calming
+  - philly stat 360
+  - streets department
+  - traffic calming
 time_period: null
 title: Traffic Calming Devices by Hexbins
 usage: null
+keywords:
+- speed bumps
+- speed humps
+- hex bins
+- traffic safety
+- street safety
+- aggregated data
+- visualization
 ---

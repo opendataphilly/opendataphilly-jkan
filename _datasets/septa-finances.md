@@ -32,11 +32,20 @@ resources:
 
 schema: philadelphia
 source: null
-tags: 
-- SEPTA
-- public transit
-- finances
+tags:
+  - finances
+  - septa
+  - transportation
 time_period: September 2023
 title: SEPTA Finances
 usage: Public Use
+keywords:
+- transit budget
+- agency expenses
+- fiscal projections
+- vendor spending
+- revenue forecasts
+- transit funding
+- operating costs
+- financial reports
 ---

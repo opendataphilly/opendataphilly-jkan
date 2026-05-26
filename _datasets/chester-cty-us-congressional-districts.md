@@ -28,10 +28,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/385e151292ce4821b65bd16e55063ccc_0/about
 source: Chester County GIS
 tags:
-- chester county
-- us congress
-- districts
+  - chester county
+  - districts
+  - us congress
 time_period: null
 title: Chester County US Congressional Districts
 usage: null
+keywords:
+- congressional districts
+- federal districts
+- house of representatives
+- political boundaries
+- voting districts
+- electoral districts
+- redistricting
+- district maps
 ---

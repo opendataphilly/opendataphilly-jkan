@@ -39,10 +39,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- grants
-- small business
+  - commerce department
+  - grants
+  - small business
 time_period: null
 title: TMF Emergency Grant Program
 usage: null
+keywords:
+- emergency funding
+- merchants fund
+- business relief
+- disaster grants
+- small business aid
+- recovery funding
+- grant recipients
+- business assistance
 ---

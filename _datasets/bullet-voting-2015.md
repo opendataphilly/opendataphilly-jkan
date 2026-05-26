@@ -28,9 +28,18 @@ resources:
   url: http://metadata.phila.gov/#home/datasetdetails/5665ccf344712bf204624362/
 schema: philadelphia
 source: ''
-tags: 
-- City Council
+tags:
+  - city council
 time_period: null
 title: Bullet Voting 2015
 usage: null
+keywords:
+- bullet voting
+- single candidate voting
+- 2015 primary
+- city council at-large
+- voting behavior
+- election results
+- democratic primary
+- republican primary
 ---

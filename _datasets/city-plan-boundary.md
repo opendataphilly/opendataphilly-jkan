@@ -39,9 +39,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- municipal boundary
+  - municipal boundary
+  - streets department
 time_period: null
 title: City Plan Boundary
 usage: null
+keywords:
+- street planning
+- city plan
+- street boundary
+- planning boundary
+- surveys division
+- street network
+- city plat
+- planned streets
 ---

@@ -39,9 +39,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- schools
+  - education
 time_period: null
 title: GreatSchools (Phila. only)
 usage: Public Use; Free Free registration entails interactivity and extra privilegesAPI
   structuring requires key, by request
+keywords:
+- school ratings
+- school reviews
+- school directory
+- school search
+- test scores
+- school demographics
+- public schools
 ---

@@ -37,11 +37,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- grants
-- financial assistance
-- small business
+  - commerce department
+  - financial assistance
+  - grants
+  - small business
 time_period: null
 title: Quality Jobs Program
 usage: null
+keywords:
+- job creation
+- business grants
+- pidc grants
+- employment program
+- workforce development
+- business incentives
+- economic development
+- job benefits
 ---

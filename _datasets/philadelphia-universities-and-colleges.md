@@ -38,8 +38,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Philadelphia Universities and Colleges
 usage: null
+keywords:
+  - higher education
+  - schools
+  - campuses
+  - college locations
+  - academic institutions
+  - university campus
+  - student housing
+  - education facilities
 ---

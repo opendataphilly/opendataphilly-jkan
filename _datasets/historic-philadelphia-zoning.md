@@ -34,8 +34,17 @@ resources:
 schema: philadelphia
 source: 'OpenDataPhilly'
 tags:
-- zoning
+  - zoning
 time_period: null
 title: Historic Zoning Base Maps
 usage: Public Use
+keywords:
+- historic zoning
+- zoning code
+- archive zoning
+- land use history
+- zoning maps
+- pre-2012 zoning
+- zoning overlay
+- old zoning
 ---

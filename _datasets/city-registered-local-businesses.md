@@ -37,12 +37,21 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Procurement
-- business
-- businesses
-- contracting
-- contracts
+  - business
+  - contracting
+  - contracts
+  - department of procurement
 time_period: null
 title: City-Registered Local Businesses
 usage: null
+keywords:
+- local business entity
+- certified businesses
+- city contractors
+- vendor list
+- minority business
+- local vendors
+- procurement
+- city suppliers
+- small business
 ---

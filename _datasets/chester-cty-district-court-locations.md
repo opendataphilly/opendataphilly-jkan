@@ -27,11 +27,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/632b39f3682f471ba864e6f6a382c2d0_0/about
 source: Chester County GIS
 tags:
-- chester county
-- courts
-- district courts
-- magesterial districts
+  - chester county
+  - courts
+  - district courts
+  - magesterial districts
 time_period: null
 title: Chester County District Court Locations
 usage: null
+keywords:
+- district courts
+- magisterial districts
+- courthouse locations
+- chester county courts
+- judiciary
+- court addresses
+- legal facilities
 ---

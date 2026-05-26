@@ -67,8 +67,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: null
 title: Philadelphia Child Blood Lead Levels
 usage: null
+keywords:
+- lead poisoning
+- childhood lead
+- blood lead screening
+- children health
+- lead exposure
+- environmental health
+- pediatric health
+- bll
 ---

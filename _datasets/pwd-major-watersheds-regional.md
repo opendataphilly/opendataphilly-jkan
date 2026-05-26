@@ -41,9 +41,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
-- watersheds
+  - philadelphia water department
+  - watersheds
 time_period: null
 title: Major Watersheds - Regional
 usage: Public Use; Free
+keywords:
+- regional watersheds
+- drainage areas
+- watershed boundaries
+- surface runoff
+- hydrology
+- watershed map
+- regional drainage
 ---

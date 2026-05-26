@@ -36,9 +36,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
-- compost
+  - compost
+  - philadelphia parks and recreation
 time_period: null
 title: Community Compost Network Site
 usage: null
+keywords:
+- composting locations
+- food waste
+- organic waste
+- recycling
+- community gardens
+- sustainability
+- urban composting
+- parks and recreation
 ---

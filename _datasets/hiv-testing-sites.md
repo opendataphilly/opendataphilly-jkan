@@ -36,9 +36,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- HIV
-- Philadelphia Department of Public Health
+  - hiv
+  - public health
 time_period: null
 title: HIV Testing Sites
 usage: null
+keywords:
+- hiv testing
+- aids testing
+- sti testing
+- health clinics
+- testing locations
+- disease prevention
+- sexual health
+- screening sites
 ---

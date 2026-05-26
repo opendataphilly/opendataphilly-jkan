@@ -37,8 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 time_period: null
 title: Outdoor Advertising
 usage: null
+keywords:
+- billboards
+- signs
+- advertising locations
+- sign permits
+- outdoor signage
+- ad billboards
+- licenses inspections
+- street signs
 ---

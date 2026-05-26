@@ -39,13 +39,22 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- railways
-- streets
-- boundaries
-- water
-- hydrography
+  - boundaries
+  - hydrography
+  - railways
+  - streets
+  - streets department
+  - water
 time_period: null
 title: Streets Composite Layer
 usage: null
+keywords:
+- citywide base map
+- street arcs
+- city boundary
+- rail lines
+- hydrography
+- base layer
+- city geography
+- composite map
 ---

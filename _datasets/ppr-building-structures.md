@@ -38,10 +38,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
-- building footprints
-- parks
+  - building footprints
+  - parks & recreation
+  - philadelphia parks and recreation
 time_period: null
 title: PPR Building Structures
 usage: null
+keywords:
+  - park buildings
+  - recreation centers
+  - park facilities
+  - park structures
+  - rec centers
+  - field houses
+  - park amenities
+  - park assets
 ---

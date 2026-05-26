@@ -97,8 +97,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Census Block Groups
 usage: null
+keywords:
+- block group boundaries
+- demographic geography
+- acs geography
+- decennial census geography
+- statistical areas
+- census boundaries
+- planning boundaries
 ---

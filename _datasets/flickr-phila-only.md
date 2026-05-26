@@ -48,4 +48,11 @@ tags:
 time_period: null
 title: Flickr (Phila. only)
 usage: "Non-commercial use"
+keywords:
+- photos
+- image database
+- pictures
+- philadelphia images
+- photo sharing
+- visual media
 ---

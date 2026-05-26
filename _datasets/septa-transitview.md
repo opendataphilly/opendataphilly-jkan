@@ -27,10 +27,18 @@ resources:
   url: https://www3.septa.org/api/TransitView/index.php
 schema: philadelphia
 source: SEPTA
-tags: 
-- SEPTA
-- public transit
+tags:
+  - septa
+  - transportation
 time_period: Current
 title: SEPTA TransitView
 usage: Public Use
+keywords:
+- bus locations
+- trolley locations
+- real-time tracking
+- vehicle tracker
+- live bus map
+- route vehicles
+- transit api
 ---

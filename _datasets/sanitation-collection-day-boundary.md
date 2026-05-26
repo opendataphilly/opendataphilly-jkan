@@ -63,11 +63,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- trash
-- recycling
-- rubbish
+  - rubbish
+  - streets department
+  - waste
 time_period: null
 title: Sanitation Collection Day Boundary
 usage: null
+keywords:
+- trash day
+- pickup schedule
+- recycling day
+- garbage collection
+- household waste
+- collection boundaries
+- when is trash day
+- pickup zones
 ---

@@ -35,10 +35,19 @@ resources:
   url: https://www3.septa.org/api/BusSchedules/index.php
 schema: philadelphia
 source: null
-tags: 
-- SEPTA
-- public transit
+tags:
+  - septa
+  - transportation
 time_period: Real-time
 title: SEPTA Schedules
 usage: Public Use
+keywords:
+- transit schedules
+- bus schedule
+- train schedule
+- trolley schedule
+- regional rail times
+- timetable api
+- gtfs
+- stop times
 ---

@@ -102,10 +102,18 @@ resources:
 schema: philadelphia
 source: 'School District of Philadelphia'
 tags:
-- finance
-- budget
-- expenditures
+  - budget
+  - expenditures
 time_period: null
 title: School District Finances
 usage: null
+keywords:
+- school budgets
+- school spending
+- school district money
+- vendor payments
+- fiscal year
+- school finances
+- education funding
+- district expenditures
 ---

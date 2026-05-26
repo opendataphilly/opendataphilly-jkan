@@ -31,11 +31,19 @@ resources:
   url: http://www.pasda.psu.edu/pasda/UCI_Metadata/Tornados_Pennsylvania.xml
 schema: philadelphia
 source: null
-tags: 
-- tornadoes
-- emergency management
-- weather
+tags:
+  - emergency management
+  - tornadoes
+  - weather
 time_period: 01/01/1950 - 12/31/2004
 title: Tornadoes, 1950-2004
 usage: Public Use; Free
+keywords:
+- storms
+- severe weather
+- natural disasters
+- twisters
+- noaa
+- touchdown
+- historical weather
 ---

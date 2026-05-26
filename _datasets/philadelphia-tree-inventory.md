@@ -116,10 +116,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
-- street trees
-- municipal forest
+  - municipal forest
+  - philadelphia parks and recreation
+  - street trees
 time_period: null
 title: Philadelphia Tree Inventory
 usage: null
+keywords:
+  - urban trees
+  - tree canopy
+  - tree census
+  - tree species
+  - urban forestry
+  - shade trees
+  - city trees
+  - tree locations
 ---

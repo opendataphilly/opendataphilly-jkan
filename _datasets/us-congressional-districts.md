@@ -16,8 +16,16 @@ resources: []
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: US Congressional Districts
 usage: null
+keywords:
+- congress
+- congressional boundaries
+- federal districts
+- political boundaries
+- house of representatives
+- electoral districts
+- pennsylvania congress
 ---

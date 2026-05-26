@@ -37,9 +37,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- municipal boundary
+  - department of planning and development
+  - municipal boundary
 time_period: null
 title: City Limits
 usage: Public use; Free
+keywords:
+- city boundary
+- philadelphia border
+- municipal limits
+- city outline
+- jurisdictional boundary
+- city extent
+- philadelphia map
+- boundary layer
 ---

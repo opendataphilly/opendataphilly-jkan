@@ -36,9 +36,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Board of Ethics
-- lobbying
+  - board of ethics
+  - lobbying
 time_period: January 2014 - Present
 title: Philadelphia Lobbying Information System (App)
 usage: No limitations
+keywords:
+- lobbyists
+- lobbying firms
+- lobbying expenses
+- political influence
+- government transparency
+- registered lobbyists
+- plis
+- lobbying database
 ---

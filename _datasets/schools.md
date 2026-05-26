@@ -43,9 +43,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- schools
+  - department of planning and development
+  - education
 time_period: null
 title: Schools
 usage: Public Use; Free
+keywords:
+- school locations
+- public schools
+- charter schools
+- private schools
+- school facilities
+- athletic fields
+- school signage
+- crosswalks
+- school annexes
 ---

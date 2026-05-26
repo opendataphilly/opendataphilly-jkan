@@ -41,9 +41,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Children and Families
-- Food
+  - food
+  - office of children and families
 time_period: null
 title: Philadelphia Free Food and Meal Sites
 usage: null
+keywords:
+- free meals
+- food pantries
+- food banks
+- hunger relief
+- meal sites
+- food assistance
+- food finder
 ---

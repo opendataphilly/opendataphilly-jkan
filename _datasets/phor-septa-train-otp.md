@@ -21,10 +21,19 @@ resources:
   url: https://apps.phor.net/septa/
 schema: philadelphia
 source: https://apps.phor.net/septa/
-tags: 
-- SEPTA
-- railroad
+tags:
+  - railroad
+  - septa
 time_period: current
 title: SEPTA Regional Rail On-time Performance Reports
 usage: Public Use; Free
+keywords:
+  - train delays
+  - regional rail
+  - commuter rail
+  - train schedules
+  - transit performance
+  - late trains
+  - public transit
+  - rail reliability
 ---

@@ -66,9 +66,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Innovation and Technology
-- Procurement Department
+  - office of innovation and technology
+  - procurement department
 time_period: null
 title: Commodities Contracts
 usage: null
+keywords:
+- city purchasing
+- procurement contracts
+- government supplies
+- vendor contracts
+- public works contracts
+- contract awards
+- city spending
+- equipment contracts
 ---

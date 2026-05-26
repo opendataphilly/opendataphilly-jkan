@@ -28,12 +28,20 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/5c88d023f9af465e96be8ef2b3486ddd_1/about
 source: Chester County GIS
 tags:
-- Chester County
-- Fire
-- Stations
-- DES
-- Response
+  - chester county
+  - des
+  - fire
+  - response
+  - stations
 time_period: null
 title: Chester County Fire Stations
 usage: null
+keywords:
+- fire stations
+- firehouses
+- fire department locations
+- firefighter stations
+- fire service facilities
+- emergency response stations
+- fire engine houses
 ---

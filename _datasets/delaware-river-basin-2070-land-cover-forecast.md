@@ -46,14 +46,24 @@ resources:
   url: https://ship.maps.arcgis.com/apps/MapSeries/index.html?appid=8dea935b1701406b9d8dfbd75031bbdb
 schema: philadelphia
 source: https://drbproject.org/
-tags: 
-- land cover
-- land use
-- SLEUTH
-- growth model
-- NLCD
-- urbanization
+tags:
+  - growth model
+  - land cover
+  - nlcd
+  - sleuth
+  - urbanization
+  - zoning
 time_period: null
 title: Delaware River Basin 2070 Land Cover Forecast
 usage: null
+keywords:
+- urban growth
+- land use forecast
+- urban development
+- land cover projection
+- delaware river basin
+- development model
+- future land use
+- impervious surface forecast
+- urban sprawl
 ---

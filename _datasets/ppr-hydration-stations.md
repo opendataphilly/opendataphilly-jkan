@@ -36,11 +36,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
-- fountain
-- hydration station
-- water
+  - fountain
+  - hydration station
+  - philadelphia parks and recreation
+  - water
 time_period: null
 title: PPR Hydration Stations
 usage: null
+keywords:
+- water fountains
+- drinking water
+- park amenities
+- public water
+- bottle fillers
+- water access
+- park infrastructure
 ---

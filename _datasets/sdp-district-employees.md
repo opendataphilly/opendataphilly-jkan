@@ -118,8 +118,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Education
+  - education
 time_period: null
 title: School District Employees
 usage: null
+keywords:
+- teachers
+- school staff
+- principals
+- teacher attendance
+- school workforce
+- staff demographics
+- staff vacancies
+- pay rates
+- full-time employees
 ---

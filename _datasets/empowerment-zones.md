@@ -41,8 +41,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Empowerment Zones
 usage: Public Use; Free
+keywords:
+- federal zones
+- tax incentives
+- business incentives
+- blighted areas
+- commercial zones
+- industrial zones
+- economic development
+- redevelopment areas
+- business grants
 ---

@@ -28,17 +28,23 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/beb86449cb744a72a4985cb9fe85ceed_0/about
 source: Chester County GIS
 tags:
-- ALS
-- Ambulance
-- BLS
-- Chesco
-- Chester
-- Chester County
-- DES
-- EMS
-- Response
-- Hospitals
+  - ambulance
+  - chester
+  - chester county
+  - des
+  - emergency services
+  - hospitals
+  - response
 time_period: null
 title: Chester County Hospitals
 usage: null
+keywords:
+- hospitals
+- medical centers
+- healthcare facilities
+- emergency rooms
+- hospital locations
+- medical providers
+- health services
+- hospital map
 ---

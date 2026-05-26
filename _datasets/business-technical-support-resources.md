@@ -41,10 +41,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- business
-- businesses
-- economic development
+  - business
+  - economic development
 time_period: null
 title: Business Technical Support Resources
 usage: null
+keywords:
+- business resources
+- small business support
+- business assistance
+- entrepreneurship help
+- business services
+- commerce resources
+- technical assistance
 ---

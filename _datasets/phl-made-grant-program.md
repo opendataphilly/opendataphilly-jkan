@@ -40,10 +40,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- grants
-- manufacturing
+  - commerce department
+  - grants
+  - manufacturing
 time_period: null
 title: PHL Made Grant Program
 usage: null
+keywords:
+  - business funding
+  - small business
+  - economic development
+  - factory grants
+  - industry support
+  - business growth
+  - production grants
+  - phl made
 ---

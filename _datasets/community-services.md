@@ -24,15 +24,22 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Homelessness
-- clothing
-- food
-- health
-- homeless
-- homeless shelter
-- homelessness
-- shelter
+  - clothing
+  - food
+  - health
+  - homeless shelter
+  - homelessness
+  - shelter
 time_period: null
 title: Community Services
 usage: null
+keywords:
+- food pantries
+- soup kitchens
+- homeless services
+- humanitarian resources
+- health clinics
+- social services
+- emergency shelters
+- low income assistance
 ---

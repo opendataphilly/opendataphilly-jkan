@@ -39,9 +39,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- Mayors Office of Community Empowerment and Opportunity
+  - department of planning and development
+  - mayors office of community empowerment and opportunity
 time_period: null
 title: West Philadelphia Promise Zone
 usage: null
+keywords:
+- west philly
+- hud
+- federal designation
+- economic development
+- community empowerment
+- promise zones
+- neighborhood revitalization
 ---

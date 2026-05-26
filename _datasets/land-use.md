@@ -65,10 +65,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- land use
-- land cover
+  - department of planning and development
+  - land cover
+  - zoning
 time_period: null
 title: Land Use
 usage: Public Use; Free
+keywords:
+- parcels
+- residential
+- commercial
+- industrial
+- property classification
+- city planning
+- land classification
+- parcel boundaries
 ---

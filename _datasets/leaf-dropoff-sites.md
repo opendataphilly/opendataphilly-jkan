@@ -39,9 +39,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Leaf dropoff
-- Philadelphia Streets Department
+  - leaf dropoff
+  - streets department
 time_period: null
 title: Leaf Dropoff Sites
 usage: null
+keywords:
+- bagged leaves
+- yard waste
+- fall cleanup
+- autumn leaves
+- compost dropoff
+- seasonal sanitation
+- recycling locations
+- street services
 ---

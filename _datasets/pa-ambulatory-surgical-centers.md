@@ -39,4 +39,13 @@ tags:
 time_period: 2023
 title: PA Ambulatory Surgical Centers
 usage: Public Use; Free
+keywords:
+- outpatient surgery
+- same day surgery
+- healthcare facilities
+- medical centers
+- ambulatory care
+- surgery locations
+- pennsylvania health
+- day surgery
 ---

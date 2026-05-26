@@ -37,4 +37,13 @@ tags:
 time_period: null
 title: Philadelphia Public Art API
 usage: null
+keywords:
+  - artwork
+  - sculptures
+  - murals
+  - art locations
+  - philart
+  - rest api
+  - cultural sites
+  - outdoor art
 ---

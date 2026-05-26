@@ -36,9 +36,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Housing and Community Development
-- Pennsylvania Horticultural Society
+  - office of housing and community development
+  - pennsylvania horticultural society
 time_period: null
 title: LandCare Program
 usage: null
+keywords:
+- vacant lots
+- clean and green
+- lot cleanup
+- vacant parcels
+- urban greening
+- lot maintenance
+- blight remediation
+- vacant land stabilization
 ---

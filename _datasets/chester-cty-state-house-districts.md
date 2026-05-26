@@ -28,10 +28,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/27e6abbc8e7d4c249da815c477393e39_0/about
 source: Chester County GIS
 tags:
-- chester county
-- house districts
-- boundaries
+  - boundaries
+  - chester county
+  - house districts
 time_period: null
 title: Chester County State House Districts
 usage: null
+keywords:
+- legislative districts
+- state representatives
+- political boundaries
+- voting districts
+- pennsylvania legislature
+- electoral districts
+- state assembly
+- district maps
 ---

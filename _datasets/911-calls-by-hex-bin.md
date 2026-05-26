@@ -36,10 +36,20 @@ resources:
 schema: philadelphia
 source: null
 tags:
-- Philadelphia Police Department
-- Philadelphia Fire Department
-- Philly Stat 360
+  - fire
+  - philly stat 360
+  - police
 time_period: null
 title: 911 Emergency Calls by Hex Bins
 usage: null
+keywords:
+- 911 calls
+- emergency calls
+- emergency response
+- police calls
+- fire calls
+- hex bins
+- philly stat
+- call volume
+- public safety
 ---

@@ -28,12 +28,20 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/f8cbf11f4dde4c87bc96173596550caa/about
 source: Chester County GIS
 tags:
-- Fire
-- ESZ
-- Boundary
-- Chester County
-- CCDES
+  - boundary
+  - chester county
+  - emergency services
+  - esz
+  - fire
 time_period: null
 title: Chester County Fire Emergency Service Zones
 usage: null
+keywords:
+- fire service areas
+- fire response zones
+- fire coverage
+- emergency service zones
+- fire department territories
+- fire boundaries
+- fire dispatch zones
 ---

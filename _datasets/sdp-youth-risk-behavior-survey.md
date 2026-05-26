@@ -40,10 +40,19 @@ resources:
 
 schema: philadelphia
 source: 'School District of Philadelphia'
-tags: 
-- School District of Philadelphia
-- survey data
+tags:
+  - school district of philadelphia
+  - survey data
 time_period: null
 title: Youth Risk Behavior Survey (YRBS)
 usage: null
+keywords:
+- teen health
+- student behavior
+- cdc survey
+- high school students
+- adolescent health
+- risk behaviors
+- youth wellness
+- student survey
 ---

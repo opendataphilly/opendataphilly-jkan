@@ -59,8 +59,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Traffic Districts
 usage: null
+keywords:
+- traffic flow
+- stop signs
+- traffic signals
+- street direction
+- traffic management
+- traffic zones
+- street boundaries
 ---

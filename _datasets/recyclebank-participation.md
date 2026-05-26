@@ -35,8 +35,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: RecycleBank Participation
 usage: null
+keywords:
+- recycling rewards
+- household recycling
+- curbside recycling
+- recycling incentives
+- street segments
+- archived program
+- residential recycling
+- recycling participation
 ---

@@ -39,10 +39,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Lactation spaces
-- Mamava
-- Office of the Chief Administrative Officer
+  - lactation spaces
+  - mamava
+  - office of the chief administrative officer
 time_period: null
 title: City-Owned Public Lactation Spaces
 usage: null
+keywords:
+- breastfeeding rooms
+- nursing mothers
+- pumping rooms
+- mother rooms
+- breast pumping
+- baby feeding
+- maternal health
+- nursing locations
 ---

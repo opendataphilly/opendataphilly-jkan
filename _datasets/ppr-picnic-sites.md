@@ -39,8 +39,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
 time_period: null
 title: PPR Picnic Sites
 usage: null
+keywords:
+- picnic tables
+- picnic areas
+- park amenities
+- outdoor seating
+- park facilities
+- gathering spots
+- recreation sites
 ---

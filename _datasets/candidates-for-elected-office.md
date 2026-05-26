@@ -24,9 +24,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- City Commissioners
-- candidates
+  - candidates
+  - city commissioners
 time_period: null
 title: Candidates for Elected Office
 usage: null
+keywords:
+- political candidates
+- election candidates
+- ballot candidates
+- candidate list
+- elected office
+- historical candidates
+- upcoming elections
+- voting candidates
 ---

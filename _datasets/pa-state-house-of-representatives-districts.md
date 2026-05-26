@@ -19,4 +19,12 @@ tags: []
 time_period: null
 title: Pennsylvania State House of Representatives Districts
 usage: null
+keywords:
+- legislative districts
+- state government
+- voting boundaries
+- pa house
+- political districts
+- representatives
+- district map
 ---

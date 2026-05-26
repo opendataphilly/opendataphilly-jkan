@@ -88,9 +88,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- COVID-19
-- Philadelphia Department of Public Health
+  - covid-19
+  - public health
 time_period: null
 title: COVID Hospitalizations
 usage: null
+keywords:
+- coronavirus hospitalizations
+- covid hospital admissions
+- hospital data
+- pandemic hospitalizations
+- hospitalization rate
+- covid by age
+- covid by race
+- hospital utilization
+- severe covid
 ---

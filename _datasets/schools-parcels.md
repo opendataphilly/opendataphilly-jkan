@@ -42,8 +42,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Schools Parcels
 usage: Public Use; Free
+keywords:
+- school properties
+- school locations
+- school district parcels
+- charter schools
+- private schools
+- archdiocesan schools
+- school buildings
+- educational facilities
 ---

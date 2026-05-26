@@ -72,10 +72,19 @@ resources:
 
 schema: philadelphia
 source: 'School District of Philadelphia'
-tags: 
-- School District of Philadelphia
-- school catchment areas
+tags:
+  - school catchment areas
+  - school district of philadelphia
 time_period: null
 title: Public School Catchment Areas
 usage: null
+keywords:
+- school zones
+- school boundaries
+- neighborhood schools
+- elementary catchments
+- school assignment
+- attendance zones
+- public schools
+- school districts
 ---

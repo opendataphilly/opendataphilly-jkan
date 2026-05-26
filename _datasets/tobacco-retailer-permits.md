@@ -40,11 +40,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- PDPH
-- Philadelphia Department of Public Health
-- smoking
-- tobacco
+  - Tobacco
+  - public health
 time_period: null
 title: Tobacco Retailer Permits
 usage: null
+keywords:
+- cigarette sellers
+- tobacco licenses
+- smoke shops
+- permit holders
+- retailer registration
+- tobacco sales
+- licensed retailers
+- vape shops
 ---

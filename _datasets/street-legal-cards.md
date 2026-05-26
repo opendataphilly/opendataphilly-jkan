@@ -47,10 +47,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- legal descriptions
-- street drawings
+  - legal descriptions
+  - street drawings
+  - streets department
 time_period: null
 title: Street Legal Cards
 usage: null
+keywords:
+- street records
+- legal street descriptions
+- official drawings
+- street history
+- legal records
+- street centerlines
+- right of way
+- city streets
 ---

@@ -36,6 +36,15 @@ tags:
 time_period: March 2024
 title: PA Traffic Counts
 usage: Public Use; Free
+keywords:
+- traffic volume
+- vehicle counts
+- road traffic
+- traffic data
+- aadt
+- vehicles per day
+- traffic flow
+- penndot traffic
 ---
 
 

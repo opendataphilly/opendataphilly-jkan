@@ -37,9 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Transportation & Infrastructure Systems
-- public transit
+  - office of transportation & infrastructure systems
+  - transportation
 time_period: null
 title: Bus Shelters
 usage: null
+keywords:
+- bus stops
+- transit shelters
+- bus stop locations
+- public transit infrastructure
+- bus stop shelters
+- transit waiting areas
+- septa shelters
 ---

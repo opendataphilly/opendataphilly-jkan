@@ -29,8 +29,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parking Authority
+  - philadelphia parking authority
 time_period: null
 title: Active Residential Parking Permits by District
 usage: null
+keywords:
+- parking permits
+- residential parking
+- ppa
+- parking authority
+- street parking
+- permit zones
+- neighborhood parking
+- car permits
 ---

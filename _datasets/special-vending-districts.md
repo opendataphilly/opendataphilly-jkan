@@ -41,9 +41,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
-- sidewalk vendors
+  - department of licenses and inspections
+  - sidewalk vendors
 time_period: null
 title: Special Vending Districts
 usage: null
+keywords:
+- street vendors
+- sidewalk sales
+- food carts
+- center city vending
+- neighborhood business districts
+- vendor regulations
+- vending zones
+- street food
 ---

@@ -36,9 +36,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
-- swimming pools
+  - philadelphia parks and recreation
+  - swimming pools
 time_period: null
 title: PPR Swimming Pools
 usage: null
+keywords:
+- public pools
+- outdoor pools
+- recreation facilities
+- summer swimming
+- ppr pools
+- city pools
+- aquatics
 ---

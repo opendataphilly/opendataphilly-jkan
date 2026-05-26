@@ -30,9 +30,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- zoning
+  - department of planning and development
+  - zoning
 time_period: null
 title: 	Zoning Descriptions
 usage: Public Use; Free
+keywords:
+- zoning codes
+- zoning lookup
+- land use codes
+- zoning categories
+- zoning reference
+- code descriptions
 ---

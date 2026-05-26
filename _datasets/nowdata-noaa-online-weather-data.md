@@ -21,10 +21,19 @@ resources:
   url: https://www.weather.gov/wrh/Climate?wfo=phi
 schema: philadelphia
 source: null
-tags: 
-- weather
-- climate
+tags:
+  - climate change
+  - weather
 time_period: null
 title: NOWData - NOAA Online Weather Data
 usage: Public Use; Free
+keywords:
+- climate data
+- historical weather
+- temperature records
+- precipitation
+- meteorology
+- forecast data
+- rainfall data
+- snowfall data
 ---

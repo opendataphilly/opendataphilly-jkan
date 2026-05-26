@@ -68,10 +68,19 @@ resources:
 
 schema: philadelphia
 source: 'School District of Philadelphia'
-tags: 
-- School District of Philadelphia
-- survey data
+tags:
+  - school district of philadelphia
+  - survey data
 time_period: null
 title: Philly School Experience Survey (PSES)
 usage: null
+keywords:
+- school climate
+- parent survey
+- teacher survey
+- student survey
+- school feedback
+- principal survey
+- school satisfaction
+- school experience
 ---

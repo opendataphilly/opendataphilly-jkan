@@ -32,10 +32,19 @@ resources:
 
 schema: philadelphia
 source: null
-tags: 
-- SEPTA
-- public transit
+tags:
+  - septa
+  - transportation
 time_period: null
 title: SEPTA Performance Dashboards
 usage: Public Use
+keywords:
+- ridership data
+- transit metrics
+- performance indicators
+- kpi dashboards
+- bus ridership
+- system performance
+- transit analytics
+- visualizations
 ---

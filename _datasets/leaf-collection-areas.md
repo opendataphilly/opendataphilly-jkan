@@ -56,8 +56,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Leaf Collection Areas
 usage: null
+keywords:
+- leaf pickup
+- fall leaves
+- yard waste
+- curbside collection
+- autumn cleanup
+- street sweeping zones
+- service boundaries
+- sanitation routes
 ---

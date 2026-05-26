@@ -65,8 +65,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 time_period: null
 title: Licenses and Inspections Building and Zoning Permits
 usage: null
+keywords:
+- construction permits
+- building permits
+- zoning permits
+- demolition
+- renovation
+- contractors
+- plumbing permits
+- electrical permits
+- new construction
 ---

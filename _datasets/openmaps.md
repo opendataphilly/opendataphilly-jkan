@@ -36,9 +36,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- application
-- citygeo
+  - application
+  - citygeo
 time_period: null
 title: OpenMaps
 usage: null
+keywords:
+- interactive map
+- web mapping
+- gis viewer
+- map tool
+- open data map
+- city maps
+- geographic data
+- map explorer
 ---

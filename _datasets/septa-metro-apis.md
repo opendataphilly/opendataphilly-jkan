@@ -41,10 +41,19 @@ resources:
 schema: philadelphia
 source: SEPTA
 tags:
-- SEPTA
-- public transit
-- metro
+  - metro
+  - septa
+  - transportation
 time_period: Real-time updates
 title: SEPTA Metro APIs
 usage: Public Use
+keywords:
+- subway data
+- trolley routes
+- metro trips
+- real-time arrivals
+- stop schedules
+- metro stops
+- transit api
+- vehicle tracking
 ---

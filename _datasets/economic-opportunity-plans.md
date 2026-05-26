@@ -52,8 +52,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
+  - commerce department
 time_period: null
 title: Economic Opportunity Plans
 usage: null
+keywords:
+- minority business
+- contract opportunities
+- economic inclusion
+- public projects
+- eop plans
+- diverse contracting
+- city contracts
+- business development
+- workforce inclusion
 ---

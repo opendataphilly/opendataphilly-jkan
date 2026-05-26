@@ -44,10 +44,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- injury
-- office of transportation and infrastructure systems
-- streets
+  - injury
+  - office of transportation and infrastructure systems
+  - streets
 time_period: null
 title: Street Centerlines for Vision Zero High Injury Network 2017
 usage: null
+keywords:
+- vision zero
+- traffic safety
+- high injury network
+- crash data
+- dangerous streets
+- pedestrian safety
+- road safety
+- traffic injuries
 ---

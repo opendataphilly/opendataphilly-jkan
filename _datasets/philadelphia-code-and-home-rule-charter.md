@@ -21,8 +21,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Law Department
+  - law department
 time_period: null
 title: Philadelphia Code and Home Rule Charter
 usage: Public Use; Free
+keywords:
+- municipal code
+- city charter
+- city laws
+- city ordinances
+- legal code
+- city regulations
+- philadelphia law
+- city statutes
 ---

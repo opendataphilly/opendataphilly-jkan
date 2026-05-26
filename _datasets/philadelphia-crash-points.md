@@ -78,8 +78,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- transportation
+  - transportation
 time_period: null
 title: Philadelphia Crash Points
 usage: null
+keywords:
+- car accidents
+- traffic crashes
+- vehicle collisions
+- crash data
+- road accidents
+- penndot crashes
+- traffic incidents
+- crash locations
 ---

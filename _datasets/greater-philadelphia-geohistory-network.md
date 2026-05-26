@@ -36,14 +36,22 @@ resources:
   url: http://www.philageohistory.org/rdic-images/new-maps-feed.cfm
 schema: philadelphia
 source: ''
-tags: 
-- aerial photographs
-- maps
-- atlases
-- directories
-- surveys
-- topographical maps
+tags:
+  - aerial photographs
+  - atlases
+  - directories
+  - maps
+  - surveys
+  - topographical maps
 time_period: null
 title: Greater Philadelphia GeoHistory Network
 usage: Public Use; Free
+keywords:
+- historic maps
+- old maps
+- property maps
+- city directories
+- historical geography
+- aerial imagery
+- archives
 ---

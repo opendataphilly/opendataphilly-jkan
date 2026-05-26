@@ -188,10 +188,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Mayors Office of Transportation and Utilities
-- crashes
-- Vision Zero
+  - Crashes
+  - mayors office of transportation and utilities
+  - vision zero
 time_period: null
 title: Crashes data
 usage: null
+keywords:
+- traffic accidents
+- car crashes
+- vehicle collisions
+- traffic safety
+- penndot crashes
+- traffic deaths
+- pedestrian crashes
+- traffic injuries
+- road safety
 ---

@@ -45,10 +45,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Access
-- Food
-- Philadelphia Department of Public Health
+  - access
+  - food
+  - public health
 time_period: null
 title: Neighborhood Food Retail
 usage: null
+keywords:
+- food access
+- grocery stores
+- supermarkets
+- food deserts
+- produce availability
+- farmers markets
+- corner stores
+- healthy food
 ---

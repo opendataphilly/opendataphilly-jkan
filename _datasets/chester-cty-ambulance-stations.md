@@ -28,12 +28,20 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/b3a0ba255a7f4fce883621583eca4cdb_1/about
 source: Chester County GIS
 tags:
-- Chester County
-- Ambulance
-- Stations
-- DES
-- EMS
+  - ambulance
+  - chester county
+  - des
+  - emergency services
+  - stations
 time_period: null
 title: Chester County Ambulance Stations
 usage: null
+keywords:
+- ambulance locations
+- ems stations
+- emergency medical stations
+- paramedic stations
+- ambulance facilities
+- emergency response stations
+- ambulance bases
 ---

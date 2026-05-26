@@ -36,8 +36,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 time_period: null
 title: Piers
 usage: null
+keywords:
+  - waterfront structures
+  - docks
+  - waterway permits
+  - pier certifications
+  - river structures
+  - wharves
+  - waterfront inspections
+  - port structures
 ---

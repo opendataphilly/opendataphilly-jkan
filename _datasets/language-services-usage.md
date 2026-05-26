@@ -39,14 +39,23 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Language access
-- Office of Immigrant Affairs
-- equity
-- immigration
-- interpretation
-- translation
+  - equity
+  - immigration
+  - interpretation
+  - language access
+  - office of immigrant affairs
+  - translation
 time_period: null
 title: Language Services Usage
 usage: null
 published: true
+keywords:
+- foreign languages
+- multilingual services
+- non-english speakers
+- language assistance
+- immigrant services
+- translators
+- interpreters
+- limited english
 ---

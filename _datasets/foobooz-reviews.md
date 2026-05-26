@@ -22,10 +22,18 @@ resources:
   url: http://feeds2.feedburner.com/Foobooz
 schema: philadelphia
 source: null
-tags: 
-- restaurants
-- bars
+tags:
+  - bars
+  - restaurants
 time_period: null
 title: FooBooz Reviews
 usage: Public Use; Free
+keywords:
+- restaurant reviews
+- food blog
+- dining
+- bar reviews
+- philadelphia food
+- nightlife
+- restaurant news
 ---

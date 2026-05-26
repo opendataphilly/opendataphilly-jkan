@@ -126,10 +126,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- COVID-19
-- Coronavirus
-- Philadelphia Department of Public Health
+  - covid-19
+  - public health
 time_period: null
 title: COVID Tests and Cases
 usage: null
+keywords:
+- coronavirus cases
+- covid testing
+- positive cases
+- test results
+- pandemic cases
+- covid by zip
+- covid demographics
+- test counts
+- covid outcomes
 ---

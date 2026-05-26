@@ -37,8 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
+  - commerce department
 time_period: null
 title: Instore Forgivable Loan Program
 usage: null
+keywords:
+- business loans
+- storefront improvements
+- small business grants
+- commercial assistance
+- business funding
+- economic development
+- retail support
+- business financing
 ---

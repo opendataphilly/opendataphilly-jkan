@@ -72,4 +72,14 @@ tags:
 time_period: null
 title: City Employee Earnings
 usage: null
+keywords:
+- city employee pay
+- public payroll
+- government salaries
+- city workers
+- municipal employees
+- compensation
+- public sector pay
+- elected official salaries
+- pay data
 ---

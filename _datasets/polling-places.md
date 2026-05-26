@@ -46,9 +46,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- City Commissioners
-- polling places
+  - city commissioners
+  - polling places
 time_period: null
 title: Polling Places
 usage: Public Use; Free
+keywords:
+  - voting locations
+  - vote sites
+  - election day
+  - polling stations
+  - where to vote
+  - ballot drop off
+  - voter accessibility
+  - elections
 ---

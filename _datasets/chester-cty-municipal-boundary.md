@@ -27,13 +27,20 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/47617fcb74a14a6c8844a920fe81491c_0/about
 source: Chester County GIS
 tags:
-- Boundary
-- Chesco
-- Chester
-- Chester County
-- Municipal
-- Regional
+  - boundary
+  - chester
+  - chester county
+  - municipal
+  - regional
 time_period: null
 title: Chester County Municipal Boundary
 usage: null
+keywords:
+- municipal boundaries
+- township boundaries
+- borough lines
+- city limits
+- local jurisdictions
+- municipality map
+- regional boundaries
 ---

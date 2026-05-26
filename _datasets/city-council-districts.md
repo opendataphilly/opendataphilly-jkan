@@ -96,8 +96,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: City Council Districts
 usage: null
+keywords:
+- council districts
+- legislative districts
+- city council
+- political boundaries
+- council boundaries
+- districting
+- city wards
+- elected officials
+- electoral districts
 ---

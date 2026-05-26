@@ -28,10 +28,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/27effbf3c74846d1a10caf19ef086b8b_0/about
 source: Chester County GIS
 tags:
-- chester county
-- state senate
-- districts
+  - chester county
+  - districts
+  - state senate
 time_period: null
 title: Chester County State Senate Districts
 usage: null
+keywords:
+- senate districts
+- legislative districts
+- state senators
+- political boundaries
+- voting districts
+- pennsylvania senate
+- electoral districts
+- district maps
 ---

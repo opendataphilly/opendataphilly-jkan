@@ -41,10 +41,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Emergency Management
-- World Meeting of Families
-- emergency
+  - emergency
+  - office of emergency management
+  - world meeting of families
 time_period: null
 title: World Meeting of Families Authorized Vehicle Route
 usage: null
+keywords:
+- papal visit
+- pope francis
+- 2015 wmof
+- emergency vehicles
+- event security
+- restricted routes
+- catholic event
 ---

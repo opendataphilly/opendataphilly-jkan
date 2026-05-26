@@ -37,9 +37,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- Division of Housing and Community Development
+  - department of planning and development
+  - division of housing and community development
 time_period: null
 title: Neighborhood Resources
 usage: null
+keywords:
+- housing counseling
+- community resources
+- dhcd
+- resident services
+- community assistance
+- local services
+- housing help
+- neighborhood support
 ---

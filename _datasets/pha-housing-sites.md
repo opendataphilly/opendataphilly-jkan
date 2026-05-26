@@ -25,8 +25,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Housing Authority
+  - philadelphia housing authority
 time_period: null
 title: PHA Housing Sites
 usage: Public Use
+keywords:
+- public housing
+- affordable housing
+- pha
+- low income housing
+- housing developments
+- subsidized housing
+- accessible housing
+- housing locations
 ---

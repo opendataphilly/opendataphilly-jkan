@@ -29,8 +29,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Sustainability
+  - office of sustainability
 time_period: null
 title: Retrofitted Homes
 usage: null
+keywords:
+- energy efficiency
+- home weatherization
+- green homes
+- sustainability program
+- energy upgrades
+- residential retrofits
+- home improvement
+- energy savings
 ---

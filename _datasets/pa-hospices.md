@@ -38,4 +38,13 @@ tags:
 time_period: 2023
 title: PA Hospices
 usage: Public Use; Free
+keywords:
+- end of life care
+- palliative care
+- terminal illness
+- hospice facilities
+- elderly care
+- comfort care
+- nursing care
+- dying patients
 ---

@@ -41,8 +41,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
+  - department of licenses and inspections
 time_period: null
 title: Licenses and Inspections Permit Documents
 usage: null
+keywords:
+- certificate of occupancy
+- permit variances
+- permit denials
+- building permits
+- eclipse permits
+- occupancy permits
+- permit records
+- l&i documents
 ---

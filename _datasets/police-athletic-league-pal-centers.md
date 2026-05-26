@@ -37,8 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
+  - police
 time_period: null
 title: Police Athletic League (PAL) Centers
 usage: Public Use, Free;
+keywords:
+  - youth programs
+  - pal centers
+  - youth recreation
+  - after school
+  - youth sports
+  - community centers
+  - youth outreach
+  - kids programs
 ---

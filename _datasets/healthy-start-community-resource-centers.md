@@ -36,8 +36,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: null
 title: Healthy Start Community Resource Centers
 usage: null
+keywords:
+- maternal health
+- infant health
+- family services
+- health resources
+- community centers
+- prenatal care
+- pdph centers
+- health hubs
 ---

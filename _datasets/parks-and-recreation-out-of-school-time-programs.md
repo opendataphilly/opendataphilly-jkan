@@ -37,9 +37,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
+  - public health
 time_period: null
 title: Parks and Recreation Out of School Time Programs
 usage: null
+keywords:
+- afterschool programs
+- ost programs
+- youth programs
+- kids activities
+- summer programs
+- ppr programs
+- recreation centers
+- children services
 ---

@@ -709,12 +709,20 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/743f6f125f1e41589c0c9841d65a0ade_0/about
 source: Chester County GIS
 tags:
-- chester county
-- cadastral
-- Chester County
-- parcels
-- DCIS
+  - cadastral
+  - chester county
+  - dcis
+  - parcels
 time_period: null
 title: Chester County Parcels
 usage: null
+keywords:
+- tax parcels
+- property boundaries
+- real estate parcels
+- land ownership
+- cadastral map
+- property lines
+- assessment data
+- lot boundaries
 ---

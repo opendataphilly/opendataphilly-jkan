@@ -39,11 +39,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- grants
-- startups
-- small business
+  - commerce department
+  - grants
+  - small business
+  - startups
 time_period: null
 title: Philadelphia Business Lending Network Incentive Grant Program
 usage: null
+keywords:
+- business loans
+- business grants
+- entrepreneurs
+- small business funding
+- minority business
+- business startup
+- commercial loans
+- pbln
 ---

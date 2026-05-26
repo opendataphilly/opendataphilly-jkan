@@ -41,10 +41,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- business
-- economy
+  - business
+  - commerce department
+  - economy
 time_period: null
 title: Business Improvement Districts (BID)
 usage: null
+keywords:
+- bid boundaries
+- business districts
+- commercial districts
+- special services districts
+- university city district
+- sports complex district
+- commercial corridors
+- neighborhood business zones
 ---

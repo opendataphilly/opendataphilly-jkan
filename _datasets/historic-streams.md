@@ -56,8 +56,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: Historic Streams
 usage: null
+keywords:
+- buried streams
+- lost streams
+- historical waterways
+- creeks
+- ellet map
+- water history
+- historic hydrology
+- pwd streams
 ---

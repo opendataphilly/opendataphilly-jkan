@@ -77,8 +77,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Innovation and Technology
+  - office of innovation and technology
 time_period: null
 title: City Landmarks
 usage: null
+keywords:
+- historical sites
+- cultural sites
+- monuments
+- points of interest
+- landmark map
+- philadelphia attractions
+- historic places
+- basemap features
+- cultural heritage
 ---

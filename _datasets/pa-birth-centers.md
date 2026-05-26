@@ -43,4 +43,13 @@ tags:
 time_period: 2023
 title: PA Birth Centers
 usage: Public use; free
+keywords:
+- maternity care
+- delivery facilities
+- midwifery
+- birthing centers
+- prenatal care
+- pregnancy services
+- newborn care
+- birth facilities
 ---

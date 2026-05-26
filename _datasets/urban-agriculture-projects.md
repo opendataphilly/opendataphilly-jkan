@@ -38,9 +38,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Parks and Recreation
-- urban agriculture
+  - department of parks and recreation
+  - urban agriculture
 time_period: null
 title: Urban Agriculture Projects
 usage: null
+keywords:
+- community gardens
+- city farming
+- urban farms
+- food gardens
+- growing food
+- parks gardening
+- recreation sites
 ---

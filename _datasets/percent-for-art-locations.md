@@ -42,8 +42,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Percent for Art Locations
 usage: null
+keywords:
+- public art
+- sculptures
+- murals
+- art installations
+- cultural sites
+- art locations
+- city art
+- public artworks
 ---

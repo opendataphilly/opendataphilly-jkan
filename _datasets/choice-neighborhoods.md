@@ -40,9 +40,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Housing and Community Development
-- neighborhoods
+  - neighborhoods
+  - office of housing and community development
 time_period: null
 title: Choice Neighborhoods
 usage: null
+keywords:
+- hud
+- affordable housing
+- public housing
+- housing program
+- distressed neighborhoods
+- neighborhood revitalization
+- community development
+- housing assistance
+- urban renewal
 ---

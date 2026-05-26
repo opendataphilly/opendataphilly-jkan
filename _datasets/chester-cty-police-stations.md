@@ -28,14 +28,21 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/b8c621b0d8b645a7be41695188d826d6_0/about
 source: Chester County GIS
 tags:
-- Chester County
-- Police
-- DES
-- Response
-- Station
-- Law
-- Law Enforcement
+  - chester county
+  - des
+  - law
+  - police
+  - response
+  - station
 time_period: null
 title: Chester County Police Stations
 usage: null
+keywords:
+- police stations
+- police department locations
+- law enforcement facilities
+- police headquarters
+- police precincts
+- police offices
+- public safety locations
 ---

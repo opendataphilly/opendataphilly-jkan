@@ -83,8 +83,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Innovation and Technology
+  - office of innovation and technology
 time_period: null
 title: Philadelphia Historic Maps
 usage: Public Use
+keywords:
+- historic maps
+- historical atlas
+- historic land use
+- atlas imagery
+- old maps
+- geohistory
+- historic photography
+- bromley atlas
+- archive maps
 ---

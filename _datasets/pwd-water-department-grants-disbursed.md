@@ -65,8 +65,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
-- stormwater
+  - philadelphia water department
+  - water
 title: Water Department Grants Disbursed
 usage: No limitations.
+keywords:
+- stormwater grants
+- soak it up
+- green acre retrofit
+- business incentive
+- grant recipients
+- award amounts
+- stormwater incentive
+- pwd funding
 ---

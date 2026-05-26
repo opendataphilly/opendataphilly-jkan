@@ -36,9 +36,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
-- Visualization
+  - department of licenses and inspections
+  - visualization
 time_period: null
 title: Licenses and Inspections Trade Licenses
 usage: null
+keywords:
+- contractor licenses
+- general contractor
+- master plumber
+- tradespeople
+- skilled trades
+- license lookup
+- trade certification
+- contractor registry
 ---

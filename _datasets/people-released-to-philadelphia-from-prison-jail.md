@@ -47,8 +47,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Criminal Justice
+  - office of criminal justice
 time_period: null
 title: People Released to Philadelphia from Prison & Jail
 usage: null
+keywords:
+- prison releases
+- reentry
+- inmates
+- ex-offenders
+- jail data
+- incarceration
+- criminal justice
+- returning citizens
 ---

@@ -49,9 +49,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
-- Visualization
+  - department of licenses and inspections
+  - visualization
 time_period: null
 title: Licenses and Inspections Business Licenses
 usage: null
+keywords:
+- business permits
+- commercial licenses
+- vendor licenses
+- restaurant licenses
+- contractor licenses
+- trade licenses
+- licensing applications
+- city licensing
 ---

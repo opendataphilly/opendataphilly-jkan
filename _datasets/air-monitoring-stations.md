@@ -29,9 +29,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- air quality
+  - air quality
+  - public health
 time_period: null
 title: Air Monitoring Stations
 usage: null
+keywords:
+- air quality
+- air pollution
+- air monitors
+- pollutants
+- public health
+- pdph
+- environmental monitoring
+- pollution sensors
+- emissions
 ---

@@ -43,8 +43,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: null
 title: Community Health Assessment, Philadelphia Department of Public Health
 usage: null
+keywords:
+- population health
+- health indicators
+- health disparities
+- social determinants
+- pdph
+- health outcomes
+- health behaviors
+- city health report
 ---

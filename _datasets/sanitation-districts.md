@@ -57,8 +57,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Sanitation Districts
 usage: Public Use; Free
+keywords:
+- trash districts
+- collection areas
+- waste subdivisions
+- garbage zones
+- service districts
+- sanitation regions
+- rubbish boundaries
+- pickup territories
 ---

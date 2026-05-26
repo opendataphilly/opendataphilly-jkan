@@ -42,10 +42,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Air Management Systems
-- Philadelphia Department of Public Health
-- air quality
+  - air management systems
+  - air quality
+  - public health
 time_period: null
 title: AMS Latest Air Quality Sensor Readings
 usage: null
+keywords:
+- air quality
+- air sensors
+- pollution readings
+- ams
+- pdph
+- air monitoring
+- public health
+- pollutants
+- real-time air
 ---

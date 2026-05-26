@@ -31,4 +31,13 @@ time_period: null
 title: Philadelphia Architects and Buildings Project
 usage: Free guest access provided. Paid subscriptions support the project and provide
   ability to save information between sessions, high resolution images and other benefits.
+keywords:
+- historic buildings
+- historic structures
+- architecture history
+- architect biographies
+- historic images
+- philadelphia history
+- building archive
+- historical maps
 ---

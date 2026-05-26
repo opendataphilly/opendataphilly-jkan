@@ -38,8 +38,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
 time_period: null
 title: PPR Tennis Courts
 usage: null
+keywords:
+- tennis
+- public courts
+- recreation facilities
+- sports courts
+- park amenities
+- outdoor sports
+- ppr courts
 ---

@@ -44,8 +44,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: PWD Stormwater Billing Parcels
 usage: null
+keywords:
+- property parcels
+- stormwater fees
+- water bills
+- impervious area
+- parcel ownership
+- billing data
+- pwd parcels
+- water charges
 ---

@@ -35,8 +35,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
+  - police
 time_period: null
 title: Police Stations
 usage: null
+keywords:
+  - precincts
+  - law enforcement
+  - police headquarters
+  - station locations
+  - public safety
+  - police buildings
+  - cop shops
+  - police addresses
 ---

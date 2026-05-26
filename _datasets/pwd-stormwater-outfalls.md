@@ -38,9 +38,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
-- stormwater
+  - philadelphia water department
+  - water
 time_period: null
 title: Stormwater Outfalls
 usage: null
+keywords:
+- sewer discharge
+- drainage points
+- outfall locations
+- storm drains
+- pipe outlets
+- stormwater discharge
+- runoff points
 ---

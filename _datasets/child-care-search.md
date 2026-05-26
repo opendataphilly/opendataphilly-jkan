@@ -25,10 +25,21 @@ resources:
   url: https://www.compass.dhs.pa.gov/providersearch/#/childcareprovidersearch
 schema: philadelphia
 source: ''
-tags: 
-- child care
-- early learning
+tags:
+  - child care
+  - early learning
 time_period: null
 title: Child Care Search
 usage: Public Use; Free
+keywords:
+- daycare
+- childcare providers
+- preschool
+- child care centers
+- babysitting services
+- early childhood
+- pre-k
+- child care search
+- daycare finder
+- star rating
 ---

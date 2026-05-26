@@ -36,8 +36,15 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Zoning Overlays
 usage: null
+keywords:
+- zoning overlay
+- overlay districts
+- land use
+- planning
+- zoning code
+- special districts
 ---

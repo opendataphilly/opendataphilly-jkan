@@ -30,9 +30,18 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/d43c3672eef54e0fa6fbc388ebb2a6ed_0/about
 source: Chester County GIS
 tags:
-- Chester County
-- parks
+  - chester county
+  - parks & recreation
 time_period: null
 title: Chester County Railroad Lines
 usage: null
+keywords:
+- railroads
+- train tracks
+- rail network
+- rail centerlines
+- transportation infrastructure
+- freight rail
+- commuter rail
+- rail corridors
 ---

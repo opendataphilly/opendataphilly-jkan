@@ -55,4 +55,13 @@ tags:
 time_period: 2000 and 2012
 title: Riparian Buffers
 usage: Public Use; Free
+keywords:
+- stream banks
+- waterway protection
+- forest buffers
+- watershed
+- tree canopy
+- water quality
+- stream restoration
+- vegetated buffers
 ---

@@ -98,9 +98,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- demographics
+  - census
+  - department of planning and development
 time_period: null
 title: Census Tracts
 usage: null
+keywords:
+- tract boundaries
+- demographic tracts
+- acs tracts
+- neighborhood statistical areas
+- census geography
+- planning tracts
+- decennial census tracts
 ---

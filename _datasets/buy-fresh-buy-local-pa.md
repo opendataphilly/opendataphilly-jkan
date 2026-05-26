@@ -28,15 +28,24 @@ resources:
   url: https://buyfreshbuylocal.org/pennsylvania/
 schema: default
 source: null
-tags: 
-- farms
-- farmers markets
-- restaurants
-- wineries
-- breweries
-- retail
-- sustainability
+tags:
+  - breweries
+  - farmers markets
+  - farms
+  - restaurants
+  - retail
+  - sustainability
+  - wineries
 time_period: null
 title: Buy Fresh, Buy Local PA
 usage: 'Public Use; Free '
+keywords:
+- local food
+- locally grown food
+- farm to table
+- pennsylvania farms
+- food directory
+- sustainable agriculture
+- local food map
+- farm markets
 ---

@@ -38,11 +38,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Emergency Management
-- World Meeting of Families
-- security
-- traffic
+  - office of emergency management
+  - security
+  - traffic
+  - world meeting of families
 time_period: null
 title: World Meeting of Families Traffic Box
 usage: null
+keywords:
+- papal visit
+- pope francis
+- 2015 wmof
+- traffic restrictions
+- event security
+- road closures
+- catholic event
 ---

@@ -38,10 +38,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/053eb2545cff4487b515602cb6b289cf_0/about
 source: Chester County GIS
 tags:
-- Chester County
-- ' FEMA'
-- ' Floodplains'
+  - ' FEMA'
+  - ' Floodplains'
+  - chester county
 time_period: null
 title: Chester County FEMA 100 Year Flood Zones
 usage: null
+keywords:
+- flood zones
+- flood hazard
+- floodplains
+- fema flood map
+- 100 year flood
+- national flood hazard layer
+- flood risk
+- flood insurance
 ---

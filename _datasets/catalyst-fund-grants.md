@@ -37,11 +37,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- grants
-- financial assistance
-- small business
+  - commerce department
+  - financial assistance
+  - grants
+  - small business
 time_period: null
 title: Catalyst Fund Grants
 usage: null
+keywords:
+- small business grants
+- business funding
+- entrepreneur grants
+- business growth funding
+- commerce grants
+- business support program
+- minority business assistance
+- philadelphia catalyst
 ---

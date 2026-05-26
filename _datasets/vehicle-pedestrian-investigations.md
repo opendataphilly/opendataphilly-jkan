@@ -149,8 +149,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
+  - police
 time_period: null
 title: Vehicle & Pedestrian Investigations
 usage: null
+keywords:
+- police stops
+- traffic stops
+- car stops
+- pedestrian stops
+- policing
+- law enforcement
+- stop and frisk
+- demographics
 ---

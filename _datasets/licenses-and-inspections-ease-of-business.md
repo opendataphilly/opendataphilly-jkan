@@ -30,9 +30,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
-- plan review times
+  - department of licenses and inspections
+  - plan review times
 time_period: null
 title: Licenses and Inspections Ease of Business
 usage: null
+keywords:
+- permit review
+- review times
+- permit processing
+- plan approval
+- permit variances
+- building permits
+- processing times
+- business permits
 ---

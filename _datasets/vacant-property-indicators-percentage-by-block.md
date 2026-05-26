@@ -78,10 +78,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Licenses and Inspections
-- vacant land
-- vacant properties
+  - department of licenses and inspections
+  - vacant land
+  - vacant properties
 time_period: null
 title: Vacant Property Indicators Percentage by Block
 usage: null
+keywords:
+- abandoned properties
+- empty lots
+- vacancy rate
+- vpi
+- block-level data
+- vacant buildings
+- blight indicators
 ---

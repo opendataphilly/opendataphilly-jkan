@@ -27,9 +27,18 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/98861f4883634b28a2dbe95e41f6deaf_0/about
 source: Chester County GIS
 tags:
-- Chester County
-- Boundaries
+  - boundaries
+  - chester county
 time_period: null
 title: Chester County ZipCodes
 usage: null
+keywords:
+- zip codes
+- postal codes
+- zip code boundaries
+- postal boundaries
+- zip code map
+- mailing zones
+- zip areas
+- zcta
 ---

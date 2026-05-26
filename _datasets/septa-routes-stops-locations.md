@@ -119,10 +119,20 @@ resources:
 
 schema: philadelphia
 source: null
-tags: 
-- SEPTA
-- public transit
+tags:
+  - septa
+  - transportation
 time_period: null
 title: SEPTA Routes, Stops, and Locations
 usage: Public Use; Free
+keywords:
+- transit routes
+- bus stops
+- trolley stops
+- train stations
+- regional rail stations
+- transit gis
+- subway stations
+- route map
+- station locations
 ---

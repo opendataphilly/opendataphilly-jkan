@@ -35,8 +35,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: Impervious Surfaces
 usage: Public Use; Free
+keywords:
+- paved surfaces
+- stormwater runoff
+- aerial survey
+- planimetric data
+- ground cover
+- pavement
+- rooftops
+- urban surfaces
 ---

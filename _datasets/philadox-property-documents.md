@@ -36,9 +36,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Records Department
+  - records department
 time_period: 1974 - Current
 title: PhilaDox - Property Documents
 usage: 'Public Use. Access requires subscription. Subscriptions are available per
   hour, day, week, month, and year. '
+keywords:
+  - deeds
+  - mortgages
+  - land titles
+  - property records
+  - sheriff deeds
+  - real estate documents
+  - grantor grantee
+  - deed lookup
 ---

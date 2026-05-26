@@ -35,8 +35,15 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: null
 title: Health Centers
 usage: null
+keywords:
+- primary care
+- medical clinics
+- healthcare facilities
+- doctor offices
+- community health
+- health services
 ---

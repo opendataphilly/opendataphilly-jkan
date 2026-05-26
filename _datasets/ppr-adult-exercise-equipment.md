@@ -39,8 +39,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
 time_period: null
 title: PPR Adult Exercise Equipment
 usage: null
+keywords:
+  - outdoor fitness
+  - fitness equipment
+  - workout equipment
+  - park amenities
+  - exercise stations
+  - public fitness
+  - outdoor gyms
+  - fitness locations
 ---

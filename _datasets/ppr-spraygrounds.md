@@ -35,8 +35,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
 time_period: null
 title: PPR Spraygrounds
 usage: null
+keywords:
+- splash pads
+- water play
+- summer cooling
+- kids water
+- spray parks
+- cooling stations
+- park water features
 ---

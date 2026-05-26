@@ -28,12 +28,21 @@ resources:
   url: https://preservationalliance.com/wp-content/uploads/2023/01/Mid-Century-Modern.pdf
 schema: philadelphia
 source: ''
-tags: 
-- architecture
-- architects
-- buildings
-- historic preservation
+tags:
+  - architects
+  - architecture
+  - buildings
+  - historic preservation
 time_period: null
 title: Mid-Century Modern Architecture Inventory
 usage: Public Use; Free;
+keywords:
+- postwar architecture
+- modern buildings
+- 20th century buildings
+- mcm design
+- recent past
+- modernist architecture
+- design history
+- notable structures
 ---

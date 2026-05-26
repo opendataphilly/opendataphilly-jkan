@@ -56,8 +56,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Historic Streets
 usage: null
+keywords:
+- old streets
+- historical roads
+- vintage streets
+- historic preservation
+- street history
+- cobblestone streets
+- legacy streets
+- street heritage
 ---

@@ -58,8 +58,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Highway Districts
 usage: Public use; Free
+keywords:
+- road maintenance
+- street maintenance
+- highway boundaries
+- road districts
+- street districts
+- paving districts
+- highway management
+- maintenance zones
 ---

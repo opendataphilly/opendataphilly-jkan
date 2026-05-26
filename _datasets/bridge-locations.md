@@ -38,8 +38,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Bridge Locations
 usage: null
+keywords:
+- bridges
+- bridge inventory
+- bridge maintenance
+- truck routing
+- bridge height restrictions
+- bridge weight limits
+- transportation infrastructure
+- philadelphia bridges
 ---

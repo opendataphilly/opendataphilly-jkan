@@ -35,10 +35,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- HIV
-- Philadelphia Department of Public Health
-- PrEP
+  - hiv
+  - prep
+  - public health
 time_period: null
 title: PrEP Providers
 usage: null
+keywords:
+- hiv prevention
+- prep clinics
+- sexual health
+- aids prevention
+- health clinics
+- pre-exposure prophylaxis
+- treatment locations
 ---

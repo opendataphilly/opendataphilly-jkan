@@ -37,8 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Community Life Improvement Program
+  - community life improvement program
 time_period: null
 title: Exterior Violation Cleanups
 usage: null
+keywords:
+- vacant lot cleanup
+- weed removal
+- debris removal
+- property cleanup
+- lot maintenance
+- code violations
+- blight cleanup
+- clip program
 ---

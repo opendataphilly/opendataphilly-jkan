@@ -37,8 +37,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: null
 title: Flu Shot Clinic Schedule and Locations
 usage: Public Use; Free
+keywords:
+- flu vaccine
+- influenza shots
+- vaccination sites
+- immunization clinics
+- health centers
+- flu season
+- community clinics
 ---

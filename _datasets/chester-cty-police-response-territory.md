@@ -28,15 +28,22 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/10e708d60e8a445da87b83b866cde15a_0/about
 source: Chester County GIS
 tags:
-- ESZ
-- Police
-- LE
-- Law Enforcement
-- Boundry
-- Territory
-- CCDES
-- Chester County
+  - boundary
+  - chester county
+  - emergency services
+  - esz
+  - le
+  - police
+  - territory
 time_period: null
 title: Chester County Police Response Territory
 usage: null
+keywords:
+- police response area
+- law enforcement coverage
+- police jurisdiction
+- police service area
+- police dispatch boundaries
+- emergency service zones
+- patrol areas
 ---

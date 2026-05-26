@@ -57,9 +57,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Community Life Improvement Program
-- Philly Stat 360
+  - community life improvement program
+  - philly stat 360
 time_period: null
 title: Vacant Lot Cleanups
 usage: null
+keywords:
+- vacant lots
+- abandoned lots
+- lot cleaning
+- weed removal
+- debris removal
+- clip
+- blight
+- neighborhood cleanup
 ---

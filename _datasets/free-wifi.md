@@ -44,11 +44,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Wi-Fi
-- Digital Divide
-- Digital Equity
-- Department of Health and Human Services
+  - department of health and human services
+  - digital divide
+  - digital equity
+  - wi-fi
 time_period: null
 title: Free Wi-Fi Locations
 usage: null
+keywords:
+- public wifi
+- internet access
+- free internet
+- broadband access
+- city wifi
+- internet hotspots
+- digital access
 ---

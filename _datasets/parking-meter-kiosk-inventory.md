@@ -28,9 +28,17 @@ resources:
   url: https://metadata.phila.gov/#home/datasetdetails/5543865d20583086178c4edb/representationdetails/55c3c71bea8fa7742f7dd107/
 schema: philadelphia
 source: ''
-tags: 
-- Parking
+tags:
+  - parking
 time_period: null
 title: 2015 Parking Meter & Kiosk Inventory
 usage: null
+keywords:
+- parking meters
+- kiosks
+- meter inventory
+- ppa equipment
+- street parking
+- meter locations
+- on-street parking
 ---

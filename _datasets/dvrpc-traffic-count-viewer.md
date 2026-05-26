@@ -32,13 +32,23 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- AADT
-- Congestion
-- DVRPC
-- Traffic Count
-- Volume
-- vehicle
+  - aadt
+  - congestion
+  - dvrpc
+  - traffic count
+  - vehicle
+  - volume
 time_period: null
 title: DVRPC Traffic Count Viewer
 usage: Public Use; Free
+keywords:
+- traffic data
+- daily traffic
+- road traffic
+- vehicle counts
+- traffic volume
+- annual average daily traffic
+- traffic congestion
+- road counts
+- traffic mapping
 ---

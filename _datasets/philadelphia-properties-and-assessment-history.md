@@ -79,10 +79,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Property Assessment
-- assessment
-- properties
+  - assessment
+  - office of property assessment
+  - real estate
 time_period: null
 title: Philadelphia Properties and Assessment History
 usage: null
+keywords:
+  - property values
+  - opa
+  - home prices
+  - tax assessment
+  - parcels
+  - real estate records
+  - housing data
+  - property tax
 ---

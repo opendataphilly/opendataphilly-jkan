@@ -33,9 +33,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- Equity
+  - commerce department
+  - equity
 time_period: null
 title: OEO Registry of Certified Minority/Women/Disable Owned Business Enterprises
 usage: null
+keywords:
+- minority owned business
+- women owned business
+- disabled owned business
+- mwdsbe
+- diverse suppliers
+- business certification
+- procurement
+- small business registry
 ---

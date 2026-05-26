@@ -64,8 +64,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: null
 title: 'ARCHIVED: Philadelphia Food Access'
 usage: null
+keywords:
+- food access
+- food deserts
+- healthy food availability
+- grocery store access
+- food insecurity
+- walkable food access
+- low income food access
+- nutrition data
 ---

@@ -32,8 +32,17 @@ resources:
 schema: philadelphia
 source: 
 tags:
-- transportation
+  - transportation
 time_period: Current
 title: SEPTA GTFS
 usage: null
+keywords:
+- transit schedules
+- gtfs feed
+- bus schedules
+- regional rail schedule
+- trolley routes
+- subway schedule
+- stop locations
+- transit data
 ---

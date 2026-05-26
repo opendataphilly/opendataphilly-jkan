@@ -37,8 +37,8 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
-- trails
+  - philadelphia parks and recreation
+  - trails
 time_period: null
 title: Parks and Recreation (PPR) Trails
 usage: "The City of Philadelphia makes no representation about the accuracy of any\
@@ -48,4 +48,13 @@ usage: "The City of Philadelphia makes no representation about the accuracy of a
   \ City of Philadelphia harmless from any and all claims, demands, liabilities, obligations,\
   \ damages, suits, judgments or settlements, including reasonable costs and attorneys'\
   \ fees, which arise from use of this data."
+keywords:
+- hiking trails
+- walking paths
+- park trails
+- ppr trails
+- biking trails
+- nature trails
+- outdoor recreation
+- trail map
 ---

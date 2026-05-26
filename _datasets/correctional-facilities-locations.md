@@ -56,8 +56,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
+  - police
 time_period: null
 title: Correctional Facilities Locations
 usage: null
+keywords:
+- prisons
+- jails
+- detention centers
+- corrections
+- philadelphia prisons system
+- incarceration
+- prison locations
+- inmates
+- criminal justice
 ---

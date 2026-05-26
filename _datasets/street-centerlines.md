@@ -41,8 +41,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Street Centerlines
 usage: Public Use; Free
+keywords:
+- street network
+- road centerlines
+- roads
+- street map
+- base map
+- street segments
+- citywide streets
+- street geometry
 ---

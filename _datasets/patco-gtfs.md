@@ -25,4 +25,13 @@ tags:
 time_period: null
 title: PATCO GTFS
 usage: null
+keywords:
+- patco
+- train schedule
+- transit data
+- public transit
+- rail schedule
+- transit feed
+- commuter rail
+- new jersey transit
 ---

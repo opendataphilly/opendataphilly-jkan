@@ -44,8 +44,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
+  - public health
 time_period: null
 title: Farmers' Market Locations
 usage: Public Use; Free;
+keywords:
+- farmers markets
+- fresh produce
+- local food
+- market locations
+- food access
+- market hours
+- payment options
 ---

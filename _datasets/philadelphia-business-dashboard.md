@@ -34,11 +34,20 @@ resources:
 schema: philadelphia
 source: https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2021/pew-dashboard-tracks-philadelphias-economic-recovery-and-growth-in-the-age-of-covid
 tags:
-- business
-- bankruptcy
-- finance
-- jobs
+  - bankruptcy
+  - budget
+  - business
+  - jobs
 time_period: null
 title: Philadelphia Business Dashboard
 usage: null
+keywords:
+- economic recovery
+- covid economy
+- employment data
+- wages
+- consumer spending
+- pandemic impact
+- business activity
+- financial health
 ---

@@ -186,9 +186,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Bureau of Administrative Adjudication
-- visualization
+  - bureau of administrative adjudication
+  - visualization
 time_period: null
 title: Parking Violations
 usage: null
+keywords:
+- parking tickets
+- parking citations
+- traffic violations
+- parking fines
+- ticket data
+- parking enforcement
+- ppa tickets
 ---

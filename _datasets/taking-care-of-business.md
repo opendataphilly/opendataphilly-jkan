@@ -41,9 +41,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- business
+  - business
+  - commerce department
 time_period: null
 title: Taking Care of Business (TCB) Clean Corridors Program
 usage: null
+keywords:
+- clean streets
+- commercial corridors
+- litter removal
+- sidewalk sweeping
+- neighborhood cleanup
+- small business support
+- community cleaning
+- corridor maintenance
 ---

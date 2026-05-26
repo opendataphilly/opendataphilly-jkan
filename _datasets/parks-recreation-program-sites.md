@@ -38,9 +38,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- PPR
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
+  - ppr
 time_period: null
 title: Parks & Recreation Program Sites
 usage: null
+keywords:
+- recreation centers
+- playgrounds
+- swimming pools
+- senior centers
+- ppr facilities
+- park locations
+- environmental education
+- program locations
 ---

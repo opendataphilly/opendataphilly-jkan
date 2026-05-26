@@ -42,9 +42,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Public Health
-- tobacco
+  - Tobacco
+  - public health
 time_period: null
 title: Tobacco Retailer Density Caps
 usage: null
+keywords:
+- tobacco regulations
+- retailer limits
+- planning districts
+- smoking policy
+- cigarette stores
+- permit caps
+- public health policy
+- retail density
 ---

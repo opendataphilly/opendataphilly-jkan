@@ -36,6 +36,15 @@ tags:
 time_period: March 2024
 title: PA Bridges
 usage: Public Use; Free
+keywords:
+- highway bridges
+- road bridges
+- bridge inventory
+- penndot
+- infrastructure
+- bridge locations
+- overpasses
+- pa transportation
 ---
 
 

@@ -40,8 +40,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
+  - police
 time_period: null
 title: Center City District Boundary (Business Improvement District)
 usage: null
+keywords:
+- center city boundary
+- ccd boundary
+- downtown district
+- business improvement boundary
+- center city district map
+- downtown philadelphia
+- ccd footprint
 ---

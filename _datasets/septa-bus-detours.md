@@ -25,11 +25,20 @@ resources:
   url: https://www3.septa.org/api/BusDetours/index.php
 schema: philadelphia
 source: null
-tags: 
-- SEPTA
-- public transit
-- bus
+tags:
+  - bus
+  - septa
+  - transportation
 time_period: Current
 title: SEPTA Bus Detours
 usage: Public Use
+keywords:
+- bus reroutes
+- bus diversions
+- detour routes
+- bus service changes
+- transit detours
+- route changes
+- bus delays
+- public transit
 ---

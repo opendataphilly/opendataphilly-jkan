@@ -42,8 +42,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Highway Sections
 usage: null
+keywords:
+- road sections
+- street sections
+- highway division
+- paving zones
+- snow removal
+- pothole repair
+- road maintenance
+- street maintenance
+- highway engineering
 ---

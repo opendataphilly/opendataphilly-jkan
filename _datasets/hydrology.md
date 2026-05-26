@@ -59,11 +59,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
-- water
-- streams
-- rivers
+  - philadelphia water department
+  - rivers
+  - streams
+  - water
 time_period: null
 title: Hydrology
 usage: Public Use; Free
+keywords:
+- surface water
+- creeks
+- ponds
+- reservoirs
+- waterways
+- watersheds
+- waterbodies
+- hydrography
 ---

@@ -27,10 +27,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- PHDC
-- city assets
-- municipal assets
+  - city assets
+  - municipal assets
+  - phdc
 time_period: null
 title: City Owned Properties
 usage: null
+keywords:
+- public land
+- city property
+- publicly owned land
+- redevelopment authority
+- vacant land
+- land inventory
+- public ownership
+- city real estate
+- government property
 ---

@@ -208,12 +208,21 @@ resources:
 schema: philadelphia
 source: 'School District of Philadelphia'
 tags:
-- graduation rates
-- matriculation rates
-- suspensions
-- student attendance
+  - graduation rates
+  - matriculation rates
+  - student attendance
+  - suspensions
 time_period: null
 title: School Performance
 usage: null
+keywords:
+- graduation rate
+- school attendance
+- student suspensions
+- college enrollment
+- school metrics
+- act 158 pathway
+- pssa scores
+- school discipline
 ---
 

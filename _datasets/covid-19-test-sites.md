@@ -54,10 +54,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- COVID-19
-- Coronavirus
-- Philadelphia Department of Public Health
+  - covid-19
+  - public health
 time_period: null
 title: COVID-19 Test Sites
 usage: null
+keywords:
+- coronavirus testing
+- covid testing locations
+- testing centers
+- pcr tests
+- covid screening
+- testing sites
+- pandemic
+- sars-cov-2
+- where to get tested
 ---

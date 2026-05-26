@@ -38,8 +38,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Managing Directors Office
+  - managing directors office
 time_period: null
 title: Philly Rising Boundaries
 usage: Public Use; Free
+keywords:
+  - neighborhood boundaries
+  - pilot areas
+  - quality of life
+  - community programs
+  - community engagement
+  - urban revitalization
+  - target neighborhoods
+  - service areas
 ---

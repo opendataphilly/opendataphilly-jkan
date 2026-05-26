@@ -37,8 +37,18 @@ resources:
 schema: philadelphia
 source: http://www.courts.phila.gov/locations.asp
 tags:
-- Philadelphia Police Department
+  - police
 time_period: null
 title: Courts
 usage: null
+keywords:
+- courthouses
+- court locations
+- first judicial district
+- justice system
+- court system
+- judicial buildings
+- court addresses
+- philadelphia courts
+- legal system
 ---

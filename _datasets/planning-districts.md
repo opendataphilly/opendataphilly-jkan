@@ -37,8 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Planning Districts
 usage: Public Use; Free
+keywords:
+  - district boundaries
+  - philadelphia2035
+  - district plans
+  - zoning districts
+  - planning areas
+  - geographic boundaries
+  - city planning
+  - district map
 ---

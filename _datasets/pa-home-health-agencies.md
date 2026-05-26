@@ -40,4 +40,13 @@ tags:
 time_period: 2022
 title: PA Home Health Agencies
 usage: 'Public Use; Free '
+keywords:
+- in home care
+- visiting nurses
+- home aides
+- elder care
+- skilled nursing
+- physical therapy
+- home medical services
+- home caregivers
 ---

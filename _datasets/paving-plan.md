@@ -36,8 +36,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Paving Plan
 usage: null
+keywords:
+- street paving
+- road repair
+- street resurfacing
+- road construction
+- paving projects
+- street maintenance
+- streets department
+- infrastructure funding
 ---

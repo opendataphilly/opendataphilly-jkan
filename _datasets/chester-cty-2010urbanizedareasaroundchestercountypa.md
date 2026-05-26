@@ -55,8 +55,17 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/0e728b7df59c40d9a8160ee8cb9cbd1c_0/about
 source: Chester County GIS
 tags:
-- Urbanized Area
+  - urbanized area
 time_period: null
 title: 2010UrbanizedAreasAroundChesterCountyPA
 usage: null
+keywords:
+- urbanized areas
+- urban boundaries
+- urban footprint
+- 2010 census urban
+- chester county urban
+- urban land use
+- tiger data
+- population density areas
 ---

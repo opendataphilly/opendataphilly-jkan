@@ -39,8 +39,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
+  - police
 time_period: null
 title: Police Service Areas
 usage: Public Use; Free
+keywords:
+  - psa boundaries
+  - police patrol
+  - law enforcement
+  - patrol zones
+  - police sectors
+  - public safety
+  - district subareas
+  - service zones
 ---

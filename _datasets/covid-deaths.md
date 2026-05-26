@@ -84,10 +84,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- COVID-19
-- Coronavirus
-- Philadelphia Department of Public Health
+  - covid-19
+  - public health
 time_period: null
 title: COVID Deaths
 usage: null
+keywords:
+- coronavirus deaths
+- covid mortality
+- pandemic deaths
+- covid fatalities
+- death rate
+- covid by race
+- covid by zip
+- mortality data
+- pandemic mortality
 ---

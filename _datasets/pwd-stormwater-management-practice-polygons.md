@@ -38,8 +38,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: Stormwater Management Practice Polygons
 usage: null
+keywords:
+- smp footprints
+- gsi practices
+- bioretention
+- rain gardens
+- green infrastructure
+- stormwater bmps
+- runoff control
+- infiltration basins
 ---

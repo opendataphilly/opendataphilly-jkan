@@ -40,4 +40,12 @@ time_period: 1997 - 2024
 title: Philadelphia Neighborhoods
 usage: This file is released under the Creative Commons 4.0 license. Please refer
   to https://creativecommons.org/licenses/by/4.0/ and attribute the data to Robert Cheetham
+keywords:
+- neighborhood boundaries
+- philly neighborhoods
+- communities
+- neighborhood map
+- city districts
+- local areas
+- neighborhood polygons
 ---

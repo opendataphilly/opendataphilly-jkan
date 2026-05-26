@@ -97,11 +97,21 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philly Stat 360
-- boundaries
-- H3
-- hexagons
+  - boundaries
+  - h3
+  - hexagons
+  - philly stat 360
 time_period: null
 title: Philadelphia Basemaps
 usage: Public Use; Free
+keywords:
+- hex grid
+- hexagonal grid
+- spatial index
+- aggregation grid
+- basemap
+- geospatial grid
+- city limits
+- spatial analysis
+- h3 grid
 ---

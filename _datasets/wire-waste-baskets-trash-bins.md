@@ -35,9 +35,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- trash
+  - streets department
+  - waste
 time_period: null
 title: Wire Waste Baskets (Trash Bins)
 usage: null
+keywords:
+- trash cans
+- garbage cans
+- litter bins
+- sanitation
+- street furniture
+- trash collection
+- public bins
 ---

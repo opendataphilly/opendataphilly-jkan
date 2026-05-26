@@ -20,10 +20,18 @@ resources:
   url: https://www.septa.org/realtime-map/
 schema: philadelphia
 source: null
-tags: 
-- SEPTA
-- public transit
+tags:
+  - septa
+  - transportation
 time_period: Current
 title: SEPTA Real-time Map
 usage: Public Use
+keywords:
+- live transit map
+- bus tracker
+- trolley locations
+- train tracker
+- service alerts
+- public transit
+- real-time vehicle locations
 ---

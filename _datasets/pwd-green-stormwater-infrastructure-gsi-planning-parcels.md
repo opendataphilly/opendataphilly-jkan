@@ -39,10 +39,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- GSI
-- Green Stormwater Infrastructure
-- Philadelphia Water Department
+  - green stormwater infrastructure
+  - philadelphia water department
 time_period: null
 title: Green Stormwater Infrastructure (GSI) Planning Parcels
 usage: null
+keywords:
+- pwd parcels
+- impervious cover
+- property ownership
+- stormwater planning
+- land parcels
+- gsi planning
+- runoff surfaces
 ---

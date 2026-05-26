@@ -43,4 +43,13 @@ tags:
 time_period: 2022
 title: PA Intermediate Care Facilities
 usage: Public use; free
+keywords:
+- subacute care
+- long term care
+- skilled nursing
+- post hospital care
+- rehabilitation facilities
+- transitional care
+- acute care
+- patient facilities
 ---

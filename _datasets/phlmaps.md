@@ -37,8 +37,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- CityGeo
+  - citygeo
 time_period: null
 title: PHLmaps
 usage: null
+keywords:
+  - arcgis online
+  - gis portal
+  - city maps
+  - feature services
+  - geographic data
+  - mapping portal
+  - geospatial hub
+  - web maps
 ---

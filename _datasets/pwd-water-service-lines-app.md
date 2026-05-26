@@ -22,10 +22,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
-- water service lines
-- water quality
+  - philadelphia water department
+  - water quality
+  - water service lines
 time_period: null
 title: Water Service Lines
 usage: Public Use; Free
+keywords:
+- lead pipes
+- galvanized pipes
+- service line material
+- lead water pipes
+- pipe lookup
+- drinking water safety
+- home water lines
+- lead service lines
 ---

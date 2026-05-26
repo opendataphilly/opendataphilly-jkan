@@ -36,8 +36,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: Rain Barrels
 usage: null
+keywords:
+- residential rain barrels
+- stormwater capture
+- water collection
+- runoff capture
+- pwd program
+- rain barrel locations
+- backyard stormwater
 ---

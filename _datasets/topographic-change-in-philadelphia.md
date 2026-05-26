@@ -57,10 +57,20 @@ resources:
 
 schema: philadelphia
 source: null
-tags: 
-- topography
-- elevation
+tags:
+  - elevation
+  - topography
 time_period: 1901-2000
 title: Topographic Change in Philadelphia
 usage: Public Use; Free
+keywords:
+- terrain change
+- land elevation
+- topographic maps
+- quadrangle survey
+- elevation change
+- gps survey
+- fault lines
+- fill areas
+- land surface
 ---

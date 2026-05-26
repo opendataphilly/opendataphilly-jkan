@@ -45,10 +45,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- Division of Housing and Community Development
-- DHCD
+  - department of planning and development
+  - dhcd
+  - division of housing and community development
 time_period: null
 title: Housing Counseling Agencies
 usage: null
+keywords:
+- housing counseling
+- mortgage counseling
+- foreclosure prevention
+- tenant support
+- homebuyer education
+- predatory lending
+- renter help
+- housing assistance
 ---

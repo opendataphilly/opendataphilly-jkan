@@ -42,9 +42,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- Historical Commission
+  - department of planning and development
+  - historical commission
 time_period: null
 title: Philadelphia Registered Historic Districts
 usage: null
+keywords:
+  - historic preservation
+  - heritage areas
+  - landmark districts
+  - historic register
+  - historic neighborhoods
+  - protected buildings
+  - cultural districts
+  - historic boundaries
 ---

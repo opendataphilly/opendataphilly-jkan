@@ -38,10 +38,20 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- loans
-- small business
+  - commerce department
+  - loans
+  - small business
 time_period: null
-title: 
+title: CREAL Program
 usage: null
+keywords:
+- commercial real estate
+- creal program
+- business loans
+- small business loans
+- commercial property
+- worc
+- minority business
+- commercial acquisition
+- undercapitalized businesses
 ---

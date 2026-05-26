@@ -94,10 +94,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- injury
-- office of transportation and infrastructure systems
-- philadelphia streets department
+  - injury
+  - office of transportation and infrastructure systems
+  - streets department
 time_period: null
 title: Vision Zero High Injury Network
 usage: null
+keywords:
+- traffic crashes
+- pedestrian deaths
+- traffic fatalities
+- dangerous streets
+- crash data
+- road safety
+- penndot
+- vision zero
 ---

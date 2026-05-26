@@ -56,8 +56,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: Green Stormwater Infrastructure Public Projects
 usage: null
+keywords:
+- gsi projects
+- public stormwater
+- green infrastructure
+- rain gardens
+- bioswales
+- stormwater management
+- public projects
+- runoff management
 ---

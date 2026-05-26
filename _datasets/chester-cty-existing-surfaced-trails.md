@@ -27,10 +27,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/50a68bfab71c4ac08eafca413816a802_0/about
 source: Chester County GIS
 tags:
-- chester county
-- trails
-- recreation
+  - chester county
+  - parks & recreation
+  - trails
 time_period: null
 title: Chester County Existing Surfaced Trails
 usage: null
+keywords:
+- paved trails
+- walking paths
+- bike trails
+- hiking trails
+- recreation paths
+- multi-use trails
+- chester county parks
+- greenways
 ---

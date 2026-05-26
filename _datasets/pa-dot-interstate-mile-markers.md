@@ -37,6 +37,15 @@ tags:
 time_period: March 2024
 title: PA Interstate Mile Markers
 usage: Public Use; Free
+keywords:
+- highway markers
+- interstate highways
+- road markers
+- mile posts
+- penndot
+- highway navigation
+- freeway markers
+- pa interstates
 ---
 
 

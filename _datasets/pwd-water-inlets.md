@@ -41,9 +41,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
-- visualization
+  - philadelphia water department
+  - visualization
 time_period: null
 title: Water Inlets
 usage: Public Use; Free
+keywords:
+- storm drains
+- catch basins
+- sewer inlets
+- drainage points
+- stormwater inlets
+- street drains
+- wastewater inlets
 ---

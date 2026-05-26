@@ -42,8 +42,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
+  - department of planning and development
 time_period: null
 title: Philadelphia Registered Historic Properties
 usage: Public Use
+keywords:
+  - historic sites
+  - historic preservation
+  - landmark buildings
+  - heritage properties
+  - historic register
+  - historical commission
+  - protected properties
+  - historic homes
 ---

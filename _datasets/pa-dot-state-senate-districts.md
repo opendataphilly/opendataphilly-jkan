@@ -37,4 +37,12 @@ tags:
 time_period: March 2024
 title: PA State Senate Districts
 usage: Public Use; Free
+keywords:
+- senate districts
+- legislative boundaries
+- state legislators
+- political districts
+- senatorial boundaries
+- pa senate
+- elected officials
 ---

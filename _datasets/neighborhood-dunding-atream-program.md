@@ -38,10 +38,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Commerce Department
-- grants
-- economic development
+  - commerce department
+  - economic development
+  - grants
 time_period: null
 title: Neighborhood Funding Stream Program
 usage: null
+keywords:
+- business grants
+- small business funding
+- commercial corridors
+- neighborhood business
+- business support
+- commercial development
+- business beautification
+- financial empowerment
 ---

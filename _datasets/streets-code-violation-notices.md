@@ -181,8 +181,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Street's Code Violation Notices
 usage: null
+keywords:
+- code violations
+- street fines
+- cvn tickets
+- street regulations
+- violation penalties
+- enforcement
+- street infractions
+- ticketing
 ---

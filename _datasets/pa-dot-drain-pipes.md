@@ -32,12 +32,21 @@ resources:
   url: https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=PA_DrainPipes2024_03.xml
 schema: philadelphia
 source: null
-tags: 
-- pipes
-- drainage
+tags:
+  - drainage
+  - pipes
 time_period: March 2024
 title: PA Drain Pipes
 usage: Public Use; Free
+keywords:
+- stormwater
+- culverts
+- drainage infrastructure
+- road drainage
+- water runoff
+- penndot
+- highway drainage
+- sewer pipes
 ---
 
 

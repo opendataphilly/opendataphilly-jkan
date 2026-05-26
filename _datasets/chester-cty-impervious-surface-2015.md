@@ -29,9 +29,18 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/b7b360cdf009481880cdd6b23705fb5e_0/about
 source: Chester County GIS
 tags:
-- chester county
-- impervious
+  - chester county
+  - impervious
 time_period: null
 title: Chester County Impervious Surface 2015
 usage: null
+keywords:
+- impervious surface
+- paved surfaces
+- runoff
+- stormwater
+- land cover
+- built environment
+- imperviousness
+- surface coverage
 ---

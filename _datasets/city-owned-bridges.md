@@ -36,8 +36,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: City Owned Bridges
 usage: null
+keywords:
+- bridges
+- bridge locations
+- bridge inventory
+- bridge maintenance
+- infrastructure
+- transportation infrastructure
+- city infrastructure
+- bridge division
 ---

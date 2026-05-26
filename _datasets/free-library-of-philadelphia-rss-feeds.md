@@ -38,10 +38,10 @@ resources:
   url: http://libwww.freelibrary.org/diglib/rss.cfm
 schema: philadelphia
 source: null
-tags: 
-- libraries
-- books
-- podcasts
+tags:
+  - books
+  - libraries
+  - podcasts
 time_period: null
 title: Free Library of Philadelphia RSS Feeds
 usage: You are welcome to use Free Library of Philadelphia RSS feeds for personal
@@ -49,4 +49,12 @@ usage: You are welcome to use Free Library of Philadelphia RSS feeds for persona
   and attribution are required whenever Free Library content is posted on your Web
   site. We also reserve the right to require you to stop distributing Free Library
   content.
+keywords:
+- library feeds
+- author events
+- book reviews
+- library news
+- digital collections
+- library podcast
+- reading
 ---

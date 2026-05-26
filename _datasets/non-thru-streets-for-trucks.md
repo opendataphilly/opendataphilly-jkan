@@ -38,8 +38,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Non-Thru Streets for Trucks
 usage: null
+keywords:
+- truck restrictions
+- truck routes
+- no thru trucks
+- truck traffic
+- street regulations
+- freight routes
+- commercial vehicles
+- traffic restrictions
 ---

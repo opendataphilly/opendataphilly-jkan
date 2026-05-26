@@ -41,8 +41,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Water Department
+  - philadelphia water department
 time_period: null
 title: Combined Sewer Service Area
 usage: Public Use; Free
+keywords:
+- sewer system
+- stormwater
+- wastewater
+- drainage
+- sewer sheds
+- catchments
+- combined sewer overflow
+- pwd
 ---

@@ -265,8 +265,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
+  - police
 time_period: null
 title: Crime Incidents
 usage: null
+keywords:
+- crime data
+- police incidents
+- part i crimes
+- part ii crimes
+- philadelphia crime
+- violent crime
+- crime statistics
+- crime locations
+- police reports
+- crime map
 ---

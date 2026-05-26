@@ -125,8 +125,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- District Attorney Office
+  - district attorney office
 time_period: 2011 - present
 title: District Attorney Data Dashboard
 usage: null
+keywords:
+- criminal justice
+- arrests
+- bail
+- charges
+- case outcomes
+- incarceration
+- prosecution data
+- police incidents
+- da dashboard
+- court cases
 ---

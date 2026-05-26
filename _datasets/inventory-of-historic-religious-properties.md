@@ -37,13 +37,22 @@ resources:
   url: https://preservationalliance.com/wp-content/uploads/2023/01/Historic-Religious-Properties.pdf
 schema: philadelphia
 source: ''
-tags: 
-- historic preservation
-- architecture
-- architects
-- churches
-- National Historic Register
+tags:
+  - architects
+  - architecture
+  - churches
+  - historic preservation
+  - national historic register
 time_period: null
 title: Inventory of Historic Religious Properties
 usage: Public Use; Free
+keywords:
+- houses of worship
+- religious buildings
+- historic places
+- congregations
+- sacred places
+- temples
+- synagogues
+- heritage buildings
 ---

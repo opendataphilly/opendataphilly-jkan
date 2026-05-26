@@ -78,9 +78,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Department of Planning and Development
-- census
+  - census
+  - department of planning and development
 time_period: null
 title: Census Blocks
 usage: Public Use
+keywords:
+- city blocks
+- block boundaries
+- redistricting blocks
+- demographic blocks
+- census geography
+- planning blocks
+- smallest census unit
 ---

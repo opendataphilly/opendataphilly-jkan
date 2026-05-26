@@ -36,8 +36,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Records Department
+  - records department
 time_period: null
 title: Department of Records Property Parcels
 usage: Public Use; Free
+keywords:
+- property boundaries
+- real estate parcels
+- land records
+- deed records
+- parcel boundaries
+- property lines
+- dor parcels
+- lot boundaries
 ---

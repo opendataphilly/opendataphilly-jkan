@@ -37,8 +37,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Parks and Recreation
+  - philadelphia parks and recreation
 time_period: null
 title: PPR Playgrounds
 usage: null
+keywords:
+- play areas
+- park equipment
+- kids playgrounds
+- children play
+- playground locations
+- recreation areas
+- park facilities
 ---

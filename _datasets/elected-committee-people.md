@@ -34,8 +34,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- City Commissioners
+  - city commissioners
 time_period: null
 title: Elected Committee People
 usage: null
+keywords:
+- committeepeople
+- ward leaders
+- party officials
+- elected officials
+- political divisions
+- democratic party
+- republican party
+- local politics
+- ward division
 ---

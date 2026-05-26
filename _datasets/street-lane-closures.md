@@ -38,10 +38,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
-- streets
-- utilities
+  - energy
+  - streets
+  - streets department
 time_period: null
 title: Street Lane Closures
 usage: Public Use; Free
+keywords:
+- road closures
+- construction permits
+- traffic disruption
+- lane shutdowns
+- road work
+- permitted work
+- street construction
+- detours
 ---

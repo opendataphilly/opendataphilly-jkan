@@ -39,8 +39,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Street Nodes
 usage: null
+keywords:
+- street intersections
+- intersection points
+- street network nodes
+- road junctions
+- street endpoints
+- citywide intersections
+- street layer
 ---

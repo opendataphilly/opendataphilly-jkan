@@ -41,7 +41,7 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Mayors Office of Transportation and Utilities
+  - mayors office of transportation and utilities
 time_period: null
 title: Complete Streets
 usage: "The City of Philadelphia reserves all rights in the GIS database and any data\
@@ -54,4 +54,13 @@ usage: "The City of Philadelphia reserves all rights in the GIS database and any
   \ display and will hold the City of Philadelphia harmless from any and all claims,\
   \ demands, liabilities, obligations, damages, suits, judgments or settlements, including\
   \ reasonable costs and attorneys' fees, that arise from use of this data."
+keywords:
+- street types
+- bike lanes
+- pedestrian planning
+- street design
+- multimodal streets
+- transportation planning
+- bicycle plan
+- street classifications
 ---

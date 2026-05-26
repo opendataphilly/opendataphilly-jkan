@@ -52,11 +52,20 @@ resources:
 
 schema: philadelphia
 source: 'School District of Philadelphia'
-tags: 
-- School District of Philadelphia
-- pre-school
-- Pre-K
+tags:
+  - pre-k
+  - pre-school
+  - school district of philadelphia
 time_period: null
 title: School District Pre-School Information
 usage: null
+keywords:
+- preschool
+- pre-kindergarten
+- early childhood
+- prek programs
+- prek schools
+- public preschool
+- early education
+- school directory
 ---

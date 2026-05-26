@@ -39,9 +39,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philly Stat 360
-- Narcotics
+  - narcotics
+  - philly stat 360
 time_period: null
 title: Narcotics Activity Hex Centroids
 usage: Public Use; Free
+keywords:
+- drug arrests
+- drug seizures
+- police activity
+- crime data
+- drug enforcement
+- hex grid
+- gun seizures
+- philly stats
 ---

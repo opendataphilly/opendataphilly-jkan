@@ -29,8 +29,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Big Belly Trash Bin Usage
 usage: null
+keywords:
+- trash bin usage
+- public trash cans
+- solar compactor bins
+- waste collection data
+- street bins
+- garbage collection
+- sanitation data
 ---

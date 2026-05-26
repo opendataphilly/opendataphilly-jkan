@@ -26,10 +26,19 @@ resources:
   url: http://philapark.org/locator/
 schema: philadelphia
 source: null
-tags: 
-- Philadelphia Parking Authority
-- parking
+tags:
+  - parking
+  - philadelphia parking authority
 time_period: null
 title: Parking Locator
 usage: Public Use; Free
+keywords:
+- parking garage
+- find parking
+- parking lot
+- center city parking
+- university city parking
+- parking rates
+- ppa
+- parking map
 ---

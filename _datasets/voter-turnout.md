@@ -89,10 +89,19 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- City Commissioners
-- Voter Registration
-- Voter Turnout
+  - city commissioners
+  - voter registration
+  - voter turnout
 time_period: null
 title: Voter Election Registration and Turnout
 usage: null
+keywords:
+- elections
+- voting
+- registered voters
+- primary election
+- general election
+- precincts
+- political wards
+- ballots
 ---

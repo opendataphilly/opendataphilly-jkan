@@ -37,8 +37,16 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Office of Innovation and Technology
+  - office of innovation and technology
 time_period: null
 title: Building Footprints
 usage: Public use; Free
+keywords:
+- building outlines
+- building shapes
+- structure footprints
+- building polygons
+- planimetric data
+- building locations
+- gis buildings
 ---

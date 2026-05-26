@@ -181,11 +181,21 @@ resources:
 
 schema: philadelphia
 source: null
-tags: 
-- SEPTA
-- public transit
+tags:
+  - septa
+  - transportation
 time_period: null
 title: SEPTA Ridership Statistics
 usage: Public Use
+keywords:
+- ridership data
+- transit passengers
+- bus ridership
+- trolley ridership
+- regional rail ridership
+- stop counts
+- daily ridership
+- passenger counts
+- transit usage
 ---
 

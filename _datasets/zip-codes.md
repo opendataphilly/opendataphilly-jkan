@@ -57,8 +57,15 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Streets Department
+  - streets department
 time_period: null
 title: Zip Codes
 usage: Public use
+keywords:
+- postal codes
+- zip boundaries
+- mailing areas
+- postal zones
+- zip polygons
+- geographic boundaries
 ---

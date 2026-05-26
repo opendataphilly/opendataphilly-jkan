@@ -164,14 +164,22 @@ resources:
 schema: null
 source_url: https://www.census.gov/programs-surveys/acs
 tags:
-  - census
-  - demographics
-  - income
-  - poverty
-  - housing
-  - education
-  - transportation
-  - employment
   - american community survey
+  - census
+  - education
+  - employment
+  - housing
+  - poverty
+  - transportation
 title: Census ACS 5-Year Estimates - Philadelphia
+keywords:
+- demographic data
+- household income
+- poverty data
+- racial demographics
+- commute statistics
+- educational attainment
+- housing characteristics
+- philadelphia population
+- census api
 ---

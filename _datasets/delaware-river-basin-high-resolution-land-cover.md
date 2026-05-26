@@ -36,13 +36,24 @@ resources:
   url: https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=3208
 schema: philadelphia
 source: https://www.uvm.edu/rsenr/sal/
-tags: 
-- land cover
-- Delaware River
-- tree canopy
-- vegetatin
-- impervious surface
+tags:
+  - delaware river
+  - impervious surface
+  - land cover
+  - tree canopy
+  - vegetation
 time_period: null
 title: Delaware River Basin High-Resolution Land Cover
 usage: null
+keywords:
+- land cover classification
+- lidar data
+- watershed land cover
+- tree canopy
+- impervious surfaces
+- wetlands
+- water bodies
+- aerial imagery
+- raster data
+- environmental mapping
 ---

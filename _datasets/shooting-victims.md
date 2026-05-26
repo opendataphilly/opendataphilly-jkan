@@ -44,8 +44,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Police Department
+  - police
 time_period: null
 title: Shooting Victims
 usage: null
+keywords:
+- gun violence
+- shootings
+- crime data
+- gunshot incidents
+- officer involved shootings
+- firearm injuries
+- violent crime
+- victims data
 ---

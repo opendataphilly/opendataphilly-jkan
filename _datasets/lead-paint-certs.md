@@ -35,9 +35,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- Philadelphia Department of Public Health
-- Lead Paint
+  - lead paint
+  - public health
 time_period: null
 title: Lead Paint Certifications
 usage: null
+keywords:
+- lead safe housing
+- rental safety
+- lead free property
+- lead disclosure
+- healthy homes
+- rental certification
+- lead testing
+- tenant safety
 ---

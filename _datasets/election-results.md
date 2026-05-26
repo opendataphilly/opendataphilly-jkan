@@ -35,8 +35,17 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- City Commissioners
+  - city commissioners
 time_period: null
 title: Election Results
 usage: null
+keywords:
+- voting results
+- election outcomes
+- primary election
+- general election
+- vote tallies
+- certified results
+- voter data
+- election returns
 ---

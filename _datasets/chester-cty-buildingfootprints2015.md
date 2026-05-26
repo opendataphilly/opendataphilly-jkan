@@ -29,11 +29,19 @@ resources:
   url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/feddb705ee2b4a848ad76a2ae8ab7a81_0/about
 source: Chester County GIS
 tags:
-- Chester County
-- '  Impervious'
-- '  buildings'
-- '  footprints'
+  - '  Impervious'
+  - '  buildings'
+  - '  footprints'
+  - chester county
 time_period: null
 title: Chester County BuildingFootprints2015
 usage: null
+keywords:
+- building outlines
+- building shapes
+- structure footprints
+- impervious surfaces
+- chester county buildings
+- gis building data
+- orthoimagery buildings
 ---

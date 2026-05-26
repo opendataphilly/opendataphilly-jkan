@@ -39,11 +39,21 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- OIT
-- municipal assets
-- city assets
-- real estate
+  - city assets
+  - municipal assets
+  - oit
+  - real estate
 time_period: null
 title: City Facilities (Master Facilities Database)
 usage: null
+keywords:
+- city buildings
+- government buildings
+- public facilities
+- city-owned property
+- facility inventory
+- public assets
+- city property
+- municipal facilities
+- city infrastructure
 ---

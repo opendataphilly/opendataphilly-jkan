@@ -21,8 +21,18 @@ resources:
 schema: philadelphia
 source: ''
 tags:
-- 
+  - -
+
 time_period: null
 title: StreetSmartPHL
 usage: Public Use; Free
+keywords:
+- street closures
+- trash pickup
+- recycling schedule
+- street sweeping
+- snow plowing
+- paving plans
+- interactive map
+- streets information
 ---
