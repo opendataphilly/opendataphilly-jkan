@@ -1,0 +1,874 @@
+# Canonical tag registry for opendataphilly-jkan
+# This file documents the canonical tag set and is used as a Jekyll no-JS fallback
+# The slug field is used in ?tag= URL params; label is displayed in the UI
+tags:
+  - slug: "311"
+    label: "311"
+  - slug: "911"
+    label: "911"
+  - slug: aadt
+    label: "AADT"
+  - slug: access
+    label: "Access"
+  - slug: african-american
+    label: "African American"
+  - slug: air-management-systems
+    label: "Air Management Systems"
+  - slug: air-quality
+    label: "Air Quality"
+  - slug: ambulance
+    label: "Ambulance"
+  - slug: anti-violence
+    label: "Anti-Violence"
+  - slug: bicycle
+    label: "Bicycle"
+  - slug: board-of-ethics
+    label: "Board of Ethics"
+  - slug: boundary
+    label: "Boundary"
+  - slug: budget
+    label: "Budget"
+  - slug: bureau-of-administrative-adjudication
+    label: "Bureau of Administrative Adjudication"
+  - slug: business
+    label: "Business"
+  - slug: covid-19
+    label: "COVID-19"
+  - slug: census
+    label: "Census"
+  - slug: census-blockgroup
+    label: "Census Blockgroup"
+  - slug: center-city-district
+    label: "Center City District"
+  - slug: chesco
+    label: "Chesco"
+  - slug: chester
+    label: "Chester"
+  - slug: chester-county
+    label: "Chester County"
+  - slug: child-care
+    label: "Child Care"
+  - slug: city-commissioners
+    label: "City Commissioners"
+  - slug: city-council
+    label: "City Council"
+  - slug: citygeo
+    label: "CityGeo"
+  - slug: civilian-complaints
+    label: "Civilian Complaints"
+  - slug: climate-change
+    label: "Climate Change"
+  - slug: commerce-department
+    label: "Commerce Department"
+  - slug: community-life-improvement-program
+    label: "Community Life Improvement Program"
+  - slug: congestion
+    label: "Congestion"
+  - slug: contracts
+    label: "Contracts"
+  - slug: crash-accident
+    label: "Crash / Accident"
+  - slug: dcis
+    label: "DCIS"
+  - slug: des
+    label: "DES"
+  - slug: dhcd
+    label: "DHCD"
+  - slug: dvrpc
+    label: "DVRPC"
+  - slug: delaware-river
+    label: "Delaware River"
+  - slug: department-of-health-and-human-services
+    label: "Department of Health and Human Services"
+  - slug: department-of-licenses-and-inspections
+    label: "Department of Licenses and Inspections"
+  - slug: department-of-parks-and-recreation
+    label: "Department of Parks and Recreation"
+  - slug: department-of-planning-and-development
+    label: "Department of Planning and Development"
+  - slug: department-of-procurement
+    label: "Department of Procurement"
+  - slug: department-of-records
+    label: "Department of Records"
+  - slug: digital-divide
+    label: "Digital Divide"
+  - slug: digital-equity
+    label: "Digital Equity"
+  - slug: disaster-planning
+    label: "Disaster Planning"
+  - slug: district-attorney-office
+    label: "District Attorney Office"
+  - slug: division-of-housing-and-community-development
+    label: "Division of Housing and Community Development"
+  - slug: esl
+    label: "ESL"
+  - slug: esz
+    label: "ESZ"
+  - slug: eta
+    label: "ETA"
+  - slug: economy
+    label: "Economy"
+  - slug: education
+    label: "Education"
+  - slug: elections
+    label: "Elections"
+  - slug: energy
+    label: "Energy"
+  - slug: equity
+    label: "Equity"
+  - slug: equity-through-access
+    label: "Equity Through Access"
+  - slug: fema
+    label: "FEMA"
+  - slug: finance-department
+    label: "Finance Department"
+  - slug: fire
+    label: "Fire"
+  - slug: fire-department
+    label: "Fire Department"
+  - slug: flooding
+    label: "Flooding"
+  - slug: floodplains
+    label: "Floodplains"
+  - slug: food
+    label: "Food"
+  - slug: freight
+    label: "Freight"
+  - slug: greater-philadelphia
+    label: "Greater Philadelphia"
+  - slug: green-stormwater-infrastructure
+    label: "Green Stormwater Infrastructure"
+  - slug: greenworks
+    label: "Greenworks"
+  - slug: h3
+    label: "H3"
+  - slug: hiv
+    label: "HIV"
+  - slug: health-and-human-services
+    label: "Health and Human Services"
+  - slug: historical-commission
+    label: "Historical Commission"
+  - slug: homelessness
+    label: "Homelessness"
+  - slug: housing
+    label: "Housing"
+  - slug: hunger
+    label: "Hunger"
+  - slug: hydrant
+    label: "Hydrant"
+  - slug: impervious
+    label: "Impervious"
+  - slug: intermodal
+    label: "Intermodal"
+  - slug: keystone
+    label: "Keystone"
+  - slug: le
+    label: "LE"
+  - slug: lactation-spaces
+    label: "Lactation spaces"
+  - slug: language-access
+    label: "Language access"
+  - slug: law
+    label: "Law"
+  - slug: law-department
+    label: "Law Department"
+  - slug: lead-paint
+    label: "Lead Paint"
+  - slug: leaf-dropoff
+    label: "Leaf dropoff"
+  - slug: lidar
+    label: "LiDAR"
+  - slug: licenses-inspections
+    label: "Licenses & Inspections"
+  - slug: lorimer-park
+    label: "Lorimer Park"
+  - slug: mamava
+    label: "Mamava"
+  - slug: managing-directors-office
+    label: "Managing Directors Office"
+  - slug: mayors-office-of-community-empowerment-and-opportunity
+    label: "Mayors Office of Community Empowerment and Opportunity"
+  - slug: mayors-office-of-transportation-and-utilities
+    label: "Mayors Office of Transportation and Utilities"
+  - slug: meals
+    label: "Meals"
+  - slug: medical
+    label: "Medical"
+  - slug: mental-health
+    label: "Mental Health"
+  - slug: municipal
+    label: "Municipal"
+  - slug: naip
+    label: "NAIP"
+  - slug: nlcd
+    label: "NLCD"
+  - slug: narcan
+    label: "Narcan"
+  - slug: narcotics
+    label: "Narcotics"
+  - slug: national-historic-register
+    label: "National Historic Register"
+  - slug: oit
+    label: "OIT"
+  - slug: office-of-adult-education
+    label: "Office of Adult Education"
+  - slug: office-of-children-and-families
+    label: "Office of Children and Families"
+  - slug: office-of-clean-and-green-initiatives
+    label: "Office of Clean and Green Initiatives"
+  - slug: office-of-criminal-justice
+    label: "Office of Criminal Justice"
+  - slug: office-of-emergency-management
+    label: "Office of Emergency Management"
+  - slug: office-of-homeless-services
+    label: "Office of Homeless Services"
+  - slug: office-of-housing-and-community-development
+    label: "Office of Housing and Community Development"
+  - slug: office-of-immigrant-affairs
+    label: "Office of Immigrant Affairs"
+  - slug: office-of-innovation-and-technology
+    label: "Office of Innovation and Technology"
+  - slug: office-of-property-assessment
+    label: "Office of Property Assessment"
+  - slug: office-of-public-safety
+    label: "Office of Public Safety"
+  - slug: office-of-sustainability
+    label: "Office of Sustainability"
+  - slug: office-of-transportation-infrastructure-systems
+    label: "Office of Transportation & Infrastructure Systems"
+  - slug: office-of-transportation-infrastructure-and-sustainability
+    label: "Office of Transportation Infrastructure and Sustainability"
+  - slug: office-of-transportation-and-infrastructure-system
+    label: "Office of Transportation and Infrastructure System"
+  - slug: office-of-the-chief-administrative-officer
+    label: "Office of the Chief Administrative Officer"
+  - slug: office-of-the-city-commissioners
+    label: "Office of the City Commissioners"
+  - slug: office-of-the-mayor
+    label: "Office of the Mayor"
+  - slug: overdose-prevention
+    label: "Overdose Prevention"
+  - slug: pasda
+    label: "PASDA"
+  - slug: pgw
+    label: "PGW"
+  - slug: phdc
+    label: "PHDC"
+  - slug: ppr
+    label: "PPR"
+  - slug: psap
+    label: "PSAP"
+  - slug: pssa
+    label: "PSSA"
+  - slug: parking
+    label: "Parking"
+  - slug: parks-recreation
+    label: "Parks & Recreation"
+  - slug: pedestrian
+    label: "Pedestrian"
+  - slug: pennsylvania-horticultural-society
+    label: "Pennsylvania Horticultural Society"
+  - slug: pennypack-park
+    label: "Pennypack Park"
+  - slug: pennypack-trust
+    label: "Pennypack Trust"
+  - slug: philadelphia-housing-authority
+    label: "Philadelphia Housing Authority"
+  - slug: philadelphia-parking-authority
+    label: "Philadelphia Parking Authority"
+  - slug: philadelphia-parks-and-recreation
+    label: "Philadelphia Parks and Recreation"
+  - slug: philadelphia-redevelopment-authority
+    label: "Philadelphia Redevelopment Authority"
+  - slug: philadelphia-water-department
+    label: "Philadelphia Water Department"
+  - slug: philly-stat-360
+    label: "Philly Stat 360"
+  - slug: planning
+    label: "Planning"
+  - slug: planning-department
+    label: "Planning Department"
+  - slug: police
+    label: "Police"
+  - slug: police-advisory-commission
+    label: "Police Advisory Commission"
+  - slug: police-districts
+    label: "Police Districts"
+  - slug: police-service-areas
+    label: "Police Service Areas"
+  - slug: ports
+    label: "Ports"
+  - slug: poverty
+    label: "Poverty"
+  - slug: prep
+    label: "PrEP"
+  - slug: pre-k
+    label: "Pre-K"
+  - slug: procurement-department
+    label: "Procurement Department"
+  - slug: public-health
+    label: "Public Health"
+  - slug: public-safety
+    label: "Public Safety"
+  - slug: real-estate
+    label: "Real Estate"
+  - slug: records-department
+    label: "Records Department"
+  - slug: regional
+    label: "Regional"
+  - slug: response
+    label: "Response"
+  - slug: revenue-department
+    label: "Revenue Department"
+  - slug: septa
+    label: "SEPTA"
+  - slug: sleuth
+    label: "SLEUTH"
+  - slug: snap
+    label: "SNAP"
+  - slug: school-district-of-philadelphia
+    label: "School District of Philadelphia"
+  - slug: seeclickfix
+    label: "SeeClickFix"
+  - slug: soil
+    label: "Soil"
+  - slug: state-house-of-representatives
+    label: "State House of Representatives"
+  - slug: station
+    label: "Station"
+  - slug: stations
+    label: "Stations"
+  - slug: streets
+    label: "Streets"
+  - slug: streets-department
+    label: "Streets Department"
+  - slug: territory
+    label: "Territory"
+  - slug: tobacco
+    label: "Tobacco"
+  - slug: traffic-count
+    label: "Traffic Count"
+  - slug: transportation
+    label: "Transportation"
+  - slug: usda
+    label: "USDA"
+  - slug: urbanized-area
+    label: "Urbanized Area"
+  - slug: vaccine
+    label: "Vaccine"
+  - slug: vegetation
+    label: "Vegetation"
+  - slug: vision-zero
+    label: "Vision Zero"
+  - slug: visualization
+    label: "Visualization"
+  - slug: vital-statistics
+    label: "Vital statistics"
+  - slug: volume
+    label: "Volume"
+  - slug: voter-registration
+    label: "Voter Registration"
+  - slug: voter-turnout
+    label: "Voter Turnout"
+  - slug: voting-precints
+    label: "Voting Precints"
+  - slug: wic
+    label: "WIC"
+  - slug: waste
+    label: "Waste"
+  - slug: water
+    label: "Water"
+  - slug: wi-fi
+    label: "Wi-Fi"
+  - slug: world-meeting-of-families
+    label: "World Meeting of Families"
+  - slug: zillow
+    label: "Zillow"
+  - slug: zoning
+    label: "Zoning"
+  - slug: none
+    label: "[None]"
+  - slug: abandoned-vehicles
+    label: "abandoned vehicles"
+  - slug: accessibility
+    label: "accessibility"
+  - slug: accuplus
+    label: "accuplus"
+  - slug: addresses
+    label: "addresses"
+  - slug: aerial
+    label: "aerial"
+  - slug: aerial-photographs
+    label: "aerial photographs"
+  - slug: alcohol-treatment
+    label: "alcohol treatment"
+  - slug: alerts
+    label: "alerts"
+  - slug: alleys
+    label: "alleys"
+  - slug: american-community-survey
+    label: "american community survey"
+  - slug: application
+    label: "application"
+  - slug: architects
+    label: "architects"
+  - slug: architecture
+    label: "architecture"
+  - slug: arterials
+    label: "arterials"
+  - slug: assessment
+    label: "assessment"
+  - slug: atlases
+    label: "atlases"
+  - slug: bankruptcy
+    label: "bankruptcy"
+  - slug: bars
+    label: "bars"
+  - slug: basemap
+    label: "basemap"
+  - slug: birth-centers
+    label: "birth centers"
+  - slug: birth-control
+    label: "birth control"
+  - slug: books
+    label: "books"
+  - slug: boundaries
+    label: "boundaries"
+  - slug: breweries
+    label: "breweries"
+  - slug: bridges
+    label: "bridges"
+  - slug: broadband
+    label: "broadband"
+  - slug: building-footprints
+    label: "building footprints"
+  - slug: buildings
+    label: "buildings"
+  - slug: bus
+    label: "bus"
+  - slug: cadastral
+    label: "cadastral"
+  - slug: campaign-finance
+    label: "campaign finance"
+  - slug: candidates
+    label: "candidates"
+  - slug: cannabis
+    label: "cannabis"
+  - slug: ccpc
+    label: "ccpc"
+  - slug: childbirth
+    label: "childbirth"
+  - slug: churches
+    label: "churches"
+  - slug: city-assets
+    label: "city assets"
+  - slug: city-services
+    label: "city services"
+  - slug: civil-service
+    label: "civil service"
+  - slug: clothing
+    label: "clothing"
+  - slug: clubs
+    label: "clubs"
+  - slug: code-violations
+    label: "code violations"
+  - slug: community-action-centers
+    label: "community action centers"
+  - slug: companies
+    label: "companies"
+  - slug: complaints
+    label: "complaints"
+  - slug: compost
+    label: "compost"
+  - slug: composting
+    label: "composting"
+  - slug: computer-labs
+    label: "computer labs"
+  - slug: congressional-districts
+    label: "congressional districts"
+  - slug: contracting
+    label: "contracting"
+  - slug: contractors
+    label: "contractors"
+  - slug: courts
+    label: "courts"
+  - slug: dangerous-buildings
+    label: "dangerous buildings"
+  - slug: directories
+    label: "directories"
+  - slug: district-courts
+    label: "district courts"
+  - slug: districts
+    label: "districts"
+  - slug: donations
+    label: "donations"
+  - slug: drainage
+    label: "drainage"
+  - slug: driveways
+    label: "driveways"
+  - slug: drug-treatment
+    label: "drug treatment"
+  - slug: early-learning
+    label: "early learning"
+  - slug: earnings
+    label: "earnings"
+  - slug: easements
+    label: "easements"
+  - slug: economic-development
+    label: "economic development"
+  - slug: election-divisions
+    label: "election divisions"
+  - slug: elevation
+    label: "elevation"
+  - slug: elevators
+    label: "elevators"
+  - slug: emergencies
+    label: "emergencies"
+  - slug: emergency
+    label: "emergency"
+  - slug: emergency-management
+    label: "emergency management"
+  - slug: emergency-services
+    label: "emergency services"
+  - slug: employee-salaries
+    label: "employee salaries"
+  - slug: employment
+    label: "employment"
+  - slug: expenditures
+    label: "expenditures"
+  - slug: farmers-markets
+    label: "farmers markets"
+  - slug: farms
+    label: "farms"
+  - slug: finances
+    label: "finances"
+  - slug: financial-assistance
+    label: "financial assistance"
+  - slug: flood-insurance
+    label: "flood insurance"
+  - slug: food-safety
+    label: "food safety"
+  - slug: food-security
+    label: "food security"
+  - slug: foodborne-illness
+    label: "foodborne illness"
+  - slug: footprints
+    label: "footprints"
+  - slug: fountain
+    label: "fountain"
+  - slug: frontage
+    label: "frontage"
+  - slug: gardens
+    label: "gardens"
+  - slug: gas
+    label: "gas"
+  - slug: geotechnical
+    label: "geotechnical"
+  - slug: global-warming
+    label: "global warming"
+  - slug: graduation-rates
+    label: "graduation rates"
+  - slug: grants
+    label: "grants"
+  - slug: growth-model
+    label: "growth model"
+  - slug: gtfs
+    label: "gtfs"
+  - slug: hazards
+    label: "hazards"
+  - slug: health
+    label: "health"
+  - slug: heat-exposure
+    label: "heat exposure"
+  - slug: help-locators
+    label: "help locators"
+  - slug: hexagons
+    label: "hexagons"
+  - slug: historic
+    label: "historic"
+  - slug: historic-preservation
+    label: "historic preservation"
+  - slug: history
+    label: "history"
+  - slug: home-health-care
+    label: "home health care"
+  - slug: home-sales
+    label: "home sales"
+  - slug: homeless-shelter
+    label: "homeless shelter"
+  - slug: hospice
+    label: "hospice"
+  - slug: hospitals
+    label: "hospitals"
+  - slug: house-districts
+    label: "house districts"
+  - slug: hydration-station
+    label: "hydration station"
+  - slug: hydrography
+    label: "hydrography"
+  - slug: imagery
+    label: "imagery"
+  - slug: immigration
+    label: "immigration"
+  - slug: impervious-surface
+    label: "impervious surface"
+  - slug: infants
+    label: "infants"
+  - slug: information-requests
+    label: "information requests"
+  - slug: infrastructure
+    label: "infrastructure"
+  - slug: injury
+    label: "injury"
+  - slug: intermediate-care
+    label: "intermediate care"
+  - slug: internet
+    label: "internet"
+  - slug: interpretation
+    label: "interpretation"
+  - slug: intersections
+    label: "intersections"
+  - slug: interstates
+    label: "interstates"
+  - slug: job-classification
+    label: "job classification"
+  - slug: jobs
+    label: "jobs"
+  - slug: keyspot
+    label: "keyspot"
+  - slug: land-cover
+    label: "land cover"
+  - slug: land-development
+    label: "land development"
+  - slug: landfills
+    label: "landfills"
+  - slug: legal-descriptions
+    label: "legal descriptions"
+  - slug: libraries
+    label: "libraries"
+  - slug: litter
+    label: "litter"
+  - slug: loans
+    label: "loans"
+  - slug: lobbying
+    label: "lobbying"
+  - slug: magesterial-districts
+    label: "magesterial districts"
+  - slug: maintenance
+    label: "maintenance"
+  - slug: manufacturing
+    label: "manufacturing"
+  - slug: maps
+    label: "maps"
+  - slug: marijuana
+    label: "marijuana"
+  - slug: math
+    label: "math"
+  - slug: matriculation-rates
+    label: "matriculation rates"
+  - slug: metro
+    label: "metro"
+  - slug: mile-markers
+    label: "mile markers"
+  - slug: monuments
+    label: "monuments"
+  - slug: municipal-assets
+    label: "municipal assets"
+  - slug: municipal-boundary
+    label: "municipal boundary"
+  - slug: municipal-forest
+    label: "municipal forest"
+  - slug: municipalities
+    label: "municipalities"
+  - slug: neighborhoods
+    label: "neighborhoods"
+  - slug: nursing-homes
+    label: "nursing homes"
+  - slug: nutrition
+    label: "nutrition"
+  - slug: office-of-transportation-and-infrastructure-systems
+    label: "office of transportation and infrastructure systems"
+  - slug: ortho
+    label: "ortho"
+  - slug: orthophotography
+    label: "orthophotography"
+  - slug: overtime
+    label: "overtime"
+  - slug: parcels
+    label: "parcels"
+  - slug: payments
+    label: "payments"
+  - slug: photographs
+    label: "photographs"
+  - slug: photography
+    label: "photography"
+  - slug: pipes
+    label: "pipes"
+  - slug: plan-review-times
+    label: "plan review times"
+  - slug: play-streets
+    label: "play streets"
+  - slug: podcasts
+    label: "podcasts"
+  - slug: political
+    label: "political"
+  - slug: polling-places
+    label: "polling places"
+  - slug: pre-school
+    label: "pre-school"
+  - slug: professional-services
+    label: "professional services"
+  - slug: psychiatric-residential-treatment
+    label: "psychiatric residential treatment"
+  - slug: public-art
+    label: "public art"
+  - slug: rail
+    label: "rail"
+  - slug: rail-crossings
+    label: "rail crossings"
+  - slug: railroad
+    label: "railroad"
+  - slug: railroads
+    label: "railroads"
+  - slug: railways
+    label: "railways"
+  - slug: rent
+    label: "rent"
+  - slug: rental
+    label: "rental"
+  - slug: renting
+    label: "renting"
+  - slug: repairs
+    label: "repairs"
+  - slug: restaurant-inspections
+    label: "restaurant inspections"
+  - slug: restaurants
+    label: "restaurants"
+  - slug: retail
+    label: "retail"
+  - slug: riparian-buffers
+    label: "riparian buffers"
+  - slug: rivers
+    label: "rivers"
+  - slug: rubbish
+    label: "rubbish"
+  - slug: salaries
+    label: "salaries"
+  - slug: school-catchment-areas
+    label: "school catchment areas"
+  - slug: school-districts
+    label: "school districts"
+  - slug: school-meals
+    label: "school meals"
+  - slug: school-selection
+    label: "school selection"
+  - slug: science
+    label: "science"
+  - slug: security
+    label: "security"
+  - slug: sewer
+    label: "sewer"
+  - slug: shelter
+    label: "shelter"
+  - slug: sidewalk-vendors
+    label: "sidewalk vendors"
+  - slug: small-business
+    label: "small business"
+  - slug: snow
+    label: "snow"
+  - slug: speech-therapy
+    label: "speech therapy"
+  - slug: speed-bumps
+    label: "speed bumps"
+  - slug: speed-cushions
+    label: "speed cushions"
+  - slug: spending
+    label: "spending"
+  - slug: startups
+    label: "startups"
+  - slug: state-senate
+    label: "state senate"
+  - slug: statues
+    label: "statues"
+  - slug: streams
+    label: "streams"
+  - slug: street-drawings
+    label: "street drawings"
+  - slug: street-trees
+    label: "street trees"
+  - slug: student-attendance
+    label: "student attendance"
+  - slug: students
+    label: "students"
+  - slug: substance-treatment
+    label: "substance treatment"
+  - slug: surgical-centers
+    label: "surgical centers"
+  - slug: survey-data
+    label: "survey data"
+  - slug: surveys
+    label: "surveys"
+  - slug: suspensions
+    label: "suspensions"
+  - slug: sustainability
+    label: "sustainability"
+  - slug: sustainabilty
+    label: "sustainabilty"
+  - slug: swimming-pools
+    label: "swimming pools"
+  - slug: technology
+    label: "technology"
+  - slug: topographical-maps
+    label: "topographical maps"
+  - slug: topography
+    label: "topography"
+  - slug: tornadoes
+    label: "tornadoes"
+  - slug: traffic
+    label: "traffic"
+  - slug: traffic-calming
+    label: "traffic calming"
+  - slug: traffic-safety
+    label: "traffic safety"
+  - slug: trails
+    label: "trails"
+  - slug: translation
+    label: "translation"
+  - slug: tree-canopy
+    label: "tree canopy"
+  - slug: urban-agriculture
+    label: "urban agriculture"
+  - slug: urban-forest
+    label: "urban forest"
+  - slug: urbanization
+    label: "urbanization"
+  - slug: us-congress
+    label: "us congress"
+  - slug: vacant-land
+    label: "vacant land"
+  - slug: vacant-properties
+    label: "vacant properties"
+  - slug: vacant-property
+    label: "vacant property"
+  - slug: vehicle
+    label: "vehicle"
+  - slug: vehicles
+    label: "vehicles"
+  - slug: wages
+    label: "wages"
+  - slug: walkability
+    label: "walkability"
+  - slug: ward
+    label: "ward"
+  - slug: water-quality
+    label: "water quality"
+  - slug: water-service-lines
+    label: "water service lines"
+  - slug: watersheds
+    label: "watersheds"
+  - slug: weather
+    label: "weather"
+  - slug: wineries
+    label: "wineries"
+  - slug: women
+    label: "women"
