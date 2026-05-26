@@ -30,3 +30,24 @@ jobs:
           npm ci
           npm run build
           git diff --exit-code
+
+  tags:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: pip install pyyaml
+      - name: Verify dataset tags are normalized
+        run: |
+          python scripts/normalize_tags.py --dry-run
+          python scripts/normalize_tags.py
+          if ! git diff --exit-code -- _datasets/; then
+            echo "::error::Dataset tags are not normalized against scripts/tag_normalization.yml."
+            echo "Run locally: python scripts/normalize_tags.py"
+            echo "If you're introducing a new raw tag, also add it to scripts/tag_normalization.yml and _data/tags.yml."
+            exit 1
+          fi
