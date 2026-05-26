@@ -31,11 +31,28 @@ permalink: /datasets/
       </a>
       {% endfor %}
     </div>
+    <br/>
+    <h3>Tags</h3>
+    <div class="list-group js-shown" data-component="tags-filter" data-show="10"></div>
+    <details class="js-hidden">
+      <summary class="browse-cat" style="cursor:pointer;">Show all tags</summary>
+      <div class="list-group">
+        {% for tag in site.data.tags.tags %}
+        {% assign tagged = site.datasets | where_exp: "d", "d.tags contains tag.slug" | size %}
+        {% if tagged > 0 %}
+        <a href="{{ site.baseurl }}/datasets/?tag={{ tag.slug }}" class="list-group-item list-group-item-action">
+          {{ tag.label }}
+        </a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </details>
   </div>
   <div class="col-sm-8" data-component="datasets-list">
-    <div class="browse-cat datasets-count" data-hook="datasets-count">{{ datasets_count }}
+    <div class="browse-cat datasets-count" data-hook="datasets-count" aria-live="polite">{{ datasets_count }}
       {% if datasets_count == 1 %}dataset{% else %}datasets{% endif %}</div>
-    <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
+    <label for="datasets-search" class="visually-hidden">Search datasets</label>
+    <input id="datasets-search" type="search" data-hook="search-query" placeholder="Search by title, tag, or keyword..." class="form-control mb-3" aria-controls="datasets-items">
     <div data-hook="datasets-items">
       {% for dataset in site.datasets %}
       <dataset>
