@@ -1,0 +1,78 @@
+name: Enrich Dataset Keywords
+
+# Generates AI keyword synonyms for datasets touched on main, and opens a
+# follow-up PR for review.
+#
+# Operational notes:
+#   - Requires repo Settings → Actions → General → "Allow GitHub Actions
+#     to create and approve pull requests" to be enabled. Without it,
+#     `gh pr create` fails after the branch is pushed, leaving an orphan
+#     bot/enrich-keywords-* branch.
+#   - The bot PR will NOT trigger downstream PR workflows (GitHub safeguard
+#     against GITHUB_TOKEN-authored events triggering further runs). If you
+#     need PR checks to run on the enrichment PR, close-reopen it or push
+#     an empty commit to it.
+
+on:
+  push:
+    branches: [main]
+    paths: ['_datasets/**']
+
+jobs:
+  enrich:
+    # Skip when:
+    #   (1) the bot's own enrichment commit lands (actor is the bot, message has [skip ci]).
+    #   (2) the bot's enrichment PR is merged back into main — the resulting
+    #       merge/squash commit on main is authored by the merger (not the bot)
+    #       and won't carry [skip ci], but its message contains the PR title
+    #       "auto-enrich keywords" (either as merge body or squash subject).
+    if: >-
+      github.actor != 'github-actions[bot]' &&
+      !contains(github.event.head_commit.message, '[skip ci]') &&
+      !contains(github.event.head_commit.message, 'auto-enrich keywords')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Enrich changed files with keywords
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git diff --name-only HEAD~1 HEAD -- '_datasets/*.md' | while IFS= read -r file; do
+            [ -f "$file" ] && node scripts/enrich-keywords-gh.mjs "$file"
+          done
+
+      - name: Open PR for enriched keywords
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _datasets/
+          if git diff --staged --quiet; then
+            echo "No keywords to commit."
+            exit 0
+          fi
+          BRANCH="bot/enrich-keywords-$(date +%Y%m%d-%H%M%S)"
+          git checkout -b "$BRANCH"
+          git commit -m "chore: auto-enrich keywords for changed datasets [skip ci]"
+          git push origin "$BRANCH"
+          gh pr create \
+            --title "chore: auto-enrich keywords for changed datasets" \
+            --body "Automatically generated keyword enrichment for datasets modified in the previous push. Please review before merging." \
+            --base main \
+            --head "$BRANCH"
