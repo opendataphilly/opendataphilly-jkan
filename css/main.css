@@ -161,3 +161,27 @@ nav {
   outline: none;
   top: 0;
 }
+
+.tag-chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.tag-chip {
+  display: inline-block;
+  padding: 0.25em 0.65em;
+  font-size: 0.85em;
+  line-height: 1.4;
+  background-color: #e9ecef;
+  color: #31383c;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+.tag-chip:hover, .tag-chip:focus {
+  background-color: #20c3c4;
+  color: #fff;
+  text-decoration: none;
+}

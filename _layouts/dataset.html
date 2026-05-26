@@ -92,9 +92,9 @@ layout: default
           {% if page.tags and page.tags.size > 0 %}
           <tr>
             <th>Tags</th>
-            <td>
+            <td class="tag-chip-list">
               {% for tag in page.tags %}
-              <span>{{ tag }}</span></br>
+              <a href="{{ site.baseurl }}/datasets/?tag={{ tag | append: '' | slugify }}" class="tag-chip">{{ tag }}</a>
               {% endfor %}
             </td>
           </tr>

@@ -31,6 +31,12 @@ export function createDatasetFilters (filters) {
     if (filters.category) {
       conditions.push(dataset.category && slugify(dataset.category).indexOf(filters.category) !== -1)
     }
+    if (filters.tag) {
+      conditions.push(
+        Array.isArray(dataset.tags) &&
+        dataset.tags.some(function (t) { return slugify(t) === filters.tag })
+      )
+    }
     return conditions.every(function (value) { return !!value })
   }
 }
