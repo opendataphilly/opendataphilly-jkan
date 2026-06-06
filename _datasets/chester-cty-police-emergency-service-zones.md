@@ -10,22 +10,22 @@ maintainer_email: gis@chesco.org
 maintainer_link: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/
 maintainer_phone: null
 metadata_modified: '2025-03-21'
-modified: '2025-04-10'
+modified: '2025-03-21'
 notes: ''
 organization: Chester County GIS
 resources:
 - format: CSV
   name: Police Emergency Service Zones (CSV)
-  url: https://hub.arcgis.com/api/v3/datasets/10e708d60e8a445da87b83b866cde15a_1/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/10e708d60e8a445da87b83b866cde15a/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
 - format: GeoJSON
   name: Police Emergency Service Zones (GeoJSON)
-  url: https://hub.arcgis.com/api/v3/datasets/10e708d60e8a445da87b83b866cde15a_1/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/10e708d60e8a445da87b83b866cde15a/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - format: SHP
   name: Police Emergency Service Zones (SHP)
-  url: https://hub.arcgis.com/api/v3/datasets/10e708d60e8a445da87b83b866cde15a_1/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
+  url: https://hub.arcgis.com/api/v3/datasets/10e708d60e8a445da87b83b866cde15a/downloads/data?format=shp&spatialRefId=4326&where=1%3D1
 - format: HTML
   name: Police Emergency Service Zones (Metadata)
-  url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/10e708d60e8a445da87b83b866cde15a_1/about
+  url: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/datasets/10e708d60e8a445da87b83b866cde15a/about
 source: Chester County GIS
 tags:
 - ESZ

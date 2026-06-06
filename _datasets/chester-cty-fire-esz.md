@@ -9,8 +9,8 @@ maintainer: Chester County GIS
 maintainer_email: gis@chesco.org
 maintainer_link: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/
 maintainer_phone: null
-metadata_modified: '2026-04-20'
-modified: '2026-04-20'
+metadata_modified: '2026-06-01'
+modified: '2026-06-01'
 notes: ''
 organization: Chester County GIS
 resources:
