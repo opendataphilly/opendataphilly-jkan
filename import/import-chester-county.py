@@ -29,11 +29,11 @@ from slugify import slugify
 
 # Path to the local clone of the OpenDataPhilly JKAN repository
 # REPO_PATH = "/path/to/local/opendataphilly-jkan"
-REPO_PATH = "C:\sandbox\OpenDataPhilly-jkan-chester-cty\opendataphilly-jkan"
+REPO_PATH = "C:\sandbox\OpenDataPhilly-jkan-chester-cty"
 
 # Directory where log files will be written
 # LOG_DIR = "/path/to/logs"
-LOG_DIR = "C:\sandbox\OpenDataPhilly-jkan-chester-cty\opendataphilly-jkan\import\logs"
+LOG_DIR = "C:\sandbox\OpenDataPhilly-jkan-chester-cty\import\logs"
 
 # Base name used to construct log filenames
 LOG_BASE_NAME = "odp-chester-sync"
