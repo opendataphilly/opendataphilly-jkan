@@ -22,11 +22,11 @@ resources:
 - description: ''
   format: CSV
   name: FY2027 Budget - Proposed
-  url:  https://raw.githubusercontent.com/acouch/phila-budget-site/refs/heads/main/data/output/FY2027-estimated.csv
+  url:  https://raw.githubusercontent.com/acouch/phila-budget-site/refs/heads/main/data/output/FY2027-proposed.csv
 - description: ''
   format: CSV
   name: FY2027 Budget - Proposed - Pivot Table
-  url:  https://raw.githubusercontent.com/acouch/phila-budget-site/refs/heads/main/data/output/FY2027-adopted.csv
+  url:  https://raw.githubusercontent.com/acouch/phila-budget-site/refs/heads/main/data/output/FY2027-proposed-pivot.csv
 
 - description: ''
   format: CSV
