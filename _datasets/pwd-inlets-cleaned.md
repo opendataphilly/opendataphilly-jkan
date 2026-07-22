@@ -3,14 +3,14 @@ area_of_interest: City of Philadelphia
 category:
 - Environment
 license: City of Philadelphia License
-maintainer: null
-maintainer_email: null
+maintainer: Dylan Ponticel (PWD)
+maintainer_email: dylan.ponticel@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Count of water inlets cleaned, aggregated using the H3 resolution 9 hex bins for visualization for Philly Stat 360.
 
   Hex bin information:
-  Average area: 1126125 square feet
+  Average area: 1,126,125 square feet (0.04 sq miles)
   Average side length: 659 feet
   Average diameter: 1317 feet. \r\n\r\n"
 metadata_modified: null
