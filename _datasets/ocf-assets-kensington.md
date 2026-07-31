@@ -1,17 +1,16 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category:
-- Arts / Culture / History
 - Health / Human Services
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: john.fitzgibbons@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Office of Children and Families (OCF) assets are “brick-and-mortar” locations that offer OCF-funded services and resources.
   This includes Out-of-School Time, Truancy Intervention and Prevention Services, PHLpreK, and free
   meal sites as well as Juvenile Justice programs and Child Welfare Diversion services."
-metadata_modified: null
+metadata_modified: 2026-07-30
 modified: null
 organization: City of Philadelphia
 resources:
@@ -40,6 +39,8 @@ source: ''
 tags:
 - Department of Planning and Development
 - Division of Housing and Community Development
+- Office of Children and Families
+- Philly Stat 360
 time_period: null
 title: OCF Assets Kensington
 usage: null
