@@ -4,4 +4,5 @@ logo: /img/organizations/logo-foobooz.png
 schema: default
 tags: []
 title: Foobooz
+website: https://www.phillymag.com/foobooz/
 ---
