@@ -10,10 +10,17 @@
  *   data-organization="sample-department"
  *   data-category="education"
  */
-import {pick, defaults, filter} from 'lodash'
+import {pick, defaults, filter, debounce} from 'lodash'
+import Fuse from 'fuse.js'
 
 import TmplDatasetItem from '../templates/dataset-item'
 import {queryByHook, setContent, createDatasetFilters} from '../util'
+
+const EMPTY_STATE_HTML = '<p class="text-muted mt-3">No datasets match your search. Try a broader term.</p>'
+
+function countLabel (n) {
+  return n + ' dataset' + (n === 1 ? '' : 's')
+}
 
 export default class {
   constructor (opts) {
@@ -28,40 +35,45 @@ export default class {
     const attributeFilters = pick(opts.el.data(), ['organization', 'category'])
     const filters = createDatasetFilters(defaults(paramFilters, attributeFilters))
     const filteredDatasets = filter(opts.datasets, filters)
-    const datasetsMarkup = filteredDatasets.map(TmplDatasetItem)
-    setContent(elements.datasetsItems, datasetsMarkup)
-
-    // // Dataset count
-    const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
-    const datasetsCountMarkup = filteredDatasets.length + ' dataset' + datasetSuffix;
-    setContent(elements.datasetsCount, datasetsCountMarkup)
+    this._render(elements, filteredDatasets)
 
     // Search datasets listener
     const searchFunction = this._createSearchFunction(filteredDatasets)
-    elements.searchQuery.on('keyup', (e) => {
-      const query = e.currentTarget.value
-
-      // Datasets
+    const handleSearch = debounce((query) => {
       const results = searchFunction(query)
-      const resultsMarkup = results.map(TmplDatasetItem)
-      setContent(elements.datasetsItems, resultsMarkup)
+      this._render(elements, results)
+    }, 150)
+    elements.searchQuery.on('keyup', (e) => handleSearch(e.currentTarget.value))
+  }
 
-      // Dataset count
-      const resultsCountMarkup = results.length + ' datasets'
-      setContent(elements.datasetsCount, resultsCountMarkup)
-    })
+  _render (elements, datasets) {
+    if (datasets.length === 0) {
+      setContent(elements.datasetsItems, EMPTY_STATE_HTML)
+    } else {
+      setContent(elements.datasetsItems, datasets.map(TmplDatasetItem))
+    }
+    setContent(elements.datasetsCount, countLabel(datasets.length))
   }
 
   // Returns a function that can be used to search an array of datasets
   // The function returns the filtered array of datasets
   _createSearchFunction (datasets) {
-    const keys = ['title', 'notes', 'tags', 'resource_names']
+    const fuse = new Fuse(datasets, {
+      keys: [
+        { name: 'title', weight: 0.5 },
+        { name: 'tags', weight: 0.25 },
+        { name: 'notes', weight: 0.15 },
+        { name: 'resource_names', weight: 0.1 }
+      ],
+      threshold: 0.4,
+      minMatchCharLength: 1,
+      includeScore: false,
+      shouldSort: true
+    })
     return function (query) {
-      const lowerCaseQuery = query.toLowerCase()
-      return filter(datasets, function (dataset) {
-        return keys.reduce(function (previousValue, key) {
-          return previousValue || (dataset[key] && dataset[key].toLowerCase().indexOf(lowerCaseQuery) !== -1)
-        }, false)
+      if (!query || query.trim().length === 0) return datasets
+      return fuse.search(query).map(function (result) {
+        return datasets[result.refIndex]
       })
     }
   }

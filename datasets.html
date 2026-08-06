@@ -33,9 +33,10 @@ permalink: /datasets/
     </div>
   </div>
   <div class="col-sm-8" data-component="datasets-list">
-    <div class="browse-cat datasets-count" data-hook="datasets-count">{{ datasets_count }}
+    <div class="browse-cat datasets-count" data-hook="datasets-count" aria-live="polite">{{ datasets_count }}
       {% if datasets_count == 1 %}dataset{% else %}datasets{% endif %}</div>
-    <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
+    <label for="datasets-search" class="visually-hidden">Search datasets</label>
+    <input id="datasets-search" type="search" data-hook="search-query" placeholder="Search by title, tag, or description..." class="form-control mb-3" aria-controls="datasets-items">
     <div data-hook="datasets-items">
       {% for dataset in site.datasets %}
       <dataset>
