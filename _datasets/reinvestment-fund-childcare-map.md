@@ -23,18 +23,19 @@ notes: "Childcare Map helps Philadelphians make decisions about childcare.\r\n\r
   \ is important for the well-being of neighborhoods and families.  By identifying\
   \ areas where shortages of high-quality childcare exist, policymakers and investors\
   \ can work towards increasing access for all."
-metadata_modified: null
+metadata_modified: '2026-08-06'
 modified: null
 organization: Reinvestment Fund
 resources:
 - description: ''
   format: HTML
   name: Childcare Map
-  url: https://www.childcaremap.org/newmaps/e/childcaremap
+  url: https://www.policymap.com/newmaps/e/childcaremap/
 schema: philadelphia
 source: null
 tags:
 - Child Care
+- Demographics
 time_period: Varies by dataset
 title: Childcare Map
 usage: No Usage Limitations
