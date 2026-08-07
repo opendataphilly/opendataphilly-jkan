@@ -5,12 +5,12 @@ category:
 - Parks / Recreation
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: ppr.gis@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Polygon boundaries of PPR's Operations district boundaries as established by PPR's GIS staff and reviewed, revised,
   and approved by PPR's executive staff."
-metadata_modified: null
+metadata_modified: '2026-08-07'
 modified: null
 organization: City of Philadelphia
 resources:
