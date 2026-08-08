@@ -3,6 +3,18 @@ greeting: Welcome to OpenDataPhilly
 description: OpenDataPhilly is a catalog of open data in the Philadelphia region. In addition to being the official open data repository for the City of Philadelphia, it includes data sets from many organizations in the region.
 logo: /img/odp-logo.png
 hero_image: /img/homepage-hero.jpg
+
+# Homepage hero slideshow
+# Rotating images shown in the homepage hero banner. The slideshow only
+# rotates when there are two or more entries; with a single entry it shows a
+# static image. If this list is empty or removed, the `hero_image` above is
+# used as a fallback. Add images to /img and reference them here.
+hero_images:
+  - image: /img/homepage-hero.jpg
+    alt: Aerial view of the Philadelphia region
+  # - image: /img/hero-2.jpg
+  #   alt: Short description of this image for accessibility
+
 strict_front_matter: true
 
 # Site theme
