@@ -13,7 +13,8 @@ modified: null
 notes: 'The ProgressPHL web application enables you to explore social and environmental wellbeing and compare 
 Social Progress Index (SPI) data at the Census Tract level. ProgressPHL is a joint effort by the Office of the Controller
 and the nonprofit Social Progress Imperative. The Philadelphia SPI tracks progress across three 
-categories: Basic Human Needs, Foundations of Wellbeing, and Opportunity.'
+categories: Basic Human Needs, Foundations of Wellbeing, and Opportunity. The data for the SPI is derived from
+census variables from the 2015-2019 American Community Survey (ACS) and other non-Census data from 2020.'
 organization: City of Philadelphia
 resources:
 - description: 'Explore, compare, and download data'
