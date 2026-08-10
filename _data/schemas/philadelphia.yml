@@ -2,17 +2,22 @@ dataset_fields:
   - field_name: title
     label: Title
     datajson: title
+    jsonld: name
   - field_name: organization
     label: Organization
     datajson: publisher.name
+    jsonld: publisher.name
   - field_name: notes
     label: Description
     datajson: description
+    jsonld: description
   - field_name: area_of_interest
     label: Area of Interest
+    jsonld: spatialCoverage.name
   - field_name: created
     label: Created
     display_template: display/date.html
+    jsonld: datePublished
   - field_name: category
     label: Category
     display_template: display/category.html
@@ -21,18 +26,23 @@ dataset_fields:
     label: License
     datajson: license
     display_template: display/license.html
+    jsonld: license
   - field_name: maintainer
     label: Maintainer
     datajson: contactPoint.fn
+    jsonld: contactPoint.name
   - field_name: maintainer_email
     label: Maintainer Email
     datajson: contactPoint.hasEmail
     display_template: display/maintainer_email.html
+    jsonld: contactPoint.email
   - field_name: maintainer_link
     label: Maintainer Link
     display_template: display/maintainer_link.html
+    jsonld: contactPoint.url
   - field_name: maintainer_phone
     label: Maintainer Phone
+    jsonld: contactPoint.telephone
   - field_name: metadata_modified
     label: Metadata Last Updated
     datajson: metadata_modified
@@ -41,6 +51,7 @@ dataset_fields:
     label: Data Last Updated
     datajson: modified
     display_template: display/date.html
+    jsonld: dateModified
   - field_name: source
     label: Source
   - field_name: time_period
@@ -52,12 +63,15 @@ resource_fields:
   - field_name: name
     label: Resource Name
     datajson: distribution.title
+    jsonld: distribution.name
   - field_name: url
     label: URL
     datajson: distribution.downloadURL
+    jsonld: distribution.contentUrl
   - field_name: format
     label: Format
     datajson: distribution.format
+    jsonld: distribution.encodingFormat
     values:
       - api
       - csv
@@ -76,6 +90,8 @@ organization_fields:
     label: Description
   - field_name: logo
     label: Logo
+  - field_name: website
+    label: Website URL
 
 category_fields:
   - field_name: name

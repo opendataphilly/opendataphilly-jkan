@@ -42,26 +42,7 @@
     {% assign f_dist_format = resource_fields | where: "datajson", "distribution.format" | first %}
    {%- endcapture -%}
 
-   {%- if contact_point_email contains '@' and contact_point_email != '' and contact_point_email != null -%}
-      {% assign is_email = true %}
-   {%- else -%}
-      {% assign is_email = false %}
-   {%- endif -%}
-   {%- if publisher_name == "City of Philadelphia" -%}
-      {%- if contact_point_fn == '' or contact_point_fn == null -%}
-         {% assign contact_point_fn = "City of Philadelphia Open Data Program" -%}
-      {%- endif -%}
-      {%- unless is_email -%}
-         {% assign contact_point_email = "maps@phila.gov" -%}
-      {%- endunless -%}
-   {%- else -%}
-      {%- if contact_point_fn == '' or contact_point_fn == null -%}
-         {% assign contact_point_fn = "OpenDataPhilly" -%}
-      {%- endif -%}
-      {%- unless is_email -%}
-         {% assign contact_point_email = "info@opendataphilly.org" -%}
-      {%- endunless -%}
-   {%- endif -%}
+   {%- include contact_point_fallback.html -%}
 
     {%- if title -%}
     {

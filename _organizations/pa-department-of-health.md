@@ -7,4 +7,5 @@ logo: img/organizations/logo-pa-health.png
 schema: default
 tags: []
 title: PA Department of Health
+website: https://www.pa.gov/agencies/health
 ---
