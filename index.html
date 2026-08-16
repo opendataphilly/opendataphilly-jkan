@@ -2,13 +2,36 @@
 layout: default
 ---
 
-<div class="container d-flex flex-row p-5 mb-4 bg-light rounded-3 justify-content-between">
-  <div class="col-lg-6 justify-content-center">
+{% comment %}
+  Build the list of hero slides. Prefer the `hero_images` list in _config.yml;
+  fall back to the single legacy `hero_image` when the list is not set.
+{% endcomment %}
+{% assign hero_slides = site.hero_images %}
+
+<div class="hero mb-4" data-hook="hero-slideshow">
+  <div class="hero-slides" aria-hidden="true">
+    {% if hero_slides and hero_slides.size > 0 %}
+      {% for slide in hero_slides %}
+        <div class="hero-slide{% if forloop.first %} is-active{% endif %}" title="{{ slide.alt | escape }}" style="background-image: url('{{ slide.image | prepend: site.baseurl }}');"></div>
+      {% endfor %}
+    {% else %}
+      <div class="hero-slide is-active" style="background-image: url('{{ site.hero_image | prepend: site.baseurl }}');"></div>
+    {% endif %}
+  </div>
+
+  <div class="hero-content">
     <h1 class="display-5">{{ site.greeting }}</h1>
     <p class="fs-4">{{ site.description }}</p>
     <a href="{{ "/datasets" | relative_url }}" class="btn btn-primary btn-lg" role="button">Browse all datasets</a>
   </div>
-  <img alt="Homepage hero image" class="d-none d-md-block img-responsive rounded-circle" src="{{ site.baseurl }} {{ site.hero_image }}" style="max-height: 300px" />
+
+  {% if hero_slides and hero_slides.size > 1 %}
+  <div class="hero-dots" role="group" aria-label="Hero image slideshow controls">
+    {% for slide in hero_slides %}
+      <button type="button" class="hero-dot{% if forloop.first %} is-active{% endif %}"{% if forloop.first %} aria-current="true"{% endif %} aria-label="Show hero image {{ forloop.index }}"></button>
+    {% endfor %}
+  </div>
+  {% endif %}
 </div>
 
 <div class="browse-cat">Browse by Category</div>
@@ -25,3 +48,63 @@ layout: default
   {% endif %}
 {% endfor %}
 </div>
+
+<script>
+  // Homepage hero crossfade slideshow. Self-contained, no dependencies.
+  (function () {
+    var hero = document.querySelector('[data-hook="hero-slideshow"]');
+    if (!hero) return;
+
+    var slides = Array.prototype.slice.call(hero.querySelectorAll('.hero-slide'));
+    var dots = Array.prototype.slice.call(hero.querySelectorAll('.hero-dot'));
+    if (slides.length < 2) return; // nothing to rotate
+
+    var INTERVAL = 6000;
+    var current = 0;
+    var timer = null;
+    var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    function show(index) {
+      current = (index + slides.length) % slides.length;
+      slides.forEach(function (slide, i) {
+        slide.classList.toggle('is-active', i === current);
+      });
+      dots.forEach(function (dot, i) {
+        var active = i === current;
+        dot.classList.toggle('is-active', active);
+        if (active) {
+          dot.setAttribute('aria-current', 'true');
+        } else {
+          dot.removeAttribute('aria-current');
+        }
+      });
+    }
+
+    function next() { show(current + 1); }
+
+    function start() {
+      if (reduceMotion || timer) return;
+      timer = window.setInterval(next, INTERVAL);
+    }
+
+    function stop() {
+      if (timer) { window.clearInterval(timer); timer = null; }
+    }
+
+    dots.forEach(function (dot, i) {
+      dot.addEventListener('click', function () {
+        show(i);
+        stop();
+        start();
+      });
+    });
+
+    // Pause while the visitor is interacting with the hero.
+    hero.addEventListener('mouseenter', stop);
+    hero.addEventListener('mouseleave', start);
+    hero.addEventListener('focusin', stop);
+    hero.addEventListener('focusout', start);
+
+    start();
+  })();
+</script>
