@@ -6,12 +6,12 @@ category:
 - Economy
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: jessica.gould@phila.gov
 maintainer_link: null
 maintainer_phone: null
-notes: "A "by-right" sidewalk cafe area refers to a designated, compliant outdoor dining space on a public sidewalk that a restaurant 
+notes: "A 'by-right' sidewalk cafe area refers to a designated, compliant outdoor dining space on a public sidewalk that a restaurant 
   operator may utilize upon obtaining a license, without needing special, discretionary approval from City Council."
-metadata_modified: null
+metadata_modified: '2026-08-21'
 modified: null
 organization: City of Philadelphia
 resources:
@@ -39,7 +39,7 @@ schema: philadelphia
 source: ''
 tags:
 - Streets Department
-- Right of way
+- Right-of-way
 - Business
 time_period: null
 title: Sidewalk Cafe By-Right Area
