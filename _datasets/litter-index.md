@@ -14,6 +14,12 @@ metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:
+- description: 'An app to explore near real-time information related to litter, permits, paving, snow
+  plowing, and daily trash and recycling collections. Look under the SweepPHL tab to see 2025
+  Litter Index data.'
+  format: HTML
+  name: Litter Index 2025 on the StreetSmartPHL (App)
+  url: https://streetsmartphl.phila.gov/
 - description: ''
   format: CSV
   name: Litter Index Blocks Scores 2017 - 2018 (CSV)
