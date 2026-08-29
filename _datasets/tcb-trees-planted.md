@@ -1,16 +1,16 @@
 ---
-area_of_interest: null
+area_of_interest: 'City of Philadelphia'
 category:
 - Economy
 - Planning / Zoning
 - Environment
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: 'samuel.hall@phila.gov'
 maintainer_link: null
 maintainer_phone: null
-notes: "Trees planted by the Department of Commerce's Taking Care of Business program. Trees are planted in partnership with Philadelphia Parks and Recreation and are maintained by TCB partner organizations."
-metadata_modified: null
+notes: "Trees planted by the Department of Commerce's Taking Care of Business (TCB) program. Trees are planted in partnership with Philadelphia Parks and Recreation and are maintained by TCB partner organizations."
+metadata_modified: '2026-08-28'
 modified: null
 organization: City of Philadelphia
 resources:
