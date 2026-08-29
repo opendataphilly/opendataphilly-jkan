@@ -1,16 +1,16 @@
 ---
-area_of_interest: null
+area_of_interest: 'City of Philadelphia'
 category:
 - Public Safety
 - Economy
 - Health / Human Services
 license: City of Philadelphia License
-maintainer: null
-maintainer_email: null
+maintainer: 'Philly Stat 360'
+maintainer_email: 'dylan.ponticel@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: 'A table showing the count and total dollars of Commerce Safety and Emergency Grants by R9 hex bin.'
-metadata_modified: null
+metadata_modified: '2026-08-28'
 modified: null
 organization: City of Philadelphia
 resources:
@@ -38,7 +38,7 @@ schema: philadelphia
 source: ''
 tags:
 - Department of Commerce
-- Grants
+- grants
 time_period: null
 title: Commerce Safety and Emergency Grants by Hex Bin
 usage: null
