@@ -25,7 +25,12 @@
         "ublabs",
         "customised",
         "customise",
-	"shfmt",
-        "trixie"
+	    "shfmt",
+        "trixie",
+        "fusejs",
+        "Fuse",
+        "enrich",
+        "enriched",
+        "openai"
     ]
 }
