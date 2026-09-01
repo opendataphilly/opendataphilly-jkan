@@ -1,16 +1,15 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category:
 - Environment
 - Health / Human Services
 license: City of Philadelphia License
-maintainer: cleanphl@phila.gov
-maintainer_email: cleanphl@phila.gov
+maintainer: null
+maintainer_email: null
 maintainer_link: null
 maintainer_phone: null
-notes: "The Litter Index is used to compare the relative cleanliness of different\
-  \ areas of the city of Philadelphia. This data will be updated annually."
-metadata_modified: '2026-08-28'
+notes: "The Litter Index is used to compare the relative cleanliness of different areas of the city of Philadelphia. This data will be updated annually."
+metadata_modified: '2026-09-01'
 modified: null
 organization: City of Philadelphia
 resources:
@@ -19,7 +18,7 @@ resources:
   format: HTML
   name: Litter Index 2025 on the StreetSmartPHL (App)
   url: https://streetsmartphl.phila.gov/
-  - description: ''
+- description: ''
   format: CSV
   name: Litter Index Blocks Scores 2025 (CSV)
   url: https://hub.arcgis.com/api/v3/datasets/63205e469ac8434b80e6c9b76b659a7b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
@@ -31,7 +30,7 @@ resources:
   format: GeoJSON
   name: Litter Index Blocks Scores 2025 (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/63205e469ac8434b80e6c9b76b659a7b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
-- description: "\r\n"
+- description: ''
   format: API
   name: Litter Index Blocks Scores 2025 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/litter_index_blocks_2025/FeatureServer/0/query?outFields=*&where=1%3D1
@@ -51,7 +50,7 @@ resources:
   format: GeoJSON
   name: Litter Index Blocks Scores 2017 - 2018 (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/04fa63e09b284dbfbde1983eab367319_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
-- description: "\r\n"
+- description: ''
   format: API
   name: Litter Index Blocks Scores 2017 - 2018 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Litter_Index_Blocks/FeatureServer/0/query?outFields=*&where=1%3D1
