@@ -20,83 +20,63 @@ resources:
   url: https://streetsmartphl.phila.gov/
 - description: ''
   format: CSV
-  name: Litter Index Blocks Scores 2025 (CSV)
-  url: https://hub.arcgis.com/api/v3/datasets/63205e469ac8434b80e6c9b76b659a7b_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
-- description: ''
-  format: SHP
-  name: Litter Index Blocks Scores 2025 (SHP)
-  url: https://hub.arcgis.com/api/v3/datasets/63205e469ac8434b80e6c9b76b659a7b_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
-- description: ''
-  format: GeoJSON
-  name: Litter Index Blocks Scores 2025 (GeoJSON)
-  url: https://hub.arcgis.com/api/v3/datasets/63205e469ac8434b80e6c9b76b659a7b_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
-- description: ''
-  format: API
-  name: Litter Index Blocks Scores 2025 (API)
-  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/litter_index_blocks_2025/FeatureServer/0/query?outFields=*&where=1%3D1
-- description: ''
-  format: HTML
-  name: Litter Index Blocks Scores 2025 (Metadata)
-  url: https://metadata.phila.gov/#home/datasetdetails/6a9197fbbd1ebc8694b624ec/representationdetails/6a9197fbbd1ebc8694b62505/
-- description: ''
-  format: CSV
-  name: Litter Index Blocks Scores 2017 - 2018 (CSV)
+  name: Litter Index Blocks Scores 2017 - 2025 (CSV)
   url: https://hub.arcgis.com/api/v3/datasets/04fa63e09b284dbfbde1983eab367319_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
-  name: Litter Index Blocks Scores 2017 - 2018 (SHP)
+  name: Litter Index Blocks Scores 2017 - 2025 (SHP)
   url: https://hub.arcgis.com/api/v3/datasets/04fa63e09b284dbfbde1983eab367319_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
-  name: Litter Index Blocks Scores 2017 - 2018 (GeoJSON)
+  name: Litter Index Blocks Scores 2017 - 2025 (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/04fa63e09b284dbfbde1983eab367319_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
-  name: Litter Index Blocks Scores 2017 - 2018 (API)
+  name: Litter Index Blocks Scores 2017 - 2025 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Litter_Index_Blocks/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
-  name: Litter Index Blocks Scores 2017 - 2018 (Metadata)
+  name: Litter Index Blocks Scores 2017 - 2025 (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555f812bf15fcb6c6ed44110/representationdetails/5d0d300ef71c9f000a28758e
 - description: ''
   format: CSV
-  name: Litter Index Neighborhood Scores 2017-2018 (CSV)
+  name: Litter Index Neighborhood Scores 2017-2025 (CSV)
   url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
-  name: Litter Index Neighborhood Scores 2017-2018 (SHP)
+  name: Litter Index Neighborhood Scores 2017-2025 (SHP)
   url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
-  name: Litter Index  Neighborhood Scores 2017-2018 (GeoJSON)
+  name: Litter Index  Neighborhood Scores 2017-2025 (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
-  name: Litter Index Neighborhood Scores 2017-2018 (API)
+  name: Litter Index Neighborhood Scores 2017-2025 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Litter_Index_Neighborhoods/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
-  name: Litter Index Neighborhood Scores 2017-2018 (Metadata)
+  name: Litter Index Neighborhood Scores 2017-2025 (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555f812bf15fcb6c6ed44110/representationdetails/5d0d317b1044e4000af17638
 - description: ''
   format: CSV
-  name: ' Litter Index Surveys 2017-2018 (CSV)'
+  name: ' Litter Index Surveys 2017-2024 (CSV)'
   url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=csv&spatialRefId=2272&where=1%3D1
 - description: ''
   format: SHP
-  name: Litter Index Surveys 2017-2018 (SHP)
+  name: Litter Index Surveys 2017-2024 (SHP)
   url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=shp&spatialRefId=2272&where=1%3D1
 - description: ''
   format: GeoJSON
-  name: Litter Index Surveys 2017-2018 (GeoJSON)
+  name: Litter Index Surveys 2017-2024 (GeoJSON)
   url: https://hub.arcgis.com/api/v3/datasets/e1ec1f8db88e455ea301167c2b20d081_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
 - description: ''
   format: API
-  name: Litter Index Surveys 2017-2018 (API)
+  name: Litter Index Surveys 2017-2024 (API)
   url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Litter_Index_Surveys/FeatureServer/0/query?outFields=*&where=1%3D1
 - description: ''
   format: HTML
-  name: Litter Index Surveys 2017-2018 (Metadata)
+  name: Litter Index Surveys 2017-2024 (Metadata)
   url: http://metadata.phila.gov/#home/datasetdetails/555f812bf15fcb6c6ed44110/representationdetails/5d0d32e0656a70000b75f3a0
 schema: philadelphia
 source: ''
