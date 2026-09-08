@@ -9,7 +9,7 @@ maintainer_email: null
 maintainer_link: null
 maintainer_phone: null
 notes: "The Litter Index is used to compare the relative cleanliness of different areas of the city of Philadelphia. This data will be updated annually."
-metadata_modified: '2026-09-01'
+metadata_modified: '2026-09-08'
 modified: null
 organization: City of Philadelphia
 resources:
