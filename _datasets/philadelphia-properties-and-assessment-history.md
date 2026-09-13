@@ -17,10 +17,14 @@ notes: "***Some of the information in the open data files below may not yet refl
   \ on the quality of assessments. \r\n\r\n***This data updates nightly. Please ignore\
   \ the 'created by' date below - the date of August 2015 shows when this webpage,\
   \ not the data, was created.*** "
-metadata_modified: null
+metadata_modified: '9/13/2026'
 modified: null
 organization: City of Philadelphia
 resources:
+- description: ""
+  format: HTML
+  name: Property Data Web Site
+  url: https://property.phila.gov/
 - description: "***This data updates nightly. Please ignore the 'created by' date\
     \ below - that date of August 2015 shows when this webpage, not the data, was created.***\r\
     \n\r\n\r\n\r\n\r\n"
