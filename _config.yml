@@ -21,52 +21,53 @@ hero_image: /img/hero-images/hero-image-311-requests.png
 hero_images:
   - image: /img/hero-images/hero-image-311-requests.png
     alt: 311 service and information requests dashboard
-    url:
+    url: https://opendataphilly.org/datasets/311-service-and-information-requests/
   - image: /img/hero-images/hero-image-election-results.png
     alt: Philadelphia primary election results
-    url:
+    url: https://opendataphilly.org/datasets/election-results/
   - image: /img/hero-images/hero-image-noaa-temperature.png
     alt: Daily temperature records for the Philadelphia area
-    url:
+    url: https://opendataphilly.org/datasets/nowdata-noaa-online-weather-data/
   - image: /img/hero-images/hero-image-rf-childcare.png
     alt: Map of certified childcare locations and demographics
-    url:
+    url: https://opendataphilly.org/datasets/reinvestment-fund-childcare-map/
   - image: /img/hero-images/hero-image-building-energy.png
     alt: Philadelphia building energy performance dashboard
-    url:
+    url: https://opendataphilly.org/datasets/large-building-energy-benchmarking-data/
   - image: /img/hero-images/hero-image-property3.png
     alt: Property assessment with aerial imagery
-    url:
+    url: https://opendataphilly.org/datasets/philadelphia-properties-and-assessment-history/
   - image: /img/hero-images/hero-image-property2.png
     alt: Property assessment with street map
-    url:
+    url: https://opendataphilly.org/datasets/philadelphia-properties-and-assessment-history/
   - image: /img/hero-images/hero-image-property.png
     alt: City of Philadelphia property assessment
-    url:
+    url: https://opendataphilly.org/datasets/philadelphia-properties-and-assessment-history/
   - image: /img/hero-images/hero-image-city-budget.png
     alt: City of Philadelphia budget data
-    url:
+    url: https://opendataphilly.org/datasets/acouch-philadelphia-budget-data/
   - image: /img/hero-images/hero-image-openmaps.png
     alt: Philadelphia OpenMaps interactive map layers
-    url:
+    url: https://opendataphilly.org/datasets/openmaps/
   - image: /img/hero-images/hero-image-philaplace.png
     alt: PhilaPlace neighborhood history map
-    url:
+    url: https://opendataphilly.org/datasets/hsp-philaplace/
   - image: /img/hero-images/hero-image-phillyhistory.png
     alt: PhillyHistory historical photo map
-    url:
+    url: https://opendataphilly.org/datasets/phillyhistoryorg/
   - image: /img/hero-images/hero-image-breathe-philly.png
     alt: Breathe Philly air quality data
-    url:
+    url: https://opendataphilly.org/datasets/dph-breathe-philly/
   - image: /img/hero-images/hero-image-nhand-shootings-dashboard.png
     alt: Philadelphia shooting victims dashboard
-    url:
+    url: https://opendataphilly.org/datasets/nhand-philadelphia-gun-violence-dashboard/
   - image: /img/hero-images/hero-image-fair-measure.png
     alt: Fair Measure data visualization
-    url:
+    url: https://opendataphilly.org/datasets/nhand-property-fair-measure/
   - image: /img/hero-images/hero-image-progress-phl.png
     alt: Progress PHL indicators dashboard
-    url:
+    url: https://opendataphilly.org/datasets/controller-progress-phl/
+
 
 strict_front_matter: true
 
