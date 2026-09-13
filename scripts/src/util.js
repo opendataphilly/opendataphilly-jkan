@@ -21,7 +21,18 @@ export function slugify (text) {
     .replace(/^\-|\-$/i, '')        // Remove leading/trailing hyphen
 }
 
-// Given an object of filters to use, returns a function to be used by _.filter()
+// Groups an array by a given key or iteratee function
+export function groupBy (items, iteratee) {
+  const keyFn = typeof iteratee === 'function' ? iteratee : (item) => item[iteratee]
+  return items.reduce((result, item) => {
+    const key = keyFn(item)
+    result[key] = result[key] || []
+    result[key].push(item)
+    return result
+  }, {})
+}
+
+// Given an object of filters to use, returns a function to be used by filter()
 export function createDatasetFilters (filters) {
   return function (dataset) {
     const conditions = []
@@ -35,22 +46,3 @@ export function createDatasetFilters (filters) {
   }
 }
 
-// Collapses a bootstrap list-group to only show a few items by default
-// Number of items to show can be specified in [data-show] attribute or passed as param
-export function collapseListGroup (container, show) {
-  if (!show) show = container.data('show') || 5
-
-  const itemsToHide = $('.list-group-item:gt(' + (show - 1) + '):not(.active)', container)
-  if (itemsToHide.length) {
-    itemsToHide.hide()
-
-    const showMoreButton = $('<a href="#" class="list-group-item">Show ' + itemsToHide.length + ' more...</a>')
-    showMoreButton.on('click', function (e) {
-      itemsToHide.show()
-      $(this).off('click')
-      $(this).remove()
-      e.preventDefault()
-    })
-    container.append(showMoreButton)
-  }
-}
