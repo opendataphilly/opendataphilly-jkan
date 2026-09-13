@@ -2,13 +2,43 @@
 layout: default
 ---
 
-<div class="container d-flex flex-row p-5 mb-4 bg-light rounded-3 justify-content-between">
-  <div class="col-lg-6 justify-content-center">
+{% comment %}
+  Build the list of hero slides. Prefer the `hero_images` list in _config.yml;
+  fall back to the single legacy `hero_image` when the list is not set.
+{% endcomment %}
+{% assign hero_slides = site.hero_images %}
+
+<div class="hero mb-4" data-hook="hero-slideshow">
+  <div class="hero-slides" aria-hidden="true">
+    {% if hero_slides and hero_slides.size > 0 %}
+      {% for slide in hero_slides %}
+        {% if forloop.first %}
+        <div class="hero-slide is-active" title="{{ slide.alt | escape }}" data-url="{{ slide.url }}" style="background-image: url('{{ slide.image | prepend: site.baseurl }}');"></div>
+        {% else %}
+        {% comment %} Deferred: JS sets the background from data-bg just before the slide is shown. {% endcomment %}
+        <div class="hero-slide" title="{{ slide.alt | escape }}" data-url="{{ slide.url }}" data-bg="{{ slide.image | prepend: site.baseurl }}"></div>
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      <div class="hero-slide is-active" data-url="" style="background-image: url('{{ site.hero_image | prepend: site.baseurl }}');"></div>
+    {% endif %}
+  </div>
+
+  <div class="hero-content">
     <h1 class="display-5">{{ site.greeting }}</h1>
     <p class="fs-4">{{ site.description }}</p>
     <a href="{{ "/datasets" | relative_url }}" class="btn btn-primary btn-lg" role="button">Browse all datasets</a>
   </div>
-  <img alt="Homepage hero image" class="d-none d-md-block img-responsive rounded-circle" src="{{ site.baseurl }} {{ site.hero_image }}" style="max-height: 300px" />
+
+  <a class="hero-caption" data-hook="hero-caption" href="#" hidden>View related dataset<span aria-hidden="true"> &rarr;</span></a>
+
+  {% if hero_slides and hero_slides.size > 1 %}
+  <div class="hero-dots" role="group" aria-label="Hero image slideshow controls">
+    {% for slide in hero_slides %}
+      <button type="button" class="hero-dot{% if forloop.first %} is-active{% endif %}"{% if forloop.first %} aria-current="true"{% endif %} aria-label="Show hero image {{ forloop.index }}"></button>
+    {% endfor %}
+  </div>
+  {% endif %}
 </div>
 
 <div class="browse-cat">Browse by Category</div>
@@ -25,3 +55,96 @@ layout: default
   {% endif %}
 {% endfor %}
 </div>
+
+<script>
+  // Homepage hero crossfade slideshow. Self-contained, no dependencies.
+  (function () {
+    var hero = document.querySelector('[data-hook="hero-slideshow"]');
+    if (!hero) return;
+
+    var slides = Array.prototype.slice.call(hero.querySelectorAll('.hero-slide'));
+    var dots = Array.prototype.slice.call(hero.querySelectorAll('.hero-dot'));
+    var caption = hero.querySelector('[data-hook="hero-caption"]');
+
+    var INTERVAL = 6000;
+    var current = 0;
+    var timer = null;
+    var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    // Lazy-load: only the first slide's image is in the HTML. Every other
+    // slide keeps its URL in data-bg and is fetched just before it is shown,
+    // so the homepage doesn't download all hero images up front.
+    function loadSlide(i) {
+      var s = slides[i];
+      if (s && s.dataset.bg) {
+        s.style.backgroundImage = "url('" + s.dataset.bg + "')";
+        delete s.dataset.bg;
+      }
+    }
+
+    // Point the "View related dataset" link at the active slide's URL, or hide
+    // it when that slide has no linked dataset.
+    function updateCaption() {
+      if (!caption) return;
+      var url = slides[current] && slides[current].getAttribute('data-url');
+      if (url) {
+        caption.setAttribute('href', url);
+        caption.hidden = false;
+      } else {
+        caption.removeAttribute('href');
+        caption.hidden = true;
+      }
+    }
+
+    function show(index) {
+      current = (index + slides.length) % slides.length;
+      loadSlide(current);                             // ensure this slide's image is loaded
+      loadSlide((current + 1) % slides.length);       // preload the next one
+      slides.forEach(function (slide, i) {
+        slide.classList.toggle('is-active', i === current);
+      });
+      dots.forEach(function (dot, i) {
+        var active = i === current;
+        dot.classList.toggle('is-active', active);
+        if (active) {
+          dot.setAttribute('aria-current', 'true');
+        } else {
+          dot.removeAttribute('aria-current');
+        }
+      });
+      updateCaption();
+    }
+
+    updateCaption(); // set the link for the first slide on load
+    if (slides.length < 2) return; // single image: nothing to rotate
+
+    loadSlide(1); // preload the upcoming slide so the first crossfade is smooth
+
+    function next() { show(current + 1); }
+
+    function start() {
+      if (reduceMotion || timer) return;
+      timer = window.setInterval(next, INTERVAL);
+    }
+
+    function stop() {
+      if (timer) { window.clearInterval(timer); timer = null; }
+    }
+
+    dots.forEach(function (dot, i) {
+      dot.addEventListener('click', function () {
+        show(i);
+        stop();
+        start();
+      });
+    });
+
+    // Pause while the visitor is interacting with the hero.
+    hero.addEventListener('mouseenter', stop);
+    hero.addEventListener('mouseleave', start);
+    hero.addEventListener('focusin', stop);
+    hero.addEventListener('focusout', start);
+
+    start();
+  })();
+</script>
