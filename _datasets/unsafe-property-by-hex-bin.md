@@ -1,11 +1,11 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category:
 - Public Safety
 - Real Estate / Land Records
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: dylan.ponticel@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "	Count of completed unsafe property complaints aggregated using the H3 resolution 9 hex bins for visualization for Philly Stat 360.
@@ -13,7 +13,7 @@ notes: "	Count of completed unsafe property complaints aggregated using the H3 r
   Average area: 1126125 square feet
   Average side length: 659 feet
   Average diameter: 1317 feet"
-metadata_modified: null
+metadata_modified: '2026-09-28'
 modified: R/P1D
 organization: City of Philadelphia
 resources:
