@@ -6,11 +6,11 @@ category:
 - Boundaries
 license: City of Philadelphia License
 maintainer: Darshna Patel
-maintainer_email: null
+maintainer_email: dylan.ponticel@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Office of Homeless Services Point-in-Time (PIT) zones for the Point-in-Time count of the number of people experiencing homelessness."
-metadata_modified: null
+metadata_modified: '2026-10-03'
 modified: null
 organization: City of Philadelphia
 resources:
