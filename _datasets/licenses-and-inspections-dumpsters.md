@@ -1,5 +1,5 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category:
 - Economy
 - Planning / Zoning
@@ -7,11 +7,11 @@ category:
 created: null
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: 'ligisteam@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "This dataset contains tabular data about dumpsters that are serviced by a licensed business. Dumpsters in this dataset can be joined to dumpster business licenses to obtain the approximate locations of dumpsters."
-metadata_modified: null
+metadata_modified: '2026-10-03'
 modified: R/P1D
 organization: City of Philadelphia
 resources:
@@ -34,6 +34,6 @@ tags:
 - trash
 - dumpsters
 time_period: null
-title:  Licenses
+title:  Licenses and Inspections Dumpster Locations
 usage: null
 ---
