@@ -34,6 +34,6 @@ tags:
 - trash
 - dumpsters
 time_period: null
-title:  Licenses and Inspections Dumpster Locations
+title:  Licenses and Inspections Dumpsters
 usage: null
 ---
