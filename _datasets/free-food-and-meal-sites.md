@@ -4,13 +4,13 @@ category:
 - Health / Human Services
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: 'laura.crandall@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The City of Philadelphia Office of Children and Families (OCF) partners with local food banks to find locations in the city for meal sites. The food banks provide information
   such as address, hours of operation, and eligibility that OCF enters to feed the meal site finder application. As needed,
   OCF updates the active status of each site."
-metadata_modified: null
+metadata_modified: '2026-10-03'
 modified: null
 organization: City of Philadelphia
 resources:
@@ -37,12 +37,14 @@ resources:
 - description: ''
   format: HTML
   name: Food and Meal Sites (Metadata)
-  url: https://metadata.phila.gov/index.html#home/datasetdetails/67228437020f2e02bd334618/representationdetails/67228438020f2e02bd334692/?view_287_per_page=100&view_287_page=1
+  url: https://metadata.phila.gov/index.html#home/datasetdetails/67228437020f2e02bd334618/representationdetails/67228438020f2e02bd334692/
 schema: philadelphia
 source: ''
 tags:
 - Office of Children and Families
 - Food
+- Meals
+- Hunger
 time_period: null
 title: Philadelphia Free Food and Meal Sites
 usage: null
