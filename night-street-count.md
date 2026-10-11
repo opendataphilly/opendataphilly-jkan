@@ -8,7 +8,7 @@ maintainer: null
 maintainer_email: 'dylan.ponticel@phila.gov'
 maintainer_link: null
 maintainer_phone: null
-notes: "East Police Division (EPD) Night Street Counts."
+notes: "The number of activities in the East Police Division (EPD) Night Street program on each street segment, summarized weekly since January 2024."
 metadata_modified: '2026-10-11'
 modified: null
 organization: City of Philadelphia
