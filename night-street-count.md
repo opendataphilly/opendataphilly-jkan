@@ -1,14 +1,15 @@
 ---
 area_of_interest: City of Philadelphia
 category:
-- Human Services
+- Health / Human Services
+- Public Safety
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: 'dylan.ponticel@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "East Police Division (EPD) Night Street Counts."
-metadata_modified: ''
+metadata_modified: '2026-10-11'
 modified: null
 organization: City of Philadelphia
 resources:
@@ -52,6 +53,7 @@ schema: philadelphia
 source: ''
 tags:
 - Philly Stat 360
+- Philadelphia Police Department
 time_period: null
 title: EPD Night Street Count
 usage: Public Use; Free
