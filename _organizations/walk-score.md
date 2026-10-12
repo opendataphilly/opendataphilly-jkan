@@ -7,4 +7,5 @@ logo: img/organizations/logo-walkscore.png
 schema: default
 tags: []
 title: Walk Score
+website: https://www.walkscore.com/
 ---
