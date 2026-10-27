@@ -1,0 +1,186 @@
+{%- comment -%}
+Emits a <script type="application/ld+json"> block for Google Dataset Search.
+Called from _includes/head.html when page.collection == "datasets".
+Produces no output if the dataset lacks a title or has no downloadable resources.
+{%- endcomment -%}
+
+{%- assign schema = page.schema | default: site.schema -%}
+{%- assign dataset_fields = site.data.schemas[schema].dataset_fields -%}
+{%- assign resource_fields = site.data.schemas[schema].resource_fields -%}
+{%- assign licenses = site.data.licenses -%}
+
+{%- comment -%}--- Field references from schema ---{%- endcomment -%}
+{%- assign _f_name       = dataset_fields | where: "jsonld", "name"                   | first -%}
+{%- assign _f_pub_name   = dataset_fields | where: "jsonld", "publisher.name"         | first -%}
+{%- assign _f_desc       = dataset_fields | where: "jsonld", "description"            | first -%}
+{%- assign _f_license    = dataset_fields | where: "jsonld", "license"                | first -%}
+{%- assign _f_cp_name    = dataset_fields | where: "jsonld", "contactPoint.name"      | first -%}
+{%- assign _f_cp_email   = dataset_fields | where: "jsonld", "contactPoint.email"     | first -%}
+{%- assign _f_cp_phone   = dataset_fields | where: "jsonld", "contactPoint.telephone" | first -%}
+{%- assign _f_cp_url     = dataset_fields | where: "jsonld", "contactPoint.url"       | first -%}
+{%- assign _f_created    = dataset_fields | where: "jsonld", "datePublished"          | first -%}
+{%- assign _f_modified   = dataset_fields | where: "jsonld", "dateModified"           | first -%}
+{%- assign _f_spatial    = dataset_fields | where: "jsonld", "spatialCoverage.name"   | first -%}
+{%- assign _f_dist_name  = resource_fields | where: "jsonld", "distribution.name"          | first -%}
+{%- assign _f_dist_url   = resource_fields | where: "jsonld", "distribution.contentUrl"    | first -%}
+{%- assign _f_dist_fmt   = resource_fields | where: "jsonld", "distribution.encodingFormat" | first -%}
+
+{%- comment -%}--- Extract dataset field values ---{%- endcomment -%}
+{%- assign _title         = page[_f_name.field_name] -%}
+{%- assign publisher_name = page[_f_pub_name.field_name] -%}
+{%- assign _desc_raw      = page[_f_desc.field_name] -%}
+{%- assign _desc          = _desc_raw | default: _title | truncate: 5000 -%}
+{%- assign _license_name  = page[_f_license.field_name] -%}
+{%- assign _license_model = licenses.items | where: "name", _license_name | first -%}
+{%- assign _license_url   = _license_model.url -%}
+{%- assign contact_point_fn    = page[_f_cp_name.field_name] -%}
+{%- assign contact_point_email = page[_f_cp_email.field_name] -%}
+{%- assign _cp_phone      = page[_f_cp_phone.field_name] -%}
+{%- assign _cp_link       = page[_f_cp_url.field_name] -%}
+{%- assign _created       = page[_f_created.field_name] -%}
+{%- assign _modified      = page[_f_modified.field_name] -%}
+{%- assign _area          = page[_f_spatial.field_name] -%}
+
+{%- comment -%}--- Contact point fallback (sets contact_point_fn, contact_point_email) ---{%- endcomment -%}
+{%- include contact_point_fallback.html -%}
+
+{%- comment -%}--- Publisher organization website URL ---{%- endcomment -%}
+{%- assign _org         = site.organizations | where: "title", publisher_name | first -%}
+{%- assign _org_website = _org.website -%}
+
+{%- comment -%}--- Spatial coverage ---{%- endcomment -%}
+{%- assign _spatial_name = "" -%}
+{%- assign _spatial_box  = "" -%}
+{%- if _area and _area != "" -%}
+  {%- assign _spatial_name  = _area -%}
+  {%- assign _spatial_entry = site.data.spatial_coverage.items | where: "name", _area | first -%}
+  {%- if _spatial_entry -%}
+    {%- assign _spatial_box = _spatial_entry.box -%}
+  {%- endif -%}
+{%- elsif publisher_name == "City of Philadelphia" -%}
+  {%- assign _spatial_name  = "Philadelphia, Pennsylvania" -%}
+  {%- assign _spatial_entry = site.data.spatial_coverage.items | where: "name", "Philadelphia, Pennsylvania" | first -%}
+  {%- if _spatial_entry -%}
+    {%- assign _spatial_box = _spatial_entry.box -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- comment -%}--- Keywords: categories (split on " / ") then tags ---{%- endcomment -%}
+{%- capture _kw_array -%}
+  {%- assign _kw_first = true -%}
+  {%- for cat in page.categories -%}
+    {%- assign _cat_split = cat | split: " / " -%}
+    {%- for part in _cat_split -%}
+      {%- unless _kw_first -%},{%- endunless -%}{{ part | jsonify }}{%- assign _kw_first = false -%}
+    {%- endfor -%}
+  {%- endfor -%}
+  {%- for tag in page.tags -%}
+    {%- unless _kw_first -%},{%- endunless -%}{{ tag | jsonify }}{%- assign _kw_first = false -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- assign _has_keywords = false -%}
+{%- if page.categories.size > 0 or page.tags.size > 0 -%}
+  {%- assign _has_keywords = true -%}
+{%- endif -%}
+
+{%- comment -%}
+--- Resource classification ---
+Rule 1: no URL → skip
+Rule 2: HTML or PDF + "metadata" in name → usageInfo (first match wins)
+Rule 3: HTML or PDF without "metadata" → skip
+Rule 4: anything else → DataDownload
+{%- endcomment -%}
+{%- assign _dist_json      = "" -%}
+{%- assign _dist_count     = 0 -%}
+{%- assign _usage_info_url = "" -%}
+{%- for resource in page.resources -%}
+  {%- assign _r_url = resource[_f_dist_url.field_name] -%}
+  {%- if _r_url and _r_url != "" -%}
+    {%- assign _r_format     = resource[_f_dist_fmt.field_name] | upcase -%}
+    {%- assign _r_name       = resource[_f_dist_name.field_name] -%}
+    {%- if _r_format == "HTML" or _r_format == "PDF" -%}
+      {%- assign _r_name_lower = _r_name | downcase -%}
+      {%- if _r_name_lower contains "metadata" and _usage_info_url == "" -%}
+        {%- assign _usage_info_url = _r_url -%}
+      {%- endif -%}
+    {%- else -%}
+      {%- assign _r_url_enc = _r_url | replace: " ", "%20" | replace: "|", "%7C" | replace: "*", "%2A" | replace: "<", "%3C" | replace: ">", "%3E" -%}
+      {%- if _dist_count > 0 -%}{%- assign _dist_json = _dist_json | append: "," -%}{%- endif -%}
+      {%- capture _one_dist -%}{"@type":"DataDownload","name":{{ _r_name | jsonify }},"contentUrl":{{ _r_url_enc | jsonify }},"encodingFormat":{{ _r_format | jsonify }}}{%- endcapture -%}
+      {%- assign _dist_json  = _dist_json | append: _one_dist -%}
+      {%- assign _dist_count = _dist_count | plus: 1 -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- comment -%}--- Emit JSON-LD only when title exists and at least one distribution ---{%- endcomment -%}
+{%- if _title and _title != "" and _dist_count > 0 -%}
+{%- assign _canonical_url = site.url | append: site.baseurl | append: page.url -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "@id": {{ _canonical_url | jsonify }},
+  "url": {{ _canonical_url | jsonify }},
+  "name": {{ _title | jsonify }},
+  "description": {{ _desc | jsonify }},
+  {%- if _has_keywords %}
+  "keywords": [{{ _kw_array }}],
+  {%- endif %}
+  {%- if _license_url and _license_url != "" %}
+  "license": {{ _license_url | jsonify }},
+  {%- endif %}
+  "isAccessibleForFree": true,
+  "inLanguage": "en",
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ publisher_name | jsonify }}
+    {%- if _org_website and _org_website != "" %},
+    "url": {{ _org_website | jsonify }}
+    {%- endif %}
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "data manager",
+    "name": {{ contact_point_fn | jsonify }},
+    "email": {{ contact_point_email | jsonify }}
+    {%- if _cp_phone and _cp_phone != "" %},
+    "telephone": {{ _cp_phone | jsonify }}
+    {%- endif %}
+    {%- if _cp_link and _cp_link != "" %},
+    "url": {{ _cp_link | jsonify }}
+    {%- endif %}
+  },
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "OpenDataPhilly",
+    "url": "https://opendataphilly.org/"
+  }
+  {%- if _spatial_name and _spatial_name != "" %},
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": {{ _spatial_name | jsonify }}
+    {%- if _spatial_box and _spatial_box != "" %},
+    "geo": {
+      "@type": "GeoShape",
+      "box": {{ _spatial_box | jsonify }}
+    }
+    {%- endif %}
+  }
+  {%- endif %}
+  {%- if _created and _created != "" %},
+  "datePublished": {{ _created | date: "%Y-%m-%d" | jsonify }}
+  {%- endif %}
+  {%- if _modified and _modified != "" -%}
+    {%- assign _mod_prefix = _modified | slice: 0, 2 -%}
+    {%- if _mod_prefix != "R/" %},
+  "dateModified": {{ _modified | date: "%Y-%m-%d" | jsonify }}
+    {%- endif -%}
+  {%- endif %},
+  "distribution": [{{ _dist_json }}]
+  {%- if _usage_info_url and _usage_info_url != "" %},
+  "usageInfo": {{ _usage_info_url | jsonify }}
+  {%- endif %}
+}
+</script>
+{%- endif -%}

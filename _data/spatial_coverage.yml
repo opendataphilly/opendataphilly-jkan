@@ -1,0 +1,16 @@
+items:
+  - name: Philadelphia
+    box: "39.867 -75.281 40.138 -74.956"
+  - name: Philadelphia, Pennsylvania
+    box: "39.867 -75.281 40.138 -74.956"
+  - name: City of Philadelphia
+    box: "39.867 -75.281 40.138 -74.956"
+  - name: Pennsylvania
+    box: "39.7198 -80.5195 42.2694 -74.6895"
+  - name: Delaware Valley
+    box: "39.500 -76.000 40.500 -74.500"
+  - name: Chester County
+    box: "39.722 -76.138 40.171 -75.414"
+  - name: Chester County, PA
+    box: "39.722 -76.138 40.171 -75.414"
+
