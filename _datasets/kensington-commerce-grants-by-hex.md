@@ -10,7 +10,7 @@ maintainer_email: 'dylan.ponticel@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "The dollar amount and count of three types of Commerce grants aggregated by resolution 9 hex bins in Kensington area, including storefront grants, 
-business growth grants, and safety and emergency grants. The dataset is used for the "Economic Opportunities" tab on the Kensington Dashboard."
+business growth grants, and safety and emergency grants. The dataset is used for the 'Economic Opportunities' tab on the Kensington Dashboard."
 metadata_modified: '2026-10-28'
 modified: null
 organization: City of Philadelphia
