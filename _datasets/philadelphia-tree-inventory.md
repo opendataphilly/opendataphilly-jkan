@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: ppr.gis@phila.gov
+maintainer_email: null
 maintainer_link: null
 maintainer_phone: null
 notes: "A comprehensive inventory of all trees within the limits of the City of Philadelphia. This dataset is a snapshot in time from 2021 and will update yearly."
@@ -13,6 +13,26 @@ metadata_modified: null
 modified: null
 organization: City of Philadelphia
 resources:
+- description: ''
+  format: CSV
+  name: 2026 Philadelphia Tree Inventory (CSV)
+  url: https://hub.arcgis.com/api/v3/datasets/0aecf3a1af9040468f25de00cc21d754_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: SHP
+  name: 2026 Philadelphia Tree Inventory (SHP)
+  url: https://hub.arcgis.com/api/v3/datasets/0aecf3a1af9040468f25de00cc21d754_0/downloads/data?format=shp&spatialRefId=3857&where=1%3D1
+- description: ''
+  format: GeoJSON
+  name: 2026 Philadelphia Tree Inventory (GeoJSON)
+  url: https://hub.arcgis.com/api/v3/datasets/0aecf3a1af9040468f25de00cc21d754_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1
+- description: ''
+  format: API
+  name: 2026 Philadelphia Tree Inventory (API)
+  url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/ppr_tree_inventory_2026/FeatureServer/0/query?outFields=*&where=1%3D1
+- description: ''
+  format: HTML
+  name: 2026 Philadelphia Street Tree Inventory (Metadata)
+  url: https://metadata.phila.gov/#home/datasetdetails/57a0e1d5aa8882104134830e/representationdetails/6ae4f5fa3371df8ab9f3eecb/
 - description: ''
   format: CSV
   name: 2025 Philadelphia Tree Inventory (CSV)
