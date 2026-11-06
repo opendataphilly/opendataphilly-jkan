@@ -1,15 +1,15 @@
 ---
-area_of_interest: null
+area_of_interest: 'City of Philadelphia'
 category:
 - Environment
 - Parks / Recreation
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: 'ppr.gis@phila.gov'
 maintainer_link: null
 maintainer_phone: null
 notes: "A comprehensive inventory of all trees within the limits of the City of Philadelphia. This dataset is a snapshot in time from 2021 and will update yearly."
-metadata_modified: null
+metadata_modified: '2026-11-05'
 modified: null
 organization: City of Philadelphia
 resources:
@@ -139,6 +139,7 @@ tags:
 - Philadelphia Parks and Recreation
 - street trees
 - municipal forest
+- urban tree canopy
 time_period: null
 title: Philadelphia Tree Inventory
 usage: null
