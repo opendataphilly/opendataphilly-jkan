@@ -7,4 +7,5 @@ logo: img/organizations/logo-chester-county-pa.png
 schema: default
 tags: []
 title: Chester County GIS
+website: https://chester-county-s-gis-hub-chesco.hub.arcgis.com/
 ---

@@ -12,4 +12,5 @@ logo: img/organizations/logo-hsp.gif
 schema: default
 tags: []
 title: Historical Society of Pennsylvania
+website: https://hsp.org/
 ---

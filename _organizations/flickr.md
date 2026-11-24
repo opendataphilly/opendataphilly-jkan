@@ -5,4 +5,5 @@ logo: img/organizations/logo-flickr.webp
 schema: default
 tags: []
 title: Flickr
+website: https://www.flickr.com/ '
 ---

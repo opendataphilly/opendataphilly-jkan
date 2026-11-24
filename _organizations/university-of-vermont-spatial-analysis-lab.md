@@ -6,4 +6,5 @@ logo: img/organizations/logo-univ-vermont.png
 schema: default
 tags: []
 title: University of Vermont Spatial Analysis Lab
+website: https://www.uvm.edu/rsenr/sal
 ---

@@ -38,6 +38,10 @@
     {% include addons/twittercard.html %}
   {% endif %}
 
+  {% if page.collection == "datasets" %}
+    {% include dataset_jsonld.html %}
+  {% endif %}
+
   <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, 'js');
 

@@ -4,4 +4,5 @@ logo: img/organizations/logo-shippensburg-univ-of-penn.png
 schema: default
 tags: []
 title: Shippensburg University of Pennsylvania
+website: https://www.ship.edu/
 ---

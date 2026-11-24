@@ -9,4 +9,5 @@ tags:
 - Civilian Complaints
 - Police
 title: Philly Declaration
+website: https://phillydeclaration.org/
 ---
