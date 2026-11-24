@@ -1,15 +1,15 @@
 ---
-area_of_interest: null
+area_of_interest: City of Philadelphia
 category:
 - Boundaries
 - Parks / Recreation
 license: City of Philadelphia License
 maintainer: null
-maintainer_email: null
+maintainer_email: ppr.gis@phila.gov
 maintainer_link: null
 maintainer_phone: null
 notes: "Polygon boundaries of PPR's Urban Forestry Park Tree district boundaries."
-metadata_modified: null
+metadata_modified: '2026-11-23'
 modified: null
 organization: City of Philadelphia
 resources:
